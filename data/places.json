@@ -1,0 +1,254 @@
+[
+ {
+  "id": "jfk",
+  "name": "Aeropuerto JFK",
+  "category": "transporte",
+  "neighborhood": "Queens",
+  "lat": 40.64295,
+  "lng": -73.77937,
+  "photo_fallback": true
+ },
+ {
+  "id": "hoxton-williamsburg",
+  "name": "The Hoxton Williamsburg",
+  "category": "hotel",
+  "neighborhood": "Williamsburg, Brooklyn",
+  "lat": 40.71321,
+  "lng": -73.96573,
+  "photo_fallback": true
+ },
+ {
+  "id": "dyker-beach-golf",
+  "name": "Dyker Beach Golf Course",
+  "category": "golf",
+  "neighborhood": "Dyker Heights, Brooklyn",
+  "lat": 40.61293,
+  "lng": -74.01912,
+  "photo_fallback": true
+ },
+ {
+  "id": "yemen-cafe-bay-ridge",
+  "name": "Yemen Café",
+  "category": "comida",
+  "neighborhood": "Bay Ridge, Brooklyn",
+  "lat": 40.63048,
+  "lng": -74.02206,
+  "photo_fallback": true
+ },
+ {
+  "id": "westlight",
+  "name": "Westlight",
+  "category": "bar",
+  "neighborhood": "Williamsburg, Brooklyn",
+  "lat": 40.72241,
+  "lng": -73.95692,
+  "photo_fallback": true
+ },
+ {
+  "id": "javits",
+  "name": "Expo de la maratón",
+  "category": "maraton",
+  "neighborhood": "Hudson Yards, Manhattan",
+  "lat": 40.75836,
+  "lng": -74.00221,
+  "photo_fallback": true
+ },
+ {
+  "id": "chelsea-market",
+  "name": "Chelsea Market",
+  "category": "comida",
+  "neighborhood": "Chelsea, Manhattan",
+  "lat": 40.74205,
+  "lng": -74.0049,
+  "photo_fallback": true
+ },
+ {
+  "id": "high-line",
+  "name": "High Line",
+  "category": "paseo",
+  "neighborhood": "Chelsea, Manhattan",
+  "lat": 40.743,
+  "lng": -74.0077,
+  "photo_fallback": true
+ },
+ {
+  "id": "lexington-hotel",
+  "name": "The Lexington Hotel",
+  "category": "hotel",
+  "neighborhood": "Midtown East, Manhattan",
+  "lat": 40.75491,
+  "lng": -73.97304,
+  "photo_fallback": true
+ },
+ {
+  "id": "loeb-boathouse",
+  "name": "Loeb Boathouse",
+  "category": "paseo",
+  "neighborhood": "Central Park",
+  "lat": 40.77545,
+  "lng": -73.96875,
+  "photo_fallback": true
+ },
+ {
+  "id": "edge",
+  "name": "Edge",
+  "category": "mirador",
+  "neighborhood": "Hudson Yards, Manhattan",
+  "lat": 40.75398,
+  "lng": -74.0006,
+  "photo_fallback": true
+ },
+ {
+  "id": "frick",
+  "name": "The Frick Collection",
+  "category": "museo",
+  "neighborhood": "Upper East Side, Manhattan",
+  "lat": 40.7711,
+  "lng": -73.9672,
+  "photo_fallback": true
+ },
+ {
+  "id": "pastrami-queen",
+  "name": "Pastrami Queen",
+  "category": "comida",
+  "neighborhood": "Upper East Side, Manhattan",
+  "lat": 40.77435,
+  "lng": -73.95917,
+  "photo_fallback": true
+ },
+ {
+  "id": "met",
+  "name": "The Metropolitan Museum of Art",
+  "category": "museo",
+  "neighborhood": "Upper East Side, Manhattan",
+  "lat": 40.77944,
+  "lng": -73.96338,
+  "photo_fallback": true
+ },
+ {
+  "id": "walter-kerr",
+  "name": "Hadestown · Walter Kerr Theatre",
+  "category": "show",
+  "neighborhood": "Theater District, Manhattan",
+  "lat": 40.76068,
+  "lng": -73.98558,
+  "photo_fallback": true
+ },
+ {
+  "id": "grand-central",
+  "name": "Grand Central Terminal",
+  "category": "paseo",
+  "neighborhood": "Midtown, Manhattan",
+  "lat": 40.75269,
+  "lng": -73.97725,
+  "photo_fallback": true
+ },
+ {
+  "id": "moma",
+  "name": "MoMA",
+  "category": "museo",
+  "neighborhood": "Midtown, Manhattan",
+  "lat": 40.76161,
+  "lng": -73.9775,
+  "photo_fallback": true
+ },
+ {
+  "id": "chinatown",
+  "name": "Chinatown",
+  "category": "barrio",
+  "neighborhood": "Chinatown, Manhattan",
+  "lat": 40.71435,
+  "lng": -73.9981,
+  "photo_fallback": true
+ },
+ {
+  "id": "brooklyn-bridge",
+  "name": "Brooklyn Bridge",
+  "category": "paseo",
+  "neighborhood": "Lower Manhattan",
+  "lat": 40.70622,
+  "lng": -73.99702,
+  "photo_fallback": true
+ },
+ {
+  "id": "dumbo",
+  "name": "DUMBO",
+  "category": "mirador",
+  "neighborhood": "DUMBO, Brooklyn",
+  "lat": 40.70325,
+  "lng": -73.98985,
+  "photo_fallback": true
+ },
+ {
+  "id": "halloween-parade",
+  "name": "Village Halloween Parade",
+  "category": "paseo",
+  "neighborhood": "Greenwich Village, Manhattan",
+  "lat": 40.73495,
+  "lng": -73.99845,
+  "photo_fallback": true
+ },
+ {
+  "id": "fort-wadsworth",
+  "name": "Largada · Fort Wadsworth",
+  "category": "maraton",
+  "neighborhood": "Staten Island",
+  "lat": 40.60899,
+  "lng": -74.06264,
+  "photo_fallback": true
+ },
+ {
+  "id": "finish",
+  "name": "Llegada · Central Park",
+  "category": "maraton",
+  "neighborhood": "Central Park",
+  "lat": 40.7723,
+  "lng": -73.9778,
+  "photo_fallback": true
+ },
+ {
+  "id": "harlem",
+  "name": "Harlem",
+  "category": "barrio",
+  "neighborhood": "Harlem, Manhattan",
+  "lat": 40.81009,
+  "lng": -73.94999,
+  "photo_fallback": true
+ },
+ {
+  "id": "harry-cipriani",
+  "name": "Harry Cipriani",
+  "category": "comida",
+  "neighborhood": "Midtown, Manhattan",
+  "lat": 40.7643,
+  "lng": -73.9727,
+  "photo_fallback": true
+ },
+ {
+  "id": "doubletree-lga",
+  "name": "DoubleTree by Hilton New York LaGuardia Airport",
+  "category": "hotel",
+  "neighborhood": "East Elmhurst, Queens",
+  "lat": 40.76935,
+  "lng": -73.8683,
+  "photo_fallback": true
+ },
+ {
+  "id": "jackson-heights",
+  "name": "Jackson Heights",
+  "category": "barrio",
+  "neighborhood": "Jackson Heights, Queens",
+  "lat": 40.74659,
+  "lng": -73.89075,
+  "photo_fallback": true
+ },
+ {
+  "id": "lga",
+  "name": "Aeropuerto LaGuardia",
+  "category": "transporte",
+  "neighborhood": "Queens",
+  "lat": 40.77571,
+  "lng": -73.87336,
+  "photo_fallback": true
+ }
+]

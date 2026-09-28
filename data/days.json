@@ -1,0 +1,231 @@
+[
+ {
+  "date": "2026-10-28",
+  "title": "Brooklyn y golf",
+  "lede": "Llegamos a JFK a las 9:30, dejamos las valijas en The Hoxton de Williamsburg y nos vamos a jugar 9 hoyos en Dyker Beach, un campo histórico de Brooklyn con vista al puente Verrazzano. Después comemos comida yemení en Bay Ridge (lamb haneeth y pan recién hecho en Yemen Café) y cerramos con un trago en Westlight, un rooftop con Manhattan iluminado enfrente.",
+  "blocks": [
+   {
+    "time": "09:30",
+    "place": "jfk",
+    "title": "Llegamos a JFK"
+   },
+   {
+    "time": "mediodía",
+    "place": "hoxton-williamsburg",
+    "title": "Dejamos las valijas"
+   },
+   {
+    "time": "tarde",
+    "place": "dyker-beach-golf",
+    "title": "9 hoyos con vista al Verrazzano"
+   },
+   {
+    "time": "tarde",
+    "place": "yemen-cafe-bay-ridge",
+    "title": "Lamb haneeth y pan recién hecho"
+   },
+   {
+    "time": "noche",
+    "place": "westlight",
+    "title": "Un trago con Manhattan enfrente"
+   }
+  ],
+  "tips": [],
+  "reservations": []
+ },
+ {
+  "date": "2026-10-29",
+  "title": "Expo, bote, queso y vino",
+  "lede": "Vamos a la Expo apenas abre, a las 10, para retirar el kit y sacarnos eso de encima. Almorzamos en Chelsea Market, caminamos un rato por la High Line y dejamos las cosas en el hotel de Lexington. A media tarde, barquito de remos en Central Park. Después nos sentamos frente al lago en el Boathouse a comer burrata, pan y tomar vino. Si nos queda energía, vamos a Edge a ver la ciudad de noche.",
+  "blocks": [
+   {
+    "time": "10:00",
+    "place": "javits",
+    "title": "Retiramos el kit en la Expo"
+   },
+   {
+    "time": "mediodía",
+    "place": "chelsea-market",
+    "title": "Almuerzo en Chelsea Market"
+   },
+   {
+    "time": "mediodía",
+    "place": "high-line",
+    "title": "Un rato por la High Line"
+   },
+   {
+    "time": "tarde",
+    "place": "lexington-hotel",
+    "title": "Dejamos las cosas en el hotel"
+   },
+   {
+    "time": "tarde",
+    "place": "loeb-boathouse",
+    "title": "Bote de remos en el lago"
+   },
+   {
+    "time": "tarde",
+    "place": "loeb-boathouse",
+    "title": "Burrata, pan y vino frente al lago"
+   },
+   {
+    "time": "noche",
+    "place": "edge",
+    "title": "Edge de noche, si queda energía"
+   }
+  ],
+  "tips": [],
+  "reservations": []
+ },
+ {
+  "date": "2026-10-30",
+  "title": "Arte y Broadway",
+  "lede": "A la mañana, Frick Collection; almuerzo de pastrami en Pastrami Queen, por Lexington; y a la tarde, el Met. A la noche, Broadway: el voto es Hadestown, que tiene música, mitología y una puesta tremenda. Cenamos después de la función.",
+  "blocks": [
+   {
+    "time": "mañana",
+    "place": "frick",
+    "title": "Frick Collection"
+   },
+   {
+    "time": "mediodía",
+    "place": "pastrami-queen",
+    "title": "Pastrami en Pastrami Queen"
+   },
+   {
+    "time": "tarde",
+    "place": "met",
+    "title": "El Met"
+   },
+   {
+    "time": "noche",
+    "place": "walter-kerr",
+    "title": "Broadway: Hadestown"
+   }
+  ],
+  "tips": [],
+  "reservations": []
+ },
+ {
+  "date": "2026-10-31",
+  "title": "Manhattan a pleno y Halloween",
+  "lede": "Arrancamos por Grand Central, vamos al MoMA, bajamos a picar cosas por Chinatown y a la tarde cruzamos caminando el Brooklyn Bridge hacia DUMBO. Nos quedamos a ver cómo se enciende Manhattan desde el río. Esa noche es Halloween: podemos asomarnos un rato al desfile del Village y después volver cuando tengamos ganas.",
+  "blocks": [
+   {
+    "time": "mañana",
+    "place": "grand-central",
+    "title": "Grand Central"
+   },
+   {
+    "time": "mañana",
+    "place": "moma",
+    "title": "MoMA"
+   },
+   {
+    "time": "mediodía",
+    "place": "chinatown",
+    "title": "Picar cosas por Chinatown"
+   },
+   {
+    "time": "tarde",
+    "place": "brooklyn-bridge",
+    "title": "Cruzamos el Brooklyn Bridge a pie"
+   },
+   {
+    "time": "tarde",
+    "place": "dumbo",
+    "title": "Manhattan se enciende desde el río"
+   },
+   {
+    "time": "noche",
+    "place": "halloween-parade",
+    "title": "Un rato del desfile del Village"
+   }
+  ],
+  "tips": [],
+  "reservations": []
+ },
+ {
+  "date": "2026-11-01",
+  "title": "Maratón de Nueva York",
+  "lede": "Los dos tenemos la misma misión: atravesar los cinco boroughs y encontrarnos al final. Después, ducha, medalla y cena sin horario rígido.",
+  "marathon": true,
+  "blocks": [
+   {
+    "time": "temprano",
+    "place": "lexington-hotel",
+    "title": "Salimos hacia la largada"
+   },
+   {
+    "time": "mañana",
+    "place": "fort-wadsworth",
+    "title": "Largada en Staten Island"
+   },
+   {
+    "time": "tarde",
+    "place": "finish",
+    "title": "Llegada y reencuentro"
+   },
+   {
+    "time": "tarde",
+    "place": "lexington-hotel",
+    "title": "Ducha y medalla"
+   }
+  ],
+  "tips": [],
+  "reservations": []
+ },
+ {
+  "date": "2026-11-02",
+  "title": "Harlem y festejo",
+  "lede": "Paseamos por Harlem sin apuro y almorzamos para festejar en Harry Cipriani, junto a Central Park. Después buscamos las valijas y vamos al hotel de Queens. Si nos quedan piernas y hambre, cerramos el viaje comiendo tacos de birria y otras cosas ricas por Jackson Heights.",
+  "blocks": [
+   {
+    "time": "mañana",
+    "place": "harlem",
+    "title": "Harlem sin apuro"
+   },
+   {
+    "time": "mediodía",
+    "place": "harry-cipriani",
+    "title": "Almuerzo de festejo"
+   },
+   {
+    "time": "tarde",
+    "place": "lexington-hotel",
+    "title": "Buscamos las valijas"
+   },
+   {
+    "time": "tarde",
+    "place": "doubletree-lga",
+    "title": "Hotel de Queens"
+   },
+   {
+    "time": "noche",
+    "place": "jackson-heights",
+    "title": "Tacos de birria en Jackson Heights"
+   }
+  ],
+  "tips": [],
+  "reservations": []
+ },
+ {
+  "date": "2026-11-03",
+  "title": "Vuelta",
+  "lede": "Salimos tranquilos hacia LaGuardia para el vuelo de las 15.",
+  "blocks": [
+   {
+    "time": "mañana",
+    "place": "doubletree-lga",
+    "title": "Salida tranquila"
+   },
+   {
+    "time": "15:00",
+    "place": "lga",
+    "title": "Vuelo desde LaGuardia"
+   }
+  ],
+  "tips": [],
+  "reservations": []
+ }
+]
