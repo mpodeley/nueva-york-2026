@@ -712,15 +712,15 @@
     ]
    },
    {
-    "time": "20:00",
-    "place": "edge-hudson-yards",
-    "title": "Edge de noche (si hay energía)",
-    "note": "Solo si quedan piernas: Edge cierra a las 22:00 y la última entrada es a las 21:00. Antes pasamos por el hotel a buscar abrigo; si no hay energía, Summit One Vanderbilt queda a 7 minutos a pie del hotel y abre hasta la medianoche.",
+    "time": "20:30",
+    "place": "summit-one-vanderbilt",
+    "title": "Summit One Vanderbilt de noche (si hay energía)",
+    "note": "Solo si quedan piernas. Pasamos por el hotel a buscar abrigo y caminamos 10 minutos por Lexington y la 42, con el Chrysler iluminado a una cuadra. Entrada para las 20:30, de noche cerrada; cierra a medianoche.",
     "from_prev": {
      "mode": "subte",
-     "detail": "Del Boathouse salimos del parque hacia 5th Ave y caminamos hasta Lexington Ave y 68th St (1.2 km). [6] de 68 St–Hunter College a 51 St, 2 paradas, y 270 m al hotel. A las 19:30 salimos a pie a Grand Central (600 m), [7] hasta 34 St–Hudson Yards (3 paradas, unos 10 min) y 240 m a pie hasta la entrada de Edge en el nivel 4 de The Shops. Los minutos son desde el hotel.",
+     "detail": "Del Boathouse salimos del parque hacia 5th Ave y caminamos hasta Lexington Ave y 68th St (1.2 km). [6] de 68 St–Hunter College a 51 St, 2 paradas, y 270 m al hotel. Del hotel al Summit son 740 m a pie (10 min) por Lexington hasta la 42 y la 42 al oeste hasta Vanderbilt Ave. Los minutos son hasta el hotel.",
      "minutes": 25,
-     "km": 2.3,
+     "km": 2.2,
      "sights": [
       {
        "name": "Alice in Wonderland",
@@ -744,19 +744,26 @@
        "source": "https://www.atlasobscura.com/places/marilyn-monroe-s-subway-grate"
       },
       {
-       "name": "The Shed",
-       "text": "Junto al Vessel, el centro cultural de Diller Scofidio + Renfro con Rockwell Group (2019), con una cáscara retráctil que se corre para cubrir la plaza.",
-       "lat": 40.753328,
-       "lng": -74.002898,
-       "source": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)"
+       "name": "Chrysler Building",
+       "text": "En la esquina de Lexington y la 42: de noche se prende la corona de acero con sus arcos escalonados. El lobby art déco de mármol rojo se puede mirar desde la puerta.",
+       "lat": 40.75162,
+       "lng": -73.97545,
+       "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+      },
+      {
+       "name": "Fachada de Grand Central sobre la 42",
+       "text": "El reloj de Tiffany de 4 m con Mercurio, Hércules y Minerva encima, iluminado de noche. Mañana entramos por adentro.",
+       "lat": 40.75233,
+       "lng": -73.9774,
+       "source": "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
       }
      ]
     },
     "alternatives": [
      {
-      "place": "summit-one-vanderbilt",
-      "reason": "cansados",
-      "note": "Pegado al hotel: vista de noche sin cruzar la ciudad."
+      "place": "edge-hudson-yards",
+      "reason": "otra-opción",
+      "note": "Si preferimos la terraza al aire libre sobre el Hudson: Edge queda en Hudson Yards, a unos 25 minutos del hotel con la [7], y la última entrada es a las 21:00."
      }
     ]
    }
@@ -765,7 +772,7 @@
    "Cada uno lleva su pasaporte y su formulario de confirmación de NYRR (en el celular o impreso): nadie puede retirar el dorsal del otro.",
    "El último bote sale cerca de las 17:00: si el almuerzo se estira, salteamos el paso por el hotel y vamos directo de Chelsea Market al parque (línea [E] hasta Lexington Av/53 St, combinación con el 6 hasta 68 St–Hunter College, o taxi).",
    "El Boathouse no acepta efectivo: pagamos con tarjeta o con el celular.",
-   "Es jueves y la maratón es el domingo: el remo es trabajo de brazos y la caminata del día es suave, pero Edge queda solo si las piernas están bien."
+   "Es jueves y la maratón es el domingo: el remo es trabajo de brazos y la caminata del día es suave, pero el Summit queda solo si las piernas están bien."
   ],
   "reservations": [
    {
@@ -783,11 +790,11 @@
     "note": "OpenTable abre 21 días antes. Pedir ventana en la nota. El plan cambió: la mesa hace falta a las 17:15, después del bote."
    },
    {
-    "what": "Entradas a Edge para las 20:00 (Advance Saver)",
-    "place": "edge-hudson-yards",
-    "deadline": "2026-10-15",
-    "url": "https://www.edgenyc.com/get-tickets/",
-    "note": "Desde USD 34 comprando con 14 días o más. Ventas finales: si dudamos de la energía, comprar el mismo día."
+    "what": "Entradas al Summit One Vanderbilt, jueves 29 a las 20:30",
+    "place": "summit-one-vanderbilt",
+    "deadline": "2026-10-22",
+    "url": "https://summitov.com/tickets/",
+    "note": "Entrada con horario, desde USD 44 con el cargo online. Las franjas del atardecer cuestan más."
    },
    {
     "what": "Pedido de early check-in y guardado de valijas en el Lexington",
@@ -806,9 +813,9 @@
   ],
   "date": "2026-10-29",
   "title": "Expo, MoMA, bote, queso y vino",
-  "lede": "Dejamos las valijas en el Lexington y vamos a la Expo apenas abre, a las 10, para retirar el kit y sacarnos eso de encima. Bajamos por la High Line hasta Chelsea Market para almorzar y a la tarde vamos al MoMA. Después, barquito de remos en Central Park y burrata, pan y vino frente al lago en el Boathouse. Si nos queda energía, Edge de noche.",
+  "lede": "Dejamos las valijas en el Lexington y vamos a la Expo apenas abre, a las 10, para retirar el kit y sacarnos eso de encima. Bajamos por la High Line hasta Chelsea Market para almorzar y a la tarde vamos al MoMA. Después, barquito de remos en Central Park y burrata, pan y vino frente al lago en el Boathouse. Si nos queda energía, Summit One Vanderbilt de noche, a diez minutos a pie del hotel.",
   "hero": "central-park-rowboats",
-  "context": "Nos mudamos a Manhattan y el día cruza la isla de oeste a este. La Expo y Hudson Yards están en el borde del Hudson, sobre el viejo patio ferroviario del West Side; la High Line baja por el mismo corredor de carga que alimentaba las fábricas de Chelsea hasta la de Nabisco, hoy Chelsea Market. Después el [E] nos lleva por debajo de 8th Ave y de la calle 53 hasta el MoMA. De ahí caminamos por Fifth Avenue, residencial hasta principios del siglo XX y hoy una de las calles comerciales más caras del mundo, hasta Grand Army Plaza, la puerta sureste de Central Park.\n\nEl parque del plan Greensward de Olmsted y Vaux (1858) hace el resto: el Pond, el Mall y la Bethesda Terrace nos dejan en el lago. El hotel queda en Midtown East, en la Terminal City que creció alrededor de Grand Central, y Edge nos devuelve de noche al Hudson Yards de la mañana. Son unos 8.4 km a pie sin contar la Expo ni el museo; con Edge, unos 10 km.",
+  "context": "Nos mudamos a Manhattan y el día cruza la isla de oeste a este. La Expo y Hudson Yards están en el borde del Hudson, sobre el viejo patio ferroviario del West Side; la High Line baja por el mismo corredor de carga que alimentaba las fábricas de Chelsea hasta la de Nabisco, hoy Chelsea Market. Después el [E] nos lleva por debajo de 8th Ave y de la calle 53 hasta el MoMA. De ahí caminamos por Fifth Avenue, residencial hasta principios del siglo XX y hoy una de las calles comerciales más caras del mundo, hasta Grand Army Plaza, la puerta sureste de Central Park.\n\nEl parque del plan Greensward de Olmsted y Vaux (1858) hace el resto: el Pond, el Mall y la Bethesda Terrace nos dejan en el lago. El hotel queda en Midtown East, en la Terminal City que creció alrededor de Grand Central, y de noche subimos al Summit, en la torre pegada a la terminal. Son unos 8.4 km a pie sin contar la Expo ni el museo; con el Summit, unos 10 km.",
   "km_walk": 8.4
  },
  {
@@ -858,7 +865,7 @@
      {
       "place": "summit-one-vanderbilt",
       "reason": "otra-opción",
-      "note": "Si amanece despejado: la ciudad desde arriba, en el edificio de al lado."
+      "note": "Si el jueves a la noche no subimos, de día está en el edificio de al lado."
      }
     ]
    },

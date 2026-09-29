@@ -63,9 +63,9 @@
 <Folder><name>mirador</name>
 <Placemark><name>Brooklyn Bridge Park, Pier 1 (Granite Prospect)</name><description>DUMBO y Brooklyn Heights, Brooklyn · alternativa</description><Point><coordinates>-73.997408,40.701995,0</coordinates></Point></Placemark>
 <Placemark><name>Washington St y Water St (vista al Manhattan Bridge)</name><description>DUMBO, Brooklyn · 2026-10-28</description><Point><coordinates>-73.98958,40.7032012,0</coordinates></Point></Placemark>
-<Placemark><name>Edge (30 Hudson Yards)</name><description>Hudson Yards, Manhattan · 2026-10-29</description><Point><coordinates>-74.0006028,40.753983,0</coordinates></Point></Placemark>
+<Placemark><name>Edge (30 Hudson Yards)</name><description>Hudson Yards, Manhattan · alternativa</description><Point><coordinates>-74.0006028,40.753983,0</coordinates></Point></Placemark>
 <Placemark><name>Pebble Beach (Brooklyn Bridge Park, sección Main Street)</name><description>DUMBO, Brooklyn · alternativa</description><Point><coordinates>-73.990549,40.704383,0</coordinates></Point></Placemark>
-<Placemark><name>SUMMIT One Vanderbilt</name><description>Midtown East, Manhattan · alternativa</description><Point><coordinates>-73.9785218,40.7528374,0</coordinates></Point></Placemark>
+<Placemark><name>SUMMIT One Vanderbilt</name><description>Midtown East, Manhattan · 2026-10-29</description><Point><coordinates>-73.9785218,40.7528374,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>museo</name>
 <Placemark><name>The Frick Collection</name><description>Upper East Side (Lenox Hill), Manhattan · 2026-10-30</description><Point><coordinates>-73.9671675,40.7712589,0</coordinates></Point></Placemark>

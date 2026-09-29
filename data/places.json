@@ -5444,13 +5444,15 @@
    "walk_min": 2,
    "notes": "A 7 minutos a pie del Lexington."
   },
-  "why": "Mirador en lo alto de One Vanderbilt, pegado a Grand Central, con salas espejadas y un ascensor exterior de vidrio (Ascent). Abre hasta la medianoche y está a 7 minutos a pie del hotel: es el plan si a la noche no queremos ir hasta Hudson Yards.",
+  "why": "Mirador de tres niveles (pisos 91 a 93) en lo alto de One Vanderbilt, pegado a Grand Central, a 310 m de altura: salas espejadas, balcones de vidrio que sobresalen de la fachada y un ascensor exterior que sube hasta unos 370 m. Abre hasta la medianoche y queda a 10 minutos a pie del hotel.",
   "what": [
-   "La sala espejada Affinity.",
-   "Ascent, el ascensor de vidrio por fuera del edificio.",
-   "Un cóctel en Après, el bar de arriba (Signature desde USD 58)."
+   "Air, la sala espejada con techo de 12 m y un balcón de vidrio que la cruza.",
+   "Levitation: cajas de vidrio que sobresalen de la fachada, con Madison Avenue 300 m más abajo.",
+   "La sala de globos plateados sobre espejos (según Wikipedia, hoy es Clouds, de Yayoi Kusama).",
+   "Ascent, el ascensor de vidrio por fuera del edificio hasta unos 370 m (se paga aparte).",
+   "El Chrysler iluminado, a una cuadra, visto desde arriba."
   ],
-  "tip": "Si volvemos del parque cansados, compramos en el momento para las 21:00 y vamos caminando desde el hotel.",
+  "tip": "Las franjas del atardecer cuestan más y se agotan; la de las 20:30 ya es de noche cerrada. Si volvemos del parque cansados, se compra en el momento para más tarde: la última entrada es a las 22:30.",
   "warnings": [
    "Las franjas del atardecer y del fin de semana cuestan más.",
    "Entrada por el hall de Grand Central o por la puerta junto al TD Bank de One Vanderbilt."
@@ -5472,12 +5474,30 @@
    "File:SUMMIT One Vanderbilt - Affinity - NYC.jpg",
    "File:One Vanderbilt 42 Street.jpg"
   ],
-  "checked": "2026-09-28",
-  "history": "One Vanderbilt es un rascacielos de 62 pisos de Kohn Pedersen Fox, inaugurado en 2020 en la esquina de la 42 y Vanderbilt Avenue, pegado a Grand Central. Con la aguja mide 427 m y es el cuarto más alto de la ciudad. La torre se afina a medida que sube y se diseñó para armonizar con la terminal, que tiene al este; el mirador SUMMIT ocupa los pisos altos.",
+  "checked": "2026-09-29",
+  "history": "One Vanderbilt es el rascacielos de 427 m (con la aguja) que Kohn Pedersen Fox diseñó para SL Green en la esquina de la 42 y Vanderbilt Avenue, pegado a Grand Central. Abrió en septiembre de 2020 y es el cuarto más alto de la ciudad, después del One World Trade Center, el Central Park Tower y 111 West 57th Street. Se afina a medida que sube, y la fachada de vidrio con enjutas de terracota se pensó para armonizar con la terminal, que tiene al este.\n\nPara levantarlo se demolieron cinco edificios de la Terminal City de principios del siglo XX, entre ellos el Vanderbilt Avenue Building de Warren and Wetmore (1902), los mismos arquitectos de Grand Central. A cambio de la altura extra, la MTA exigió mejoras en la estación Grand Central–42 St: en 2015 SL Green puso USD 220 millones, dos tercios para rediseñar la estación, la mayor inversión privada en el subte hasta entonces. La cuadra de Vanderbilt Avenue entre la 42 y la 43 se cerró al tránsito en 2016 y hoy es una plaza peatonal.\n\nEl mirador abrió el 21 de octubre de 2021, trece meses después que la torre. Los interiores son de Snøhetta y las salas espejadas, de Kenzo Digital. Los ascensores Rise suben desde el nivel de Grand Central hasta 310 m en menos de 50 segundos.",
   "curiosities": [
    {
-    "title": "Delfines de terracota",
-    "text": "La torre reemplazó al Vanderbilt Avenue Building de 1902, de Warren and Wetmore. El desarrollador guardó sus delfines y querubines de terracota hasta que la New York Landmarks Conservancy les encontró un nuevo destino.",
+    "title": "Marsopas de terracota",
+    "text": "El Vanderbilt Avenue Building de 1902, demolido para la torre, tenía marsopas y querubines de terracota en la fachada. El desarrollador los guardó hasta que la New York Landmarks Conservancy les encontró un nuevo destino.",
+    "source": "https://en.wikipedia.org/wiki/One_Vanderbilt",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Altura prestada",
+    "text": "Parte de los metros del edificio vienen de derechos aéreos transferidos desde el Bowery Savings Bank Building, cruzando la 42. El resto los ganó a cambio de obras en el subte y de la plaza peatonal.",
+    "source": "https://en.wikipedia.org/wiki/One_Vanderbilt",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Una puerta al subte en el lobby",
+    "text": "La entrada al subte desde el edificio abrió el 9 de diciembre de 2020. Las obras le sumaron a la estación capacidad para 4,000 a 6,000 pasajeros más por hora.",
+    "source": "https://en.wikipedia.org/wiki/One_Vanderbilt",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Turbinas que envejecieron rápido",
+    "text": "El edificio genera electricidad con turbinas a gas en el piso 39, una idea eficiente cuando se proyectó en la década de 2010. En 2021, poco después de la inauguración, el Concejo prohibió los combustibles fósiles en edificios nuevos.",
     "source": "https://en.wikipedia.org/wiki/One_Vanderbilt",
     "source_name": "Wikipedia"
    }
