@@ -5,33 +5,98 @@
     "time": "09:30",
     "place": "jfk-airport",
     "title": "Llegamos a JFK",
-    "note": "Aterrizamos a las 09:30. Entre migraciones y valijas calculamos salir de la terminal cerca de las 11:00; el sitio de JFK avisa que por obras todo tarda más.",
+    "note": "Aterrizamos a las 09:30 y, entre migraciones y valijas, calculamos salir de la terminal cerca de las 11:00. En la vereda de arribos elegimos: taxi de la fila oficial (lo más simple con valijas) o AirTrain y subte.",
     "from_prev": null,
-    "alternatives": [],
-    "_rewrite": false
+    "alternatives": []
    },
    {
     "time": "11:45",
     "place": "hoxton-williamsburg",
     "title": "Dejamos las valijas en The Hoxton",
-    "note": "Dejamos las valijas (guardado gratis) o hacemos check-in si reservamos Flexy Time. Nos cambiamos a ropa de golf y comemos algo en K'Far, el café del lobby.",
+    "note": "Dejamos las valijas (guardado gratis) o hacemos check-in si reservamos Flexy Time, nos cambiamos a ropa de golf y comemos algo en K'Far, el café del lobby. Salimos hacia Dyker Beach a las 12:45.",
     "from_prev": {
      "mode": "taxi",
-     "detail": "Taxi amarillo de la fila oficial, con taxímetro: USD 55–75 antes de propina más USD 2 de acceso al aeropuerto (a Brooklyn no rige la tarifa fija de USD 70). Opción en transporte público: AirTrain a Jamaica (USD 8.75), subte [J] desde Sutphin Blvd–Archer Av hasta Broadway Junction y L hasta Bedford Av (USD 3.00), 70–80 min y 8 min a pie. El LIRR no conviene: no llega a Williamsburg.",
-     "minutes": 50
+     "detail": "Opción 1, taxi amarillo de la fila oficial: a Brooklyn va con taxímetro (la tarifa fija de USD 70 rige solo para Manhattan), USD 55–75 antes de propina más USD 2 de acceso al aeropuerto, 40–60 min. Opción 2, AirTrain hasta Jamaica (USD 8.75, se paga al salir con la tarjeta contactless) y subte: [J] de Sutphin Blvd–Archer Av a Broadway Junction y [L] hasta Bedford Av (USD 3.00), 70–80 min en total; de Bedford Av son 580 m a pie por North 7th St hasta la Hoxton. Opción 3, LIRR: no conviene, porque desde Jamaica va a Atlantic Terminal, Penn o Grand Central, lejos de Williamsburg, y habría que sumar otro subte con las valijas.",
+     "minutes": 50,
+     "sights": [
+      {
+       "name": "TWA Flight Center",
+       "text": "Si vamos en AirTrain, al pasar por la Terminal 5 se ve el edificio de Eero Saarinen (1962), con su techo de hormigón en forma de alas; desde 2019 es el TWA Hotel.",
+       "lat": 40.645833,
+       "lng": -73.7775,
+       "source": "https://en.wikipedia.org/wiki/TWA_Flight_Center"
+      },
+      {
+       "name": "Five Points of Observation",
+       "text": "En el [J], que corre elevado sobre Jamaica Ave, los andenes de 111 St, 104 St, Woodhaven Blvd, 75 St y Cypress Hills tienen cabezas gigantes de malla de cobre de Kathleen McCarthy (1990) encastradas en los paravientos: uno se mete adentro y mira la calle a través de sus ojos.",
+       "lat": 40.693891,
+       "lng": -73.851654,
+       "source": "https://new.mta.info/agency/arts-design/collection/five-points-of-observation"
+      },
+      {
+       "name": "El elevado más viejo del subte",
+       "text": "Entre Van Siclen Av y Broadway Junction el [J] corre sobre un tramo de 1885 del Brooklyn Elevated Railroad, la estructura elevada más antigua que sigue en uso en el sistema.",
+       "lat": 40.678037,
+       "lng": -73.891677,
+       "source": "https://en.wikipedia.org/wiki/BMT_Jamaica_Line"
+      },
+      {
+       "name": "Brooklyn, New Morning",
+       "text": "En Broadway Junction, donde combinamos con la [L], está la obra de Al Loving (2001).",
+       "lat": 40.679192,
+       "lng": -73.903354,
+       "source": "https://new.mta.info/agency/arts-design/permanent-art/nyct-brooklyn"
+      },
+      {
+       "name": "Mosaico de Marcel Dzama en Bedford Av",
+       "text": "La estación de la [L] donde bajamos tiene desde 2021 No Less Than Everything Comes Together, de Marcel Dzama. Es la estación más usada de Brooklyn fuera de Downtown en 2015.",
+       "lat": 40.71772,
+       "lng": -73.95756,
+       "source": "https://new.mta.info/agency/arts-design/permanent-art/nyct-brooklyn"
+      }
+     ]
     },
-    "alternatives": [],
-    "_rewrite": false
+    "alternatives": []
    },
    {
     "time": "13:30",
     "place": "dyker-beach-golf",
     "title": "9 hoyos en Dyker Beach",
-    "note": "Salida reservada entre 14:00 y 14:30 con tarifa twilight de 18 hoyos (USD 43 caminando, USD 65 con carrito) y cortamos en el hoyo 9. Llegamos 13:30 para alquilar palos. El sol se pone a las 17:58.",
+    "note": "Llegamos 13:30 para pagar y alquilar palos; salida reservada entre 14:00 y 14:30 con tarifa twilight de 18 hoyos y cortamos en el hoyo 9. Con salida a las 14:00, terminamos cerca de las 16:00 y seguimos a pie hacia Bay Ridge.",
     "from_prev": {
      "mode": "taxi",
-     "detail": "Taxi o Uber por la BQE hasta 86th St y 7th Ave, 35–45 min. En subte: L de Bedford Av a Lorimer St, G de Metropolitan Av a 4 Av–9 St, R hasta 86 St y 12 min a pie; 65–75 min.",
-     "minutes": 40
+     "detail": "Taxi o auto de app desde la Hoxton hasta el clubhouse (86th St y 7th Ave), 35–45 min, normalmente por la BQE y la Gowanus Expressway. En subte: [L] de Bedford Av a Lorimer St, [G] de Metropolitan Av a 4 Av–9 St y [R] hasta 86 St, 65–75 min, más 1.1 km a pie por 86th St hasta el clubhouse.",
+     "minutes": 40,
+     "sights": [
+      {
+       "name": "Brooklyn Heights Promenade",
+       "text": "Si el taxi va por la BQE, pasa por debajo de este paseo peatonal, montado sobre la autopista en el tramo que abrió en 1954.",
+       "lat": 40.697371,
+       "lng": -73.997389,
+       "source": "https://en.wikipedia.org/wiki/Interstate_278"
+      },
+      {
+       "name": "Smith–9 Sts",
+       "text": "Si vamos en subte, el [G] cruza el canal Gowanus por esta estación a 26.7 m sobre la calle, la más alta del subte. La estación tiene una obra de Alyson Shotz (2013) basada en cartas náuticas del Gowanus y Red Hook de 1733–1922.",
+       "lat": 40.674444,
+       "lng": -73.997222,
+       "source": "https://en.wikipedia.org/wiki/Smith%E2%80%93Ninth_Streets_station"
+      },
+      {
+       "name": "Heydays, en 86 St",
+       "text": "El mosaico de Amy Bennett (2011/2021) en el entrepiso de la estación de la [R] muestra casas y vecinos de Bay Ridge: la artista construyó maquetas 3D de las casas, las pintó al óleo y esas pinturas se pasaron a mosaico.",
+       "lat": 40.622811,
+       "lng": -74.028298,
+       "source": "https://new.mta.info/agency/arts-design/collection/heydays"
+      },
+      {
+       "name": "Verrazzano–Narrows Bridge",
+       "text": "Al llegar aparece al suroeste el puente de 1964, que al abrir fue el colgante más largo del mundo. El domingo largamos la maratón en su extremo de Staten Island.",
+       "lat": 40.606389,
+       "lng": -74.045556,
+       "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -39,18 +104,34 @@
       "reason": "lluvia",
       "note": "Si llueve, cambiamos la cancha por el driving range techado y con calefacción de Chelsea Piers (bahía para 2 a USD 57 entre 13:00 y 15:59) y después bajamos a Bay Ridge en subte."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
-    "time": "16:15",
+    "time": "16:20",
     "place": "yemen-cafe-bay-ridge",
     "title": "Cordero yemení en Bay Ridge",
-    "note": "Comida fuerte del día: un lamb haneeth para compartir, pan yemení recién horneado y una entrada. A esta hora evitamos el pico de la cena.",
+    "note": "Comida fuerte del día a las 16:20, antes del pico de la cena (desde la cancha son 8 minutos en taxi o 26 a pie): un lamb haneeth para compartir, pan yemení recién horneado y una entrada. Salimos a más tardar 16:55 para llegar al puente antes de la puesta del sol (17:58).",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Del clubhouse (86th St y 7th Ave) por 5th Ave hacia el norte hasta la calle 73, unos 2 km. Si no hay piernas: bus B63 por 5th Ave o taxi de 8 min.",
-     "minutes": 25
+     "detail": "Del clubhouse (86th St y 7th Ave) hacia el oeste hasta 5th Ave y por 5th Ave hacia el norte hasta la calle 73: 1.9 km. Si no hay piernas: bus B63 por 5th Ave o taxi de 8 min.",
+     "minutes": 26,
+     "km": 1.9,
+     "sights": [
+      {
+       "name": "5th Avenue de Bay Ridge",
+       "text": "Caminamos por el barrio que The New York Times llamó el corazón de la comunidad árabe de Brooklyn: la mayor comunidad árabe-estadounidense de la ciudad, con muchos vecinos musulmanes hacia el norte, del lado de Sunset Park.",
+       "lat": 40.626,
+       "lng": -74.024,
+       "source": "https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn"
+      },
+      {
+       "name": "Bay Ridge Parkway",
+       "text": "Cruzamos la calle 75, que se trazó ancha y arbolada a fines del siglo XIX, cuando se esperaba unir Bay Ridge con Prospect Park por una red de parkways.",
+       "lat": 40.629461,
+       "lng": -74.022405,
+       "source": "https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -63,8 +144,7 @@
       "reason": "cansados",
       "note": "Si el golf se estira, salteamos Bay Ridge y comemos en DUMBO, al lado del puente."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
     "time": "17:40",
@@ -79,10 +159,41 @@
     ],
     "from_prev": {
      "mode": "subte",
-     "detail": "Línea R de Bay Ridge a Jay St–MetroTech",
-     "minutes": null
+     "detail": "A pie 530 m hasta 77 St. [R] de 77 St a Jay St–MetroTech, 12 paradas, unos 30 min. Desde la estación caminamos 650 m hasta la rampa peatonal de Tillary St y Adams St; de ahí, 1 km por la pasarela hasta la torre de Brooklyn.",
+     "minutes": 50,
+     "km": 2.2,
+     "sights": [
+      {
+       "name": "Departures and Arrivals",
+       "text": "En el entrepiso sur de Jay St–MetroTech hay un mural de mosaico de 31 m de Ben Snead (2009). Muestra especies que llegaron a Brooklyn (estornino, gorrión, pez león, cotorra, carpa koi) y un escarabajo tigre local que está desapareciendo.",
+       "lat": 40.693681,
+       "lng": -73.987233,
+       "source": "https://new.mta.info/agency/arts-design/collection/departures-and-arrivals"
+      },
+      {
+       "name": "La torre de Brooklyn",
+       "text": "85 m de piedra caliza y granito cortado en la isla de Vinalhaven, Maine, con los arcos góticos por donde pasa el tránsito. El puente tiene una placa dedicada a Emily Warren Roebling junto a Washington y John Roebling.",
+       "lat": 40.704,
+       "lng": -73.994222,
+       "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+      },
+      {
+       "name": "La bahía al atardecer",
+       "text": "El sol se pone hacia el oeste-suroeste, sobre Nueva Jersey. En esa dirección, sobre la bahía y a unos 4.5 km, está la Estatua de la Libertad; a la derecha, las torres de Lower Manhattan.",
+       "lat": 40.689249,
+       "lng": -74.0445,
+       "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+      },
+      {
+       "name": "Candados de amor",
+       "text": "Si seguimos hasta la mitad del puente, en las barandas aparecen candados con nombres; la ciudad los corta seguido porque dañan la estructura.",
+       "lat": 40.706086,
+       "lng": -73.996864,
+       "source": "https://www.atlasobscura.com/places/brooklyn-bridge-love-locks"
+      }
+     ]
     },
-    "_rewrite": true
+    "note": "Subimos por la rampa de Tillary St y caminamos 1 km por la pasarela hasta la torre de Brooklyn para ver la puesta del sol (17:58) con Lower Manhattan y la bahía enfrente. Si hay luz y ganas, seguimos 250 m hasta la mitad del puente; después volvemos hacia Brooklyn para bajar por la escalera de Washington St."
    },
    {
     "time": "18:25",
@@ -97,32 +208,132 @@
     ],
     "from_prev": {
      "mode": "a pie",
-     "detail": "Bajamos del puente por la escalera de Washington St",
-     "minutes": null
+     "detail": "De la torre de Brooklyn volvemos 560 m por la pasarela hasta la escalera de Washington St, bajamos y seguimos 260 m por Washington St, entre depósitos de ladrillo, hasta Water St.",
+     "minutes": 12,
+     "km": 0.8,
+     "sights": [
+      {
+       "name": "Escalera de Washington St",
+       "text": "Se renovó en la gran rehabilitación del puente de los años 80 y baja directo a DUMBO.",
+       "lat": 40.70064,
+       "lng": -73.98998,
+       "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+      },
+      {
+       "name": "Rieles entre los adoquines",
+       "text": "En las calles de DUMBO asoman los rieles del Jay Street Connecting Railroad (1904–1957), que llevaba vagones hasta las fábricas; los adoquines se rehicieron en una obra terminada en 2025.",
+       "lat": 40.7025,
+       "lng": -73.9895,
+       "source": "https://en.wikipedia.org/wiki/Dumbo,_Brooklyn"
+      }
+     ]
     },
-    "_rewrite": true
+    "note": "Bajamos por la escalera de Washington St con el cielo oscureciendo (el crepúsculo termina 18:25) y caminamos por Washington St hasta Water St: la foto del Manhattan Bridge con el Empire State dentro del arco de la torre, ya iluminado."
    },
    {
-    "time": "19:05",
+    "time": "19:00",
     "place": "nyc-ferry-dumbo-fulton-ferry",
     "title": "Ferry por el East River hasta Williamsburg",
     "alternatives": [],
     "from_prev": {
      "mode": "a pie",
-     "detail": "Hasta el muelle de Fulton Ferry",
-     "minutes": null
+     "detail": "Por Water St hasta Main St, bajamos al borde del agua en Pebble Beach, pasamos junto al carrusel de Jane y seguimos por la costanera del parque hasta el muelle de Fulton Ferry, al pie de Old Fulton St: 900 m.",
+     "minutes": 15,
+     "km": 0.9,
+     "sights": [
+      {
+       "name": "Pebble Beach",
+       "text": "La orilla de canto rodado entre los dos puentes: de un lado el Manhattan Bridge casi encima, del otro el Brooklyn Bridge con Lower Manhattan iluminado.",
+       "lat": 40.704383,
+       "lng": -73.990549,
+       "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge_Park"
+      },
+      {
+       "name": "Empire Stores",
+       "text": "Siete depósitos de 1869 y 1885 que guardaban café, azúcar y melaza; la reconversión dejó a la vista las ruedas de izado de hierro y los conductos del café.",
+       "lat": 40.703605,
+       "lng": -73.991648,
+       "source": "https://en.wikipedia.org/wiki/Empire_Stores"
+      },
+      {
+       "name": "Jane's Carousel",
+       "text": "Carrusel de madera tallado en 1922 para un parque de Youngstown, Ohio, con 48 caballos; gira desde 2011 dentro del pabellón de vidrio de Jean Nouvel.",
+       "lat": 40.70442,
+       "lng": -73.99238,
+       "source": "https://en.wikipedia.org/wiki/Jane%27s_Carousel"
+      },
+      {
+       "name": "Eagle Warehouse",
+       "text": "El edificio románico de ocho pisos que el diario Brooklyn Daily Eagle construyó en 1893 sobre Old Fulton St, en el distrito histórico de Fulton Ferry.",
+       "lat": 40.702278,
+       "lng": -73.99349,
+       "source": "https://en.wikipedia.org/wiki/Fulton_Ferry,_Brooklyn"
+      },
+      {
+       "name": "Bargemusic",
+       "text": "En este muelle estuvo amarrada desde 1977 la barcaza de café de 1899 convertida en sala de música de cámara; desde abril de 2025 los conciertos se hacen en el Boathouse del parque.",
+       "lat": 40.703042,
+       "lng": -73.99528,
+       "source": "https://www.atlasobscura.com/places/bargemusic"
+      }
+     ]
     },
-    "_rewrite": true
+    "note": "Tomamos el ferry de las 19:04 hacia East 34th St, que para en North Williamsburg a las 19:18 según el horario de otoño de días de semana (vigente desde el 14 de septiembre). Pasaje USD 4.50 en la app de NYC Ferry o en la máquina del muelle; si lo perdemos, el siguiente que para en North Williamsburg sale 19:32 y llega 19:52."
    },
    {
     "time": "19:45",
     "place": "westlight",
     "title": "Un trago en Westlight",
-    "note": "Pasamos antes por la Hoxton a bañarnos y cambiarnos: el código es smart casual. Terraza del piso 22 con Manhattan iluminado y vuelta caminando al hotel.",
+    "note": "Bajamos en North Williamsburg a las 19:18 y caminamos 10 minutos hasta la Hoxton para bañarnos y cambiarnos (Westlight pide smart casual y es solo para mayores de 21 desde las 18:00: llevamos el pasaporte). Después son 3 minutos hasta The William Vale; terraza del piso 22 con Manhattan iluminado y vuelta caminando.",
     "from_prev": {
      "mode": "ferry",
-     "detail": "NYC Ferry, ruta East River, de DUMBO a North Williamsburg",
-     "minutes": null
+     "detail": "NYC Ferry, ruta East River, de DUMBO/Fulton Ferry (19:04) a North Williamsburg (19:18), 14 min sin escalas: los viajes que paran en North Williamsburg (servicio A del horario) saltean South Williamsburg. Del muelle de North 6th St son 710 m a pie hasta la Hoxton y 240 m más hasta Westlight.",
+     "minutes": 14,
+     "km": 0.95,
+     "sights": [
+      {
+       "name": "Manhattan Bridge",
+       "text": "El ferry pasa por debajo del puente de 1909, el primer colgante con reticulado Warren liviano; los trenes del subte lo cruzan por los costados del tablero inferior.",
+       "lat": 40.707,
+       "lng": -73.9905,
+       "source": "https://en.wikipedia.org/wiki/Manhattan_Bridge"
+      },
+      {
+       "name": "Brooklyn Navy Yard",
+       "text": "El astillero de la Marina desde 1801, en la bahía de Wallabout: acá se construyeron el Maine, el Arizona y el Missouri, donde Japón firmó la rendición en 1945. En la Segunda Guerra trabajaban 75,000 personas; cerró como base en 1966.",
+       "lat": 40.702563,
+       "lng": -73.96978,
+       "source": "https://www.atlasobscura.com/places/the-brooklyn-navy-yard-brooklyn-new-york"
+      },
+      {
+       "name": "Williamsburg Bridge",
+       "text": "Abrió en 1903 y fue el colgante de luz más larga del mundo hasta 1924. El contrato de los cables lo ganó Washington Roebling, el mismo del Brooklyn Bridge.",
+       "lat": 40.71356,
+       "lng": -73.97197,
+       "source": "https://en.wikipedia.org/wiki/Williamsburg_Bridge"
+      },
+      {
+       "name": "Refinería de Domino",
+       "text": "El edificio de ladrillo de 1882 con la réplica LED del cartel amarillo; la planta refinó azúcar hasta 2004 y hoy es oficinas junto a Domino Park.",
+       "lat": 40.714444,
+       "lng": -73.9675,
+       "source": "https://en.wikipedia.org/wiki/Domino_Sugar_Refinery"
+      },
+      {
+       "name": "Marsha P. Johnson State Park",
+       "text": "El muelle de North 6th St está junto a este parque estatal, levantado en 2007 sobre la vieja terminal ferroviaria Brooklyn Eastern District Terminal.",
+       "lat": 40.721592,
+       "lng": -73.962257,
+       "source": "https://en.wikipedia.org/wiki/Marsha_P._Johnson_State_Park"
+      },
+      {
+       "name": "Bushwick Inlet",
+       "text": "A una cuadra de Westlight, sobre Kent Ave, la ensenada donde la Continental Iron Works construyó y botó el USS Monitor en 1862.",
+       "lat": 40.725071,
+       "lng": -73.959678,
+       "source": "https://www.atlasobscura.com/places/bushwick-inlet"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -135,8 +346,7 @@
       "reason": "otra-opción",
       "note": "The Ides (Wythe Hotel) cerró; su terraza es hoy Bar Blondeau, a una cuadra, abierto hasta las 00:00."
      }
-    ],
-    "_rewrite": true
+    ]
    }
   ],
   "tips": [
@@ -172,7 +382,9 @@
   "date": "2026-10-28",
   "title": "Brooklyn, golf y el puente",
   "lede": "Llegamos a JFK a las 9:30, dejamos las valijas en The Hoxton de Williamsburg y nos vamos a jugar 9 hoyos en Dyker Beach, un campo histórico de Brooklyn con vista al puente Verrazzano. Después comemos comida yemení en Bay Ridge (lamb haneeth y pan recién hecho en Yemen Café), subimos al Brooklyn Bridge a ver cómo se enciende Manhattan y volvemos a Williamsburg en ferry por el East River, para cerrar con un trago en Westlight.",
-  "hero": "dumbo-washington-street-view"
+  "hero": "dumbo-washington-street-view",
+  "context": "Un día de Brooklyn de punta a punta. Dormimos en Williamsburg, la vieja costa industrial del norte: refinerías de azúcar, cervecerías y astilleros que la rezonificación de 2005 convirtió en torres y hoteles. Al mediodía bajamos unos 13 km en línea recta hasta Dyker Heights y Bay Ridge, en la punta donde el Verrazzano cruza a Staten Island (el domingo largamos la maratón sobre ese puente): un barrio primero holandés, después noruego y hoy la mayor comunidad árabe de la ciudad.\n\nA la tarde la [R] nos sube por debajo de 4th Ave hasta Downtown Brooklyn y volvemos al agua: el Brooklyn Bridge al atardecer, los depósitos de DUMBO y el muelle de Fulton Ferry, desde donde se cruza a Manhattan desde 1642. El ferry del East River nos devuelve a Williamsburg pasando bajo dos puentes y frente al Navy Yard. Son unos 7.1 km a pie sin contar los 9 hoyos, y 7.6 km si seguimos hasta la mitad del puente.",
+  "km_walk": 7.1
  },
  {
   "blocks": [
@@ -181,44 +393,112 @@
     "place": "hoxton-williamsburg",
     "title": "Check-out y taxi con las valijas",
     "alternatives": [],
-    "note": "Salimos de la Hoxton a las 8:30 con todo el equipaje; el taxi nos deja en la puerta del Lexington.",
-    "_rewrite": true
+    "note": "Check-out a las 08:30 con todo el equipaje. Pedimos el auto por app desde la habitación unos minutos antes para no esperar en la vereda con las valijas."
    },
    {
     "time": "09:10",
     "place": "hotel-lexington",
     "title": "Valijas al Lexington antes de la Expo",
-    "note": "Check-out de la Hoxton a las 08:30 y taxi directo al Lexington con las valijas. Pedimos que las guarden y dejamos anotado el pedido de early check-in (el estándar es a las 16:00).",
+    "note": "Dejamos las valijas en el Lexington, pedimos que las guarden y dejamos anotado el pedido de early check-in (el estándar es a las 16:00). Salimos a las 09:25 hacia Grand Central.",
     "from_prev": {
      "mode": "taxi",
-     "detail": "Williamsburg → Midtown East",
-     "minutes": null
+     "detail": "Taxi o auto de app de Wythe Ave al Lexington (Lexington Ave y E 48th St) por el Williamsburg Bridge y la FDR Drive, 30–45 min en hora pico. Con valijas no conviene el subte ([L] hasta 14 St–Union Sq y [6] hasta 51 St, unos 40 min).",
+     "minutes": 40,
+     "sights": [
+      {
+       "name": "Williamsburg Bridge",
+       "text": "Cruzamos el puente de 1903 que trajo a Williamsburg a miles de inmigrantes del Lower East Side; al subir, a la derecha, queda la refinería de Domino.",
+       "lat": 40.71356,
+       "lng": -73.97197,
+       "source": "https://en.wikipedia.org/wiki/Williamsburg_Bridge"
+      },
+      {
+       "name": "525 Lexington Avenue",
+       "text": "Al llegar, cruzando la calle 48, el ex Shelton Hotel (1924), citado entonces como el hotel más alto del mundo; ahí vivieron Alfred Stieglitz y Georgia O'Keeffe.",
+       "lat": 40.755556,
+       "lng": -73.972778,
+       "source": "https://en.wikipedia.org/wiki/525_Lexington_Avenue"
+      }
+     ]
     },
-    "alternatives": [],
-    "_rewrite": true
+    "alternatives": []
    },
    {
     "time": "10:00",
     "place": "javits-expo",
     "title": "Retiro de dorsales en la Expo",
-    "note": "Turno de las 10:00 reservado para los dos en el dashboard de NYRR. Cada uno lleva su pasaporte y su formulario de confirmación. Retiramos dorsal y remera y recorremos los stands sin apuro.",
+    "note": "Turno de las 10:00 para los dos en el dashboard de NYRR: cada uno lleva pasaporte y formulario de confirmación. Retiramos dorsal y remera, recorremos los stands sin apuro y calculamos salir a las 11:30.",
     "from_prev": {
      "mode": "subte",
-     "detail": "Línea 7 de Grand Central a 34 St–Hudson Yards",
-     "minutes": null
+     "detail": "A pie por Lexington Ave hasta la calle 43 y entramos a Grand Central por el Graybar Passage (600 m, 8 min). [7] de Grand Central–42 St a 34 St–Hudson Yards, 3 paradas (5 Av, Times Sq–42 St y 34 St–Hudson Yards), unos 10 min. Salimos por Hudson Blvd y caminamos 440 m hasta la entrada del Javits sobre 11th Ave.",
+     "minutes": 30,
+     "km": 1.0,
+     "sights": [
+      {
+       "name": "Graybar Rats",
+       "text": "En la entrada del Graybar Passage (420 Lexington Ave), los tensores de la marquesina imitan las amarras de un barco y tienen ratas de metal trepando, frenadas por conos como los que se ponen en los barcos. En las rosetas de arriba hay cabezas de ratas que sí llegaron.",
+       "lat": 40.752684,
+       "lng": -73.975902,
+       "source": "https://www.atlasobscura.com/places/graybar-rats"
+      },
+      {
+       "name": "El techo de Grand Central",
+       "text": "En el Main Concourse, las constelaciones están al revés del cielo real. En la esquina noroeste, junto al cangrejo (Cáncer), quedó sin limpiar un rectángulo oscuro para mostrar cómo estaba el techo antes de 1998: la mugre era sobre todo humo de cigarrillo.",
+       "lat": 40.752751,
+       "lng": -73.977219,
+       "source": "https://www.atlasobscura.com/places/grand-central-ceiling-dark-patch"
+      },
+      {
+       "name": "Whispering Gallery",
+       "text": "Si sobran 5 minutos: en el nivel inferior, en el cruce abovedado junto al Oyster Bar, las bóvedas de azulejo Guastavino llevan un susurro de una esquina a la opuesta.",
+       "lat": 40.752726,
+       "lng": -73.977229,
+       "source": "https://www.atlasobscura.com/places/grand-central-terminal-whispering-gallery"
+      },
+      {
+       "name": "I dreamed a world and called it Love",
+       "text": "Sobre la escalera y el entrepiso de la entrada de la calle 42, el mosaico de vidrio espejado de Jim Hodges (2020), con más de 5,000 piezas en más de 70 colores.",
+       "lat": 40.7521,
+       "lng": -73.977,
+       "source": "https://new.mta.info/agency/arts-design/collection/I-dreamed-a-world-and-called-it-Love"
+      },
+      {
+       "name": "Funktional Vibrations",
+       "text": "En 34 St–Hudson Yards, el mosaico de Xenobia Bailey (2015) cuelga sobre la entrada principal y sigue en la cúpula del entrepiso: mandalas sobre fondo azul cobalto, una de las obras más grandes de la colección del subte.",
+       "lat": 40.755839,
+       "lng": -74.001961,
+       "source": "https://new.mta.info/agency/arts-design/collection/funktional-vibrations"
+      },
+      {
+       "name": "Vessel",
+       "text": "A una cuadra de la salida, la escultura de escaleras de Thomas Heatherwick (2019): 154 tramos y 2,500 escalones revestidos de cobre.",
+       "lat": 40.7538,
+       "lng": -74.0022,
+       "source": "https://en.wikipedia.org/wiki/Vessel_(structure)"
+      }
+     ]
     },
-    "alternatives": [],
-    "_rewrite": true
+    "alternatives": []
    },
    {
     "time": "11:30",
     "place": "high-line",
     "title": "High Line de la calle 34 a la 16",
-    "note": "Entramos por la calle 34, a una cuadra de la Expo, y caminamos hacia el sur unos 1.9 km: Rail Yards, The Spur en la calle 30 y Tenth Avenue Square. Bajamos en la calle 16, al lado de Chelsea Market.",
+    "note": "Entramos a la High Line por la calle 34, a 400 m de la Expo, y la caminamos entera hacia el sur hasta la calle 16. A tres días de la maratón es caminata suave: 25–30 minutos sin paradas.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Del Javits por 11th Ave hasta W 34th St y la entrada norte de la High Line, entre 11th y 12th Ave.",
-     "minutes": 5
+     "detail": "Del Javits por 11th Ave hasta W 34th St y la entrada norte de la High Line, entre 11th y 12th Ave: 420 m.",
+     "minutes": 6,
+     "km": 0.4,
+     "sights": [
+      {
+       "name": "West Side Yard",
+       "text": "La High Line arranca bordeando las 30 vías donde el LIRR guarda trenes desde 1987; Hudson Yards está construido encima de su mitad este.",
+       "lat": 40.754444,
+       "lng": -74.003056,
+       "source": "https://en.wikipedia.org/wiki/West_Side_Yard"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -226,32 +506,120 @@
       "reason": "otra-opción",
       "note": "Si la High Line está llena, la cortamos en la calle 23 y, después de comer, cruzamos 8 minutos hasta Little Island a ver el río."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
     "time": "12:30",
     "place": "chelsea-market",
     "title": "Almuerzo en Chelsea Market",
-    "note": "Tacos de adobada en Los Tacos No. 1 y dan dan noodles en Very Fresh Noodles; uno hace fila y el otro pide. Postre en Fat Witch Bakery. Si algún puesto tiene mucha fila, adentro hay otros treinta.",
+    "note": "Almuerzo en la vieja fábrica de Nabisco: tacos de adobada en Los Tacos No. 1 y dan dan noodles en Very Fresh Noodles, uno hace fila y el otro pide. Postre en Fat Witch Bakery y a las 13:50 salimos hacia el subte.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Bajamos de la High Line en la calle 16 y entramos a Chelsea Market por el lado de 10th Ave.",
-     "minutes": 3
+     "detail": "Toda la High Line hacia el sur, de la calle 34 a la 16: 1.9 km por el viaducto (Rail Yards, The Spur en la calle 30 y Tenth Avenue Square en la 17). Bajamos por la escalera o el ascensor de la calle 16, cruzamos 10th Ave y entramos a Chelsea Market por esa puerta: 180 m más.",
+     "minutes": 30,
+     "km": 2.1,
+     "sights": [
+      {
+       "name": "Rail Yards",
+       "text": "El último tramo en abrir (2014) conserva los rieles entre la vegetación. Por acá pasó el último tren en 1980: tres vagones de pavos congelados.",
+       "lat": 40.755,
+       "lng": -74.0043,
+       "source": "https://en.wikipedia.org/wiki/High_Line"
+      },
+      {
+       "name": "The Spur y el Plinth",
+       "text": "El ramal de la calle 30 y 10th Ave (2019) llegaba al correo Morgan; su plaza, el Plinth, exhibe una obra de arte contemporáneo que cambia cada 18 meses.",
+       "lat": 40.7524,
+       "lng": -74.0021,
+       "source": "https://en.wikipedia.org/wiki/High_Line"
+      },
+      {
+       "name": "Placa de Death Avenue",
+       "text": "A una cuadra del Spur, en la pared de 315 10th Ave (calle 29), una placa con foto de época recuerda a los cientos de muertos por los trenes que corrían por la avenida. Se ve desde la vereda.",
+       "lat": 40.751103,
+       "lng": -74.002048,
+       "source": "https://www.atlasobscura.com/places/death-avenue-plaque"
+      },
+      {
+       "name": "Starrett–Lehigh Building",
+       "text": "Hacia el oeste, entre las calles 26 y 27, el depósito de 1931 con franjas de ventanas: tenía un patio ferroviario en planta baja y montacargas que subían camiones enteros a los pisos.",
+       "lat": 40.751667,
+       "lng": -74.006667,
+       "source": "https://en.wikipedia.org/wiki/Starrett%E2%80%93Lehigh_Building"
+      },
+      {
+       "name": "7000 Oaks",
+       "text": "Al cruzar la calle 22, a los lados de la vereda hay 23 árboles, cada uno con una piedra de basalto: la extensión neoyorquina (1988 y 1996) del proyecto de Joseph Beuys en Kassel.",
+       "lat": 40.747231,
+       "lng": -74.00573,
+       "source": "https://www.atlasobscura.com/places/7000-oaks"
+      },
+      {
+       "name": "El ramal de Nabisco",
+       "text": "En la calle 16 se abre un desvío cerrado al público que entraba a la fábrica de Nabisco; los rieles quedaron en su lugar, con plantas entre los durmientes.",
+       "lat": 40.7428,
+       "lng": -74.0072,
+       "source": "https://en.wikipedia.org/wiki/High_Line"
+      }
+     ]
     },
     "alternatives": [],
-    "no_alt": true,
-    "_rewrite": false
+    "no_alt": true
    },
    {
     "time": "14:15",
     "place": "moma",
     "title": "MoMA con lista cerrada",
-    "note": "Entrada comprada para las 10:30. Piso 5 (Van Gogh, Picasso, Monet, Frida) y piso 4 (Warhol); jardín de esculturas al final y Brancusi solo si sobran piernas. Salimos 12:45 como máximo.",
+    "note": "Entrada con horario para las 14:15 (los jueves el museo abre 10:30–17:30). Lista cerrada: piso 5 (Van Gogh, Picasso, Monet, Frida) y piso 4 (Warhol), y el jardín de esculturas al final. Salimos 15:30 como máximo para llegar a los botes antes de las 16:20.",
     "from_prev": {
      "mode": "subte",
-     "detail": "Línea E de 14 St–8 Av a 5 Av/53 St",
-     "minutes": null
+     "detail": "Salimos del mercado por 9th Ave y caminamos 330 m hasta 14 St–8 Av. [E] de 14 St–8 Av a 5 Av/53 St, 6 paradas (23 St, 34 St–Penn Station, 42 St–Port Authority, 50 St, 7 Av y 5 Av/53 St), unos 15 min. Salimos por 5th Ave y caminamos 280 m por la calle 53 hasta 11 W 53rd St.",
+     "minutes": 25,
+     "km": 0.6,
+     "sights": [
+      {
+       "name": "Oreo Way",
+       "text": "La cuadra de 9th Ave frente a la puerta del mercado se bautizó así en 2002: en esta fábrica se desarrolló la Oreo en 1912.",
+       "lat": 40.7422,
+       "lng": -74.0046,
+       "source": "https://en.wikipedia.org/wiki/Oreo"
+      },
+      {
+       "name": "111 Eighth Avenue",
+       "text": "La manzana de enfrente es la vieja terminal del Port Authority (1932), con más superficie que el Empire State; hoy es de Google.",
+       "lat": 40.741389,
+       "lng": -74.003056,
+       "source": "https://en.wikipedia.org/wiki/111_Eighth_Avenue"
+      },
+      {
+       "name": "Life Underground",
+       "text": "En los andenes de 14 St–8 Av hay más de 100 figuritas de bronce de Tom Otterness (2001): un cocodrilo que sale de una alcantarilla para morder a un hombre con cabeza de bolsa de plata, obreros con herramientas gigantes, gente que barre monedas.",
+       "lat": 40.739753,
+       "lng": -74.002523,
+       "source": "https://www.atlasobscura.com/places/life-underground"
+      },
+      {
+       "name": "53rd Street Art Stop",
+       "text": "La estación 5 Av/53 St tiene el 53rd Street Art Stop del MoMA (2019) y Subway Riders, de Ralph Fasanella: pasajeros sentados uno al lado del otro, volviendo de noche del trabajo.",
+       "lat": 40.76028,
+       "lng": -73.97556,
+       "source": "https://new.mta.info/agency/arts-design/collection/subway-riders-fasanella"
+      },
+      {
+       "name": "Saint Thomas Church",
+       "text": "En la esquina de 5th Ave y la 53, la iglesia neogótica de Cram y Goodhue (1914). Su coro de hombres y niños sale de la única escuela coral residencial ligada a una iglesia en Estados Unidos.",
+       "lat": 40.760833,
+       "lng": -73.976111,
+       "source": "https://en.wikipedia.org/wiki/Saint_Thomas_Church_(Manhattan)"
+      },
+      {
+       "name": "Paley Park",
+       "text": "A media cuadra al este de 5th Ave, un parquecito de 390 m² con una cascada de 6 m que tapa el ruido de la ciudad, donde antes estaba el Stork Club.",
+       "lat": 40.760345,
+       "lng": -73.975073,
+       "source": "https://www.atlasobscura.com/places/paley-park"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -259,18 +627,62 @@
       "reason": "sin-entradas",
       "note": "A tres cuadras de Chelsea Market: si el MoMA está desbordado, lo cambiamos y ahorramos el viaje."
      }
-    ],
-    "_rewrite": true
+    ]
    },
    {
     "time": "16:15",
     "place": "central-park-rowboats",
     "title": "Bote a remo en el lago",
-    "note": "Una hora de remo (USD 25, jueves) pasando por debajo del Bow Bridge. El último bote sale cerca de las 17:00 y no hay reservas, así que no llegamos más tarde de las 15:30.",
+    "note": "Una hora de remo (USD 25 el jueves, sin reserva) pasando por debajo del Bow Bridge. El último bote sale cerca de las 17:00: si el MoMA se estira, vamos en taxi para llegar antes de las 16:30.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por Fifth Avenue hasta Grand Army Plaza y el parque",
-     "minutes": null
+     "detail": "Por la calle 53 hasta Fifth Ave y por Fifth hacia el norte hasta la calle 59 (620 m). Entramos al parque por Grand Army Plaza, bordeamos el Pond y el Gapstow Bridge y pasamos junto a Wollman Rink hasta el Mall. Recorremos el Literary Walk hasta la Bethesda Terrace, bajamos por la arcada y seguimos por la orilla del lago hasta el Boathouse: 2.8 km, 40 min sin paradas. Taxi: por Madison Ave (Fifth es solo hacia el sur) hasta la calle 72 y 5th Ave, 10–15 min según el tránsito, y 420 m a pie por el camino de la calle 72 hasta el Boathouse.",
+     "minutes": 40,
+     "km": 2.8,
+     "sights": [
+      {
+       "name": "Tiffany & Co.",
+       "text": "En 727 Fifth Avenue, esquina 57, la casa central de Tiffany desde 1940, en un edificio de Cross & Cross. La empresa compró en 1879 el Tiffany Diamond, un diamante amarillo que solo usaron cuatro personas; una fue Audrey Hepburn para promocionar Breakfast at Tiffany's.",
+       "lat": 40.7626,
+       "lng": -73.9738,
+       "source": "https://en.wikipedia.org/wiki/Tiffany_%26_Co."
+      },
+      {
+       "name": "Grand Army Plaza",
+       "text": "El Sherman dorado de Augustus Saint-Gaudens (1903), guiado por una Victoria para la que posó Hettie Anderson, y la fuente Pulitzer con Pomona, frente al Plaza Hotel (1907).",
+       "lat": 40.7645,
+       "lng": -73.9732,
+       "source": "https://www.centralparknyc.org/locations/william-tecumseh-sherman"
+      },
+      {
+       "name": "The Pond y Hallett Nature Sanctuary",
+       "text": "El estanque en U rodea el promontorio que Robert Moses cerró en 1934 como santuario de aves; estuvo vedado al público hasta que en 2016 empezó a abrir con horario. El Gapstow Bridge de piedra es de 1896.",
+       "lat": 40.766509,
+       "lng": -73.974959,
+       "source": "https://www.atlasobscura.com/places/hallett-nature-sanctuary"
+      },
+      {
+       "name": "The Mall y Literary Walk",
+       "text": "El único paseo recto del parque, bajo dos filas de olmos americanos: Olmsted y Vaux lo llamaron un salón de recepción al aire libre. El tramo sur tiene estatuas de escritores y, desde 2020, el Women's Rights Pioneers Monument.",
+       "lat": 40.769799,
+       "lng": -73.97237,
+       "source": "https://www.centralparknyc.org/locations/the-mall-literary-walk"
+      },
+      {
+       "name": "Arcada de Bethesda",
+       "text": "Al bajar por la escalera del Mall pasamos bajo un techo de casi 16,000 azulejos encáusticos de Minton en 49 paneles, restaurados entre 2002 y 2007.",
+       "lat": 40.773746,
+       "lng": -73.971049,
+       "source": "https://www.centralparknyc.org/locations/bethesda-terrace"
+      },
+      {
+       "name": "Angel of the Waters",
+       "text": "La estatua de Emma Stebbins (1873) celebra el agua limpia del acueducto del Croton. La fuente está apagada por una restauración de alrededor de un año que empezó en agosto.",
+       "lat": 40.774326,
+       "lng": -73.970833,
+       "source": "https://www.centralparknyc.org/locations/bethesda-fountain"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -278,18 +690,18 @@
       "reason": "lluvia",
       "note": "Si por lluvia o viento no alquilan botes, caminamos 5 minutos hasta la Bethesda Terrace y su arcada cubierta. La fuente está apagada por restauración."
      }
-    ],
-    "_rewrite": true
+    ]
    },
    {
     "time": "17:15",
     "place": "central-park-boathouse",
     "title": "Burrata y vino frente al lago",
-    "note": "Mesa reservada a las 16:30 junto a la ventana (pedida, no garantizada). Burrata con pan rústico grillado (USD 26), Parker House rolls y una copa cada uno mientras se pone el sol a las 17:57.",
+    "note": "Mesa a las 17:15 junto a la ventana: la ventana se pide en la nota y no está garantizada, y conviene pasar la reserva original de las 16:30 a esta hora. Pedimos burrata con pan rústico grillado (USD 26), Parker House rolls y una copa cada uno mientras se pone el sol a las 17:57.",
     "from_prev": {
      "mode": "a pie",
      "detail": "Del muelle de botes al restaurante, en el mismo edificio.",
-     "minutes": 2
+     "minutes": 2,
+     "sights": []
     },
     "alternatives": [
      {
@@ -297,18 +709,48 @@
       "reason": "sin-entradas",
       "note": "Si no conseguimos mesa en el Boathouse, reservamos en Tavern on the Green (abre hasta las 22:00) y cruzamos el parque caminando, 18 min."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
     "time": "20:00",
     "place": "edge-hudson-yards",
     "title": "Edge de noche (si hay energía)",
-    "note": "Solo si nos quedan ganas: la última entrada es a las 21:00. Antes pasamos por el hotel a buscar abrigo.",
+    "note": "Solo si quedan piernas: Edge cierra a las 22:00 y la última entrada es a las 21:00. Antes pasamos por el hotel a buscar abrigo; si no hay energía, Summit One Vanderbilt queda a 7 minutos a pie del hotel y abre hasta la medianoche.",
     "from_prev": {
      "mode": "subte",
-     "detail": "Del Boathouse al hotel: línea [6] de 68 St–Hunter College a 51 St. A las 19:30 salimos a pie a Grand Central (7 min), línea [7] hasta 34 St–Hudson Yards y 5 min a pie hasta el nivel 4 de The Shops. Los minutos son desde el hotel.",
-     "minutes": 25
+     "detail": "Del Boathouse salimos del parque hacia 5th Ave y caminamos hasta Lexington Ave y 68th St (1.2 km). [6] de 68 St–Hunter College a 51 St, 2 paradas, y 270 m al hotel. A las 19:30 salimos a pie a Grand Central (600 m), [7] hasta 34 St–Hudson Yards (3 paradas, unos 10 min) y 240 m a pie hasta la entrada de Edge en el nivel 4 de The Shops. Los minutos son desde el hotel.",
+     "minutes": 25,
+     "km": 2.3,
+     "sights": [
+      {
+       "name": "Alice in Wonderland",
+       "text": "A 200 m del Boathouse, en el extremo norte del estanque de los barquitos (Conservatory Water), está Alicia sentada en un hongo gigante. La rodean el Conejo Blanco, el Lirón, el Gato de Cheshire y un Sombrerero que caricaturiza al donante, George Delacorte (1959); está hecha para que los chicos se trepen.",
+       "lat": 40.775051,
+       "lng": -73.96654,
+       "source": "https://www.atlasobscura.com/places/alice-in-wonderland-statue"
+      },
+      {
+       "name": "68 St–Hunter College",
+       "text": "La estación tiene desde 2024 dos obras de Lisa Corinne Davis: Tempestuous Terrain y Liminal Location.",
+       "lat": 40.767878,
+       "lng": -73.964119,
+       "source": "https://new.mta.info/agency/arts-design/permanent-art/nyct-manhattan"
+      },
+      {
+       "name": "La rejilla de Marilyn",
+       "text": "Al salir de 51 St, a una cuadra: en la esquina suroeste de Lexington y 52nd St se filmó en 1954 la escena del vestido blanco de The Seven Year Itch. La rejilla sigue ahí, sin ninguna placa.",
+       "lat": 40.757749,
+       "lng": -73.971466,
+       "source": "https://www.atlasobscura.com/places/marilyn-monroe-s-subway-grate"
+      },
+      {
+       "name": "The Shed",
+       "text": "Junto al Vessel, el centro cultural de Diller Scofidio + Renfro con Rockwell Group (2019), con una cáscara retráctil que se corre para cubrir la plaza.",
+       "lat": 40.753328,
+       "lng": -74.002898,
+       "source": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -316,8 +758,7 @@
       "reason": "cansados",
       "note": "Pegado al hotel: vista de noche sin cruzar la ciudad."
      }
-    ],
-    "_rewrite": false
+    ]
    }
   ],
   "tips": [
@@ -335,11 +776,11 @@
     "note": "La selección está abierta en el dashboard de NYRR desde el 25-ago y cierra el 31-oct a las 16:00. Conviene hacerlo ya para asegurar el primer turno del jueves."
    },
    {
-    "what": "Mesa en el Boathouse para las 16:30",
+    "what": "Mesa en el Boathouse para las 17:15",
     "place": "central-park-boathouse",
     "deadline": "2026-10-08",
     "url": "https://www.opentable.com/r/central-park-boathouse-new-york-2",
-    "note": "OpenTable abre 21 días antes. Pedir ventana en la nota."
+    "note": "OpenTable abre 21 días antes. Pedir ventana en la nota. El plan cambió: la mesa hace falta a las 17:15, después del bote."
    },
    {
     "what": "Entradas a Edge para las 20:00 (Advance Saver)",
@@ -354,12 +795,21 @@
     "deadline": "2026-10-22",
     "url": "https://www.lexingtonhotelnyc.com/",
     "note": "Por mail a info@lexingtonnyc.com: llegamos 09:15 con valijas."
+   },
+   {
+    "what": "Entradas del MoMA, jueves 29 a las 14:15",
+    "place": "moma",
+    "deadline": "2026-10-22",
+    "url": "https://visit.moma.org/select",
+    "note": "Entrada con horario; USD 30 por persona."
    }
   ],
   "date": "2026-10-29",
   "title": "Expo, MoMA, bote, queso y vino",
   "lede": "Dejamos las valijas en el Lexington y vamos a la Expo apenas abre, a las 10, para retirar el kit y sacarnos eso de encima. Bajamos por la High Line hasta Chelsea Market para almorzar y a la tarde vamos al MoMA. Después, barquito de remos en Central Park y burrata, pan y vino frente al lago en el Boathouse. Si nos queda energía, Edge de noche.",
-  "hero": "central-park-rowboats"
+  "hero": "central-park-rowboats",
+  "context": "Nos mudamos a Manhattan y el día cruza la isla de oeste a este. La Expo y Hudson Yards están en el borde del Hudson, sobre el viejo patio ferroviario del West Side; la High Line baja por el mismo corredor de carga que alimentaba las fábricas de Chelsea hasta la de Nabisco, hoy Chelsea Market. Después el [E] nos lleva por debajo de 8th Ave y de la calle 53 hasta el MoMA. De ahí caminamos por Fifth Avenue, residencial hasta principios del siglo XX y hoy una de las calles comerciales más caras del mundo, hasta Grand Army Plaza, la puerta sureste de Central Park.\n\nEl parque del plan Greensward de Olmsted y Vaux (1858) hace el resto: el Pond, el Mall y la Bethesda Terrace nos dejan en el lago. El hotel queda en Midtown East, en la Terminal City que creció alrededor de Grand Central, y Edge nos devuelve de noche al Hudson Yards de la mañana. Son unos 8.4 km a pie sin contar la Expo ni el museo; con Edge, unos 10 km.",
+  "km_walk": 8.4
  },
  {
   "blocks": [
@@ -367,11 +817,42 @@
     "time": "09:00",
     "place": "grand-central-terminal",
     "title": "Grand Central antes de que se llene",
-    "note": "Entramos por el Graybar Passage desde Lexington Ave. Main Concourse y reloj, y bajamos por la rampa del Oyster Bar a la Whispering Gallery. El restaurante está cerrado el sábado, pero la galería se visita igual.",
+    "note": "Entramos por el Graybar Passage y vamos directo al Main Concourse: la mancha oscura junto a Cáncer, el agujero del misil arriba de Piscis y el reloj de la Information Booth. Pasamos por Vanderbilt Hall y bajamos por la rampa del Oyster Bar a la Whispering Gallery, cada uno en una esquina. A las 10:00 buscamos el andén de la línea [6].",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Seis cuadras por Lexington Ave",
-     "minutes": null
+     "detail": "Por Lexington Ave hacia el sur, de la 48 a la entrada del Graybar Passage, entre la 43 y la 44 (450 m); adentro, 150 m por el pasaje hasta el Main Concourse.",
+     "minutes": 8,
+     "km": 0.6,
+     "sights": [
+      {
+       "name": "270 Park Avenue",
+       "text": "Al salir del hotel, mirando al oeste por la 48: la torre de JPMorgan Chase, de Foster + Partners, 423 m, sede del banco desde octubre de 2025. Reemplazó al Union Carbide Building, demolido en 2021.",
+       "lat": 40.756,
+       "lng": -73.976,
+       "source": "https://en.wikipedia.org/wiki/270_Park_Avenue_(2025%E2%80%93present)"
+      },
+      {
+       "name": "Chrysler Building",
+       "text": "De frente, bajando por Lexington: 319 m, terminado en 1930 y el edificio más alto del mundo durante 11 meses. En el piso 31 tiene gárgolas y réplicas de las tapas de radiador Chrysler de 1929; en el 61, águilas.",
+       "lat": 40.75166667,
+       "lng": -73.97527778,
+       "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+      },
+      {
+       "name": "Las ratas del Graybar Building",
+       "text": "En la entrada de Lexington, los cables de la marquesina imitan amarras de barco, con ratas de metal que suben y conos que les impiden llegar al edificio (1927).",
+       "lat": 40.752684,
+       "lng": -73.975902,
+       "source": "https://www.atlasobscura.com/places/graybar-rats"
+      },
+      {
+       "name": "Graybar Passage",
+       "text": "El pasaje de 1926 tiene arcos de travertino y siete bóvedas: las dos primeras con nubes pintadas y la tercera con un mural de Edward Trumbull de 1927 sobre el transporte en Estados Unidos.",
+       "lat": 40.752626,
+       "lng": -73.9757,
+       "source": "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -379,18 +860,55 @@
       "reason": "otra-opción",
       "note": "Si amanece despejado: la ciudad desde arriba, en el edificio de al lado."
      }
-    ],
-    "_rewrite": true
+    ]
    },
    {
     "time": "10:30",
     "place": "frick-collection",
     "title": "Frick Collection",
-    "note": "Entrada con horario de 10:30. Recorremos la planta baja (Holbein, Vermeer, sala Fragonard), subimos a las salas nuevas y, si hay energía, la muestra de bronces de Siena. Salimos a las 12:15.",
+    "note": "Llegamos a las 10:20 para la entrada de las 10:30. Planta baja primero (Holbein, Vermeer, sala Fragonard) y después la escalera del órgano hasta las salas del primer piso. Salimos 12:15.",
     "from_prev": {
      "mode": "subte",
-     "detail": "Línea 6 de Grand Central a 68 St–Hunter College",
-     "minutes": null
+     "detail": "Por los pasillos de la terminal al andén uptown de la [6]; [6] de Grand Central–42 St a 68 St–Hunter College, 3 paradas, 5 min (a esa hora pasa cada 3–4 min). Salida por la calle 68 y 740 m a pie: por la 68 hasta Park Ave, dos cuadras al norte por Park y por la 70 al oeste hasta Fifth.",
+     "minutes": 22,
+     "km": 0.7,
+     "sights": [
+      {
+       "name": "68 St–Hunter College: Tempestuous Terrain",
+       "text": "Mosaicos de vidrio de Lisa Corinne Davis (2024) en el entrepiso de la salida de la 68: líneas en red y manchas de color como un mapa del barrio. En los andenes siguen los frisos de 1918 con el número 68.",
+       "lat": 40.768141,
+       "lng": -73.96387,
+       "source": "https://www.mta.info/agency/arts-design/collection/tempestuous-terrain-liminal-location"
+      },
+      {
+       "name": "Hunter College",
+       "text": "Al subir, los edificios de Hunter College, universidad pública de la City University of New York, sobre Lexington y la 68.",
+       "lat": 40.768538,
+       "lng": -73.964741,
+       "source": "https://en.wikipedia.org/wiki/Hunter_College"
+      },
+      {
+       "name": "Americas Society (Percy R. Pyne House)",
+       "text": "Esquina noroeste de Park y la 68: casa neofederal de McKim, Mead & White (1909–1911). Entre 1948 y 1964 fue la misión soviética ante la ONU. Al lado están el Instituto Español Reina Sofía (684 Park) y el consulado de Italia (690 Park).",
+       "lat": 40.76805556,
+       "lng": -73.965,
+       "source": "https://en.wikipedia.org/wiki/Percy_R._Pyne_House"
+      },
+      {
+       "name": "Asia Society",
+       "text": "Park Ave y la 70: sede central de la Asia Society, con museo propio de arte asiático.",
+       "lat": 40.7698,
+       "lng": -73.9643,
+       "source": "https://en.wikipedia.org/wiki/Asia_Society"
+      },
+      {
+       "name": "Explorers Club",
+       "text": "46 East 70th St: mansión jacobina de 1910, sede del club de exploradores fundado en 1904. Adentro guardan el globo con el que Thor Heyerdahl planeó la Kon-Tiki y un oso polar embalsamado llamado Percy.",
+       "lat": 40.769891,
+       "lng": -73.965614,
+       "source": "https://www.atlasobscura.com/places/explorers-club-headquarters"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -398,18 +916,41 @@
       "reason": "sin-entradas",
       "note": "Si no conseguimos franja en la Frick. Abre 10:30–17:30 y queda a 8 min del Met, así que la tarde se acorta en caminata."
      }
-    ],
-    "_rewrite": true
+    ]
    },
    {
     "time": "12:15",
     "place": "pastrami-queen-ues",
     "title": "Pastrami en Pastrami Queen",
-    "note": "Un sándwich de pastrami para los dos, sopa de matzo ball y un knish. Si no hay mesa, pedimos para llevar y comemos en un banco del parque camino al Met.",
+    "note": "Un pastrami para los dos, sopa de matzo ball y un knish. Si no hay mesa, pedimos para llevar y comemos en un banco de Fifth, frente al parque, antes de entrar al Met.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por la calle 70 hacia el este hasta Lexington y 8 cuadras al norte hasta la 78 (1 km).",
-     "minutes": 13
+     "detail": "Por la 70 hasta Madison, ocho cuadras al norte por Madison hasta la 78 y por la 78 al este hasta Lexington (1 km).",
+     "minutes": 14,
+     "km": 1.0,
+     "sights": [
+      {
+       "name": "945 Madison (edificio Breuer)",
+       "text": "Madison y la 75: el bloque de granito de Marcel Breuer (1964–1966) fue el Whitney, después una sede del Met y la casa provisoria de la Frick durante su obra. Hoy es la sede de Sotheby's.",
+       "lat": 40.7734,
+       "lng": -73.9638,
+       "source": "https://en.wikipedia.org/wiki/945_Madison_Avenue"
+      },
+      {
+       "name": "Dwellings, de Charles Simonds",
+       "text": "En la escalera del Breuer, sobre la ventana que da a Madison, hay una aldea en miniatura de arcilla encargada en 1981. Siguió en el edificio por un acuerdo de Sotheby's con el Whitney.",
+       "lat": 40.773442,
+       "lng": -73.963827,
+       "source": "https://www.atlasobscura.com/places/dwellings-at-the-breuer-building"
+      },
+      {
+       "name": "The Carlyle y Bemelmans Bar",
+       "text": "Madison y la 76: hotel art déco de 1930. Su bar, abierto en 1947, tiene murales de Ludwig Bemelmans, el autor de Madeline, y es el único lugar abierto al público con obra suya en las paredes.",
+       "lat": 40.774299,
+       "lng": -73.962994,
+       "source": "https://www.atlasobscura.com/places/bemelmans-bar"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -422,18 +963,34 @@
       "reason": "piernas",
       "note": "Almuerzo sentado en un café vienés a 5 min del Met; conviene llegar antes de las 12:30 por la fila."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
     "time": "13:20",
     "place": "met-fifth-avenue",
     "title": "Tarde en el Met",
-    "note": "Ruta de 6 paradas: Great Hall, Templo de Dendur, Vermeer y pintura europea, Washington Crossing the Delaware, Krasner y Pollock. Usamos ascensores y cortamos a las 16:15 aunque falte algo.",
+    "note": "Entramos por la escalinata de Fifth y vamos primero al Templo de Dendur: el grafiti de 1817 está a la izquierda al entrar. Después Vermeer y Rembrandt, Washington Crossing the Delaware y la muestra de Krasner y Pollock, siempre en ascensor. Cortamos a las 16:15.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por Lexington hasta la 82 y hacia el oeste hasta Fifth Ave (0.9 km).",
-     "minutes": 11
+     "detail": "Por Lexington cinco cuadras al norte hasta la 83, por la 83 al oeste hasta Fifth y una cuadra al sur hasta la escalinata (950 m).",
+     "minutes": 13,
+     "km": 0.95,
+     "sights": [
+      {
+       "name": "Lexington Candy Shop",
+       "text": "Esquina de Lexington y la 83: luncheonette familiar abierta en 1925 y sin reformas desde 1948. Hace egg creams con una batidora Hamilton Beach de 1940; ahí se filmó una escena de Three Days of the Condor.",
+       "lat": 40.777495,
+       "lng": -73.957301,
+       "source": "https://www.atlasobscura.com/places/the-lexington-candy-shop"
+      },
+      {
+       "name": "La fachada del Met",
+       "text": "Fachada Beaux-Arts de Richard Morris Hunt, terminada por su hijo en 1902, con esculturas de Karl Bitter. Arriba de las columnas, cuatro bloques de piedra sin tallar: las esculturas previstas nunca se hicieron.",
+       "lat": 40.7794,
+       "lng": -73.9631,
+       "source": "https://en.wikipedia.org/wiki/The_Met_Fifth_Avenue"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -441,18 +998,41 @@
       "reason": "cansados",
       "note": "Si las piernas piden algo más corto: 90 min en bajada por la rampa, a 8 min del Met."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
     "time": "16:30",
     "place": "hotel-lexington",
     "title": "Descanso en el hotel",
-    "note": "Ducha, piernas en alto y algo liviano para comer antes del teatro. Salimos a las 18:10.",
+    "note": "Llegamos cerca de las 16:45: ducha, piernas en alto y algo liviano antes del teatro. Salimos 18:10. Si en cambio vamos a la ceremonia de apertura, cruzamos el parque desde el Met hasta Tavern on the Green (1.7 km) y de ahí al teatro son otros 1.7 km.",
     "from_prev": {
      "mode": "subte",
-     "detail": "12 min a pie hasta 77 St (Lexington); línea [6] hacia el sur (downtown), 3 paradas hasta 51 St; 4 min a pie al hotel.",
-     "minutes": 25
+     "detail": "Por Fifth hasta la 79, por la 79 al este hasta Lexington y dos cuadras al sur hasta 77 St (1 km, 14 min); [6] hacia el sur (downtown) de 77 St a 51 St, 3 paradas, 5.5 min (pasa cada 3–5 min); 280 m a pie por Lexington hasta la 48.",
+     "minutes": 28,
+     "km": 1.3,
+     "sights": [
+      {
+       "name": "Harry F. Sinclair House (Ukrainian Institute)",
+       "text": "Fifth y la 79, esquina sudeste: mansión renacentista francesa de C. P. H. Gilbert (1897–1899). Fue de Isaac D. Fletcher, del petrolero Harry F. Sinclair y de descendientes de Peter Stuyvesant; desde 1955 es del Ukrainian Institute of America.",
+       "lat": 40.77666667,
+       "lng": -73.96361111,
+       "source": "https://en.wikipedia.org/wiki/Harry_F._Sinclair_House"
+      },
+      {
+       "name": "Lenox Hill Hospital",
+       "text": "Lexington entre la 76 y la 77: fundado en 1857 como German Dispensary, ocupa este solar desde 1869.",
+       "lat": 40.7736,
+       "lng": -73.9609,
+       "source": "https://en.wikipedia.org/wiki/Lenox_Hill_Hospital"
+      },
+      {
+       "name": "77 St: 4 Seasons Seasoned",
+       "text": "Mosaicos de vidrio de Robert Kushner (2004) en el entrepiso, sobre las escaleras: ramos de flores de las cuatro estaciones inspirados en la pintura holandesa y los biombos japoneses.",
+       "lat": 40.77362,
+       "lng": -73.959874,
+       "source": "https://www.mta.info/agency/arts-design/collection/4-seasons-seasoned"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -460,18 +1040,48 @@
       "reason": "otra-opción",
       "note": "Si queremos ver el Desfile de las Naciones, salimos del Met a las 16:00 y cruzamos el parque hasta la llegada (24 min). Miramos desde la tribuna hasta las 18:00 y vamos a pie al teatro (18 min). Suma unos 3.5 km y se pierde el descanso."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
     "time": "18:30",
     "place": "hadestown-walter-kerr",
     "title": "Hadestown en Broadway",
-    "note": "Función de las 19:00, 2 h 30 min con intervalo; termina cerca de las 21:30. Llegamos 30 min antes para entrar sin apuro y pasar por el baño.",
+    "note": "Función de las 19:00, 2 h 30 min con intervalo. Llegamos 18:30 para entrar sin apuro y pasar por el baño. En la vereda de enfrente está el Longacre, de 1913.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por la calle 48 hacia el oeste, de Lexington hasta entre Broadway y 8th Ave (1.3 km). Con piernas cansadas, taxi: 10–15 min con el tránsito del viernes.",
-     "minutes": 17
+     "detail": "Por la 48 hacia el oeste, de Lexington hasta entre Broadway y 8th Ave (1.25 km). Con piernas cansadas, taxi: son 2 km por calle.",
+     "minutes": 17,
+     "km": 1.25,
+     "sights": [
+      {
+       "name": "Helmsley Building",
+       "text": "Al cruzar Park Ave, mirando al sur: el ex New York Central Building (1927–1929, Warren & Wetmore), con dos portales por donde pasa el tránsito de Park Avenue. Detrás está Grand Central.",
+       "lat": 40.75444444,
+       "lng": -73.97583333,
+       "source": "https://en.wikipedia.org/wiki/Helmsley_Building"
+      },
+      {
+       "name": "James Earl Jones Theatre",
+       "text": "138 West 48th St: el ex Cort Theatre, de 1912, obra de Thomas W. Lamb. Fachada e interior son monumentos de la ciudad.",
+       "lat": 40.75916667,
+       "lng": -73.98305556,
+       "source": "https://en.wikipedia.org/wiki/James_Earl_Jones_Theatre"
+      },
+      {
+       "name": "Palace Theatre",
+       "text": "Al llegar a Seventh Ave, una cuadra al sur: el Palace (1913), teatro insignia del vodevil. En 2022 levantaron la sala entera 9 m para abrir locales debajo.",
+       "lat": 40.758842,
+       "lng": -73.984728,
+       "source": "https://en.wikipedia.org/wiki/Palace_Theatre_(New_York_City)"
+      },
+      {
+       "name": "Brill Building",
+       "text": "Una cuadra al norte, en Broadway y la 49: en 1962 funcionaban ahí 165 empresas de música y salieron compositores como Carole King y Neil Diamond. Sobre la entrada art déco hay un busto de Alan Lefcourt, hijo del constructor.",
+       "lat": 40.761136,
+       "lng": -73.984476,
+       "source": "https://www.atlasobscura.com/places/the-brill-building"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -494,18 +1104,27 @@
       "reason": "sin-entradas",
       "note": "Si todo está caro o agotado: el viernes abre 15:00–20:00 con hasta 50% de descuento; mirar TKTS Live antes para no hacer fila en vano."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
     "time": "21:45",
     "place": "joe-allen",
     "title": "Cena en Joe Allen",
-    "note": "Reserva a las 21:45. Abre hasta las 23:30, así que no corremos. Pedimos algo con carbohidratos (pappardelle o meatloaf con puré) y banana cream pie.",
+    "note": "Reserva a las 21:45. Pedimos pappardelle o meatloaf con puré y banana cream pie. Mientras esperamos, leemos los afiches: cada uno es un musical que bajó de cartel rápido.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por 8th Ave dos cuadras al sur hasta la 46 y media cuadra al oeste (0.4 km).",
-     "minutes": 5
+     "detail": "Por la 48 hasta 8th Ave, dos cuadras al sur por 8th hasta la 46 y media cuadra al oeste (400 m).",
+     "minutes": 5,
+     "km": 0.4,
+     "sights": [
+      {
+       "name": "Barbetta",
+       "text": "321 West 46th St, enfrente de Joe Allen: el restaurante más antiguo del Theater District, abierto en 1906. Cerró el 27 de febrero de 2026.",
+       "lat": 40.76027,
+       "lng": -73.98883,
+       "source": "https://en.wikipedia.org/wiki/Barbetta"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -518,21 +1137,50 @@
       "reason": "otra-opción",
       "note": "Brasserie francesa en 9th Ave y 44th, abierta hasta las 23:00; más tranquila si Joe Allen está lleno."
      }
-    ],
-    "_rewrite": false
+    ]
    },
    {
     "time": "23:10",
     "place": "hotel-lexington",
     "title": "Vuelta al hotel",
-    "note": "Nada de caminar de más: subte [E] o taxi y a dormir. El sábado es día de piernas quietas.",
+    "note": "Subte [E] o taxi, y a dormir. Al salir de Lexington Av/53 St bajamos por Lexington: en la esquina de la 52 está la rejilla de Marilyn, y una cuadra antes del hotel, el Waldorf.",
     "from_prev": {
      "mode": "subte",
-     "detail": "6 min a pie hasta 50 St (8th Ave); línea [E] hacia Queens, 3 paradas hasta Lexington Av/53 St; 7 min a pie hasta la 48. En taxi son unos 10 min.",
-     "minutes": 20
+     "detail": "Por la 46 y 8th Ave al norte hasta la 50 (450 m, 6 min); [E] hacia Jamaica Center de 50 St a Lexington Av/53 St, 3 paradas, 5.5 min (a esa hora pasa cada 8–12 min); salida a Lexington y la 53 y 560 m por Lexington al sur hasta la 48. En taxi son 1.6 km.",
+     "minutes": 25,
+     "km": 1.0,
+     "sights": [
+      {
+       "name": "Lexington Av/53 St: Passing Through",
+       "text": "Mosaico de vidrio de Al Held (2004) en la estación de la E: formas geométricas que flotan en un espacio de color.",
+       "lat": 40.757552,
+       "lng": -73.969055,
+       "source": "https://www.mta.info/agency/arts-design/collection/passing-through"
+      },
+      {
+       "name": "Citigroup Center",
+       "text": "Lexington y la 53, lado este: torre de 279 m apoyada sobre columnas, de 1977. Menos de un año después de terminada hubo que reforzarla porque un error de diseño la hacía vulnerable a vientos fuertes.",
+       "lat": 40.75861111,
+       "lng": -73.97027778,
+       "source": "https://en.wikipedia.org/wiki/Citigroup_Center"
+      },
+      {
+       "name": "La rejilla de Marilyn",
+       "text": "Esquina sudoeste de Lexington y la 52: la rejilla del subte de la escena de The Seven Year Itch, filmada el 15 de septiembre de 1954. No tiene placa.",
+       "lat": 40.757749,
+       "lng": -73.971466,
+       "source": "https://www.atlasobscura.com/places/marilyn-monroe-s-subway-grate"
+      },
+      {
+       "name": "Waldorf Astoria",
+       "text": "Lexington entre la 49 y la 50: el hotel art déco de 1931, de Schultze and Weaver, los mismos arquitectos de nuestro hotel. Reabrió en julio de 2025 después de una larga reforma.",
+       "lat": 40.75638889,
+       "lng": -73.97416667,
+       "source": "https://en.wikipedia.org/wiki/Waldorf_Astoria_New_York"
+      }
+     ]
     },
-    "alternatives": [],
-    "_rewrite": false
+    "alternatives": []
    }
   ],
   "tips": [
@@ -577,7 +1225,9 @@
   "date": "2026-10-30",
   "title": "Grand Central, arte y Broadway",
   "lede": "Arrancamos por Grand Central, a seis cuadras del hotel, y tomamos la 6 hasta la Frick Collection. Almorzamos pastrami en Pastrami Queen, por Lexington, y a la tarde vamos al Met. A la noche, Broadway: Hadestown, que tiene música, mitología y una puesta tremenda. Cenamos después de la función.",
-  "hero": "grand-central-terminal"
+  "hero": "grand-central-terminal",
+  "context": "El viernes une tres zonas con la línea 6. Arrancamos en Terminal City, el Midtown East de hoteles y oficinas que creció sobre las vías tapadas de Grand Central después de 1913, y donde está nuestro hotel. Tres paradas al norte empieza el Upper East Side de las mansiones sobre Fifth y Park: la Frick, la cuadra de Park y la 68, la casa Sinclair. Por las veredas comerciales de Madison y Lexington llegamos caminando al Met.\n\nA la tarde volvemos al hotel en subte y a la noche cruzamos Midtown a pie por la 48: Park Avenue, Fifth, Sixth y el Theater District, con el Walter Kerr entre Broadway y 8th Ave. La cena es en Restaurant Row, la cuadra de la 46 entre 8th y 9th Ave. En la calle caminamos unos 7.3 km, más lo que se recorre adentro de los museos.",
+  "km_walk": 7.3
  },
  {
   "blocks": [
@@ -585,14 +1235,51 @@
     "time": "07:30",
     "place": "trote-suave-central-park",
     "title": "Trote suave de la víspera (opcional)",
-    "note": "Unos 25 minutos muy suaves y cuatro aceleraciones cortas. Salimos del hotel por Madison Ave, entramos por 5th Ave y 60th St y usamos el lado este del parque. A las 8:15 estamos de vuelta, antes del Dash 5K.",
+    "note": "Unos 25 minutos muy suaves y cuatro aceleraciones cortas por East Drive. Ida por Madison y la 59; a las 8:15 estamos de vuelta. Si las piernas piden descanso, lo salteamos.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Trotando desde el hotel por Madison Ave hasta 5th Ave y 60th St (1.3 km)",
-     "minutes": 8
+     "detail": "Trotando suave: por la 49 hasta Madison, por Madison al norte hasta la 59 y por la 59 al oeste hasta Grand Army Plaza; entramos al parque por Fifth y la 60 (1.5 km).",
+     "minutes": 9,
+     "km": 1.5,
+     "sights": [
+      {
+       "name": "Villard Houses",
+       "text": "Madison entre la 50 y la 51: seis casas de 1884 de McKim, Mead & White para Henry Villard, presidente del Northern Pacific. Desde 1980 son parte del Lotte New York Palace; detrás asoma St. Patrick's.",
+       "lat": 40.75805556,
+       "lng": -73.97527778,
+       "source": "https://en.wikipedia.org/wiki/Villard_Houses"
+      },
+      {
+       "name": "550 Madison Avenue",
+       "text": "Madison entre la 55 y la 56: torre de granito rosa de Philip Johnson y John Burgee (1984), con un frontón partido que la prensa comparó con un mueble Chippendale.",
+       "lat": 40.76138889,
+       "lng": -73.97333333,
+       "source": "https://en.wikipedia.org/wiki/550_Madison_Avenue"
+      },
+      {
+       "name": "Ex Playboy Club",
+       "text": "5 East 59th St: desde diciembre de 1962 funcionó ahí el Playboy Club de Nueva York, al que se entraba con una llave numerada. Hoy es un edificio gris sin nada que lo recuerde.",
+       "lat": 40.764232,
+       "lng": -73.97222,
+       "source": "https://www.atlasobscura.com/places/the-former-home-of-new-york-s-playboy-club-new-york-new-york"
+      },
+      {
+       "name": "Fuente Pulitzer",
+       "text": "Grand Army Plaza, mitad sur: fuente de 1916 de Thomas Hastings con la Pomona de Karl Bitter. Joseph Pulitzer dejó USD 50,000 en su testamento para una fuente como las de la Place de la Concorde.",
+       "lat": 40.76403,
+       "lng": -73.97361,
+       "source": "https://en.wikipedia.org/wiki/Pulitzer_Fountain"
+      },
+      {
+       "name": "Monumento a Sherman",
+       "text": "Grand Army Plaza, mitad norte: el general a caballo detrás de una Victoria alada, bronce dorado de Augustus Saint-Gaudens inaugurado en 1903.",
+       "lat": 40.7645,
+       "lng": -73.9732,
+       "source": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman_(Saint-Gaudens)"
+      }
+     ]
     },
-    "alternatives": [],
-    "_rewrite": false
+    "alternatives": []
    },
    {
     "time": "09:45",
@@ -601,10 +1288,26 @@
     "alternatives": [],
     "from_prev": {
      "mode": "taxi",
-     "detail": "Del hotel a Central Park West y la calle 74",
-     "minutes": null
+     "detail": "Taxi del hotel a Central Park West y la 74: 3.6 km por calle. Sin tránsito son 7 min según el ruteo de OpenStreetMap; con el tránsito del sábado calculamos 15.",
+     "minutes": 15,
+     "sights": [
+      {
+       "name": "The San Remo",
+       "text": "Al bajar del taxi, entre la 74 y la 75: edificio de Emery Roth (1929–1930) con dos torres de 10 pisos sobre una base de 17.",
+       "lat": 40.77805556,
+       "lng": -73.975,
+       "source": "https://en.wikipedia.org/wiki/The_San_Remo"
+      },
+      {
+       "name": "The Dakota",
+       "text": "Dos cuadras al sur, en la 72: el edificio de departamentos de lujo más antiguo de la ciudad (1880–1884), de Henry Janeway Hardenbergh. John Lennon vivía ahí.",
+       "lat": 40.77666667,
+       "lng": -73.97638889,
+       "source": "https://en.wikipedia.org/wiki/The_Dakota"
+      }
+     ]
     },
-    "_rewrite": true
+    "note": "Solo si lo elegimos en el panel de NYRR: dejamos el bolso con la ropa seca para después de la llegada y seguimos a pie hacia el subte. La placa de Henry Bliss está en la esquina de la 74."
    },
    {
     "time": "10:45",
@@ -619,20 +1322,131 @@
     ],
     "from_prev": {
      "mode": "subte",
-     "detail": "Línea 1 de 72 St a South Ferry",
-     "minutes": null
+     "detail": "Por Central Park West dos cuadras al sur, frente al Dakota, y por la 72 al oeste hasta Broadway (740 m, 10 min); [1] de 72 St a South Ferry, 17 paradas, 26.5 min (el sábado a la mañana pasa cada 6–7 min); 170 m a pie por Peter Minuit Plaza hasta la terminal. En el ferry, 25 min por tramo.",
+     "minutes": 45,
+     "km": 0.9,
+     "sights": [
+      {
+       "name": "72 St: Laced Canopy",
+       "text": "En la claraboya del acceso nuevo de Verdi Square, Robert Hickman (2002) armó con más de un millón de fragmentos de vidrio unos nudos que forman la partitura de un pasaje de Rigoletto, de Verdi. La estación es de 1904, una de las 28 originales.",
+       "lat": 40.779,
+       "lng": -73.98186111,
+       "source": "https://www.mta.info/agency/arts-design/collection/laced-canopy"
+      },
+      {
+       "name": "Franklin St: Respect",
+       "text": "Cuando murió Aretha Franklin, en 2018, la MTA pegó carteles con la palabra \"Respect\" junto a los del nombre de la estación. En 2023 seguían ahí; los buscamos por la ventana cuando el tren para.",
+       "lat": 40.719001,
+       "lng": -74.006679,
+       "source": "https://www.atlasobscura.com/places/aretha-franklin-subway-tributes"
+      },
+      {
+       "name": "South Ferry: See it split, see it change",
+       "text": "En el entrepiso, vidrio fundido, mosaico de piedra y acero cortado a láser de los gemelos Doug y Mike Starn (2009): ramas de árboles y un mapa que superpone Manhattan actual y la antigua. Costó USD 1 millón.",
+       "lat": 40.7025,
+       "lng": -74.0128,
+       "source": "https://www.mta.info/agency/arts-design/collection/see-it-split-see-it-change"
+      },
+      {
+       "name": "Desde el ferry: Castle Williams",
+       "text": "A la izquierda, en Governors Island: fuerte circular de arenisca roja terminado en 1811, con lugar para 100 cañones. Nunca tuvo que disparar: los británicos no atacaron Nueva York en la guerra de 1812.",
+       "lat": 40.692778,
+       "lng": -74.019167,
+       "source": "https://www.atlasobscura.com/places/castle-williams"
+      },
+      {
+       "name": "Desde el ferry: Estatua de la Libertad",
+       "text": "A la derecha a la ida: la estatua de Bartholdi con estructura de Gustave Eiffel. Se inauguró el 28 de octubre de 1886; cumple 140 años el día que llegamos. Pisa una cadena rota y en la tabla lleva la fecha JULY IV MDCCLXXVI.",
+       "lat": 40.68916667,
+       "lng": -74.04444444,
+       "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+      },
+      {
+       "name": "Desde el ferry: Ellis Island",
+       "text": "Al norte de la estatua, pegada a Nueva Jersey: entre 1892 y 1954 pasaron por su estación de inmigración unos 12 millones de personas.",
+       "lat": 40.69944444,
+       "lng": -74.03972222,
+       "source": "https://en.wikipedia.org/wiki/Ellis_Island"
+      },
+      {
+       "name": "Desde el ferry: Robbins Reef Light",
+       "text": "Faro de 1883 sobre un arrecife frente a Bayonne. Kate Walker lo atendió sola desde la muerte de su marido, en 1886, hasta 1919, y llevaba a sus hijos a la escuela en bote.",
+       "lat": 40.65736444,
+       "lng": -74.06535472,
+       "source": "https://en.wikipedia.org/wiki/Robbins_Reef_Light"
+      },
+      {
+       "name": "Desde el ferry: puente Verrazzano",
+       "text": "Al fondo, hacia el sur: el puente colgante abrió el 21 de noviembre de 1964. Desde 1976 el maratón larga en su extremo de Staten Island; mañana lo cruzamos corriendo.",
+       "lat": 40.60638889,
+       "lng": -74.04555556,
+       "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge"
+      },
+      {
+       "name": "Postcards, St. George",
+       "text": "Al norte de la terminal de St. George: memorial de 2004 para los 274 vecinos de Staten Island muertos el 11 de septiembre de 2001 y en el atentado de 1993.",
+       "lat": 40.64666667,
+       "lng": -74.07638889,
+       "source": "https://en.wikipedia.org/wiki/Postcards_(memorial)"
+      }
+     ]
     },
-    "_rewrite": true
+    "note": "Tomamos el ferry de las 11:00 (los fines de semana sale uno cada 30 minutos, en punto y a y media) y a la ida vamos del lado derecho para ver la estatua y Ellis Island. En St. George se baja; volvemos en el de las 11:30 y a las 11:55 estamos en Whitehall. Sin pre-check, vamos del hotel con la [4] o la [5] de Grand Central a Bowling Green (12.5 min) y llegamos al de las 10:30."
    },
    {
     "time": "12:45",
     "place": "nom-wah-tea-parlor",
     "title": "Dim sum sentados en Nom Wah",
-    "note": "Parada sentada: ha gow, egg roll y fideos salteados. Nos anotamos en la puerta al llegar; llevamos efectivo.",
+    "note": "Nos anotamos en la puerta y pedimos ha gow, el egg roll de la casa y fideos salteados; llevamos efectivo. Al salir miramos el codo de Doyers, el Bloody Angle.",
     "from_prev": {
      "mode": "subte",
-     "detail": "Líneas R o W de Whitehall a Canal St",
-     "minutes": null
+     "detail": "250 m a pie de la terminal a Whitehall St–South Ferry; [R] hacia el norte hasta Canal St, 4 paradas, 8.5 min (el sábado la [W] no corre y la [R] pasa cada 12 min). Salida por Canal y Broadway y 900 m a pie: por Canal al este hasta Mott, por Mott al sur hasta Pell y por Pell hasta Doyers.",
+     "minutes": 32,
+     "km": 1.1,
+     "sights": [
+      {
+       "name": "Whitehall St: Passages",
+       "text": "Relieves y mosaicos cerámicos de Frank Giorgini (2000) que retroceden en el tiempo: la ciudad actual, los vapores, Nueva Ámsterdam y el paisaje anterior a la colonia, con peces y marismas.",
+       "lat": 40.703087,
+       "lng": -74.012994,
+       "source": "https://www.mta.info/agency/arts-design/collection/passages"
+      },
+      {
+       "name": "Canal St: mosaicos del canal y Empress Voyage",
+       "text": "Los mosaicos originales de los andenes de la R recuerdan el canal que corría por la calle, según un dibujo de 1796, y hay placas con los caracteres de \"dinero\" y \"suerte\". Bing Lee sumó en 1998 teteras y signos chinos por el viaje del Empress of China de 1784.",
+       "lat": 40.719527,
+       "lng": -74.001775,
+       "source": "https://www.mta.info/agency/arts-design/collection/empress-voyage-2-22-1784"
+      },
+      {
+       "name": "Museum of Chinese in America",
+       "text": "Media cuadra al norte de Canal, sobre Centre St: museo diseñado por Maya Lin, con una recreación de un almacén chino de otra época.",
+       "lat": 40.719388,
+       "lng": -73.999088,
+       "source": "https://www.atlasobscura.com/places/museum-of-chinese-in-america"
+      },
+      {
+       "name": "Chinatown Ice Cream Factory",
+       "text": "Bayard St, a metros de Mott: heladería familiar abierta en 1978 por Philip Seid, con sabores como pandan, lichi y sésamo negro.",
+       "lat": 40.715387,
+       "lng": -73.998156,
+       "source": "https://www.atlasobscura.com/places/chinatown-ice-cream-factory"
+      },
+      {
+       "name": "Edward Mooney House",
+       "text": "18 Bowery, en la esquina de Pell: la casa en hilera más antigua de la ciudad, de 1785–1789. Fue taberna, burdel, hotel y el saloon de Chuck Connors, el \"alcalde de Chinatown\".",
+       "lat": 40.71462,
+       "lng": -73.997442,
+       "source": "https://www.atlasobscura.com/places/edward-mooney-house"
+      },
+      {
+       "name": "Bloody Angle",
+       "text": "El codo de Doyers Street, escenario de las guerras entre tongs a principios del siglo XX.",
+       "lat": 40.714427,
+       "lng": -73.998102,
+       "source": "https://www.atlasobscura.com/places/chinatown-s-bloody-angle"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -645,8 +1459,7 @@
       "reason": "otra-opción",
       "note": "Bollos de cerdo para llevar, a una cuadra: la merienda del hotel."
      }
-    ],
-    "_rewrite": true
+    ]
    },
    {
     "time": "14:15",
@@ -655,10 +1468,41 @@
     "alternatives": [],
     "from_prev": {
      "mode": "subte",
-     "detail": "Línea 6 de Canal St a 51 St",
-     "minutes": null
+     "detail": "Por Doyers, Pell y Mott hasta Bayard, por Bayard al oeste hasta Columbus Park y por Mulberry y Canal hasta Lafayette (730 m, 10 min); entramos por las esquinas del lado este, las del andén uptown. [6] de Canal St a 51 St, 9 paradas, 13.5 min (pasa cada 6 min); 280 m a pie por Lexington hasta la 48.",
+     "minutes": 32,
+     "km": 1.0,
+     "sights": [
+      {
+       "name": "Columbus Park (Mulberry Bend)",
+       "text": "El parque de Calvert Vaux ocupa el centro de Five Points, el barrio del siglo XIX con la tasa de homicidios más alta del mundo. Hoy se juega a las cartas y al básquet.",
+       "lat": 40.715142,
+       "lng": -73.999439,
+       "source": "https://www.atlasobscura.com/places/the-mulberry-bend"
+      },
+      {
+       "name": "Canal St: placas del arroyo",
+       "text": "En los andenes de la 6 hay placas de terracota de 1904 con una casita junto a un puente sobre un arroyo, recuerdo del canal que le dio nombre a la calle.",
+       "lat": 40.718803,
+       "lng": -74.000193,
+       "source": "https://en.wikipedia.org/wiki/Canal_Street_station_(New_York_City_Subway)"
+      },
+      {
+       "name": "Astor Place: los castores",
+       "text": "Por la ventana: las placas de cerámica con castores, por la fortuna que John Jacob Astor hizo con las pieles de castor; se restauraron en 1984–1986. La MTA rechazó que Milton Glaser pusiera castores en su obra porque parecían ratas.",
+       "lat": 40.72972222,
+       "lng": -73.99166667,
+       "source": "https://en.wikipedia.org/wiki/Astor_Place_station"
+      },
+      {
+       "name": "La estación fantasma de la 18",
+       "text": "Entre 14 St y 23 St, por la ventana: una estación de 1904 cerrada el 8 de noviembre de 1948 cuando alargaron los andenes de la 23. Se ve pasar a oscuras y con grafiti.",
+       "lat": 40.737177,
+       "lng": -73.988593,
+       "source": "https://www.atlasobscura.com/places/abandoned-18th-street-subway-station"
+      }
+     ]
     },
-    "_rewrite": true
+    "note": "Piernas arriba y armado del kit del domingo: dorsal, geles, bolsa oficial y ropa descartable para la largada."
    },
    {
     "time": "17:30",
@@ -671,17 +1515,48 @@
       "note": "Clásico de 1884 a cinco cuadras del hotel, si Rosemary's no tiene mesa."
      }
     ],
-    "_rewrite": true
+    "note": "Mesa a las 17:30: pasta simple, pan y agua, nada frito ni picante. Así llegamos al desfile o a la cama temprano.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la 48 hasta Third Avenue y dos cuadras al norte hasta la 50 (310 m).",
+     "minutes": 4,
+     "km": 0.3,
+     "sights": []
+    }
    },
    {
     "time": "19:15",
     "place": "village-halloween-parade",
     "title": "Un rato del desfile del Village (opcional)",
-    "note": "Bajamos en Spring St (línea [6]) y caminamos 800 m por Prince St hasta la 6th Ave, lado este, frente a King St. Miramos 30–40 minutos y volvemos por el mismo camino a Spring St: la 6 va directo a 51 St, a tres cuadras del hotel.",
+    "note": "Vamos al extremo norte, en Sixth Ave y la 15, del lado este. La cabecera sale de King St a las 19:00 y tarda en llegar hasta acá; miramos 30–40 minutos y volvemos por el mismo camino.",
     "from_prev": {
      "mode": "subte",
-     "detail": "Línea 6 hasta 14 St–Union Sq",
-     "minutes": null
+     "detail": "240 m a pie hasta 51 St; [6] hacia el sur hasta 14 St–Union Sq, 5 paradas, 7.5 min (pasa cada 6 min); salida a Union Square West y 730 m a pie por la 14 hasta Sixth Ave y una cuadra al norte hasta la 15.",
+     "minutes": 25,
+     "km": 1.0,
+     "sights": [
+      {
+       "name": "Union Sq: las plataformas que se mueven",
+       "text": "Bajamos en el andén downtown, el único de la ciudad que todavía usa gap fillers: plataformas hidráulicas que salen al llegar el tren para tapar el hueco de la curva del andén de 1904. Se oye el golpe.",
+       "lat": 40.734563,
+       "lng": -73.990313,
+       "source": "https://www.atlasobscura.com/places/14th-street-union-square-moving-platforms"
+      },
+      {
+       "name": "Framing Union Square",
+       "text": "Marcos rojos de Mary Miss (1998) señalan restos de la estación original, entre ellos águilas de terracota con escudos que llevan el número 14.",
+       "lat": 40.735682,
+       "lng": -73.99052,
+       "source": "https://www.atlasobscura.com/places/remains-of-the-union-square-subway"
+      },
+      {
+       "name": "Metronome",
+       "text": "En el lado sur de la plaza: obra de Kristin Jones y Andrew Ginzel (1999) con 15 dígitos; a la izquierda, la hora, y a la derecha, lo que falta para la medianoche. Desde 2020 también se usa como reloj climático.",
+       "lat": 40.734618,
+       "lng": -73.990272,
+       "source": "https://www.atlasobscura.com/places/union-square-metronome"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -689,62 +1564,50 @@
       "reason": "cansados",
       "note": "El desfile lo transmite NY1 desde las 20:00: lo vemos desde la cama."
      }
-    ],
-    "_rewrite": true
+    ]
    },
    {
     "time": "21:00",
     "place": "hotel-lexington",
     "title": "A dormir temprano",
     "alternatives": [],
-    "note": "Dejamos todo listo sobre una silla: dorsal prendido, geles, ropa descartable para la largada. Esta noche se atrasa el reloj una hora.",
-    "_rewrite": true
+    "note": "Dejamos todo listo sobre una silla: dorsal prendido, geles, ropa descartable. Esta madrugada termina el horario de verano: a las 2:00 vuelve a ser la 1:00; el celular se ajusta solo, el reloj de carrera y el despertador hay que revisarlos.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "730 m a pie de vuelta a 14 St–Union Sq; [6] hacia el norte hasta 51 St, 5 paradas, 7.5 min (entre las 20:00 y las 21:30 pasa cada 6–8 min); 280 m a pie hasta el hotel.",
+     "minutes": 26,
+     "km": 1.0,
+     "sights": [
+      {
+       "name": "George Washington a caballo",
+       "text": "Punta sur de Union Square: estatua de Henry Kirke Brown inaugurada en 1856, la primera escultura ecuestre de bronce de Estados Unidos.",
+       "lat": 40.7353762,
+       "lng": -73.990695,
+       "source": "https://en.wikipedia.org/wiki/Union_Square,_Manhattan"
+      }
+     ]
+    }
    }
   ],
   "tips": [
-   "Kilómetros honestos: el plan como está escrito suma unos 16 km a pie (puente ida y vuelta, desfile, subte solo de MoMA a Chinatown y de City Hall a Spring St), más 2.5 horas de pie en MoMA. Si del puente caminamos hasta el desfile son unos 18 km, y si además vamos a pie de MoMA a Chinatown, unos 22 km.",
-   "Versión piernas frescas (unos 12 km): trote de 20 minutos o nada; Grand Central 30 minutos; MoMA 2 horas con la lista; línea [6] a Chinatown y solo tres paradas (Mei Lai Wah, Xi'an y Nom Wah sentados); puente solo de ida; en DUMBO, foto de Washington St y directo a los escalones de Pier 1; ferry de 18:31 o 18:44 a East 34th St y taxi; cena 19:15 en Rosemary's; desfile 30 minutos en la 6th Ave y la calle 15 (línea [6] hasta 14 St–Union Sq y 750 m a pie) o por NY1 desde el hotel.",
-   "Versión mínima (unos 9 km): la de piernas frescas, pero con la línea [F] de East Broadway a York St en lugar del puente y el desfile por televisión (NY1 lo transmite desde las 20:00).",
-   "El almuerzo en Chinatown es la carga de carbohidratos fuerte: fideos, dumplings y bollos. Pedimos todo sin picante y evitamos lo frito; la cena de pasta completa el día.",
    "Esa noche se atrasa el reloj: el domingo 1 de noviembre a las 2:00 vuelve a ser la 1:00. Ganamos una hora de sueño; los celulares se ajustan solos, el despertador y el reloj de carrera hay que revisarlos.",
-   "Si el número no está retirado: la Expo del Javits cierra el sábado a las 17:00 y el turno de retiro se elige hasta las 16:00. En ese caso la tarde en DUMBO no entra.",
-   "Pasaje del ferry: comprarlo en la app NYC Ferry antes de llegar al muelle. Efectivo para Nom Wah y Mei Lai Wah.",
    "Para el río y la noche del desfile, una capa extra en la mochila."
   ],
   "reservations": [
    {
-    "what": "Entradas MoMA, sábado 10:30",
-    "place": "moma",
-    "deadline": "2026-10-24",
-    "url": "https://visit.moma.org/select",
-    "note": "La muestra de Brancusi abre el 25 de octubre: el sábado siguiente va a haber gente."
-   },
-   {
-    "what": "Cena Cecconi's 18:30 (plan original)",
-    "place": "cecconis-dumbo",
-    "deadline": "2026-10-10",
-    "url": "https://www.cecconisrestaurants.com/dumbo/",
-    "note": "Pedir mesa con vista a los puentes."
-   },
-   {
-    "what": "Cena Rosemary's 19:15 (versión piernas frescas)",
+    "what": "Cena en Rosemary's Midtown, sábado 17:30 para 2",
     "place": "rosemarys-midtown",
     "deadline": "2026-10-10",
     "url": "https://resy.com/cities/new-york-ny/venues/rosemarys-midtown",
     "note": "Si reservamos las dos cenas, revisar la política de cancelación y liberar una el mismo sábado según cómo estén las piernas."
-   },
-   {
-    "what": "Summit One Vanderbilt 17:00 (solo si hay pronóstico de lluvia)",
-    "place": "summit-one-vanderbilt",
-    "deadline": "2026-10-29",
-    "url": "https://summitov.com/tickets/",
-    "note": "Decidir con el pronóstico del jueves; los turnos del atardecer se agotan."
    }
   ],
   "date": "2026-10-31",
   "title": "Sábado liviano y Halloween",
   "lede": "La víspera de la maratón caminamos poco. Ida y vuelta en el ferry de Staten Island, sentados y con la Estatua de la Libertad a un costado; dim sum en Chinatown; tarde de piernas arriba en el hotel y pasta temprano. Esa noche es Halloween: si hay ganas, nos asomamos un rato al desfile del Village y volvemos a dormir.",
-  "hero": "village-halloween-parade"
+  "hero": "village-halloween-parade",
+  "context": "El sábado usamos el subte para casi todo. La línea 1 baja por el West Side desde Central Park West hasta la punta de Manhattan, donde empezó la ciudad holandesa: Whitehall, Peter Minuit Plaza y el muelle del ferry. Desde el agua se ven la Estatua de la Libertad, Ellis Island, Governors Island y, al fondo, el Verrazzano, donde larga el maratón.\n\nDe vuelta, la [R] sube hasta Canal Street, el borde de Chinatown, que nació en Mott, Pell y Doyers al este de Five Points. La tarde es de hotel en Turtle Bay y la noche termina en Union Square y la Sixth Avenue del desfile. A pie son unos 5.4 km en tramos de menos de 1 km (3.7 km si salteamos el desfile), más los pasillos de las terminales del ferry y el trote opcional de la mañana.",
+  "km_walk": 5.4
  },
  {
   "blocks": [
@@ -760,11 +1623,35 @@
     "time": "05:30",
     "place": "nypl-marathon-buses",
     "title": "Daniela: micro oficial en la Biblioteca",
-    "note": "NYRR pide llegar 15 min antes de la salida asignada. Hay baños en la zona de carga y no en los micros. Todavía es de noche: amanece a las 06:25.",
+    "note": "NYRR pide llegar 15 min antes de la salida asignada. Hay baños en la zona de carga y no en los micros. Todavía es de noche (amanece a las 06:25) y los leones de la Biblioteca nos despiden.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por la 48th al oeste hasta Fifth Ave y al sur hasta la 41st.",
-     "minutes": 13
+     "detail": "Por la 48 al oeste hasta Madison, por Madison al sur hasta la 41 y por la 41 (Library Way) hasta Fifth Ave. Los micros cargan sobre Fifth, a la altura de la 40.",
+     "minutes": 15,
+     "km": 1.1,
+     "sights": [
+      {
+       "name": "Helmsley Building",
+       "text": "Al cruzar Park Avenue miramos al sur: el Helmsley Building (1927–1929, Warren & Wetmore) deja pasar el tránsito de Park Avenue por dos portales en su base.",
+       "lat": 40.754444,
+       "lng": -73.975833,
+       "source": "https://en.wikipedia.org/wiki/Helmsley_Building"
+      },
+      {
+       "name": "Library Way",
+       "text": "En las veredas de la 41 hay 96 placas de bronce con citas de escritores, diseñadas por Gregg LeFevre. Las primeras, de Bacon, Dickinson y Woolf, se pusieron en 2002.",
+       "lat": 40.7526,
+       "lng": -73.9807,
+       "source": "https://en.wikipedia.org/wiki/New_York_Public_Library_Main_Branch"
+      },
+      {
+       "name": "Patience y Fortitude",
+       "text": "Los leones de mármol de la escalinata: Patience a la izquierda, Fortitude a la derecha. Los rebautizó La Guardia en los años 30.",
+       "lat": 40.75306,
+       "lng": -73.98194,
+       "source": "https://en.wikipedia.org/wiki/New_York_Public_Library_Main_Branch"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -789,8 +1676,24 @@
     "note": "Control con detector de metales, baño y café. La ola 1 abre corrales a las 08:10 y los cierra a las 08:45. Dejar el abrigo en los contenedores de donación justo antes de entrar al corral.",
     "from_prev": {
      "mode": "bus",
-     "detail": "Daniela: micro oficial desde la Biblioteca directo a Fort Wadsworth (NYRR estima 90 min con esperas).",
-     "minutes": 90
+     "detail": "Daniela: micro oficial de NYRR desde Fifth Ave y la 40 directo a Fort Wadsworth. NYRR estima 90 min con esperas y no publica el recorrido; la llegada es de día.",
+     "minutes": 90,
+     "sights": [
+      {
+       "name": "Verrazzano-Narrows Bridge",
+       "text": "Las torres de 211 m se ven desde toda la villa. El puente abrió el 21 de noviembre de 1964 y su tramo central, de 1,298 m, fue el más largo del mundo hasta 1981.",
+       "lat": 40.606389,
+       "lng": -74.045556,
+       "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge"
+      },
+      {
+       "name": "Ruinas de Fort Wadsworth",
+       "text": "Las baterías de piedra del fuerte que custodió The Narrows desde el siglo XVII, hoy parque nacional; en la costa, bajo el puente, está Battery Weed.",
+       "lat": 40.603592,
+       "lng": -74.058809,
+       "source": "https://www.atlasobscura.com/places/fort-wadsworth"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -801,8 +1704,53 @@
     "note": "Llegar 15 min antes del horario asignado. El ferry cruza a St. George y ahí siguen micros oficiales a Fort Wadsworth; NYRR calcula 90 min en total.",
     "from_prev": {
      "mode": "subte",
-     "detail": "A pie a Grand Central–42 St (7 min), línea [4] o [5] downtown hasta Bowling Green y 5 min a pie hasta la terminal.",
-     "minutes": 40
+     "detail": "A pie 7 min por Lexington hasta Grand Central–42 St (0.55 km). Línea [4] o [5] downtown hasta Bowling Green: 5 paradas (14 St–Union Sq, Brooklyn Bridge–City Hall, Fulton St, Wall St, Bowling Green). Salimos a Bowling Green y caminamos 5 min por State St hasta la terminal (0.4 km).",
+     "minutes": 40,
+     "km": 1.0,
+     "sights": [
+      {
+       "name": "Mosaicos de Jackie Ferrara (Grand Central–42 St)",
+       "text": "Arcos, torres y pirámides en cerámica que forman un horizonte subterráneo a lo largo de más de 450 m de andén y escaleras de la línea Lexington.",
+       "lat": 40.752222,
+       "lng": -73.9775,
+       "source": "https://www.mta.info/agency/arts-design/collection/grand-central-arches-towers-pyramids"
+      },
+      {
+       "name": "Charging Bull",
+       "text": "El toro de bronce de 3,200 kg que Arturo Di Modica dejó sin permiso frente a la Bolsa la noche del 14 de diciembre de 1989. La policía se lo llevó y el 20 de diciembre la ciudad lo reinstaló acá.",
+       "lat": 40.705576,
+       "lng": -74.013421,
+       "source": "https://en.wikipedia.org/wiki/Charging_Bull"
+      },
+      {
+       "name": "La reja más vieja de Nueva York",
+       "text": "La reja de hierro de Bowling Green es de 1771. El 9 de julio de 1776 los Sons of Liberty derribaron la estatua de Jorge III y cortaron las coronas de los postes: las marcas de sierra se ven todavía.",
+       "lat": 40.704926,
+       "lng": -74.013671,
+       "source": "https://www.atlasobscura.com/places/the-oldest-fence-in-new-york-new-york-new-york"
+      },
+      {
+       "name": "Alexander Hamilton U.S. Custom House",
+       "text": "La aduana de Cass Gilbert (1902–1907), sobre el sitio de Fort Amsterdam. Las cuatro estatuas de los continentes de la escalinata son de Daniel Chester French; adentro, la rotonda tiene murales de Reginald Marsh.",
+       "lat": 40.704167,
+       "lng": -74.013611,
+       "source": "https://www.atlasobscura.com/places/wpa-murals-of-the-alexander-us-custom-house"
+      },
+      {
+       "name": "Number One Broadway",
+       "text": "Fue sede de la naviera de J. P. Morgan que incluía a la White Star Line, la del Titanic. El banco de la planta baja conserva dos puertas: First Class y Cabin Class.",
+       "lat": 40.704944,
+       "lng": -74.014535,
+       "source": "https://www.atlasobscura.com/places/number-one-broadway"
+      },
+      {
+       "name": "Estatua de Giovanni da Verrazzano",
+       "text": "A 150 m, en Battery Park, el bronce de Ettore Ximenes de 1909 recuerda al navegante que da nombre al puente de la largada.",
+       "lat": 40.70438,
+       "lng": -74.016381,
+       "source": "https://en.wikipedia.org/wiki/Giovanni_da_Verrazzano"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -820,7 +1768,16 @@
     "from_prev": {
      "mode": "a pie",
      "detail": "Del corral a la línea de largada al pie del puente.",
-     "minutes": 10
+     "minutes": 10,
+     "sights": [
+      {
+       "name": "Battery Weed",
+       "text": "Abajo, junto al agua, la batería de cuatro niveles que se construyó con el nombre de Fort Richmond. Enfrente, del lado de Brooklyn, está Fort Hamilton.",
+       "lat": 40.605278,
+       "lng": -74.054722,
+       "source": "https://en.wikipedia.org/wiki/Battery_Weed"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -831,8 +1788,45 @@
     "note": "Con ola 4 el corral abre a las 10:25 y cierra a las 10:40. Hay tiempo para baño, café y mirar en la app por dónde va Daniela.",
     "from_prev": {
      "mode": "ferry",
-     "detail": "Matías: ferry a St. George y micro oficial a Fort Wadsworth.",
-     "minutes": 90
+     "detail": "Matías: Staten Island Ferry de Whitehall a St. George, 8.4 km y unos 25 min. En St. George, micro oficial de NYRR hasta Fort Wadsworth. NYRR calcula 90 min en total.",
+     "minutes": 90,
+     "sights": [
+      {
+       "name": "Governors Island y Castle Williams",
+       "text": "A la izquierda al salir: el fuerte circular de arenisca roja de 1807–1811. En 1909 Wilbur Wright despegó de esta isla para el primer vuelo sobre agua del mundo.",
+       "lat": 40.692778,
+       "lng": -74.019167,
+       "source": "https://en.wikipedia.org/wiki/Castle_Williams"
+      },
+      {
+       "name": "Estatua de la Libertad",
+       "text": "A la derecha. Se inauguró el 28 de octubre de 1886: el día que llegamos cumplió 140 años.",
+       "lat": 40.689167,
+       "lng": -74.044444,
+       "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+      },
+      {
+       "name": "Ellis Island",
+       "text": "Detrás de la estatua. Entre 1892 y 1954 pasaron por acá unos 12 millones de inmigrantes; dos de cada cinco estadounidenses podrían descender de ellos.",
+       "lat": 40.699444,
+       "lng": -74.039722,
+       "source": "https://en.wikipedia.org/wiki/Ellis_Island"
+      },
+      {
+       "name": "Robbins Reef Light",
+       "text": "El faro de 1883 a la derecha, frente a Bayonne. Kate Walker lo atendió sola de 1886 a 1919 después de enviudar y llevaba a sus hijos a la escuela en bote.",
+       "lat": 40.657364,
+       "lng": -74.065355,
+       "source": "https://en.wikipedia.org/wiki/Robbins_Reef_Light"
+      },
+      {
+       "name": "National Lighthouse Museum",
+       "text": "Junto a la terminal de St. George, en el viejo depósito que abastecía a los faros del noreste; muestra lentes Fresnel.",
+       "lat": 40.640791,
+       "lng": -74.073486,
+       "source": "https://www.atlasobscura.com/places/national-lighthouse-museum"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -844,7 +1838,16 @@
     "from_prev": {
      "mode": "a pie",
      "detail": "Del corral a la línea de largada.",
-     "minutes": 10
+     "minutes": 10,
+     "sights": [
+      {
+       "name": "Verrazzano-Narrows Bridge",
+       "text": "Los corredores usan los dos lados del tablero superior y el lado oeste del inferior. Por la curvatura de la Tierra, las torres están 4.1 cm más separadas arriba que abajo.",
+       "lat": 40.606389,
+       "lng": -74.045556,
+       "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -855,8 +1858,38 @@
     "note": "Con ola 1 (09:10) y 3:30–4:00 de carrera, cruza entre 12:40 y 13:25 según cuánto tarde en pasar la largada. Con ola 2 (09:45), entre 13:15 y 14:00. Medalla, poncho y bolsa de recuperación.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Daniela: los 42.195 km por Staten Island, Brooklyn, Queens, el Bronx y Manhattan.",
-     "minutes": 225
+     "detail": "Daniela: los 42.195 km por Staten Island, Brooklyn, Queens, el Bronx y Manhattan. Acá van hitos de la primera mitad; los de la segunda, en la llegada de Matías.",
+     "minutes": 225,
+     "sights": [
+      {
+       "name": "Swinburne Island",
+       "text": "Desde el puente, hacia mar abierto: Swinburne y Hoffman son islas artificiales de la década de 1870 para la cuarentena de inmigrantes. Hoy viven casi 100 focas.",
+       "lat": 40.565873,
+       "lng": -74.050024,
+       "source": "https://www.atlasobscura.com/places/swinburne-island"
+      },
+      {
+       "name": "La comisaría 68 de Sunset Park",
+       "text": "Sobre Fourth Avenue y la 43 (km 7.9), un castillo de 1892 de Emile Gruwe, pensado para que un delincuente \"se quedara horrorizado\" al verlo. La policía lo dejó en 1970.",
+       "lat": 40.650388,
+       "lng": -74.008965,
+       "source": "https://www.atlasobscura.com/places/i-fought-the-law-and-the-precinct-caved-in"
+      },
+      {
+       "name": "Reloj de Bomelstein's",
+       "text": "En Manhattan Avenue, Greenpoint (km 19.6), el único reloj de vereda que sobrevive en Brooklyn, instalado hacia 1900. La joyería se fue en los 80.",
+       "lat": 40.726246,
+       "lng": -73.952298,
+       "source": "https://www.atlasobscura.com/places/bomelsteins-jewelers-clock"
+      },
+      {
+       "name": "Pulaski Bridge",
+       "text": "Media maratón. Puente levadizo de 1954 que cruza Newtown Creek, pintado en Pulaski Red, uno de los siete colores oficiales del DOT.",
+       "lat": 40.73923,
+       "lng": -73.952616,
+       "source": "https://www.atlasobscura.com/places/pulaski-bridge-1"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -867,8 +1900,39 @@
     "note": "Seguir por Central Park West y dejar la zona exclusiva por W 74th St. Mandar un mensaje apenas haya señal: adentro de la zona suele no haber.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Caminata por dentro del parque desde la meta hasta la salida de W 77th St.",
-     "minutes": 25
+     "detail": "Caminata por dentro del parque desde la meta, por el West Drive hacia el norte, hasta la salida de W 77th St (1 km sin gente; con la multitud, 20–30 min).",
+     "minutes": 25,
+     "km": 1.0,
+     "sights": [
+      {
+       "name": "Tavern on the Green",
+       "text": "El corral de ovejas de 1870, de Calvert Vaux y Jacob Wrey Mould, restaurante desde 1934. La primera carrera, en 1970, largó y terminó acá.",
+       "lat": 40.7723,
+       "lng": -73.9778,
+       "source": "https://en.wikipedia.org/wiki/Tavern_on_the_Green"
+      },
+      {
+       "name": "Sheep Meadow",
+       "text": "A la derecha. Hasta 1934 pastaban ovejas Southdown y un pastor cortaba el tránsito dos veces por día para cruzarlas.",
+       "lat": 40.771944,
+       "lng": -73.975,
+       "source": "https://en.wikipedia.org/wiki/Sheep_Meadow"
+      },
+      {
+       "name": "Strawberry Fields",
+       "text": "El memorial de John Lennon con el mosaico Imagine, a la altura de la 72, frente al Dakota.",
+       "lat": 40.775556,
+       "lng": -73.974722,
+       "source": "https://www.atlasobscura.com/places/strawberry-fields-memorial"
+      },
+      {
+       "name": "The Dakota",
+       "text": "El edificio de 1880–1884 donde vivía Lennon, sobre Central Park West y la 72. Lo diseñó Henry J. Hardenbergh, el mismo del Plaza.",
+       "lat": 40.776667,
+       "lng": -73.976389,
+       "source": "https://en.wikipedia.org/wiki/The_Dakota"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -885,8 +1949,53 @@
     "note": "Queda cerca de una hora y media en el hotel. Seguir a Matías en la app NYRR: su tiempo estimado de llegada marca cuándo salir. Preparar una bolsa chica con buzo, campera y zapatillas secas para él.",
     "from_prev": {
      "mode": "subte",
-     "detail": "A pie a 72 St (Broadway), línea [2] o [3] una parada hasta Times Sq–42 St, shuttle S a Grand Central y 5 cuadras por Lexington.",
-     "minutes": 35
+     "detail": "A pie por Central Park West hasta la 74 y por la 74 al oeste hasta Broadway; la estación 72 St está en Verdi Square (0.9 km). Línea [2] o [3] una parada hasta Times Sq–42 St, shuttle [S] hasta Grand Central y 7 min a pie por Lexington (0.55 km).",
+     "minutes": 35,
+     "km": 1.5,
+     "sights": [
+      {
+       "name": "Placa de Henry Bliss",
+       "text": "En Central Park West y la 74: acá murió en 1899 el primer peatón atropellado por un auto en el hemisferio occidental. Fue un 13 de septiembre, como el primer maratón.",
+       "lat": 40.777535,
+       "lng": -73.974938,
+       "source": "https://www.atlasobscura.com/places/henry-bliss-plaque"
+      },
+      {
+       "name": "72 St y Laced Canopy",
+       "text": "La casilla de 1904 es una de las 28 estaciones originales del subte. En la nueva, de 2002, el tragaluz Laced Canopy de Robert Hickman esconde en sus nudos notas de Rigoletto de Verdi.",
+       "lat": 40.779,
+       "lng": -73.981861,
+       "source": "https://www.mta.info/agency/arts-design/collection/laced-canopy"
+      },
+      {
+       "name": "Times Square Mural, de Roy Lichtenstein",
+       "text": "Un panel de porcelana esmaltada de 16 m, en el centro de la estación, con un subte futurista en forma de bala cruzando Times Square.",
+       "lat": 40.755919,
+       "lng": -73.986717,
+       "source": "https://www.atlasobscura.com/places/lichtenstein-subway-mural"
+      },
+      {
+       "name": "New York in Transit, de Jacob Lawrence",
+       "text": "El mosaico de vidrio que muestra la ciudad vista desde un tren elevado es el centro del mezzanine de Times Sq–42 St.",
+       "lat": 40.756,
+       "lng": -73.987,
+       "source": "https://www.mta.info/agency/arts-design/collection/new-york-in-transit"
+      },
+      {
+       "name": "La puerta del Knickerbocker",
+       "text": "Al final del andén del Track 1 del shuttle, una puerta blanca con un cartel gastado, KNICKERBOCKER, daba al bar del hotel del mismo nombre.",
+       "lat": 40.755583,
+       "lng": -73.987917,
+       "source": "https://www.atlasobscura.com/places/the-secret-entrance-to-the-knickerbocker-hotel-new-york-new-york"
+      },
+      {
+       "name": "El primer subte",
+       "text": "El shuttle corre por las vías de 1904: la primera línea subía por Park Avenue, doblaba por la 42 y seguía por Broadway. En 1918 se separaron los dos troncos y quedó este tramo.",
+       "lat": 40.7539,
+       "lng": -73.9812,
+       "source": "https://en.wikipedia.org/wiki/42nd_Street_Shuttle"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -903,8 +2012,52 @@
     "note": "Con ola 4 (10:55) y 4:30–5:00 de carrera, cruza entre 15:25 y 16:10. Con ola 3, entre 14:50 y 15:35; con ola 5, entre 16:00 y 16:45. El sol se pone a las 16:53.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Matías: los 42.195 km por los cinco distritos.",
-     "minutes": 285
+     "detail": "Matías: los 42.195 km por los cinco distritos. Acá van hitos de la segunda mitad, desde el Queensboro.",
+     "minutes": 285,
+     "sights": [
+      {
+       "name": "Queensboro Bridge",
+       "text": "Se corre por el tablero inferior del puente de 1909, el de \"The 59th Street Bridge Song\" de Simon & Garfunkel y el que aparece en El gran Gatsby.",
+       "lat": 40.7569,
+       "lng": -73.9547,
+       "source": "https://en.wikipedia.org/wiki/Queensboro_Bridge"
+      },
+      {
+       "name": "Roosevelt Island Tramway",
+       "text": "Junto al puente corren las cabinas del teleférico a Roosevelt Island, uno de los dos teleféricos de pasajeros urbanos del país. Hasta 1957 a la isla se llegaba en tranvía por este puente.",
+       "lat": 40.757303,
+       "lng": -73.954103,
+       "source": "https://www.atlasobscura.com/places/roosevelt-island-tramway"
+      },
+      {
+       "name": "Willis Avenue Bridge",
+       "text": "El puente giratorio al Bronx de la milla 20, apodado \"el muro\". En 2026 el tramo del Bronx cambia por primera vez en 15 años.",
+       "lat": 40.803611,
+       "lng": -73.929167,
+       "source": "https://www.nyrr.org/tcsnycmarathon/the-course"
+      },
+      {
+       "name": "Collyer Brothers Park",
+       "text": "En Fifth Avenue y la 128, el parquecito que existe por los hermanos Collyer, dos acumuladores compulsivos que murieron entre su propia basura en su casa de Fifth Avenue. Cuatro cuadras después, la avenida rodea Marcus Garvey Park.",
+       "lat": 40.80838,
+       "lng": -73.940872,
+       "source": "https://www.atlasobscura.com/places/collyer-brothers-park"
+      },
+      {
+       "name": "Entrada del parque en la calle 90",
+       "text": "Donde se entra a Central Park está la estatua de Fred Lebow el resto del año; en la semana de la carrera la mudan cerca de la meta.",
+       "lat": 40.783735,
+       "lng": -73.959194,
+       "source": "https://en.wikipedia.org/wiki/Fred_Lebow"
+      },
+      {
+       "name": "Estatua de Balto",
+       "text": "Junto al East Drive a la altura de la 67: el husky que guió el último tramo de la posta que en 1925 llevó antitoxina de diftería a Nome, Alaska.",
+       "lat": 40.769974,
+       "lng": -73.97102,
+       "source": "https://www.atlasobscura.com/places/balto-statue-central-park"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -915,8 +2068,25 @@
     "note": "Plan A: los dos en el cartel O–Z sobre W 69th St. Daniela llega 20–30 min después de la llegada de Matías que marque la app; él sale por W 77th St y baja por Central Park West. Ropa seca para Matías ahí mismo.",
     "from_prev": {
      "mode": "subte",
-     "detail": "Daniela: el mismo camino al revés (Grand Central, shuttle S, línea [2] o [3] a 72 St). Matías: a pie desde la meta, unos 30 min.",
-     "minutes": 35
+     "detail": "Daniela: a pie 7 min hasta Grand Central, shuttle [S] a Times Sq–42 St y línea [2] o [3] una parada hasta 72 St. De ahí, 10 min a pie hasta W 69th St y Columbus Ave (1.3 km a pie en total). Matías: de la meta a la salida de W 77th St y por Central Park West hasta la 69 (1.6 km, unos 30 min).",
+     "minutes": 35,
+     "km": 1.6,
+     "sights": [
+      {
+       "name": "New-York Historical Society",
+       "text": "En el 170 de Central Park West, frente a la salida de corredores. Guarda un retrato que algunos dicen que muestra a un gobernador colonial vestido de mujer.",
+       "lat": 40.779248,
+       "lng": -73.974279,
+       "source": "https://www.atlasobscura.com/places/portrait-of-an-unidentified-woman"
+      },
+      {
+       "name": "Congregación Shearith Israel",
+       "text": "En Central Park West y la 70, dentro de Family Reunion: la congregación judía más antigua del país, fundada por refugiados de Brasil holandés en 1654–1655.",
+       "lat": 40.774861,
+       "lng": -73.977306,
+       "source": "https://en.wikipedia.org/wiki/Congregation_Shearith_Israel"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -938,8 +2108,32 @@
     "note": "Con las piernas duras conviene ir despacio en las escaleras y pasillos de Times Sq. Si pasa un taxi libre por Broadway y el tránsito fluye, es opción.",
     "from_prev": {
      "mode": "subte",
-     "detail": "A pie a 72 St (Broadway), línea [2] o [3] a Times Sq–42 St, shuttle S a Grand Central y a pie por Lexington.",
-     "minutes": 40
+     "detail": "A pie por Columbus Ave y la 72 hasta 72 St en Broadway (0.8 km). Línea [2] o [3] a Times Sq–42 St, shuttle [S] a Grand Central y a pie por Lexington (0.55 km).",
+     "minutes": 40,
+     "km": 1.3,
+     "sights": [
+      {
+       "name": "Each One, Every One, Equal All, de Nick Cave",
+       "text": "Mosaicos de 2022 con los Soundsuits del artista; una de sus tres partes recorre 110 m del pasillo 42 Street Connector.",
+       "lat": 40.7557,
+       "lng": -73.9866,
+       "source": "https://www.mta.info/agency/arts-design/collection/each-one-every-one-equal-all"
+      },
+      {
+       "name": "Azulejos falsos de Times Square",
+       "text": "En 2017 taparon con vinilos un friso de azulejos de Squire Vickers que se parecía a la bandera confederada.",
+       "lat": 40.756281,
+       "lng": -73.986076,
+       "source": "https://www.atlasobscura.com/places/times-square-station-fake-tiles"
+      },
+      {
+       "name": "I dreamed a world and called it Love, de Jim Hodges",
+       "text": "Más de 5,000 piezas de vidrio espejado sobre la entrada de la 42, entre la terminal y el subte: el azul de arriba cita el techo de estrellas de Grand Central.",
+       "lat": 40.7523,
+       "lng": -73.9772,
+       "source": "https://www.mta.info/agency/arts-design/collection/i-dreamed-a-world-and-called-it-love"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -950,8 +2144,25 @@
     "note": "Medallas puestas: margarita de regalo con plato principal, solo el 1 de noviembre. Guacamole en la mesa para empezar. Cierra a las 22:00.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por la 49th al este hasta Second Ave y tres cuadras al norte.",
-     "minutes": 8
+     "detail": "Una cuadra al norte por Lexington hasta la 49, por la 49 al este hasta Second Ave y tres cuadras al norte hasta la 52.",
+     "minutes": 12,
+     "km": 0.9,
+     "sights": [
+      {
+       "name": "Amster Yard",
+       "text": "En el 211–215 de la 49 Este, un patio en L que el artista James Amster armó en 1944–1946 entre cinco casas. Desde 1999 es la sede del Instituto Cervantes.",
+       "lat": 40.755139,
+       "lng": -73.970333,
+       "source": "https://en.wikipedia.org/wiki/Amster_Yard"
+      },
+      {
+       "name": "Turtle Bay Gardens",
+       "text": "Veinte casas de la década de 1860 sobre la 48 y la 49, renovadas en 1918–1920 alrededor de un jardín común. Vivieron Katharine Hepburn, Stephen Sondheim y E. B. White, que escribió La telaraña de Carlota en la 48.",
+       "lat": 40.754167,
+       "lng": -73.970278,
+       "source": "https://en.wikipedia.org/wiki/Turtle_Bay_Gardens_Historic_District"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -996,7 +2207,9 @@
   "title": "Maratón de Nueva York",
   "lede": "Los dos tenemos la misma misión: atravesar los cinco boroughs y encontrarnos al final. Después, ducha, medalla y cena sin horario rígido.",
   "marathon": true,
-  "hero": "fort-wadsworth-start-village"
+  "hero": "fort-wadsworth-start-village",
+  "context": "El día cruza los cinco distritos. Arrancamos en Midtown East, en el barrio de hoteles que creció sobre las vías de Grand Central, y bajamos hasta la Biblioteca o hasta la punta de Manhattan, donde nació Nueva Ámsterdam. El ferry cruza la bahía frente a la Estatua de la Libertad y Ellis Island; los micros terminan en Fort Wadsworth, el fuerte que custodia The Narrows desde el siglo XVII.\n\nEl recorrido de 42.195 km sigue la idea de 1976. Cruza el Verrazzano y sigue por Brooklyn en Fourth Avenue y Bedford Avenue. Toca Queens, sube por First Avenue, hace una milla del Bronx con trazado nuevo en 2026 y vuelve por Harlem y Fifth Avenue hasta Central Park, donde la carrera nació en 1970. Sin contar la carrera, Daniela camina unos 8.1 km (va y vuelve al hotel entre su llegada y la de Matías) y Matías unos 5.7 km.",
+  "km_walk": 8.1
  },
  {
   "blocks": [
@@ -1011,11 +2224,28 @@
     "time": "10:15",
     "place": "parque-marcus-garvey",
     "title": "Marcus Garvey Park y la torre vigía",
-    "note": "Primer contacto con Harlem, sin apuro. Miramos la torre de hierro fundido desde abajo o subimos a la plaza si las piernas acompañan.",
+    "note": "Primer contacto con Harlem, sin apuro. Miramos la torre de hierro fundido desde abajo o subimos a la plaza si las piernas acompañan. El domingo corrimos por el costado oeste de este parque.",
     "from_prev": {
      "mode": "subte",
-     "detail": "A pie 6 min hasta Grand Central–42 St. Línea [4] o [5] (express) uptown hasta 125 St: 3 paradas. Salimos por la 125 y caminamos 5 min al oeste hasta Madison Av.",
-     "minutes": 25
+     "detail": "A pie 7 min hasta Grand Central–42 St (0.55 km). Línea [4] o [5] (express) uptown hasta 125 St: 3 paradas (59 St, 86 St, 125 St). Salimos por la 125, caminamos al oeste hasta Madison Ave y entramos al parque por la 124 (0.85 km hasta la torre).",
+     "minutes": 30,
+     "km": 1.4,
+     "sights": [
+      {
+       "name": "The Open Secret, de Houston Conwill (125 St)",
+       "text": "Relieves de bronce de 1986 en el mezzanine: triángulos con huecos que guardan objetos, como una cápsula del tiempo del Harlem de los 80.",
+       "lat": 40.804259,
+       "lng": -73.937473,
+       "source": "https://www.mta.info/agency/arts-design/collection/The-Open-Secret"
+      },
+      {
+       "name": "Polyrhythmics of Consciousness and Light, de Valerie Maynard (125 St)",
+       "text": "Mosaicos de vidrio de 2003 en el mezzanine y las escaleras, con músicos y figuras que celebran la historia cultural de Harlem.",
+       "lat": 40.8044,
+       "lng": -73.9376,
+       "source": "https://www.mta.info/agency/arts-design/collection/polyrhythmics-of-conscious-and-light"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1029,11 +2259,35 @@
     "time": "10:40",
     "place": "studio-museum-harlem",
     "title": "La 125: Red Rooster y el nuevo Studio Museum",
-    "note": "Caminamos la 125 hacia el oeste. Pasamos Red Rooster en Lenox Av y la fachada nueva del Studio Museum, que los lunes está cerrado.",
+    "note": "Bajamos por el lado oeste del parque, entre las casas de Mount Morris, y subimos por Lenox Ave para ver Red Rooster y Sylvia's. Después, por la 125, la fachada nueva del Studio Museum, que los lunes está cerrado.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por la 125 hacia el oeste, cruzando Lenox Av (Malcolm X Blvd).",
-     "minutes": 12
+     "detail": "De la torre bajamos a Mount Morris Park West y la 122, por la 122 al oeste hasta Lenox Ave (Malcolm X Blvd), al norte hasta la 126 y por la 125 al oeste hasta el museo.",
+     "minutes": 20,
+     "km": 1.4,
+     "sights": [
+      {
+       "name": "Mount Morris Park Historic District",
+       "text": "Un distrito histórico de 16 manzanas, protegido desde 1971. La 122 junto al parque era Doctor's Row: ahí atendía el padre de Richard Rodgers.",
+       "lat": 40.804722,
+       "lng": -73.946944,
+       "source": "https://en.wikipedia.org/wiki/Mount_Morris_Park_Historic_District"
+      },
+      {
+       "name": "Red Rooster",
+       "text": "El restaurante que Marcus Samuelsson abrió en diciembre de 2010, sobre Lenox entre la 125 y la 126.",
+       "lat": 40.807966,
+       "lng": -73.944911,
+       "source": "https://en.wikipedia.org/wiki/Marcus_Samuelsson"
+      },
+      {
+       "name": "Sylvia's",
+       "text": "Una cuadra más al norte: la casa de soul food que Sylvia Woods abrió en 1962 con un préstamo de su madre, que hipotecó la granja familiar.",
+       "lat": 40.808628,
+       "lng": -73.944519,
+       "source": "https://en.wikipedia.org/wiki/Sylvia_Woods"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1047,11 +2301,28 @@
     "time": "11:00",
     "place": "apollo-theater",
     "title": "Apollo Theater",
-    "note": "Si reservamos la visita guiada de los lunes a las 11:00 (USD 17), entramos al teatro. Si no, fotos de la marquesina y del Walk of Fame en la vereda.",
+    "note": "Si reservamos la visita guiada de los lunes a las 11:00 (USD 17), entramos al teatro y vemos el Tree of Hope en el lobby. Si no, fotos de la marquesina y del Walk of Fame en la vereda.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por la 125 hacia el oeste, cruzando Adam Clayton Powell Jr. Blvd.",
-     "minutes": 5
+     "detail": "Por la 125 hacia el oeste, cruzando Adam Clayton Powell Jr. Blvd (Seventh Ave).",
+     "minutes": 5,
+     "km": 0.4,
+     "sights": [
+      {
+       "name": "Adam Clayton Powell Jr. State Office Building",
+       "text": "La torre brutalista de 1973, con forma de máscara africana, del estudio afroamericano Ifill Johnson Hanchard. Es el edificio más alto de Harlem.",
+       "lat": 40.80923,
+       "lng": -73.94746,
+       "source": "https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr._State_Office_Building"
+      },
+      {
+       "name": "Hotel Theresa",
+       "text": "Enfrente, el \"Waldorf de Harlem\" de 1913. En 1960 Fidel Castro alquiló 80 habitaciones y recibió ahí a Nikita Jruschov y a Malcolm X.",
+       "lat": 40.808753,
+       "lng": -73.948928,
+       "source": "https://en.wikipedia.org/wiki/Hotel_Theresa"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1065,11 +2336,49 @@
     "time": "12:15",
     "place": "strivers-row",
     "title": "Strivers' Row (opcional)",
-    "note": "Dos cuadras de casas de 1891–1893, con fachadas de Stanford White sobre la 139. Buscamos los carteles \"Walk Your Horses\" en los portones.",
+    "note": "Llegamos por la 138 después de pasar por el Schomburg y la Abyssinian Baptist Church. Dos cuadras de casas de 1891–1893, con fachadas de Stanford White sobre la 139. Buscamos los carteles \"Walk Your Horses\" en los portones.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por Frederick Douglass Blvd al norte, de la 125 a la 138: unos 1 km.",
-     "minutes": 15
+     "detail": "Por Adam Clayton Powell Jr. Blvd (Seventh Ave) al norte hasta la 135; al este hasta Lenox Ave para ver el Schomburg; al norte hasta la 138 y al oeste por la 138, frente a la Abyssinian, hasta Strivers' Row (2.4 km). Si salimos justos de la visita del Apollo, seguimos derecho por Seventh Ave hasta la 138 (1.8 km, 24 min).",
+     "minutes": 32,
+     "km": 2.4,
+     "sights": [
+      {
+       "name": "Sitio del Lafayette Theatre",
+       "text": "En Seventh Ave y la 132 estaba el Lafayette (1912–1951), \"the House Beautiful\", el primer gran teatro de la ciudad que dejó sentar a los negros en la platea (1913). Se demolió en 2013.",
+       "lat": 40.81339,
+       "lng": -73.94487,
+       "source": "https://en.wikipedia.org/wiki/Lafayette_Theatre_(Harlem)"
+      },
+      {
+       "name": "Swing Street",
+       "text": "La 133 entre Lenox y Seventh fue en la Prohibición una hilera de sótanos de jazz donde empezó Billie Holiday. Bill's Place sigue la tradición en el 148.",
+       "lat": 40.813374,
+       "lng": -73.943643,
+       "source": "https://www.atlasobscura.com/places/bills-place"
+      },
+      {
+       "name": "Harlem YMCA",
+       "text": "El edificio de 1931–1932 en el 180 de la 135 Oeste guarda el mural Evolution of Negro Dance, de Aaron Douglas.",
+       "lat": 40.814167,
+       "lng": -73.941667,
+       "source": "https://en.wikipedia.org/wiki/Harlem_YMCA"
+      },
+      {
+       "name": "Schomburg Center y Rivers",
+       "text": "Si está abierto (lunes 10:00–18:00), entramos 10 min al lobby: bajo el cosmograma Rivers, de Houston Conwill, están las cenizas de Langston Hughes.",
+       "lat": 40.814627,
+       "lng": -73.940919,
+       "source": "https://www.atlasobscura.com/places/rivers-schomburg-center"
+      },
+      {
+       "name": "Abyssinian Baptist Church",
+       "text": "La congregación nació en 1808–1809 cuando marinos etíopes y fieles negros se fueron de una iglesia que los segregaba. El templo gótico es de 1922–1923; fueron sus pastores Adam Clayton Powell padre e hijo.",
+       "lat": 40.816667,
+       "lng": -73.941667,
+       "source": "https://en.wikipedia.org/wiki/Abyssinian_Baptist_Church"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1083,11 +2392,41 @@
     "time": "13:00",
     "place": "harry-cipriani",
     "title": "Almuerzo de festejo en Harry Cipriani",
-    "note": "Brindis con Bellini por la maratón terminada. Carpaccio, tagliolini gratinados y torta de merengue. Business casual.",
+    "note": "Brindis con Bellini por la maratón terminada, el cóctel que el fundador de la casa inventó en Venecia. Carpaccio, tagliolini gratinados y torta de merengue. Business casual.",
     "from_prev": {
      "mode": "taxi",
-     "detail": "Taxi o Uber desde la 138 y Frederick Douglass Blvd hasta 5th Av y la 59, unos 25 min según el tránsito. En subte: B o C desde 135 St hasta 59 St–Columbus Circle y 12 min a pie por Central Park South.",
-     "minutes": 25
+     "detail": "Taxi o Uber desde la 138 y Frederick Douglass Blvd hasta 5th Av y la 59, unos 25 min según el tránsito. En subte: [B] o [C] desde 135 St hasta 59 St–Columbus Circle y 12 min a pie por Central Park South.",
+     "minutes": 25,
+     "sights": [
+      {
+       "name": "Monumento a Sherman",
+       "text": "El general a caballo de Augustus Saint-Gaudens, inaugurado en 1903 en la mitad norte de Grand Army Plaza.",
+       "lat": 40.76481,
+       "lng": -73.973062,
+       "source": "https://en.wikipedia.org/wiki/Grand_Army_Plaza_(Manhattan)"
+      },
+      {
+       "name": "Pulitzer Fountain",
+       "text": "La fuente de 1916 en memoria de Joseph Pulitzer, coronada por la Pomona de bronce de Karl Bitter.",
+       "lat": 40.76403,
+       "lng": -73.97361,
+       "source": "https://en.wikipedia.org/wiki/Pulitzer_Fountain"
+      },
+      {
+       "name": "The Plaza",
+       "text": "El hotel de 1907 de Henry J. Hardenbergh, el mismo arquitecto del Dakota. Ahí vive Eloise, la nena de los libros de Kay Thompson.",
+       "lat": 40.7645,
+       "lng": -73.9744,
+       "source": "https://en.wikipedia.org/wiki/Plaza_Hotel"
+      },
+      {
+       "name": "El ex Playboy Club",
+       "text": "En el 5 de la 59 Este, a pasos del Sherry-Netherland, funcionó desde diciembre de 1962 el Playboy Club de Nueva York, al que solo se entraba con llave numerada.",
+       "lat": 40.764232,
+       "lng": -73.97222,
+       "source": "https://www.atlasobscura.com/places/the-former-home-of-new-york-s-playboy-club-new-york-new-york"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1114,8 +2453,46 @@
     "note": "Pasamos a buscar las valijas. Si pedimos late check-out, podemos usar el baño de la habitación antes del taxi.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por Madison o Park Av hacia el sur hasta la 48 y Lexington: unos 1.6 km. Con las piernas cansadas: taxi de unos 10 min, o la línea [6] desde 59 St hasta 51 St (1 parada).",
-     "minutes": 20
+     "detail": "Por la 59 al este hasta Park Ave y por Park al sur hasta la 49; una cuadra al este hasta Lexington y una al sur hasta la 48 (1.5 km). Con las piernas cansadas: taxi de unos 10 min, o la línea [6] desde Lexington Av/59 St hasta 51 St (1 parada).",
+     "minutes": 22,
+     "km": 1.5,
+     "sights": [
+      {
+       "name": "Lever House",
+       "text": "En el 390 de Park, de 1952 (Gordon Bunshaft y Natalie de Blois, de SOM): la segunda torre de muro cortina de vidrio de la ciudad, después de la ONU.",
+       "lat": 40.759722,
+       "lng": -73.972778,
+       "source": "https://en.wikipedia.org/wiki/Lever_House"
+      },
+      {
+       "name": "Seagram Building",
+       "text": "Enfrente, en el 375: Mies van der Rohe con Philip Johnson, 1958, bronce y plaza de granito rosa. Johnson es también el del pabellón de la feria que vemos mañana.",
+       "lat": 40.758611,
+       "lng": -73.972222,
+       "source": "https://en.wikipedia.org/wiki/Seagram_Building"
+      },
+      {
+       "name": "Racquet and Tennis Club",
+       "text": "En el 370, un palazzo renacentista de 1918 diseñado por William Symmes Richardson, socio de McKim, Mead & White.",
+       "lat": 40.758611,
+       "lng": -73.973611,
+       "source": "https://en.wikipedia.org/wiki/Racquet_and_Tennis_Club"
+      },
+      {
+       "name": "St. Bartholomew's",
+       "text": "La iglesia de Bertram Goodhue (1917–1918). El pórtico triple de Stanford White, de 1902–1903, vino de la iglesia anterior en Madison y la 44.",
+       "lat": 40.757222,
+       "lng": -73.973611,
+       "source": "https://en.wikipedia.org/wiki/St._Bartholomew%27s_Episcopal_Church_(Manhattan)"
+      },
+      {
+       "name": "Waldorf Astoria y Track 61",
+       "text": "El hotel art déco de 1931, de Schultze & Weaver, reabrió en julio de 2025. Debajo está Track 61, el andén privado que usaba Franklin D. Roosevelt.",
+       "lat": 40.756389,
+       "lng": -73.974167,
+       "source": "https://www.atlasobscura.com/places/track-61"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -1127,7 +2504,23 @@
     "from_prev": {
      "mode": "taxi",
      "detail": "Taxi amarillo o Uber desde la puerta del hotel, por el Queensboro Bridge (sin peaje) o el RFK Bridge (con peaje): 30–50 min. Desde las 16:00 el taxi suma USD 2.50 de hora pico. Referencia UberX Midtown–LGA: USD 40–65 fuera de hora pico. Opción barata con valijas: línea [E] desde Lexington Av/53 St hasta Jackson Hts–Roosevelt Av, bus Q70 gratis hasta la Terminal B y llamar al shuttle del hotel (unos 75 min).",
-     "minutes": 45
+     "minutes": 45,
+     "sights": [
+      {
+       "name": "Queensboro Bridge",
+       "text": "Si el taxi va por acá: el puente de 1909 que el domingo corrimos por abajo. Llevó trenes elevados hasta 1942 y tranvías hasta 1957.",
+       "lat": 40.7569,
+       "lng": -73.9547,
+       "source": "https://en.wikipedia.org/wiki/Queensboro_Bridge"
+      },
+      {
+       "name": "Cartel de Silvercup",
+       "text": "Al bajar en Queens, el cartel de neón de hacia 1961–1962 de la vieja panadería Silvercup. Desde 1983 son estudios: ahí se filmaron Los Soprano y Sex and the City.",
+       "lat": 40.751351,
+       "lng": -73.944243,
+       "source": "https://en.wikipedia.org/wiki/Silvercup_Studios"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -1135,11 +2528,41 @@
     "time": "17:45",
     "place": "nepali-bhanchha-ghar",
     "title": "Jackson Heights: arrancamos con momos",
-    "note": "Primera parada al lado de la estación: un plato de momos (USD 10–11) y un sel roti para compartir.",
+    "note": "Primera parada al lado de la estación: un plato de momos (USD 10–11) y un sel roti para compartir. Enfrente está Diversity Plaza, la cuadra peatonal de la 37th Road.",
     "from_prev": {
      "mode": "taxi",
      "detail": "Taxi o Uber del hotel a Roosevelt Av y la 74: unos 4 km, 10–15 min. Gratis: shuttle del hotel a la Terminal B y bus Q70 hasta Jackson Hts–Roosevelt Av (10 min de viaje; pasa cada 7–10 min a la tarde).",
-     "minutes": 15
+     "minutes": 15,
+     "sights": [
+      {
+       "name": "Passage, de Tom Patti",
+       "text": "Si llegamos en Q70: ventanas trapezoidales de vidrio laminado en la estación Jackson Hts–Roosevelt Av/74 St (2004) que descomponen la luz en colores.",
+       "lat": 40.746667,
+       "lng": -73.891111,
+       "source": "https://www.mta.info/agency/arts-design/collection/passage"
+      },
+      {
+       "name": "El 7, International Express",
+       "text": "El tren elevado sobre Roosevelt Ave llegó en 1917 y con él los primeros vecinos de la ciudad jardín. En 1999 lo declararon National Millennium Trail con el nombre International Express, por los barrios de inmigrantes que cruza.",
+       "lat": 40.7466,
+       "lng": -73.8913,
+       "source": "https://en.wikipedia.org/wiki/7_(New_York_City_Subway_service)"
+      },
+      {
+       "name": "Diversity Plaza",
+       "text": "La 37th Road entre la 73 y la 74 es una plaza peatonal del programa de plazas del DOT, entre la Little India de la 74 y la Little Bangladesh de la 73.",
+       "lat": 40.747,
+       "lng": -73.8924,
+       "source": "https://www.nyc.gov/html/dot/html/pedestrians/nyc-plaza-program.shtml"
+      },
+      {
+       "name": "Ex cine Earle",
+       "text": "Sobre la misma cuadra de la 37th Road, el cine art déco de 1936 que fue porno, después Bollywood y hoy es patio de comidas.",
+       "lat": 40.74705,
+       "lng": -73.89205,
+       "source": "https://en.wikipedia.org/wiki/Jackson_Heights"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1158,11 +2581,35 @@
     "time": "18:20",
     "place": "arepa-lady",
     "title": "Arepa Lady",
-    "note": "Una arepa de queso con carne, o la de choclo, para compartir.",
+    "note": "Una arepa de queso con carne, o la de choclo, para compartir. La Arepa Lady empezó con una plancha rodante en Roosevelt Ave.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por la 77 St hacia el norte hasta la 37th Av.",
-     "minutes": 6
+     "detail": "Por la 74 al norte (Little India) hasta la 37th Ave y por la 37th Ave al este hasta la 77.",
+     "minutes": 8,
+     "km": 0.6,
+     "sights": [
+      {
+       "name": "Little India",
+       "text": "La 74 es la calle de la India; la 73, de Pakistán y Bangladesh. Sobre la 74 está el Jackson Diner.",
+       "lat": 40.747881,
+       "lng": -73.89177,
+       "source": "https://en.wikipedia.org/wiki/Jackson_Heights"
+      },
+      {
+       "name": "37th Avenue",
+       "text": "La avenida comercial que la Queensboro Corporation planeó para su ciudad jardín; al este de la 77 empieza Little Colombia.",
+       "lat": 40.7491,
+       "lng": -73.8898,
+       "source": "https://en.wikipedia.org/wiki/Jackson_Heights"
+      },
+      {
+       "name": "Cartel de Scrabble",
+       "text": "A 350 m, en la 35th Ave y la 81, el cartel de la calle lleva el puntaje de Scrabble de cada letra: Alfred Butts, vecino del barrio, inventó el juego en los años 30.",
+       "lat": 40.751574,
+       "lng": -73.885031,
+       "source": "https://www.atlasobscura.com/places/birthplace-of-scrabble-sign"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1179,8 +2626,18 @@
     "note": "El plato fuerte de la noche. Tacos, una mulita y un vaso de consomé para mojar. Se come parado junto al camión.",
     "from_prev": {
      "mode": "a pie",
-     "detail": "Por la 78 St hacia el sur hasta Roosevelt Av.",
-     "minutes": 4
+     "detail": "Por la 78 al sur hasta Roosevelt Ave (0.3 km). Con ganas de ver el barrio jardín: vuelta de 1.4 km (20 min) por la 78 hasta la 35th Ave, el cartel de Scrabble en la 81 y la 80 de vuelta al sur.",
+     "minutes": 4,
+     "km": 0.3,
+     "sights": [
+      {
+       "name": "Greystones",
+       "text": "Sobre la 80 entre la 35th y la 37th Ave, los edificios de 1918 de George H. Wells, de los primeros departamentos con jardín de la Queensboro Corporation.",
+       "lat": 40.7507,
+       "lng": -73.8866,
+       "source": "https://en.wikipedia.org/wiki/Jackson_Heights"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1198,7 +2655,17 @@
     "from_prev": {
      "mode": "a pie",
      "detail": "Una cuadra por Roosevelt Av hasta la 79.",
-     "minutes": 2
+     "minutes": 2,
+     "km": 0.2,
+     "sights": [
+      {
+       "name": "Feasts in Motion, de Kira Nam Greene",
+       "text": "Tres cuadras al este, en los parabrisas del andén de 82 St–Jackson Hts (2025): dumplings, kimchi, donas y granadas en 24 paneles de vidrio.",
+       "lat": 40.747631,
+       "lng": -73.883828,
+       "source": "https://www.mta.info/agency/arts-design/collection/feasts-in-motion"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1215,8 +2682,24 @@
     "note": "Volvemos a armar las valijas. El martes no hay apuro hasta las 12:00.",
     "from_prev": {
      "mode": "taxi",
-     "detail": "Taxi o Uber, 10–15 min. Gratis: Q70 desde la parada junto a Jackson Hts–Roosevelt Av hasta la Terminal B o C y llamar al hotel para el shuttle (corre hasta la 1:00).",
-     "minutes": 20
+     "detail": "Taxi o Uber, 10–15 min. Gratis: Q70 desde la parada junto a Jackson Hts–Roosevelt Av hasta la Terminal B o C y llamar al hotel para el shuttle (corre hasta la 1:00). El Q70 es gratis desde abril de 2022.",
+     "minutes": 20,
+     "sights": [
+      {
+       "name": "LaGuardia Landing Lights Park",
+       "text": "Nueve terrenos en diagonal, despejados desde 1958 para las luces de aproximación de la pista, entre Jackson Heights y el aeropuerto.",
+       "lat": 40.762769,
+       "lng": -73.889517,
+       "source": "https://www.atlasobscura.com/places/laguardia-landing-lights-park"
+      },
+      {
+       "name": "East Elmhurst",
+       "text": "El barrio del hotel: en los 50 y 60 vivieron acá Malcolm X, Dizzy Gillespie, Louis Armstrong, Ella Fitzgerald y Willie Mays.",
+       "lat": 40.761,
+       "lng": -73.865,
+       "source": "https://en.wikipedia.org/wiki/East_Elmhurst,_Queens"
+      }
+     ]
     },
     "alternatives": []
    }
@@ -1261,7 +2744,9 @@
   "date": "2026-11-02",
   "title": "Harlem y festejo",
   "lede": "Paseamos por Harlem sin apuro y almorzamos para festejar en Harry Cipriani, junto a Central Park. Después buscamos las valijas y vamos al hotel de Queens. Si nos quedan piernas y hambre, cerramos el viaje comiendo tacos de birria y otras cosas ricas por Jackson Heights.",
-  "hero": "apollo-theater"
+  "hero": "apollo-theater",
+  "context": "Harlem se recorre de este a oeste por la 125, su calle comercial, y después hacia el norte por Seventh Avenue, el Harlem de los años 20 y 30: el Schomburg, la Abyssinian Baptist Church y Strivers' Row. Para almorzar bajamos a la esquina de Central Park y Fifth Avenue, y volvemos al hotel por Park Avenue, una vidriera de arquitectura del siglo XX.\n\nA la tarde cruzamos el East River a Queens. Jackson Heights nació en 1909 como ciudad jardín de la Queensboro Corporation, creció con el tren elevado de 1917 (hoy el 7) y The New York Times lo llamó el barrio más diverso de Nueva York. Sobre Roosevelt Avenue y la 37th Avenue se suceden Nepal y el Tíbet, el sur de Asia en la 73 y la 74, y Colombia y México al este de la 77. Caminamos unos 8.2 km (7.6 si salteamos el desvío por el Schomburg).",
+  "km_walk": 8.2
  },
  {
   "blocks": [
@@ -1276,11 +2761,41 @@
     "time": "09:45",
     "place": "unisphere",
     "title": "Unisphere, si hay ganas",
-    "note": "Paseo corto por el globo de la Feria Mundial de 1964–65. Nada más abre por la mañana: Queens Museum y la casa de Louis Armstrong están cerrados los martes.",
+    "note": "Paseo corto por el globo de la Feria Mundial de 1964–65: la vuelta a pie por el Unisphere, el Pabellón del Estado de Nueva York y la fachada del Queens Museum son 0.7 km. Nada más abre por la mañana: Queens Museum y la casa de Louis Armstrong están cerrados los martes.",
     "from_prev": {
      "mode": "taxi",
      "detail": "Taxi o Uber por la Grand Central Pkwy, 10–15 min. Taxímetro TLC: USD 3 de bajada más USD 0.70 cada 1/5 de milla.",
-     "minutes": 15
+     "minutes": 15,
+     "sights": [
+      {
+       "name": "Citi Field",
+       "text": "La cancha de los Mets; al lado estuvo Shea Stadium, demolido en 2009.",
+       "lat": 40.757031,
+       "lng": -73.845763,
+       "source": "https://en.wikipedia.org/wiki/Citi_Field"
+      },
+      {
+       "name": "USTA Billie Jean King National Tennis Center",
+       "text": "La sede del US Open, pegada al predio de la feria.",
+       "lat": 40.749577,
+       "lng": -73.846542,
+       "source": "https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park"
+      },
+      {
+       "name": "Pabellón del Estado de Nueva York",
+       "text": "Las torres de 69 m y la Carpa del Mañana de Philip Johnson (1964). En Men in Black son platos voladores disfrazados.",
+       "lat": 40.744028,
+       "lng": -73.844417,
+       "source": "https://en.wikipedia.org/wiki/New_York_State_Pavilion"
+      },
+      {
+       "name": "Queens Museum",
+       "text": "El pabellón de la ciudad en la feria de 1939, sede de la Asamblea General de la ONU de 1946 a 1951. Adentro está el Panorama, la maqueta de los cinco distritos.",
+       "lat": 40.745869,
+       "lng": -73.846741,
+       "source": "https://www.atlasobscura.com/places/a-panorama-view-of-new-york-city"
+      }
+     ]
     },
     "alternatives": [
      {
@@ -1298,7 +2813,16 @@
     "from_prev": {
      "mode": "taxi",
      "detail": "Taxi o Uber de vuelta, 10–15 min.",
-     "minutes": 15
+     "minutes": 15,
+     "sights": [
+      {
+       "name": "Flushing Bay",
+       "text": "La bahía que bordea la parkway. Fue zona de pesca de los matinecock y después de la Guerra Civil, balneario de ricos; la marina es de la feria de 1964.",
+       "lat": 40.778889,
+       "lng": -73.856667,
+       "source": "https://en.wikipedia.org/wiki/Flushing_Bay"
+      }
+     ]
     },
     "alternatives": []
    },
@@ -1310,7 +2834,16 @@
     "from_prev": {
      "mode": "bus",
      "detail": "Shuttle gratis del hotel, unos 10 min; sale cada 20–30 min, así que bajamos al lobby 11:45.",
-     "minutes": 15
+     "minutes": 15,
+     "sights": [
+      {
+       "name": "Puentes sobre las pistas de rodaje",
+       "text": "Las terminales nuevas unen el edificio con las puertas con puentes altos: los aviones pasan carreteando por debajo.",
+       "lat": 40.772898,
+       "lng": -73.872075,
+       "source": "https://en.wikipedia.org/wiki/LaGuardia_Airport"
+      }
+     ]
     },
     "alternatives": []
    }
@@ -1324,6 +2857,8 @@
   "date": "2026-11-03",
   "title": "Vuelta",
   "lede": "Salimos tranquilos hacia LaGuardia para el vuelo de las 15.",
-  "hero": "unisphere"
+  "hero": "unisphere",
+  "context": "East Elmhurst, donde dormimos, ocupa el viejo pantano de Trains Meadow entre la bahía de Flushing y Jackson Heights. A diez minutos por la Grand Central Parkway está Flushing Meadows, el basural de cenizas que Robert Moses convirtió en el predio de dos Ferias Mundiales. Del otro lado de la bahía está LaGuardia, construido sobre un viejo balneario y relleno de Rikers Island. Caminamos menos de 1 km: la vuelta al Unisphere y los pasillos del aeropuerto.",
+  "km_walk": 0.8
  }
 ]

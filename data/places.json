@@ -64,7 +64,8 @@
    "wikipedia": "https://en.wikipedia.org/wiki/2nd_Avenue_Deli"
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El 2nd Ave Deli abrió en 1954 en la esquina de Second Avenue y la calle 10, en el East Village. En 2007 dejó esa esquina y se mudó a la calle 33; en agosto de 2011 abrió esta sucursal en First Avenue y la 75, y en 2017 sumó un bar arriba. En 1998 recibió un America's Classic de la Fundación James Beard."
  },
  {
   "id": "aeropuerto-laguardia",
@@ -121,7 +122,34 @@
    "File:Terminal B at LaGuardia Airport (1).jpg",
    "File:LaGuardia Airport Terminal C (October 2023) 01.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Donde hoy aterrizan los aviones hubo un balneario: en 1886 William Steinway abrió Bowery Bay Beach, luego North Beach, con el Gala Amusement Park. La Prohibición y el sentimiento antialemán lo hundieron, y en 1929 se abrió ahí un aeródromo privado que en 1930 tomó el nombre de Glenn H. Curtiss.\n\nEl impulso vino del alcalde Fiorello La Guardia. En un vuelo de TWA, su pasaje decía Nueva York y el avión aterrizó en Newark, el único aeropuerto comercial de la región. Exigió que lo llevaran a Floyd Bennett Field, en Brooklyn, y dio una conferencia de prensa en el camino. La obra empezó en 1937 con ayuda de la WPA, sobre relleno traído de Rikers Island, y el aeropuerto abrió en 1939. Recibió oficialmente el nombre de LaGuardia en 1947, cuando pasó a la Port Authority.\n\nTras años de críticas, en 2015 se anunció su reconstrucción completa, que terminó en enero de 2025. La Terminal A, el Marine Air Terminal art déco de 1940, está vacía desde mayo de 2026, según Wikipedia.",
+  "curiosities": [
+   {
+    "title": "Brújulas que se desvían",
+    "text": "La estructura metálica que sostiene el relleno todavía altera las brújulas de los aviones que despegan, y hay carteles en la pista que se lo advierten a los pilotos.",
+    "source": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Hidroaviones a Lisboa",
+    "text": "El Marine Air Terminal se hizo para los Boeing 314 Clipper de Pan Am, que acuatizaban en la bahía. El primer vuelo, en 1940, fue del Yankee Clipper a Lisboa, unas 18 horas después.",
+    "source": "https://www.atlasobscura.com/places/la-guardias-art-deco-marine-air-terminal",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Aviones por debajo del pasillo",
+    "text": "La terminal nueva une el edificio con las puertas mediante puentes lo bastante altos para que los aviones pasen carreteando por debajo.",
+    "source": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El alcalde intérprete",
+    "text": "Antes de la política, La Guardia fue intérprete en Ellis Island de 1907 a 1910, en italiano, alemán, ídish y croata. Es el mismo que bautizó a los leones de la Biblioteca.",
+    "source": "https://en.wikipedia.org/wiki/Fiorello_La_Guardia",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "apollo-theater",
@@ -180,7 +208,28 @@
    "File:Apollo Theater, Harlem (2011).jpg",
    "File:Harlem - Apollo Theater.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Jules Hurtig y Harry Seamon abrieron el teatro en 1913–1914 como Hurtig & Seamon's New Theatre, un local de burlesque solo para público blanco, diseñado por George Keister. En esos años la zona de la 125 y Seventh Avenue, llena de salas, se conocía como la calle 42 de Harlem. En 1928 lo alquilaron los hermanos Minsky, y en 1934 Sidney Cohen lo reabrió como 125th Street Apollo Theatre, con revistas de variedades pensadas para el público negro. Ese mismo año empezaron las Amateur Nights.\n\nLa familia de Frank Schiffman lo manejó de 1935 a 1976. En las noches de aficionados, donde el público decide, ganaron Ella Fitzgerald, Sarah Vaughan, Billie Holiday, los Jackson 5 y Gladys Knight. En 1981 lo compró en subasta Percy Sutton, el mismo que como presidente del distrito de Manhattan apoyó en 1976 el maratón por los cinco distritos. Reabrió en 1985 con estudios de grabación; desde 1991 es del Estado y lo opera la Apollo Theater Foundation, que sumó dos salas en el vecino Victoria Theater.",
+  "curiosities": [
+   {
+    "title": "El tronco de la suerte",
+    "text": "Los concursantes de Amateur Night frotaban antes de salir un tronco, el Tree of Hope, que venía de un árbol plantado en el cantero central de Seventh Avenue. Tras la renovación de 2006 lo pasaron al lobby.",
+    "source": "https://en.wikipedia.org/wiki/Apollo_Theater",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Estrellas en la vereda",
+    "text": "Desde 2010 el Walk of Fame honra con placas de bronce en la vereda, bajo la marquesina, a parte de los miembros del Apollo Legends Hall of Fame.",
+    "source": "https://en.wikipedia.org/wiki/Apollo_Theater",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El mismo Percy Sutton",
+    "text": "El político que en 1976 ayudó a convencer al alcalde de sacar el maratón de Central Park es el que salvó el Apollo en la subasta de 1981.",
+    "source": "https://en.wikipedia.org/wiki/New_York_City_Marathon",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "arepa-lady",
@@ -243,7 +292,22 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "María Piedad Cano era abogada y jueza en Colombia. Después de irse a Estados Unidos, empezó a vender arepas en una plancha rodante sobre Roosevelt Avenue, bien entrada la noche. En 1993 el New York Press la llamó \"Saintly Arepa Lady\" y el nombre quedó. Como muchos vendedores callejeros vivió años en la cuerda floja: entre 1983 y 2021 la ciudad limitó los permisos y en el mercado negro llegaban a costar USD 20,000.\n\nEn 2014 abrió un local en Elmhurst, que tuvo que dejar cuando un desarrollador demolió el edificio. En 2018 reabrió con su hijo Alejandro Osorio, y hoy tiene tres locales. La arepa, pan de maíz que se come en el norte de Sudamérica desde antes de la conquista, tiene en Colombia unas 75 versiones; acá mandan la de queso y la de choclo.",
+  "curiosities": [
+   {
+    "title": "La vendedora de medianoche",
+    "text": "Durante años la única forma de probar sus arepas era recorrer Roosevelt Avenue tarde a la noche y tener suerte.",
+    "source": "https://www.atlasobscura.com/places/arepa-lady-queens-new-york",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Little Colombia",
+    "text": "Al este de la calle 77, sobre la 37th Avenue, está Little Colombia. Jackson Heights fue muy colombiano en los 80 y el condado de Queens tiene la mayor concentración de colombianos del país, unos 135,000.",
+    "source": "https://en.wikipedia.org/wiki/Jackson_Heights",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "bar-blondeau",
@@ -297,7 +361,8 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Bar Blondeau ocupa la terraza del sexto piso del Wythe Hotel, donde antes estaba The Ides. El edificio es de 1901: fue una tonelería diseñada por el arquitecto de Brooklyn Theobald Engelhardt y después una fábrica de telas especiales, y su conversión en hotel empezó en 2008."
  },
  {
   "id": "becco",
@@ -372,7 +437,8 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Becco es el restaurante de Lidia Bastianich y su hijo Joe en Restaurant Row, la cuadra de la calle 46 entre 8th y 9th Ave, la misma de Joe Allen. Sirve pasta sin límite a precio fijo."
  },
  {
   "id": "bemelmans-bar",
@@ -428,7 +494,8 @@
   "commons_files": [
    "File:Bemelmans Bar.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Ludwig Bemelmans, nacido en 1898 en Meran (entonces Austria-Hungría) y autor de Madeline (1939), pintó el mural Central Park en este bar del hotel Carlyle, que abrió en 1947. El gerente, amigo suyo, le pagó con 18 meses de alojamiento para él y su familia, el tiempo que le llevó terminarlo. Muestra a Madeline, sus once compañeras y su tutora en Central Park durante las cuatro estaciones, y es la única obra suya a la vista del público."
  },
  {
   "id": "bethesda-terrace",
@@ -485,7 +552,22 @@
    "File:Bethesda Terrace Arcade, Central Park, New York City, 20231002 184121.jpg",
    "File:Bethesda Terrace and Fountain.JPG"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Calvert Vaux la diseñó con Jacob Wrey Mould, responsable de las tallas de estaciones del año, frutas y pájaros en rampas y balaustradas; se construyó durante la Guerra Civil y la fuente se terminó en 1873. La estatua Angel of the Waters, de Emma Stebbins, es la única obra de arte del parque encargada por sus propios diseñadores y celebra el acueducto del Croton, que trajo agua limpia a la ciudad en 1842.",
+  "curiosities": [
+   {
+    "title": "Un techo de piso",
+    "text": "El techo de la arcada lleva casi 16,000 azulejos encáusticos de Minton, de Stoke-on-Trent, en 49 paneles: es el único techo del mundo hecho con ese tipo de azulejo, pensado para pisos. Se retiraron en 1983 y volvieron restaurados en 2007.",
+    "source": "https://www.centralparknyc.org/locations/bethesda-terrace",
+    "source_name": "Central Park Conservancy"
+   },
+   {
+    "title": "Un ángel con modelo",
+    "text": "Se cree que Emma Stebbins se inspiró en su pareja, la actriz Charlotte Cushman, para la cara del ángel.",
+    "source": "https://www.centralparknyc.org/locations/bethesda-fountain",
+    "source_name": "Central Park Conservancy"
+   }
+  ]
  },
  {
   "id": "birria-landia-jackson-heights",
@@ -560,7 +642,22 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "La birria nació en Jalisco como una forma de barbacoa, sobre todo de chivo, marinada en adobo de chiles y cocida en su caldo, el consomé. La versión de este camión es la de Tijuana. En 1950 el taquero Guadalupe Zárate, llegado de Coatzingo, Puebla, empezó a hacerla con carne de res porque el chivo era más caro; cuando alguien le pidió más jugo, nació la birria con consomé. En la década de 2010 la quesabirria, taco con birria y queso para mojar, se volvió furor en Norteamérica.\n\nBirria-Landia se dedica solo a ese estilo. The Infatuation recuerda que la birria ya se servía en Nueva York antes del camión y le atribuye haberla puesto en primer plano. Hoy tiene camiones en varios barrios además de este de Jackson Heights.",
+  "curiosities": [
+   {
+    "title": "Plato de fiesta",
+    "text": "En México la birria es comida de casamientos, bautismos, Navidad y Pascua.",
+    "source": "https://en.wikipedia.org/wiki/Birria",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Por qué es de res",
+    "text": "La birria tijuanense es de res por una cuenta de costos: el chivo era más caro y menos graso.",
+    "source": "https://en.wikipedia.org/wiki/Birria",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "brooklyn-bridge",
@@ -571,7 +668,7 @@
   "lat": 40.7124569,
   "lng": -74.0047634,
   "coords_source": "https://www.openstreetmap.org/way/32922945",
-  "hours": "sáb 31-oct: pasarela abierta las 24 horas",
+  "hours": "Pasarela abierta las 24 horas",
   "hours_source": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml",
   "price": "Gratis",
   "duration_min": 45,
@@ -633,7 +730,40 @@
    "File:Brooklyn Bridge as viewed from pedestrian walkway.jpg",
    "File:Brooklyn Bridge Manhattan.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Cuando abrió, el 24 de mayo de 1883, fue el primer cruce fijo del East River y el puente colgante más largo del mundo: 486 m de luz principal y el tablero a 38.7 m sobre el agua. Lo diseñó John A. Roebling, que no llegó a verlo: en 1869, mientras ubicaba el puente en el muelle de Fulton Ferry, un ferry le aplastó el pie y murió de tétanos 24 días después.\n\nSu hijo Washington Roebling tomó la obra y quedó paralizado por la enfermedad de los cajones, la descompresión que sufrían los obreros que excavaban bajo el río en cámaras de aire comprimido. Dirigió desde su cuarto, mirando con un telescopio, y su esposa Emily Warren Roebling hizo durante 11 años buena parte del trabajo del ingeniero jefe: estudió catenarias, resistencia de materiales y construcción de cables y supervisaba la obra. Fue la primera en cruzarlo, en carruaje y con un gallo como señal de victoria.\n\nLa obra duró 13 años y costó USD 15.5 millones de la época; murieron unas 27 personas. Seis días después de la inauguración, una estampida en la escalera de Brooklyn mató al menos a 12 personas, y el 17 de mayo de 1884 el elefante Jumbo, estrella del circo de P. T. Barnum, encabezó un desfile de 21 elefantes para demostrar que era seguro.",
+  "curiosities": [
+   {
+    "title": "Candados de amor",
+    "text": "La costumbre europea de colgar candados con nombres llegó a la pasarela y se hizo masiva. Como el peso daña el puente, la ciudad los corta periódicamente: los candados duran menos que muchas parejas.",
+    "source": "https://www.atlasobscura.com/places/brooklyn-bridge-love-locks",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Bodegas de vino bajo el puente",
+    "text": "Desde 1876 la ciudad alquiló las bóvedas del anclaje de Manhattan para financiar el mantenimiento. Guardaban vino porque se mantenían a 16 °C todo el año; una se llamaba Blue Grotto por un altar a la Virgen, y en 1978 todavía se leía en una pared: 'Who loveth not wine, women and song, he remaineth a fool his whole life long'.",
+    "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un refugio antinuclear",
+    "text": "Durante la reconstrucción de los años 50 se armó un refugio en uno de los arcos del acceso de Manhattan, con provisiones para un ataque soviético. Las provisiones seguían ahí medio siglo después.",
+    "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El alambre trucho",
+    "text": "Roebling calculó el reticulado entre seis y ocho veces más fuerte de lo necesario. Un proveedor cambió a escondidas parte del alambre de los cables por uno de peor calidad, y el margen se recalculó en cuatro veces.",
+    "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Granito de Maine",
+    "text": "Las torres miden 85 m y son de piedra caliza, granito y cemento Rosendale. El granito se cortó en la isla de Vinalhaven, en Maine, y llegó a Nueva York en goletas.",
+    "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "brooklyn-bridge-park-pier-1",
@@ -644,7 +774,7 @@
   "lat": 40.701995,
   "lng": -73.997408,
   "coords_source": "https://www.openstreetmap.org/node/3351167989",
-  "hours": "sáb 31-oct: parque abierto 6:00–1:00; puesta del sol 17:55",
+  "hours": "Parque abierto 6:00–1:00; el 28 de octubre el sol se pone a las 17:58",
   "hours_source": "https://brooklynbridgepark.org/places-to-see/pier-1/",
   "price": "Gratis",
   "duration_min": 60,
@@ -692,7 +822,8 @@
    "File:Brooklyn Bridge Park td (2019-08-23) 063 - Pier 1, Granite Prospect.jpg",
    "File:Brooklyn Bridge Park td (2019-08-23) 051 - Pier 1, Granite Prospect.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Pier 1 fue la primera parte de Brooklyn Bridge Park en abrir, en 2010. Los muelles 1 a 6 los construyó la New York Dock Company entre 1956 y 1964 para barcos más grandes; en 1983 el Port Authority terminó con las operaciones de carga y en 1985 vecinos de Fulton Ferry propusieron el parque. La gradería Granite Prospect se armó con granito recuperado del puente de Roosevelt Island."
  },
  {
   "id": "buena-vista-social-club-schoenfeld",
@@ -749,7 +880,8 @@
   "commons_files": [
    "File:Schoenfeld Theater - Come From Away (48193460457).jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El Gerald Schoenfeld abrió en 1917 como Plymouth Theatre, obra de Herbert J. Krapp (el mismo del Walter Kerr) para los Shubert. En 2004 tomó el nombre del presidente de la Shubert Organization. Tiene 1,079 butacas en dos niveles y fachada e interior protegidos."
  },
  {
   "id": "cafe-sabarsky",
@@ -823,7 +955,8 @@
    "File:Cafe Sabarsky 1057.JPG",
    "File:Neue Galerie New York (51333722560).jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "La Neue Galerie, museo de arte y diseño alemán y austríaco de principios del siglo XX, abrió en 2001 en la William Starr Miller House, en Fifth Avenue y la 86. La idearon el marchand Serge Sabarsky, que le da nombre al café, y Ronald S. Lauder. En 2026 se anunció que el Met la absorberá en 2028."
  },
  {
   "id": "cecconis-dumbo",
@@ -834,7 +967,7 @@
   "lat": 40.703618,
   "lng": -73.991654,
   "coords_source": "https://www.openstreetmap.org/node/6423386492",
-  "hours": "sáb 31-oct: 11:00–23:00",
+  "hours": "11:00–23:00 (horario verificado para el sábado 31; confirmar el del miércoles)",
   "hours_source": "https://www.cecconisrestaurants.com/dumbo/",
   "price": "Pastas USD 32–60 según la carta online (rigatoni bolognesa USD 36, cavatelli con ragú de cordero USD 40); principales USD 26–95",
   "duration_min": 75,
@@ -886,7 +1019,8 @@
   "commons_files": [
    "File:Empire Stores March 2023.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Cecconi's ocupa parte de Empire Stores, un conjunto de siete depósitos terminado en 1869 y ampliado en 1885 que durante casi un siglo guardó café en grano, azúcar y melaza, hasta quedar abandonado en los años 60. La reconversión conservó muros de esquisto, ruedas de izado de hierro y los conductos por donde bajaba el café; el primer inquilino, West Elm, abrió en agosto de 2016."
  },
  {
   "id": "central-park-boathouse",
@@ -962,7 +1096,22 @@
    "File:Central Park - Loeb Boathouse (48377219127).jpg",
    "File:Loeb Boathouse Central Park (Manhattan, New York) 001.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El restaurante ocupa el edificio de ladrillo y piedra caliza que se inauguró en 1954 gracias a USD 305,000 que donó el financista Carl M. Loeb, más USD 110,000 de la ciudad. Reemplazó al embarcadero victoriano de Calvert Vaux, terminado hacia 1873, que para 1950 ya había sido demolido.\n\nEn 1983 una renovación de USD 750,000 abrió adentro un restaurante de 40 cubiertos. Dean Poll lo tomó en 2000 y a mediados de la década de 2010 facturaba USD 20 millones por año, pero anunció el cierre en octubre de 2022. La ciudad eligió como operador a Legends Hospitality: después de una renovación de USD 3.25 millones reabrió con servicio limitado en junio de 2023 y por completo en marzo de 2024, ya como The Central Park Boathouse.\n\nEstá en la orilla este del lago, así que mira al oeste: a fin de octubre el sol cae hacia el oeste-suroeste, detrás de los edificios de Central Park West.",
+  "curiosities": [
+   {
+    "title": "De película",
+    "text": "El Boathouse aparece en Cuando Harry conoció a Sally, en la serie Sex and the City y en The Walking Dead: Dead City.",
+    "source": "https://en.wikipedia.org/wiki/The_Ramble_and_Lake",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Góndolas en el lago",
+    "text": "En los años 1860 el lago tenía un bote de pasajeros que hacía un circuito con paradas y también se podía contratar una góndola con guía para un paseo más íntimo.",
+    "source": "https://www.centralparknyc.org/locations/loeb-boathouse",
+    "source_name": "Central Park Conservancy"
+   }
+  ]
  },
  {
   "id": "central-park-rowboats",
@@ -1021,7 +1170,34 @@
    "File:Boating in Central Park.jpg",
    "File:Boats on The Lake, Central Park, New York City, 20231004 1659 2127.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El lago de 8 hectáreas se excavó a mano sobre un terreno pantanoso atravesado por zanjas, y fue lo primero que se abrió de Central Park: en el invierno de 1858 funcionó como pista de patinaje y la mañana de Navidad de ese año llegaron unas 8,000 personas. Los botes aparecieron en los años 1860: había un bote de pasajeros que daba la vuelta al lago parando en varios muelles y también se podía alquilar una góndola con guía.\n\nHacia 1873 o 1874 se terminó en la orilla este un embarcadero victoriano de madera de Calvert Vaux; en 1950 ya no existía. El edificio actual, de ladrillo y piedra caliza, se inauguró en 1954 con una donación de USD 305,000 del financista Carl M. Loeb, y desde entonces alquila botes a remo.\n\nEl lago une la Ramble, la Bethesda Terrace y el Bow Bridge. El Central Park Conservancy terminó en 2010 una restauración de cuatro años de sus orillas y reconstruyó los embarcaderos rústicos con los diseños del siglo XIX en mente.",
+  "curiosities": [
+   {
+    "title": "El puente de hierro",
+    "text": "El Bow Bridge, de Calvert Vaux y Jacob Wrey Mould, se terminó en 1862 y tiene la luz más larga del parque: 27 m. Lo fabricó Janes, Kirtland & Co., la fundición del Bronx que hizo la cúpula del Capitolio en Washington.",
+    "source": "https://en.wikipedia.org/wiki/Bow_Bridge_(Central_Park)",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "La cueva de la Ramble",
+    "text": "Al excavar una bahía del lado norte del lago apareció una cavidad que subía unos 9 m desde el agua. Olmsted y Vaux la disimularon con rocas y le hicieron una escalera de piedra; fue una atracción popular y después se tapó.",
+    "source": "https://www.atlasobscura.com/places/the-ramble-cave-new-york-new-york",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Un castillo que fue estación meteorológica",
+    "text": "En la esquina noroeste del lago, sobre Vista Rock, está Belvedere Castle (1869–1871), un capricho sin puertas ni ventanas que se las ganó cuando funcionó como estación meteorológica, entre 1919 y 1960.",
+    "source": "https://en.wikipedia.org/wiki/The_Ramble_and_Lake",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El pabellón de las damas",
+    "text": "Sobre el promontorio de Hernshead, en la orilla oeste, está el Ladies' Pavilion: Mould lo diseñó en 1871 como refugio de tranvía en Columbus Circle y después lo trasladaron al lago. Lo destrozaron en 1971 y se restauró por completo unos años después.",
+    "source": "https://en.wikipedia.org/wiki/The_Ramble_and_Lake",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "chelsea-market",
@@ -1083,7 +1259,28 @@
    "File:15th St 9th Av td (2022-02-09) 13 - Chelsea Market.jpg",
    "File:Brick archway at Chelsea Market.gk.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "La manzana entre 9th y 10th Ave y las calles 15 y 16 se llenó de panaderías industriales en la década de 1890. En 1898 varias empresas se fusionaron en la National Biscuit Company, Nabisco, que siguió ampliando el complejo hasta irse a los suburbios en 1958. Son 19 edificios de estructura de madera pesada y fachadas de ladrillo, casi todos del estudio Romeyn & Stever; el del lado de 10th Ave es de los años 30, se construyó junto con la High Line y tenía un desvío ferroviario dentro del propio edificio.\n\nEn esta fábrica se desarrolló la galletita Oreo a comienzos de 1912; la marca se registró el 14 de marzo de ese año y en 2002 esta cuadra de 9th Ave se bautizó ceremonialmente Oreo Way.\n\nDespués de décadas de uso industrial menor, Irwin Cohen lo reconvirtió en los 90 en un pasaje comercial con oficinas arriba, que reutiliza piezas industriales como decoración; el pasaje abrió en 1997. En 2018 Alphabet, la empresa madre de Google, lo compró por más de USD 2,400 millones.",
+  "curiosities": [
+   {
+    "title": "La Oreo fue una copia",
+    "text": "La Oreo nació como imitación de la Hydrox, que la empresa Sunshine lanzó en 1908. La copia vendió tanto más que hoy mucha gente cree que la Hydrox es la imitación; desde 2014 la Oreo es la galletita más vendida del mundo.",
+    "source": "https://en.wikipedia.org/wiki/Oreo",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Croissants a la vista",
+    "text": "En el nivel inferior del mercado, ALF Bakery, del panadero Amadou Ly, de raíces en Senegal y Togo, trabaja detrás de un vidrio: se ve estirar la masa hojaldrada toda la mañana.",
+    "source": "https://www.atlasobscura.com/places/alf-bakery",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Google de los dos lados",
+    "text": "Cruzando 9th Ave, 111 Eighth Avenue (1932), la vieja terminal interior del Port Authority, tiene más superficie que el Empire State. Google la compró en 2010 y, con Chelsea Market, ocupa las dos manzanas.",
+    "source": "https://en.wikipedia.org/wiki/111_Eighth_Avenue",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "chelsea-piers-golf",
@@ -1154,7 +1351,16 @@
    "File:Chelsea Piers golf club jeh.jpg",
    "File:Chelsea Piers driving range.JPG"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Chelsea Piers fue, entre 1910 y los años 30, la terminal de los transatlánticos de Manhattan: una fila de edificios con fachadas de granito rosado donde amarraba el Lusitania y adonde llegó el Carpathia con los sobrevivientes del Titanic. El complejo deportivo actual, sobre los muelles 59, 60 y 61, abrió en 1995 e incluye el driving range de varios pisos del Golf Club.",
+  "curiosities": [
+   {
+    "title": "El muelle del Titanic",
+    "text": "El Golf Club está en el Pier 59, el muelle de White Star donde tenía que amarrar el Titanic. En abril de 1912 el Carpathia paró ahí solo para dejar los botes salvavidas y siguió hasta el Pier 54, el de Cunard, donde bajaron los sobrevivientes ante miles de personas.",
+    "source": "https://www.atlasobscura.com/places/pier-54-titanics-destination",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "cositas-ricas",
@@ -1220,7 +1426,8 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Diner colombiano abierto las 24 horas bajo una vaca de colores colgada sobre Roosevelt Avenue, en la zona que Wikipedia llama Little Colombia, al este de la calle 77. The Infatuation lo describe como un diner iluminado con neón donde es difícil no estar de buen humor."
  },
  {
   "id": "doubletree-lga",
@@ -1294,7 +1501,28 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El hotel está en East Elmhurst, del otro lado de la Grand Central Parkway frente a la Terminal C. Hasta principios del siglo XX la zona era un pantano, Trains Meadow. Sobre la bahía, en 1886 William Steinway abrió el balneario Bowery Bay Beach, después llamado North Beach, con un parque de diversiones que se comparaba con Coney Island; en ese terreno está hoy el aeropuerto.\n\nEn los años 50 y 60 East Elmhurst fue un barrio de músicos, deportistas y dirigentes afroamericanos: vivieron acá Malcolm X, Dizzy Gillespie, Louis Armstrong, Ella Fitzgerald y Willie Mays. La casa de Malcolm X en el barrio fue atacada con bombas incendiarias en febrero de 1965, una semana antes de su asesinato. East Elmhurst y Corona suelen nombrarse juntos, Corona/East Elmhurst, y el aeropuerto entero queda dentro del barrio.",
+  "curiosities": [
+   {
+    "title": "Mount Everest Way",
+    "text": "La esquina de la calle 75 y la 31st Avenue, en el oeste del barrio, se llama también Mount Everest Way desde el 9 de marzo de 2019, en homenaje a la comunidad nepalí.",
+    "source": "https://en.wikipedia.org/wiki/East_Elmhurst,_Queens",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un parque bajo las luces de aterrizaje",
+    "text": "Cerca del hotel, la LaGuardia Landing Lights Park corta en diagonal varias manzanas: son nueve terrenos que desde 1958 se mantienen despejados porque por ahí pasan las luces de aproximación de la pista.",
+    "source": "https://www.atlasobscura.com/places/laguardia-landing-lights-park",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "La casa de Satchmo",
+    "text": "A unos 1.5 km en línea recta, en el 34-56 de la calle 107 de Corona, Louis Armstrong vivió con Lucille Wilson de 1943 a 1971. La casa es museo y cierra los martes.",
+    "source": "https://www.atlasobscura.com/places/louis-armstrong-house",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "dumbo-washington-street-view",
@@ -1350,7 +1578,34 @@
    "File:Manhattan Bridge and Empire State Building from Washington Street, Dumbo, Brooklyn, New York.jpg",
    "File:Manhattan Bridge view from Washington Street DUMBO Brooklyn Morning 2022.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "DUMBO es la sigla de Down Under the Manhattan Bridge Overpass, un nombre que inventaron en 1978 los artistas que se mudaban a los depósitos, convencidos de que un nombre tan feo espantaría a los desarrolladores. Antes fue Fulton Landing, por el muelle del ferry, y Gairville, por Robert Gair, el inmigrante escocés en cuyo edificio de Washington Street se inventó la caja de cartón.\n\nA fines del siglo XIX era un distrito fabril: Benjamin Moore hacía pintura, los Arbuckle procesaban café y azúcar, E.W. Bliss fabricaba maquinaria y Brillo sus esponjas de acero. El distrito histórico incluye los primeros grandes edificios fabriles de hormigón armado de Estados Unidos. Entre 1904 y 1957 el Jay Street Connecting Railroad movía vagones por estas calles hasta las fábricas.\n\nDesde fines de los años 70 llegaron artistas buscando lofts; el desarrollador David Walentas y Two Trees compraron gran parte de los edificios y el barrio pasó de las galerías a las empresas tecnológicas. La esquina de Washington y Water es la foto del Manhattan Bridge, inaugurado en 1909, con el Empire State dentro del arco de su torre.",
+  "curiosities": [
+   {
+    "title": "Rieles entre los adoquines",
+    "text": "El Jay Street Connecting Railroad tenía desvíos que entraban a los edificios y un playón para 120 vagones. Se abandonó en 1959, pero sus rieles siguen a la vista en varias calles del barrio.",
+    "source": "https://en.wikipedia.org/wiki/Dumbo,_Brooklyn",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Miles de objetos bajo la calle",
+    "text": "En 2025 la ciudad terminó una obra de USD 108 millones para rehacer los adoquines de DUMBO y Vinegar Hill. Al levantarlos aparecieron varios miles de objetos, algunos del siglo XVIII.",
+    "source": "https://en.wikipedia.org/wiki/Dumbo,_Brooklyn",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un puente que se inclinaba",
+    "text": "El Manhattan Bridge fue el primer colgante que usó la teoría de la deflexión y un reticulado Warren liviano. El peso desparejo de los trenes del subte que lo cruzan por los costados lo hacía inclinarse, y en 1982 empezó una reconstrucción de fondo.",
+    "source": "https://en.wikipedia.org/wiki/Manhattan_Bridge",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El siglo XIX a cinco cuadras",
+    "text": "Del otro lado del Manhattan Bridge está Vinegar Hill, un barrio chico que Atlas Obscura describe como una caminata por el siglo XIX sin salir de Brooklyn.",
+    "source": "https://www.atlasobscura.com/places/vinegar-hill",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "dyker-beach-golf",
@@ -1423,7 +1678,28 @@
    "File:Dyker Beach Golf Course.JPG",
    "File:Dyker Beach Golf Course Club House.JPG"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Dyker Beach fue tierra común antes de ser parque: los canarsee y después los colonos holandeses de New Utrecht no podían cultivarla porque era pantano y marisma. El nombre viene de la familia Van Dyke, que en el siglo XVII intentó secarla con diques.\n\nEn 1895 la ciudad de Brooklyn compró la primera parcela y contrató a Olmsted, Olmsted and Eliot para un parque costero de 50 acres; el informe de parques de 1896 lo prometía como el mejor parque junto al mar del mundo. Entre las calles 86 y 92, en tierras privadas, jugaban el Dyker Golf Club y el Marine and Field Club. El parque sumó parcelas hasta 1934 y en 1935 se construyó el clubhouse de John Van Kleek.\n\nHoy son 217 acres y 6,548 yardas de juego: es la segunda cancha más antigua de la ciudad, después de Van Cortlandt, en el Bronx, y una de las públicas más jugadas del país. La ciudad la administró hasta 1984; desde entonces la opera American Golf, que amplió el clubhouse en 2008.",
+  "curiosities": [
+   {
+    "title": "El puente de la largada",
+    "text": "Desde la cancha se ve el Verrazzano–Narrows Bridge, inaugurado en 1964. Desde 1976 la maratón de Nueva York larga cada año en su extremo de Staten Island: el domingo lo cruzamos corriendo.",
+    "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un colegio que se quedó sin cancha",
+    "text": "En 1916 el colegio Poly Prep quiso comprar la parcela de golf entre las calles 86 y 92, pero le faltaban unos USD 80,000. El comisionado de parques, que tenía dos hijos en Poly, le ofreció 25 acres en 92nd St y 7th Ave, y el colegio sigue ahí, al lado de la cancha.",
+    "source": "https://en.wikipedia.org/wiki/Dyker_Beach_Park_and_Golf_Course",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Una calle que desapareció",
+    "text": "Las ampliaciones del parque borraron calles del mapa entre la 86 y la 92, como De Russy Street, trazada en la década de 1870. En 2008 la ciudad le puso ese nombre a la rotonda de entrada del clubhouse.",
+    "source": "https://en.wikipedia.org/wiki/Dyker_Beach_Park_and_Golf_Course",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "edge-hudson-yards",
@@ -1482,7 +1758,28 @@
    "File:Edge HY.jpg",
    "File:Edge NYC observation deck at 30 Hudson Yards.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Edge es el mirador triangular que sobresale del piso 100 de 30 Hudson Yards, a 340 m de altura, con piso de vidrio en la punta. Abrió en marzo de 2020. La torre, de Kohn Pedersen Fox, empezó a construirse en diciembre de 2012, fue sede de WarnerMedia y hoy aloja a Warner Bros. Discovery, con estudios de CNN, y a la firma KKR.\n\nTodo Hudson Yards está construido encima de un patio ferroviario en uso: el West Side Yard, 30 vías del LIRR entre las calles 30 y 33 y las avenidas 10 y 12, abierto en 1987 para guardar los trenes que antes volvían vacíos a Long Island. La primera obra fue una plataforma apoyada en pilotes perforados entre las vías; encima, Related Companies y Oxford Properties levantaron torres, el Vessel de Thomas Heatherwick y el centro cultural The Shed.\n\nEl barrio fue durante décadas un borde industrial sin subte: el Javits abrió en 1986 aislado y la línea 7 recién llegó en 2015.",
+  "curiosities": [
+   {
+    "title": "Un piso de vidrio a 340 m",
+    "text": "Según Wikipedia, es el segundo mirador exterior más alto del mundo con piso transparente, después del Cabo Girão Skywalk, en Madeira.",
+    "source": "https://en.wikipedia.org/wiki/30_Hudson_Yards",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Escaleras que suben a ningún lado",
+    "text": "El Vessel tiene 154 tramos de escalera, 2,500 escalones y 80 descansos, inspirados en los pozos escalonados de la India. Cerró varias veces después de una serie de suicidios y reabrió en octubre de 2024 con barreras de vidrio.",
+    "source": "https://en.wikipedia.org/wiki/Vessel_(structure)",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un techo que se mueve",
+    "text": "The Shed, abierto en abril de 2019, tiene una cáscara exterior retráctil que se corre para cubrir la plaza y crear una sala para grandes montajes, The McCourt.",
+    "source": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "elite-healers-sports-massage",
@@ -1597,7 +1894,22 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Family Reunion ocupa las calles 69, 70 y 71 entre Central Park West y Columbus Avenue. En la esquina de la 70 y Central Park West está la Congregación Shearith Israel, la sinagoga española y portuguesa. Es la congregación judía más antigua de Estados Unidos: la fundaron veintitrés refugiados sefardíes que llegaron de Brasil holandés a Nueva Ámsterdam en septiembre de 1654. Peter Stuyvesant quiso rechazarlos; en 1655 obtuvieron permiso para quedarse. Hasta 1825 fue la única congregación judía de la ciudad y ocupa su edificio neoclásico desde 1897.\n\nDos cuadras al sur, en el 1 de la calle 67 Oeste, está el Hotel des Artistes. Un grupo de artistas compró el terreno en 1914 y el edificio abrió en 1917 con estudios de techos de 6 m, pileta y una cocina central que subía la comida a los departamentos por montaplatos.",
+  "curiosities": [
+   {
+    "title": "Desde Brasil",
+    "text": "Los fundadores de Shearith Israel eran judíos españoles y portugueses refugiados de Brasil holandés. La congregación es ortodoxa y sigue el rito sefardí.",
+    "source": "https://en.wikipedia.org/wiki/Congregation_Shearith_Israel",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Cocinas chicas a propósito",
+    "text": "En el Hotel des Artistes las cocinas eran mínimas porque los inquilinos recibían la comida desde una cocina del segundo piso por montaplatos.",
+    "source": "https://en.wikipedia.org/wiki/Hotel_des_Artistes",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "fort-wadsworth-start-village",
@@ -1653,7 +1965,34 @@
   "commons_files": [
    "File:Runners waiting at the starting village of the 2017 New York City Marathon.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Fort Wadsworth ocupa la orilla de Staten Island sobre The Narrows, el estrecho entre la bahía alta y la baja, el punto natural para defender el puerto. El primer uso militar fue un fortín del colono holandés David Pieterszen de Vries en 1655; en 1663 se levantó otro y desde entonces el lugar estuvo casi siempre guarnecido. Los británicos lo tomaron en 1776 y lo tuvieron hasta 1783.\n\nEl estado de Nueva York construyó cuatro fuertes a partir de 1806. Desde 1847 el gobierno federal los reemplazó por Fort Tompkins, en la loma, y Fort Richmond, la batería de cuatro niveles junto al agua que hoy se llama Battery Weed. En 1865 el conjunto tomó el nombre del general James Wadsworth, muerto en la batalla de Wilderness durante la Guerra Civil.\n\nCuando cerró, en 1994, se lo consideraba la instalación militar con guarnición continua más antigua del país. Hoy es parte del Gateway National Recreation Area, del Servicio de Parques Nacionales. Desde 1976 la maratón larga acá, al pie del Verrazzano-Narrows, y el domingo de la carrera sus explanadas se llenan con las villas de largada.",
+  "curiosities": [
+   {
+    "title": "Un fuerte que llegó tarde",
+    "text": "Fort Richmond y Fort Tompkins se terminaron en 1861, con la Guerra Civil ya empezada, y la nueva artillería naval los dejó obsoletos en pocos años. En 1884 quedaban 41 soldados.",
+    "source": "https://www.atlasobscura.com/places/fort-wadsworth",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Las torres no son paralelas",
+    "text": "Las torres del puente miden 211 m y están a 1,298 m una de otra: por la curvatura de la Tierra quedan 4.1 cm más separadas arriba que abajo. De 1964 a 1981 fue el puente colgante de luz más larga del mundo.",
+    "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Una z que tardó 58 años",
+    "text": "El puente se bautizó en 1960 como Verrazano, con una sola z, por un error en los contratos de obra. El nombre recién se corrigió en 2018.",
+    "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El florentino que entró primero",
+    "text": "Giovanni da Verrazzano, navegante de Florencia al servicio de Francisco I de Francia, fue en 1524 el primer europeo en entrar a la bahía de Nueva York. Hay versiones encontradas sobre su muerte en 1528; una dice que lo mataron y se lo comieron en una isla del Caribe, probablemente Guadalupe.",
+    "source": "https://en.wikipedia.org/wiki/Giovanni_da_Verrazzano",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "frick-collection",
@@ -1736,7 +2075,34 @@
    "File:Henry Clay Frick House (Manhattan, New York) 001.jpg",
    "File:Frick Collection New York cour.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Henry Clay Frick (1849–1919) hizo su fortuna con el coque de Pensilvania y presidió Carnegie Steel, donde reprimió con violencia la huelga de Homestead de 1892. En 1906 y 1907 compró el terreno de la Lenox Library, obra de Richard Morris Hunt, sobre Fifth Avenue y la 70. Le encargó a Thomas Hastings, de Carrère and Hastings, una mansión Beaux-Arts de tres pisos, construida entre 1912 y 1914.\n\nFrick vivió ahí apenas cinco años. Su viuda Adelaide y su hija Helen siguieron en la casa hasta 1931 y, como pedía su testamento, se abrió al público como museo en 1935, con la entrada de John Russell Pope sobre la calle 70. Las obras cuelgan en los salones de la casa, entre muebles, relojes y porcelanas.\n\nEntre 2020 y 2025 cerró para una ampliación diseñada por Annabelle Selldorf; mientras tanto, la colección se mostró en el edificio Breuer de Madison Avenue, que vamos a pasar camino al almuerzo. La reapertura sumó al recorrido las habitaciones del primer piso, donde dormía la familia.",
+  "curiosities": [
+   {
+    "title": "Un bowling en el sótano",
+    "text": "En el subsuelo hay una cancha de bowling de 1914 hecha por Brunswick-Balke-Collender, junto a la sala de billar, con techos de estilo jacobino. En los años veinte funcionó ahí la biblioteca de arte de la familia; sigue en pie, cerrada al público.",
+    "source": "https://en.wikipedia.org/wiki/Henry_Clay_Frick_House",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Iba a volver en el Titanic",
+    "text": "Frick y su esposa tenían pasajes para el viaje inaugural del Titanic en 1912. Cancelaron porque Adelaide se torció un tobillo en Italia.",
+    "source": "https://en.wikipedia.org/wiki/Henry_Clay_Frick",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un órgano en la escalera",
+    "text": "En el descanso de la escalera principal hay un órgano Aeolian dentro de una caja de mármol de Verona con columnitas en espiral. Todavía se toca de vez en cuando.",
+    "source": "https://en.wikipedia.org/wiki/Henry_Clay_Frick_House",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Dos balazos en Pittsburgh",
+    "text": "El 23 de julio de 1892, en plena huelga de Homestead, el anarquista Alexander Berkman entró a su oficina y le disparó dos veces en el cuello. Frick sobrevivió.",
+    "source": "https://en.wikipedia.org/wiki/Henry_Clay_Frick",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "grand-central-terminal",
@@ -1747,7 +2113,7 @@
   "lat": 40.7526944,
   "lng": -73.977253,
   "coords_source": "https://www.openstreetmap.org/way/265947358",
-  "hours": "sáb 31-oct: terminal abierta 5:15–2:00; el Oyster Bar cierra sábados y domingos",
+  "hours": "vie 30-oct: terminal abierta 5:15–2:00; el Oyster Bar cierra solo sábados y domingos",
   "hours_source": "https://www.grandcentralterminal.com/visit/",
   "price": "Entrada libre. Tour guiado oficial (Walks, 90 min, en inglés) desde USD 35",
   "duration_min": 45,
@@ -1800,7 +2166,40 @@
    "File:Grand Central Terminal ceiling and spot.jpg",
    "File:Whispering Gallery.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Grand Central Terminal abrió el 2 de febrero de 1913 en el lugar de dos estaciones anteriores; la primera, Grand Central Depot, era de 1871. La construyó el New York Central Railroad, el ferrocarril de los Vanderbilt. El plan general es de Reed and Stem y buena parte de la fachada y los interiores Beaux-Arts, de Warren and Wetmore. Las vías se electrificaron y quedaron bajo tierra: encima se tendió Park Avenue y alrededor creció Terminal City, el distrito de hoteles y oficinas donde está nuestro hotel.\n\nA fines de los sesenta, Penn Central quiso levantar una torre sobre el Main Concourse, como había pasado con la vieja Penn Station, demolida en 1963. La Comisión de Preservación de Monumentos, que había protegido la terminal en 1967, rechazó el proyecto y el juicio llegó a la Corte Suprema, que falló a favor de la ciudad. Jacqueline Kennedy Onassis ayudó a frenar la demolición en los setenta; el vestíbulo de la entrada principal lleva su nombre desde 2014.\n\nLa restauración que terminó en 1998 limpió el techo celeste y devolvió a las rampas del Oyster Bar su aspecto original. Quedaron dos testigos a propósito: un rectángulo de mugre en el techo y el agujero de un misil. Por todo el edificio se repiten bellotas y hojas de roble, el emblema de los Vanderbilt.",
+  "curiosities": [
+   {
+    "title": "La mancha que no limpiaron",
+    "text": "En la esquina noroeste del techo, junto a la pinza del cangrejo (Cáncer), quedó un rectángulo oscuro sin restaurar. Atlas Obscura lo atribuye sobre todo al humo de tabaco de décadas; lo dejaron para mostrar cómo estaba el cielo antes de 1996.",
+    "source": "https://www.atlasobscura.com/places/grand-central-ceiling-dark-patch",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "El agujero del misil",
+    "text": "Arriba de Piscis hay un círculo oscuro entre las estrellas. En 1957, después del Sputnik, se exhibió un misil Redstone en el Main Concourse y para levantarlo perforaron el techo y bajaron un cable. El agujero se conserva.",
+    "source": "https://en.wikipedia.org/wiki/Grand_Central_Terminal_art",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un cielo al revés",
+    "text": "El mural copia la Uranometria, un atlas estelar de 1603, pero invertido de izquierda a derecha, salvo Orión. La explicación del cielo visto por Dios desde afuera no cierra, porque también habría dado vuelta a Orión.",
+    "source": "https://en.wikipedia.org/wiki/Grand_Central_Terminal_art",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "La galería de los susurros",
+    "text": "En el descanso bajo el puente del Oyster Bar, las bóvedas de azulejo Guastavino llevan la voz de una esquina a la opuesta en diagonal. Cada uno se para en un rincón, de cara a la pared, y se habla bajito.",
+    "source": "https://www.atlasobscura.com/places/grand-central-terminal-whispering-gallery",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Tenis detrás de los ventanales",
+    "text": "En los pisos altos hay canchas de tenis desde los años sesenta. El primer club, el Vanderbilt Athletic Club, tenía dos canchas de polvo de ladrillo y una pista de esquí cubierta de unos 20 m; hoy funciona el Vanderbilt Tennis Club.",
+    "source": "https://www.atlasobscura.com/places/vanderbilt-tennis-club",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "guggenheim",
@@ -1874,7 +2273,8 @@
   "commons_files": [
    "File:Solomon R. Guggenheim Museum (48059131351).jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El museo nació en 1939 como Museum of Non-Objective Painting, dirigido por Hilla von Rebay, y tomó el nombre de Solomon R. Guggenheim en 1952, tres años después de la muerte del fundador. Ocupa el edificio en espiral de Frank Lloyd Wright en Fifth Avenue, entre las calles 88 y 89, y guarda arte impresionista, posimpresionista, moderno temprano y contemporáneo."
  },
  {
   "id": "hadestown-walter-kerr",
@@ -1956,7 +2356,28 @@
    "File:Walter Kerr Theatre - Hadestown (48295952136).jpg",
    "File:Stage of the Walter Kerr Theatre with the set of Hadestown.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El Walter Kerr abrió el 21 de marzo de 1921 como Ritz Theatre. Lo diseñó Herbert J. Krapp para los hermanos Shubert, dentro de un grupo de teatros sobre las calles 48 y 49. Tiene 975 butacas en tres niveles, detalles de estilo Adam y murales.\n\nDespués de una década de obras que no funcionaron, entre 1936 y 1939 lo usó el Federal Theatre Project de la WPA; después fue estudio de radio y televisión de CBS, NBC y ABC hasta 1965. En los setenta pasó por cine pornográfico, vodevil, teatro infantil y depósito de afiches. Jujamcyn lo restauró y lo reabrió en 1983, y en 1990 le puso el nombre del crítico Walter Kerr.\n\nHadestown empezó en 2006 como un espectáculo comunitario de Anaïs Mitchell en Barre y Vergennes, Vermont, y en 2010 fue un disco conceptual. Con la directora Rachel Chavkin se estrenó off-Broadway en 2016 y llegó al Kerr el 17 de abril de 2019. Es la obra que más tiempo lleva en esta sala.",
+  "curiosities": [
+   {
+    "title": "Monumento negado",
+    "text": "En 1987 la Comisión de Preservación protegió en bloque a los teatros de Broadway, pero el Ritz quedó entre los pocos a los que les negó ese estatus, por fuera y por dentro.",
+    "source": "https://en.wikipedia.org/wiki/Walter_Kerr_Theatre",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El vecino de enfrente",
+    "text": "En la vereda opuesta, en el 220 de la calle 48, está el Longacre, de 1913. Su nombre recuerda Longacre Square, como se llamaba Times Square antes.",
+    "source": "https://en.wikipedia.org/wiki/Longacre_Theatre",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Teatro documental en la Depresión",
+    "text": "En 1937 el Ritz presentó Power, una obra del Living Newspaper, el teatro periodístico que financiaba la WPA. Estuvo cinco meses en cartel.",
+    "source": "https://en.wikipedia.org/wiki/Walter_Kerr_Theatre",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "harry-cipriani",
@@ -2058,7 +2479,40 @@
    "File:Sherry Netherland 781 Fifth Avenue.jpg",
    "File:Carpaccio Cipriani.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Harry's Bar abrió en Venecia en 1931. Según la familia, Giuseppe Cipriani era barman del Hotel Europa y le prestó 10,000 liras a Harry Pickering, un joven de Boston al que la familia le había cortado la plata. Dos años después Pickering volvió, le devolvió 50,000 liras y le dijo que con las 40,000 de más abrieran un bar con su nombre. Hemingway fue cliente fijo y lo puso en Al otro lado del río y entre los árboles (1950); Italia lo declaró monumento nacional en 2001.\n\nEn ese bar Giuseppe inventó el Bellini, entre 1934 y 1948, y el carpaccio, en 1950. La familia salió al mundo en 1985 con Harry Cipriani, en la planta baja del Sherry-Netherland; a los dos años los desalojaron, abrieron un bar Bellini cerca y después volvieron.\n\nEl Sherry-Netherland, de 38 pisos, es obra de Schultze & Weaver. Durante la construcción, el 12 de abril de 1927, se incendió el andamio de madera de los pisos altos: el fuego duró 12 horas y se vio desde Long Island.",
+  "curiosities": [
+   {
+    "title": "Un cóctel con color de cuadro",
+    "text": "Cipriani le puso Bellini por el tono rosado, que le recordaba a un cuadro del pintor veneciano Giovanni Bellini. Al principio era de temporada; se volvió permanente cuando un francés empezó a enviar puré de durazno blanco a Venecia y a Nueva York.",
+    "source": "https://en.wikipedia.org/wiki/Bellini_(cocktail)",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Carpaccio por receta médica",
+    "text": "Cipriani lo inventó para la condesa Amalia Nani Mocenigo, a quien los médicos le habían indicado carne cruda. Lo llamó como el pintor Vittore Carpaccio por sus rojos y blancos, en años de una gran muestra suya en el Palacio Ducal.",
+    "source": "https://en.wikipedia.org/wiki/Carpaccio",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Arrigo quiere decir Harry",
+    "text": "El hijo de Giuseppe, Arrigo Cipriani (nacido en 1932), es el dueño mayoritario del grupo. Arrigo es Harry en italiano.",
+    "source": "https://en.wikipedia.org/wiki/Cipriani_S.A.",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un lobby con piezas de los Vanderbilt",
+    "text": "Mientras se construía el hotel se demolía la mansión Vanderbilt, en diagonal sobre Fifth Avenue. Los paneles de piedra de Karl Bitter de su entrada de carruajes terminaron en el lobby del Sherry-Netherland.",
+    "source": "https://en.wikipedia.org/wiki/The_Sherry-Netherland",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Tres hoteles, un estudio",
+    "text": "Schultze & Weaver diseñó el Sherry-Netherland (1927), el Lexington (1929) y el Waldorf Astoria (1931). La caminata de vuelta al hotel pasa por los tres.",
+    "source": "https://en.wikipedia.org/wiki/Waldorf_Astoria_New_York",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "high-line",
@@ -2128,7 +2582,34 @@
    "File:Hudson Yards from the High Line 001.jpg",
    "File:High Line td 41 - Hudson Yards Vessel.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Desde 1849 los trenes de carga del Hudson River Railroad corrían a nivel de calle por el West Side, entre carros y peatones. Delante de cada tren iba un jinete, el West Side cowboy, agitando una bandera; aun así los choques eran tantos que la 10th y la 11th Ave se ganaron el apodo de Death Avenue. En 1910 se estimaba que sobre la 11th Ave habían muerto 548 personas.\n\nComo parte del West Side Improvement, en 1933 corrió el primer tren sobre un viaducto elevado que se inauguró el 29 de junio de 1934. Pasaba por el medio de las manzanas y entraba a fábricas y depósitos, como la de Nabisco, para cargar y descargar sin tocar la calle. Con los camiones el tráfico cayó; el último tren, en 1980, llevaba tres vagones de pavos congelados.\n\nEn 1999 Joshua David y Robert Hammond fundaron Friends of the High Line para evitar la demolición. El parque, de James Corner Field Operations, Diller Scofidio + Renfro y el paisajista Piet Oudolf, abrió por tramos en 2009, 2011 y 2014, y The Spur se sumó en 2019. Mide 2.33 km y en 2019 recibía 8 millones de visitantes.",
+  "curiosities": [
+   {
+    "title": "La placa de Death Avenue",
+    "text": "En la pared de un edificio de ladrillo de 10th Ave y la calle 29, a una cuadra de The Spur, hay una placa con una foto de época. Recuerda a los cientos de muertos por los trenes de carga de la avenida y se ve desde la vereda de 10th Ave.",
+    "source": "https://www.atlasobscura.com/places/death-avenue-plaque",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "El último tren",
+    "text": "La obra del Javits obligó a desconectar el viaducto de la red durante un año, y en ese tiempo los dos clientes grandes que quedaban se mudaron a Nueva Jersey. El último convoy, en 1980, llevaba pavos congelados.",
+    "source": "https://en.wikipedia.org/wiki/High_Line",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El parque por acre más caro",
+    "text": "Atlas Obscura cuenta que el viaducto costó el equivalente a más de USD 2,000 millones de hoy y que, ya como parque, es el más caro de la ciudad por acre.",
+    "source": "https://www.atlasobscura.com/places/highline",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Robles de Beuys",
+    "text": "En la calle 22, entre 10th y 11th Ave, hay 23 árboles, cada uno con una piedra de basalto al lado: la continuación en Chelsea de 7000 Oaks, el proyecto del artista alemán Joseph Beuys.",
+    "source": "https://www.atlasobscura.com/places/7000-oaks",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "hotel-lexington",
@@ -2198,7 +2679,40 @@
   "commons_files": [
    "File:The Lexington Hotel in New York City.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "The Lexington abrió el 15 de octubre de 1929 como Hotel Lexington, uno de los hoteles de Terminal City, levantados sobre las vías tapadas de Grand Central. Lo diseñó Schultze & Weaver, el mismo estudio del Waldorf Astoria, que está a una cuadra. Es neorrománico, con base de piedra caliza, ladrillo y terracota, grifos y leones en la fachada y unas 800 habitaciones al abrir. Nació con la Gran Depresión y en 1932 ya estaba en ejecución hipotecaria.\n\nEn 1937 el salón del subsuelo se convirtió en el Hawaiian Room, con músicos de Hawái y el programa de radio de Arthur Godfrey transmitido en vivo; cerró después de un incendio en 1966. Joe DiMaggio vivía en la suite 1806 y Marilyn Monroe se instaló con él durante su matrimonio. Hoy una suite del piso 18 que ocuparon está ambientada con motivos de béisbol.\n\nEl grupo indio Tata lo compró en 1981; en 1999 pasó a ser un Radisson y desde 2013 integra la Autograph Collection de Marriott. La Comisión de Preservación de Monumentos lo declaró monumento de la ciudad el 22 de noviembre de 2016.",
+  "curiosities": [
+   {
+    "title": "La suite de DiMaggio y Marilyn",
+    "text": "Joe DiMaggio vivió en la suite 1806 y Marilyn Monroe vivió ahí con él mientras estuvieron casados. Una de las suites del piso 18 que ocupó la pareja hoy tiene decoración de béisbol, cocina y terraza.",
+    "source": "https://en.wikipedia.org/wiki/Lexington_Hotel_(New_York_City)",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "La rejilla de Marilyn, a cuatro cuadras",
+    "text": "En la esquina sudoeste de Lexington y la 52 se filmó, a la 1 de la mañana del 15 de septiembre de 1954, la escena de The Seven Year Itch en la que un tren de la línea 6 le levanta el vestido blanco. La rejilla no tiene placa.",
+    "source": "https://www.atlasobscura.com/places/marilyn-monroe-s-subway-grate",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Houdini en la pileta del vecino",
+    "text": "El edificio de al lado, 525 Lexington, fue el Shelton Hotel, terminado en 1924, donde vivieron Georgia O'Keeffe y Alfred Stieglitz. En 1926 Harry Houdini pasó 91 minutos encerrado en una caja hermética en el fondo de su pileta. Hoy es una residencia de estudiantes.",
+    "source": "https://en.wikipedia.org/wiki/525_Lexington_Avenue",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Track 61, bajo el Waldorf",
+    "text": "Una cuadra al norte, bajo el Waldorf Astoria, pasa una vía privada del ferrocarril de Grand Central. Según la tradición, Franklin D. Roosevelt la usaba para llegar al hotel sin ser visto. No se visita.",
+    "source": "https://www.atlasobscura.com/places/track-61",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Donde empezaron los Draft Riots",
+    "text": "El 13 de julio de 1863 una turba quemó la oficina de reclutamiento del ejército en Third Avenue y la 46, a dos cuadras del hotel. Así empezaron los disturbios contra la conscripción de la Guerra Civil, que duraron tres días.",
+    "source": "https://en.wikipedia.org/wiki/Turtle_Bay,_Manhattan",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "hoxton-williamsburg",
@@ -2266,7 +2780,28 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "The Hoxton abrió en septiembre de 2018 en 97 Wythe Ave: fue el primer hotel de la cadena en Estados Unidos y el primero de la marca con bar en la terraza. La cadena había nacido en 2006 en Shoreditch, Londres, en un edificio que antes era un estacionamiento.\n\nLa cuadra resume la historia de Williamsburg. El barrio nació en 1802 como un loteo de 13 acres que Richard Woodhull bautizó Williamsburgh en honor del ingeniero Jonathan Williams, que lo midió. Fue ciudad independiente hasta 1855, cuando Brooklyn lo anexó y perdió la h final. La costa se llenó de astilleros, cervecerías y refinerías de azúcar, y después de la apertura del Williamsburg Bridge, en 1903, fue el barrio más densamente poblado de la ciudad.\n\nCon la salida de la industria llegaron artistas a los depósitos vacíos. En 2005 la ciudad rezonificó la costa norte para torres residenciales con la condición de un paseo costero continuo; los hoteles de Wythe Avenue son parte de ese cambio.",
+  "curiosities": [
+   {
+    "title": "Un museo detrás de una bodega",
+    "text": "En 370 Metropolitan Ave, cerca de la estación Bedford Av, el City Reliquary guarda reliquias de la ciudad detrás de un toldo de almacén: huesos de rata del subte, fichas viejas, adoquines, piedras angulares de edificios demolidos y un altar a Jackie Robinson. Empezó como una vitrina en la ventana del departamento de su fundador, Dave Herman.",
+    "source": "https://www.atlasobscura.com/places/city-reliquary",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "El cartel de Domino",
+    "text": "A 1 km al sur del hotel está la refinería de Domino: en 1870 este barrio refinaba más de la mitad del azúcar de Estados Unidos. La planta cerró en 2004 y en diciembre de 2022 se instaló una réplica LED del cartel amarillo sobre el edificio de 1882, hoy oficinas.",
+    "source": "https://en.wikipedia.org/wiki/Domino_Sugar_Refinery",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un parque con nombre de activista",
+    "text": "A tres cuadras, el Marsha P. Johnson State Park ocupa el terreno de la Brooklyn Eastern District Terminal, que abrió en 1870 como Palmer's Dock. En 2020 tomó el nombre de la activista Marsha P. Johnson: fue el primer parque estatal de Nueva York con nombre de una persona LGBTQ.",
+    "source": "https://en.wikipedia.org/wiki/Marsha_P._Johnson_State_Park",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "janes-carousel",
@@ -2277,7 +2812,7 @@
   "lat": 40.704434,
   "lng": -73.992385,
   "coords_source": "https://www.openstreetmap.org/way/223183095",
-  "hours": "sáb 31-oct: 11:00–17:50 (horario de otoño; cerrado lunes y martes)",
+  "hours": "11:00–17:50 en otoño; cerrado lunes y martes (a la hora que pasamos ya cerró: se ve desde afuera)",
   "hours_source": "https://janescarousel.com/hours/",
   "price": "USD 4 por vuelta",
   "duration_min": 15,
@@ -2380,7 +2915,28 @@
    "File:Javits Center - Full Front (49052081016).jpg",
    "File:Javits Center November 2022.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El Javits Center se construyó entre 1979 y 1986 junto al viejo patio ferroviario de Penn Central, con proyecto de James Ingo Freed, de Pei Cobb Freed & Partners. Es una estructura espacial de vidrio y acero; el hall de entrada, el Crystal Palace, mide 82 por 82 m en planta y 55 m de alto. Reemplazó al New York Coliseum de Columbus Circle y lleva el nombre de Jacob K. Javits, senador por Nueva York, por sugerencia del gobernador Mario Cuomo en 1984.\n\nDurante años quedó aislado: el subte más cercano estaba a 800 m, hasta que en 2015 llegó la extensión de la línea 7. En 2014 el techo nuevo se convirtió en una cubierta verde de sedum de 2.7 hectáreas, la segunda de su tipo en Estados Unidos, y en 2021 una ampliación lo llevó a 310,000 m² cubiertos.\n\nEn marzo de 2020 funcionó como hospital de campaña para COVID-19, y en marzo de 2021, como centro de vacunación, marcó el récord nacional de vacunas aplicadas en un día: hasta 14,000.",
+  "curiosities": [
+   {
+    "title": "La oferta de Trump",
+    "text": "En 1975 Donald Trump compró la opción sobre el patio ferroviario de la calle 30 y propuso levantar ahí el centro de convenciones; ofreció renunciar a sus honorarios si llevaba el nombre de su familia. El centro se hizo, pero con otro nombre.",
+    "source": "https://en.wikipedia.org/wiki/Javits_Center",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un techo con biodiversidad",
+    "text": "La cubierta verde terminada en 2014 se estudió después: los trabajos registraron más biodiversidad, más retención de agua de lluvia y un techo más fresco.",
+    "source": "https://en.wikipedia.org/wiki/Javits_Center",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un Tiny Desk en el techo",
+    "text": "En octubre de 2020, sin poder viajar a Washington por la pandemia, Linda Diaz y su banda tocaron su Tiny Desk Concert de NPR en el techo del Javits: fue el primer concierto sobre el edificio.",
+    "source": "https://en.wikipedia.org/wiki/Javits_Center",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "jfk-airport",
@@ -2442,7 +2998,28 @@
    "File:JFK Terminal 4 (9690230116).jpg",
    "File:JFK T5 May 2019 01.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El aeropuerto abrió en 1948 como New York International Airport, aunque todos lo llamaban Idlewild: se construyó sobre los pantanos de la bahía de Jamaica, donde estaba la cancha de golf Idlewild Beach. Tras el asesinato de John F. Kennedy, en 1963, pasó a llevar su nombre.\n\nHoy ocupa 2,104 hectáreas en el sur de Queens y es el más transitado de los tres aeropuertos de Nueva York, con casi 100 aerolíneas. Su edificio más famoso es el TWA Flight Center de Eero Saarinen, inaugurado en 1962 con un techo de hormigón en forma de alas; funcionó como terminal durante cuatro décadas y desde 2019 es el TWA Hotel, pegado a la Terminal 5.\n\nPara salir hacia la ciudad está el AirTrain, un tren elevado sin conductor de 13 km que corre las 24 horas. Une las terminales con el subte y el LIRR en Jamaica y con el subte en Howard Beach.",
+  "curiosities": [
+   {
+    "title": "Un aeropuerto encima de una cancha de golf",
+    "text": "El apodo Idlewild viene de la Idlewild Beach Golf Course, que el aeropuerto desplazó en los años 40. El mismo día que aterrizamos jugamos en Dyker Beach, una de las canchas que sí sobrevivió.",
+    "source": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El TWA Flight Center",
+    "text": "Eero Saarinen lo diseñó para Trans World Airlines con un techo de cáscara de hormigón sobre cuatro pilares en Y. Cerró en 2001, cuando TWA vendió sus activos, y en 2019 reabrió como parte del TWA Hotel.",
+    "source": "https://en.wikipedia.org/wiki/TWA_Flight_Center",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un tren sin conductor",
+    "text": "El AirTrain tiene tres líneas y nueve estaciones, todas en Queens, y funciona sin conductor todo el día. La conexión ferroviaria con JFK se venía proponiendo desde los años 40 y la obra recién empezó en 1998.",
+    "source": "https://en.wikipedia.org/wiki/AirTrain_JFK",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "joe-allen",
@@ -2529,7 +3106,28 @@
   "commons_files": [
    "File:Joe Allen 326 W46 jeh.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Joe Allen abrió en 1965 en la calle 46 oeste, en la cuadra entre 8th y 9th Ave que se conoce como Restaurant Row. Su dueño, Joe Allen (1933–2021), había sido maître de P.J. Clarke's, el saloon de 1884 de Third Avenue. El lugar se volvió punto de reunión de actores, técnicos y público de Broadway.\n\nAbrió sucursales en París en 1972 y en Londres en 1977; desde 2018 tienen otros dueños y conservan el nombre. En 1972 dos de sus barmen, Jack O'Neill y George Mourges, se fueron y fundaron J.G. Melon en el Upper East Side: la J y la G son sus iniciales.\n\nEnfrente, en el 321, funcionó desde 1906 Barbetta, el restaurante más antiguo del Theater District, de cocina piamontesa. Cerró el 27 de febrero de 2026, un mes después de la muerte de su dueña, Laura Maioglio, a los 93 años.",
+  "curiosities": [
+   {
+    "title": "La pared de los fracasos",
+    "text": "Las paredes de ladrillo están cubiertas de afiches de musicales que fracasaron en Broadway, como Moose Murders, Laughing Room Only y Dance of the Vampires.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Allen_(restaurant)",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "De P.J. Clarke's a la 46",
+    "text": "Joe Allen dejó su puesto de maître en P.J. Clarke's para abrir este restaurante en 1965. P.J. Clarke's es la alternativa de cena del sábado, a cinco cuadras del hotel.",
+    "source": "https://en.wikipedia.org/wiki/P._J._Clarke%27s",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Trufas en la vereda de enfrente",
+    "text": "Barbetta, fundado en 1906 por Sebastiano Maioglio, fue el primer restaurante italiano de la ciudad en servir trufa blanca en forma regular durante la temporada. También fue uno de los primeros de Manhattan con jardín para comer afuera.",
+    "source": "https://en.wikipedia.org/wiki/Barbetta",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "joes-shanghai-chinatown",
@@ -2605,7 +3203,8 @@
   "commons_files": [
    "File:Xiao Long Bao at Joe's Shanghai Restaurant in NYC.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Joe's Shanghai es una cadena de restaurantes de cocina de Shanghái fundada por la empresaria Mei Ping \"Barbara\" Matsumura y el cocinero Kiu Sang \"Joe\" Si. El primer local fue en Flushing, Queens; después abrieron en Chinatown y en Midtown, y hoy suman cuatro locales en Japón."
  },
  {
   "id": "laser-wolf-brooklyn",
@@ -2671,7 +3270,8 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Laser Wolf es la parrilla israelí del chef Michael Solomonov, que tiene otro local en Filadelfia. En Brooklyn ocupa la terraza de la Hoxton, el hotel que en 2018 trajo la cadena a Estados Unidos con su primer bar en altura. Se sirve como una shipudiya, con brochetas a las brasas y ensaladitas para compartir, frente al skyline de Manhattan."
  },
  {
   "id": "little-island",
@@ -2730,7 +3330,16 @@
    "File:Little Island Pier 55 NYC.JPG",
    "File:Little Island at Pier 55, New York City, 20231001 1017 0809.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Little Island abrió en 2021 sobre el Pier 55 del Hudson, con diseño de Heatherwick Studio y fondos de Barry Diller y Diane von Fürstenberg. Ocupa casi una hectárea sobre 132 macetas de hormigón, los tulipanes, apoyadas en 280 pilotes; las más altas están a 18.9 m sobre el agua. El proyecto se frenó en 2017 por juicios y se retomó después.",
+  "curiosities": [
+   {
+    "title": "El muelle vecino",
+    "text": "Pegado a Little Island está el Pier 54 de Cunard: ahí desembarcaron en 1912 los sobrevivientes del Titanic que traía el Carpathia, y de ahí zarpó el Lusitania en 1915. Queda el arco oxidado de la entrada con las letras Cunard White Star.",
+    "source": "https://www.atlasobscura.com/places/pier-54-titanics-destination",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "los-chuzos-y-algo-mas",
@@ -2796,7 +3405,22 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Es un local colombiano chico, abierto hasta tarde, con un menú corto de chuzos (brochetas de carne) y arepas; The Infatuation recomienda el chorizo grande y crocante. Está sobre Roosevelt Avenue, en la franja colombiana del barrio.\n\nEn los años 50 llegaron a Jackson Heights comerciantes colombianos de clase media que escapaban de la violencia y trajeron capital y familias. En los 80 el barrio era muy colombiano; después llegaron mexicanos y otros grupos, y muchos colombianos se mudaron a Elmhurst, Corona y Flushing. Queens es hoy el condado de Estados Unidos con más colombianos, unos 135,000. La estación del 7 más cercana, 82 St–Jackson Hts, abrió en 1917 con el nombre de 25th Street. Al lado está Cositas Ricas, el diner colombiano que abre las 24 horas.",
+  "curiosities": [
+   {
+    "title": "La tele colombiana en Queens",
+    "text": "El canal colombiano RCN tiene su sede estadounidense en Jackson Heights.",
+    "source": "https://en.wikipedia.org/wiki/Jackson_Heights",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Comida de medianoche",
+    "text": "The Infatuation lo recomienda para el hambre de medianoche y su pedido fijo es el chorizo.",
+    "source": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants",
+    "source_name": "The Infatuation"
+   }
+  ]
  },
  {
   "id": "marathon-finish-line",
@@ -2856,7 +3480,40 @@
    "File:New York Marathon 2010, Finish line, Central Park.JPG",
    "File:Tavern on the Green cloudy jeh.JPG"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El primer maratón de Nueva York se corrió el 13 de septiembre de 1970 con 127 inscriptos que dieron vueltas al circuito de Central Park. Lo organizaron Fred Lebow y Vince Chiappetta, entonces presidente de New York Road Runners. Lo vieron unas 100 personas, llegaron 55 y ganó Gary Muhrcke en 2:31:38. La largada y la llegada estaban junto a Tavern on the Green, a metros de esta meta. Nina Kuscsik fue la única mujer y abandonó.\n\nEn 1976, para el Bicentenario, la carrera salió del parque y cruzó los cinco distritos por propuesta de Ted Corbitt, con el apoyo del presidente del distrito de Manhattan, Percy Sutton. Iba a ser por única vez: largaron 2,090 y ganó Bill Rodgers en 2:10:10. La noruega Grete Waitz ganó nueve veces entre 1978 y 1988, récord para un maratón de gran ciudad. En 2012 el alcalde Michael Bloomberg suspendió la carrera dos días antes, tras el huracán Sandy; en 2020 no se corrió por la pandemia.\n\nLa edición 2026 celebra los 50 años del recorrido por los cinco distritos, estrenado el 24 de octubre de 1976. También trae el primer cambio de trazado en 15 años: en el Bronx se corre por E 135th St, Alexander Ave, E 141st St y Third Ave antes de volver por E 138th St.",
+  "curiosities": [
+   {
+    "title": "Lebow terminó 45.º",
+    "text": "Fred Lebow, nacido Fischel Lebowitz en Arad, Rumania, y sobreviviente del Holocausto, corrió el primer maratón y llegó 45.º de 55, en 4:12:09. Corrió el último en 1992, a los 60 años y con un cáncer cerebral, junto a Grete Waitz: 5:32:35.",
+    "source": "https://en.wikipedia.org/wiki/Fred_Lebow",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Lebow cronometra la llegada",
+    "text": "La estatua de Lebow lo muestra tomando tiempos con su reloj. Vive en el East Drive a la altura de la calle 90 desde 2001, y cada año la mudan cerca de la meta para que mire llegar a los corredores.",
+    "source": "https://en.wikipedia.org/wiki/Fred_Lebow",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Tavern on the Green era un corral",
+    "text": "El edificio junto a la meta se construyó en 1870 como corral para las ovejas que pastaban en Sheep Meadow. Dos veces por día un pastor cortaba el tránsito para cruzarlas. Robert Moses las desalojó en 1934 y en octubre de ese año abrió el restaurante.",
+    "source": "https://en.wikipedia.org/wiki/Sheep_Meadow",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Medido en bicicleta",
+    "text": "Ted Corbitt midió el circuito original la noche del 8 de septiembre de 1970 con una bicicleta calibrada: salía de W 67th St y Central Park West y sumaba 26.225 millas, 11 yardas de más.",
+    "source": "https://en.wikipedia.org/wiki/New_York_City_Marathon",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "La sentada de 1972",
+    "text": "En 1972 la AAU obligaba a las mujeres a largar diez minutos antes que los hombres. Seis corredoras se sentaron en la línea con carteles, esperaron los diez minutos y salieron con ellos; les sumaron el tiempo, y la regla cayó ese mismo año.",
+    "source": "https://en.wikipedia.org/wiki/New_York_City_Marathon",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "marseille",
@@ -2926,7 +3583,8 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Marseille es una brasserie de inspiración francesa y mediterránea en la esquina de 9th Avenue y la 44, a dos cuadras de Restaurant Row, en el borde oeste del Theater District."
  },
  {
   "id": "maybe-happy-ending-belasco",
@@ -2989,7 +3647,8 @@
   "commons_files": [
    "File:Belasco Theatre (52302749285).jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El Belasco abrió en 1907 como Stuyvesant Theatre, diseñado por George Keister para el empresario David Belasco, en la calle 44 entre Sixth y Seventh. Tiene 1,016 butacas en tres niveles, lo opera la Shubert Organization desde 1948 y su fachada y su interior son monumentos de la ciudad."
  },
  {
   "id": "mei-lai-wah",
@@ -3049,7 +3708,8 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Mei Lai Wah es una panadería cantonesa de Chinatown conocida por sus bollos de cerdo asado. Abrió en 1968 en Bayard Street y hoy está en el 41 de Mott Street, a una cuadra de Nom Wah."
  },
  {
   "id": "met-fifth-avenue",
@@ -3133,7 +3793,40 @@
    "File:The Temple of Dendur MET DT563.jpg",
    "File:Emanuel Leutze Washington Crossing the Delaware The Metropolitan Museum of Art.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El Metropolitan Museum se fundó en 1870 y en 1871 la ciudad le cedió un terreno dentro de Central Park, entre Fifth Avenue y las transversales de las calles 79 y 85. El primer edificio, de 1880, fue de ladrillo rojo y estilo neogótico, obra de Calvert Vaux y Jacob Wrey Mould, dos de los diseñadores del parque. La crítica lo llamó mausoleo y el presidente del museo lo consideró un error.\n\nEn menos de 20 años empezaron las ampliaciones que lo rodearon. La fachada Beaux-Arts de Fifth Avenue, el Great Hall y la escalera principal son de Richard Morris Hunt, el arquitecto de la Lenox Library que ocupaba el terreno de la Frick; los terminó su hijo en 1902. Las alas laterales son de McKim, Mead & White y los muros de vidrio del fondo, de Kevin Roche, que planificó el museo durante más de 40 años.\n\nEl Templo de Dendur, construido en Nubia entre el 23 y el 10 a.C. por orden de Augusto, llegó por la campaña de la UNESCO para salvar monumentos de la represa de Asuán. Egipto lo regaló a Estados Unidos en 1965 y el Met lo exhibe desde 1978.",
+  "curiosities": [
+   {
+    "title": "Las esculturas que nunca se tallaron",
+    "text": "Sobre las columnas de la fachada hay cuatro bloques de piedra sin tallar. Iban a ser grupos escultóricos de las grandes épocas del arte; faltó plata y no hubo acuerdo sobre cómo representar el arte moderno.",
+    "source": "https://en.wikipedia.org/wiki/The_Met_Fifth_Avenue",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un bife para el más allá",
+    "text": "En la galería 109 hay un estuche de madera hecho a medida con una paleta de vaca momificada de unos 3,500 años. Probablemente acompañó al príncipe Amenemhat en su tumba.",
+    "source": "https://www.atlasobscura.com/places/beef-case-egypt-mummy-metropolitan-museum",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Grafiti de 1817 en Dendur",
+    "text": "El templo tiene inscripciones de visitantes desde el año 10 a.C. La más visible, a la izquierda al entrar, dice \"A L Corry RN 1817\": la talló un oficial de la marina británica.",
+    "source": "https://en.wikipedia.org/wiki/Temple_of_Dendur",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El Dendur Derby",
+    "text": "Cuando Egipto regaló el templo, varios museos compitieron por él y la prensa lo llamó \"Dendur Derby\". Cairo (Illinois) y Memphis (Tennessee) alegaron que sus nombres egipcios los hacían la sede natural.",
+    "source": "https://en.wikipedia.org/wiki/Temple_of_Dendur",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Los cangrejos del obelisco",
+    "text": "Detrás del museo, en el parque, está la Aguja de Cleopatra, un obelisco levantado en Heliópolis hacia 1450 a.C. Lo sostienen réplicas de los cangrejos de bronce que los romanos pusieron en su base.",
+    "source": "https://www.atlasobscura.com/places/crabs-of-cleopatra-s-needle",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "moma",
@@ -3144,7 +3837,7 @@
   "lat": 40.761612,
   "lng": -73.977499,
   "coords_source": "https://www.openstreetmap.org/way/278346578",
-  "hours": "sáb 31-oct: 10:30–17:30 (9:30–10:30 solo socios y sus invitados)",
+  "hours": "jue 29-oct: 10:30–17:30 (9:30–10:30 solo socios y sus invitados)",
   "hours_source": "https://visit.moma.org/select",
   "price": "Adultos USD 30; mayores de 65 USD 22; estudiantes USD 17; menores de 16 gratis",
   "duration_min": 150,
@@ -3212,7 +3905,22 @@
    "File:NY Moma jardin.JPG",
    "File:MoMa NY USA 1.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El MoMA lo idearon en 1929 Abby Aldrich Rockefeller, Lillie P. Bliss y Mary Quinn Sullivan. Abrió en el Heckscher Building de Fifth Avenue días después del crac de Wall Street y hoy ocupa la calle 53 entre Fifth y Sixth, con más de 200,000 obras de arte, arquitectura, diseño, fotografía y cine.",
+  "curiosities": [
+   {
+    "title": "Un tanque de agua de resina",
+    "text": "Water Tower, de Rachel Whiteread, es el molde en resina translúcida del interior de un tanque de agua de cedro, montado sobre la estructura de acero típica de las azoteas. Estuvo en un techo del SoHo desde 1998 y hoy está en el MoMA; cambia de color con el clima y de noche casi desaparece.",
+    "source": "https://www.atlasobscura.com/places/water-tower",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Ocho grabados y un dibujo",
+    "text": "La colección del MoMA arrancó con una donación de ocho grabados y un dibujo. Bajo la dirección de Barr creció rápido y en 1936 montó Cubism and Abstract Art.",
+    "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "nepali-bhanchha-ghar",
@@ -3284,7 +3992,28 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Lo abrieron los hermanos Yamuna y Shree Shrestha, que vienen de las afueras de Katmandú, hacia el oeste, en un local chico a la sombra del 7. Llegaron a un barrio que ya tenía muchos lugares de momos y aun así ganaron varios años seguidos la Momo Crawl, el recorrido informal de momos de Jackson Heights.\n\nEl momo es la empanadita al vapor de Nepal y el Tíbet. Hay debate sobre si viajó del valle de Katmandú al Tíbet o al revés; una versión dice que lo difundieron los mercaderes newar que comerciaban en el Tíbet, y en newar se llama mamacha. El jhol momo llega bañado en un caldo especiado. El sel roti, un aro dulce frito de harina de arroz, es la fritura de Dashain y Tihar, las grandes fiestas hindúes de Nepal.",
+  "curiosities": [
+   {
+    "title": "Los campeones de la Momo Crawl",
+    "text": "Atlas Obscura destaca sus jhol momo como de los mejores de un barrio que desborda de empanaditas, y cuenta que ganaron varias ediciones de la Momo Crawl.",
+    "source": "https://www.atlasobscura.com/places/nepali-bhanchha-ghar-jackson-heights-queens-new-york-city",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "La segunda capital del Tíbet",
+    "text": "A Jackson Heights se la llamó la segunda capital, no oficial, del exilio tibetano, después de Dharamsala en la India.",
+    "source": "https://en.wikipedia.org/wiki/Jackson_Heights",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Del cine porno a Bollywood y al patio de comidas",
+    "text": "A metros, sobre la 37th Road, el cine Earle abrió en 1936, pasó a porno, luego a cine de Bollywood con el nombre Eagle, cerró en 2009 y hoy es un patio de comidas del subcontinente indio.",
+    "source": "https://en.wikipedia.org/wiki/Jackson_Heights",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "nom-wah-tea-parlor",
@@ -3374,7 +4103,34 @@
    "File:Nom Wah Tea Parlor in New York City Chinatown.jpg",
    "File:Doyers Street Chinatown.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Nom Wah Tea Parlor (南華茶室, casa de té del sur de China) abrió en 1920 en el 15 de Doyers Street y en 1968 se mudó al 13. Es el restaurante en funcionamiento más antiguo de Chinatown. Desde los años cuarenta lo manejaron Ed y May Choy, sobre todo como panadería; en 1950 llegó su sobrino Wally Tang, de 16 años, que lo compró en 1976. En 2010 lo tomó Wilson Tang, sobrino de Wally y ex banquero, que cambió los carritos de dim sum por pedidos a la carta.\n\nDoyers Street mide 61 m y dobla en ángulo cerrado a mitad de camino. Lleva el nombre de Hendrik Doyers, un inmigrante holandés que a fines del siglo XVIII tenía una destilería en el número 6. A principios del siglo XX el codo se llamó Bloody Angle por los asesinatos entre tongs rivales, como Hip Sing y On Leong, que siguieron hasta los años treinta.\n\nChinatown empezó en Mott, Pell y Doyers, al este de Five Points. En 1870 vivían unos 200 chinos y en 1882, cuando se aprobó la Ley de Exclusión China, unos 2,000; la ley rigió hasta 1943 y el barrio fue casi solo de hombres hasta 1965.",
+  "curiosities": [
+   {
+    "title": "Un siglo de reservados rojos",
+    "text": "Atlas Obscura lo registra como la casa de dim sum más antigua de Nueva York. Los detalles art déco y los reservados de vinilo rojo se ven parecidos a los de hace cien años.",
+    "source": "https://www.atlasobscura.com/places/nom-wah-tea-parlor",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "La esquina más violenta",
+    "text": "En 1994 la policía dijo que en el codo de Doyers había muerto más gente de forma violenta que en cualquier otra esquina de Estados Unidos. Las hachas eran tan comunes que de ahí viene la expresión \"hatchet man\".",
+    "source": "https://en.wikipedia.org/wiki/Doyers_Street",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un teatro chino y una balacera",
+    "text": "Entre 1893 y 1911 funcionó en el 5–7 de Doyers el primer teatro en chino de la ciudad. En 1905, con 400 personas en la sala, miembros del Hip Sing dispararon contra los del On Leong y murieron tres.",
+    "source": "https://en.wikipedia.org/wiki/Doyers_Street",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El baogel",
+    "text": "En 2017 Nom Wah inventó el baogel, un cruce entre bagel y bollo de cerdo asado (cha siu bao).",
+    "source": "https://en.wikipedia.org/wiki/Nom_Wah_Tea_Parlor",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "nyc-ferry-dumbo-fulton-ferry",
@@ -3385,9 +4141,9 @@
   "lat": 40.703734,
   "lng": -73.995836,
   "coords_source": "https://www.openstreetmap.org/node/1437051166",
-  "hours": "sáb 31-oct (horario de fin de semana de otoño): salidas hacia East 34th St cada 13–15 min; 18:31, 18:44, 18:59, 19:12, 19:27, 19:40, 19:55; última 20:51",
+  "hours": "mié 28-oct, horario de otoño de días de semana: sale 19:04 y llega a North Williamsburg 19:18; el siguiente que para ahí sale 19:32",
   "hours_source": "https://www.ferry.nyc/routes-and-schedules/east-river/",
-  "price": "USD 4.00 el viaje (pase de 10 viajes USD 27.50)",
+  "price": "USD 4.50 el viaje (10 viajes, USD 29)",
   "duration_min": 27,
   "booking": {
    "needed": "no",
@@ -3433,7 +4189,28 @@
    "File:NYC Ferry DUMBO.jpg",
    "File:East 34th Street Ferry Landing.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Desde este punto se cruzaba a Manhattan en velero o en bote de remos ya en 1642. En 1814 empezó el servicio regular de la Fulton Ferry Company y en 1872 había 1,200 cruces por día; las calles que llevaban a los dos muelles se llaman Fulton Street en las dos orillas. Walt Whitman contó uno de esos viajes en el poema de 1856 que después tituló Crossing Brooklyn Ferry.\n\nEl puente de 1883 le quitó pasajeros y el Fulton Ferry dejó de funcionar en 1924. La red de ferries de la ciudad casi desapareció en los años 60 y revivió desde los 80: a este muelle el servicio volvió en 2006, en 2011 empezó la ruta del East River de NY Waterway y en mayo de 2017 pasó a NYC Ferry, la red municipal que opera Hornblower.\n\nAl pie de Old Fulton Street quedan el Eagle Warehouse, que el diario Brooklyn Daily Eagle construyó en 1893, y el amarre de Bargemusic, la sala de conciertos que Olga Bloom armó en 1977 en una barcaza de café de 1899. Desde abril de 2025 sus conciertos se hacen en el Boathouse de Brooklyn Bridge Park.",
+  "curiosities": [
+   {
+    "title": "Una barcaza de café con música de cámara",
+    "text": "La barcaza de 1899 llevaba bolsas de café para el ferrocarril Erie Lackawanna. Para convertirla en sala, Olga Bloom usó paneles, listones de caoba y bancos del viejo ferry de Staten Island American Legion.",
+    "source": "https://www.atlasobscura.com/places/bargemusic",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "El accidente que empezó todo",
+    "text": "El 28 de junio de 1869, parado en el borde de este muelle mientras fijaba la ubicación del puente, John A. Roebling tuvo el pie aplastado por un ferry que llegaba. Le amputaron los dedos, rechazó otros tratamientos y murió de tétanos 24 días después.",
+    "source": "https://en.wikipedia.org/wiki/John_A._Roebling",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Whitman al atardecer",
+    "text": "Crossing Brooklyn Ferry arranca media hora antes de la puesta del sol, en la cubierta de un ferry que va de Manhattan a Brooklyn: el poeta imagina que la gente del futuro va a sentir lo mismo al cruzar el río.",
+    "source": "https://en.wikipedia.org/wiki/Crossing_Brooklyn_Ferry",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "nycm-opening-ceremony",
@@ -3491,7 +4268,8 @@
    "File:New York Marathon 2010, Finish line, Central Park.JPG",
    "File:Tavern on the Green cloudy jeh.JPG"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "La ceremonia se hace sobre la línea de llegada, frente a Tavern on the Green. El restaurante ocupa el antiguo redil de las ovejas que pastaban en el Sheep Meadow, construido en 1870 con diseño de Calvert Vaux y Jacob Wrey Mould. Robert Moses sacó a las ovejas en 1934 y ese año abrió el restaurante."
  },
  {
   "id": "nypl-marathon-buses",
@@ -3547,7 +4325,34 @@
   "commons_files": [
    "File:New York Public Library May 2011.JPG"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Los micros cargan frente al Stephen A. Schwarzman Building, el edificio central de la Biblioteca Pública de Nueva York. Se levantó donde estaba el depósito de agua de Croton: los obreros tardaron siete semanas en atravesar su muro de 7.6 m y el fondo hubo que volarlo con dinamita. Lo diseñó el estudio Carrère and Hastings en estilo Beaux-Arts y lo inauguró el presidente William Howard Taft el 23 de mayo de 1911.\n\nLa biblioteca nació en 1895 de la fusión de las bibliotecas Astor y Lenox con el legado de Samuel J. Tilden. En los años 20 ya recibía cuatro millones de visitas por año. La sala de lectura principal mide 24 por 91 m, con techo a 16 m. Una donación de USD 100 millones de Stephen A. Schwarzman pagó la restauración de 2007–2011 y le dio su nombre.\n\nCustodian la escalinata dos leones de mármol de Tennessee, tallados por los hermanos Piccirilli sobre diseño de Edward Clark Potter. Primero se llamaron Leo Astor y Leo Lenox. En los años 30 el alcalde Fiorello La Guardia los rebautizó Patience y Fortitude, paciencia y fortaleza, las virtudes que según él iban a necesitar los neoyorquinos para atravesar la Depresión.",
+  "curiosities": [
+   {
+    "title": "Patience al sur, Fortitude al norte",
+    "text": "Mirando la escalinata, Patience está a la izquierda (lado sur) y Fortitude a la derecha. Una leyenda dice que los pusieron ahí para que los lectores entraran leyendo \"entre los leones\".",
+    "source": "https://en.wikipedia.org/wiki/New_York_Public_Library_Main_Branch",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El Winnie the Pooh verdadero",
+    "text": "En el Children's Center de la planta baja están los muñecos originales de Christopher Robin Milne. El oso lo compró su padre en Harrods en 1921; después llegaron el burro, el chanchito, el canguro y el tigre que inspiraron los cuentos.",
+    "source": "https://www.atlasobscura.com/places/the-real-winnie-the-pooh-and-pals-new-york-new-york",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Un código descifrado con una guía telefónica",
+    "text": "Durante la Segunda Guerra Mundial, soldados estadounidenses rompieron un código japonés basado en una guía telefónica mexicana. La única copia disponible entre los Aliados estaba en esta biblioteca.",
+    "source": "https://en.wikipedia.org/wiki/New_York_Public_Library_Main_Branch",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Correo por tubos",
+    "text": "La biblioteca exhibe restos del correo neumático: desde 1897 una red de 27 millas de tubos bajo la calle unía 22 oficinas de correo de Manhattan con Brooklyn, y las cápsulas viajaban a unos 56 km/h.",
+    "source": "https://www.atlasobscura.com/places/pneumatic-system-new-york-public-library",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "nyrr-runcenter",
@@ -3661,7 +4466,28 @@
    "File:Watch Tower restored 2020 jeh.jpg",
    "File:Harlem-firetower.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Los holandeses llamaban a esta loma de esquisto Slang Berg, la colina de las víboras, y antes los pueblos originarios la usaban como mirador sobre toda la isla. En la Revolución, soldados hessianos montaron ahí una batería para dominar la desembocadura del río Harlem. La ciudad abrió el parque en 1840 con el nombre de Mount Morris, probablemente por el alcalde Robert Morris.\n\nLa torre vigía de hierro fundido entró en servicio en 1857, a pedido de los vecinos. La construyó Julius H. Kroehl sobre un diseño de James Bogardus, costó USD 2,300 y mide 14 m. Era una de las 11 que tuvo la ciudad: los vigías buscaban humo sobre las casas de madera y daban la alarma con la campana. Las cajas de alarma callejeras las volvieron obsoletas y esta sobrevivió porque estaba en medio de un parque. En los años 30 la WPA armó la plaza de arriba, conocida como la Acrópolis.\n\nEn 1973 el Concejo Municipal le puso el nombre de Marcus Garvey, fundador de la Universal Negro Improvement Association, en la misma votación que rebautizó Welfare Island como Roosevelt Island. La torre, landmark desde 1967, se desarmó en 2014 para restaurarla y reabrió en diciembre de 2019.",
+  "curiosities": [
+   {
+    "title": "El constructor de submarinos",
+    "text": "Julius Kroehl, el constructor de la torre, diseñó después el Sub Marine Explorer (1865), el primer submarino capaz de sumergirse y volver a la superficie por sus propios medios. Murió en Panamá en 1867, adonde lo había llevado para una compañía de pesca de perlas.",
+    "source": "https://en.wikipedia.org/wiki/Julius_H._Kroehl",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El domingo pasamos por acá",
+    "text": "Fifth Avenue no atraviesa el parque: lo rodea por Mount Morris Park West. Por ahí baja la maratón en la milla 22, rumbo a Central Park.",
+    "source": "https://en.wikipedia.org/wiki/Marcus_Garvey_Park",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "La calle de los médicos",
+    "text": "El tramo de la calle 122 junto al parque se conocía como Doctor's Row. Uno de esos médicos era el padre del compositor Richard Rodgers, que da nombre al anfiteatro del parque.",
+    "source": "https://en.wikipedia.org/wiki/Mount_Morris_Park_Historic_District",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "pastrami-queen-ues",
@@ -3744,7 +4570,28 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Pastrami_Queen"
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Pastrami Queen nació en 1956 como Pastrami King, en Williamsburg (Brooklyn). En 1961 se mudó a Kew Gardens, en Queens, y en 1998 cambió King por Queen. Después se instaló en 1125 Lexington Avenue, en la esquina de la 78, que hoy es su local principal y es kosher, como el del Upper West Side.\n\nSegún la casa, el pastrami lleva tres días: el corte de pecho se pone en salmuera, se condimenta, se seca y se ahuma, y en el local pasa 24 horas al vapor antes de cortarlo a mano. El pan de centeno viene de Orwasher's, una panadería de la zona. Anthony Bourdain lo ponía a la par de Katz's.\n\nLexington Avenue no estaba en la cuadrícula de 1811. La abrió Samuel Ruggles: el tramo sur en 1833 y el norte en 1836, con el nombre de la batalla de Lexington de la guerra de independencia.",
+  "curiosities": [
+   {
+    "title": "Por qué Queen",
+    "text": "El nombre cambió en 1998, cuando el deli ya estaba en Kew Gardens, Queens. La casa sigue sirviendo platos del menú de 1956, como lengua, kasha varnishkes y repollo relleno.",
+    "source": "https://www.pastramiqueen.com/new-page",
+    "source_name": "Pastrami Queen"
+   },
+   {
+    "title": "El primer arresto por velocidad",
+    "text": "En 1899 un policía en bicicleta alcanzó en Lexington Avenue al taxista Jacob German, que iba a 12 millas por hora (19 km/h). Fue el primer arresto por exceso de velocidad en la ciudad.",
+    "source": "https://en.wikipedia.org/wiki/Lexington_Avenue",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Avenida y subte el mismo día",
+    "text": "El tramo de Lexington al norte de la 42 se ensanchó mientras se construía la línea de subte que usamos a la mañana. Las dos cosas se inauguraron el 17 de julio de 1918.",
+    "source": "https://en.wikipedia.org/wiki/Lexington_Avenue",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "pebble-beach-dumbo",
@@ -3755,7 +4602,7 @@
   "lat": 40.704383,
   "lng": -73.990549,
   "coords_source": "https://www.openstreetmap.org/way/328253995",
-  "hours": "sáb 31-oct: parque abierto 6:00–1:00",
+  "hours": "Parque abierto 6:00–1:00",
   "hours_source": "https://brooklynbridgepark.org/places-to-see/main-street/",
   "price": "Gratis",
   "duration_min": 15,
@@ -3800,7 +4647,16 @@
    "File:Brooklyn Bridge and the Lower Manhattan skyline from Pebble Beach, New York.jpg",
    "File:View of Pebble Beach from Empire Fulton Ferry Park.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Pebble Beach es la orilla de canto rodado de la sección Main Street de Brooklyn Bridge Park, entre los dos puentes. El parque, de Michael Van Valkenburgh Associates, se armó sobre la costa industrial que el Port Authority usó para cargas hasta 1983; la primera parte abrió en 2010 y se terminó en diciembre de 2021, con 34 hectáreas a lo largo de 2.1 km.",
+  "curiosities": [
+   {
+    "title": "Un carrusel de Ohio",
+    "text": "A pocos metros, el carrusel de Jane se talló en 1922 para el parque Idora de Youngstown, Ohio. Jane y David Walentas lo compraron en 1984 por USD 385,000, lo restauraron durante 22 años y desde 2011 gira en un pabellón de vidrio de Jean Nouvel.",
+    "source": "https://en.wikipedia.org/wiki/Jane%27s_Carousel",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "phayul",
@@ -3872,7 +4728,16 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Phayul está en un primer piso, frente a Lhasa Fast Food, el tibetano escondido al fondo de una galería de celulares y joyerías que Anthony Bourdain hizo famoso. La comunidad tibetana de Estados Unidos es chica, unas 9,000 personas en 2008, y a Jackson Heights se la llamó la segunda capital del exilio tibetano después de Dharamsala.",
+  "curiosities": [
+   {
+    "title": "El vecino de enfrente",
+    "text": "En Lhasa Fast Food cuelga una foto de Bourdain con el dueño y cocinero, Sang Jien Ben, y un retrato del Dalai Lama sobre la cocina.",
+    "source": "https://www.atlasobscura.com/places/lhasa-fast-food",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "pj-clarkes-third-avenue",
@@ -3943,7 +4808,8 @@
    "File:P.J. Clarke's Pub. Est. 1884 (2724407477).jpg",
    "File:P.J. Clarke's Exterior.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "P.J. Clarke's es un saloon de 1884 en Third Avenue y la 55, uno de los restaurantes en funcionamiento más antiguos de Nueva York. Toma el nombre de Patrick J. Clarke, un inmigrante irlandés que trabajó ahí unos diez años y terminó comprando el bar. Su casa de ladrillo es un holdout: quedó rodeada por la torre de 47 pisos de 919 Third Avenue. El bar de Nat en The Lost Weekend (1945), de Billy Wilder, se inspiró en este lugar."
  },
  {
   "id": "post-finish-exit-w77",
@@ -3999,7 +4865,34 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "La salida de W 77th St desemboca en Central Park West frente al American Museum of Natural History y a la New-York Historical Society, en el 170 de la avenida. Más al sur, en la esquina de la 72, está el Dakota, construido entre 1880 y 1884 por Henry J. Hardenbergh: fue una de las primeras grandes obras del Upper West Side y es el edificio de departamentos de lujo más antiguo que sigue en pie en la ciudad. Frente a él está Strawberry Fields, el memorial de John Lennon, asesinado en la puerta del edificio el 8 de diciembre de 1980.\n\nPor Central Park West corría un tranvía. En la esquina de la calle 74, el 13 de septiembre de 1899, Henry H. Bliss bajó de él y lo atropelló un taxi eléctrico: fue la primera muerte causada por un vehículo a motor en el hemisferio occidental. Una placa lo recuerda en esa esquina, la misma por la que Daniela deja la zona de corredores. El primer maratón de Nueva York se corrió también un 13 de septiembre, 71 años después.",
+  "curiosities": [
+   {
+    "title": "La esquina peligrosa",
+    "text": "Antes del accidente de Bliss, los automovilistas ya llamaban \"Dangerous Stretch\" a este tramo de Central Park West por los choques del verano anterior. La placa está en la esquina de la calle 74.",
+    "source": "https://www.atlasobscura.com/places/henry-bliss-plaque",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "El gobernador del vestido azul",
+    "text": "La New-York Historical Society guarda un \"Retrato de una mujer no identificada\" que algunos atribuyen a Edward Hyde, gobernador colonial de Nueva York y primo de la reina Ana, supuestamente vestido de mujer. La identificación es discutida.",
+    "source": "https://www.atlasobscura.com/places/portrait-of-an-unidentified-woman",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "¿Por qué Dakota?",
+    "text": "Una leyenda dice que lo llamaron así porque en 1882 quedaba tan lejos como el Territorio de Dakota. Wikipedia considera más probable que al dueño, Edward Clark, le gustaran los nombres de los nuevos territorios del oeste.",
+    "source": "https://en.wikipedia.org/wiki/The_Dakota",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "El guardián de Imagine",
+    "text": "El mosaico Imagine de Strawberry Fields existe desde 1985. Durante años lo cuidó y decoró Gary dos Santos, un fan que se autoproclamó alcalde del memorial.",
+    "source": "https://www.atlasobscura.com/places/strawberry-fields-memorial",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "red-rooster",
@@ -4069,7 +4962,16 @@
   "commons_files": [
    "File:Red Rooster, Harlem - Corn Bread.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Marcus Samuelsson nació en 1971 en Etiopía como Kassahun Joar Tsegie. Su madre murió de tuberculosis cuando él tenía tres años, y con su hermana lo adoptó una familia de Gotemburgo, Suecia, donde aprendió a cocinar con su abuela. Llegó a Nueva York en 1994 como aprendiz en Aquavit, fue su chef ejecutivo a los 24 años y en 2009 cocinó la primera cena de Estado de Barack Obama.\n\nRed Rooster, su primer restaurante propio, abrió en diciembre de 2010 sobre Lenox Avenue. En marzo de 2011 fue sede de una cena de recaudación del Partido Demócrata con Obama: USD 30,800 el cubierto, USD 1.5 millones recaudados.",
+  "curiosities": [
+   {
+    "title": "Cena de Estado vegetariana",
+    "text": "La cena de 2009, en honor al primer ministro indio Manmohan Singh, fue mayormente vegetariana y usó verduras de la huerta de la Casa Blanca.",
+    "source": "https://en.wikipedia.org/wiki/Marcus_Samuelsson",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "rosa-mexicano-second-avenue",
@@ -4136,7 +5038,22 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Rosa Mexicano lo fundó Josefina Howard, cocinera e historiadora de la cocina, que quería presentar la comida mexicana como alta cocina. El primer local abrió en 1984 en Midtown East, en la zona de Sutton Place, y según la casa fue el primero en llevar la cocina mexicana de restaurante fino a Nueva York. El de Second Avenue está en el mismo barrio.\n\nEl guacamole que se prepara en la mesa es la firma de la casa desde el primer día.\n\nLa cuadra que caminamos para llegar, la 49 entre Third y Second Avenue, es parte de Turtle Bay. De un lado está Amster Yard, el patio que el artista James Amster armó en 1944–1946 y hoy ocupa el Instituto Cervantes. Del otro, Turtle Bay Gardens: veinte casas de la década de 1860 que Charlotte Hunnewell Sorchan renovó en 1918–1920 alrededor de un jardín común, landmark desde 1966.",
+  "curiosities": [
+   {
+    "title": "Guacamole sin lima",
+    "text": "El guacamole se hace en la mesa \"al estilo de Josefina\", sin lima, y es la marca de la casa desde 1984.",
+    "source": "https://rosamexicano.com/about/",
+    "source_name": "Rosa Mexicano"
+   },
+   {
+    "title": "Una cascada a una cuadra",
+    "text": "En la calle 51 entre Second y Third Avenue está Greenacre Park, un parque de bolsillo de 1971 diseñado por Hideo Sasaki con una cascada de 7.6 m que tapa el ruido de la ciudad.",
+    "source": "https://www.atlasobscura.com/places/greenacre-park",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "rosemarys-midtown",
@@ -4202,7 +5119,22 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Rosemary's lleva el nombre de la madre de su fundador, Carlos Suarez, que cocinaba para la familia en cada país donde vivieron. El primer local abrió en 2012 en el West Village, con una huerta en la azotea y vista al Jefferson Market Garden, inspirado en la casa de sus padres en Lucca. Hoy la marca tiene tres locales en Nueva York y uno en Tokio.\n\nLa esquina de Third Avenue y la 50 estuvo bajo el Third Avenue El, el tren elevado que desde 1878 iba de South Ferry a Grand Central Depot y ese mismo año llegó a Harlem. En Manhattan dejó de funcionar el 12 de mayo de 1955 y fue el último elevado de la isla, aparte de los tramos a cielo abierto de la línea 1.\n\nTurtle Bay, el barrio del hotel y del restaurante, toma el nombre de una ensenada del East River entre las calles 45 y 48. La alimentaba un arroyo que nacía en Second Avenue y la 48, y se rellenó después de la Guerra Civil.",
+  "curiosities": [
+   {
+    "title": "Una huerta en la azotea",
+    "text": "El local original del West Village cultiva parte de sus verduras en la azotea y trabaja con productores locales como Brooklyn Grange.",
+    "source": "https://www.rosemarysnyc.com/about/",
+    "source_name": "Rosemary's"
+   },
+   {
+    "title": "Pegado al desfile",
+    "text": "El Rosemary's original mira al Jefferson Market Garden, junto a la Sixth Avenue por donde pasa el desfile de Halloween, varias cuadras al sur de donde lo vamos a mirar.",
+    "source": "https://www.rosemarysnyc.com/about/",
+    "source_name": "Rosemary's"
+   }
+  ]
  },
  {
   "id": "sant-ambroeus-madison",
@@ -4253,7 +5185,8 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Sant Ambroeus nació en Milán en 1936, cuando dos pasteleros abrieron un café a pasos del Teatro alla Scala; el nombre viene de San Ambrosio, patrono de la ciudad. El primer local de Nueva York abrió en Madison Avenue en 1982."
  },
  {
   "id": "schomburg-center",
@@ -4308,7 +5241,22 @@
   "commons_files": [
    "File:Schomburg Center for Research in Black Culture 135 St 2023 jeh.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "La biblioteca de la calle 135 abrió el 14 de julio de 1905 en un palazzo de McKim, Mead & White pagado con la donación de Andrew Carnegie. En 1920 llegó como bibliotecaria Ernestine Rose, que integró al personal: con ella trabajó Catherine Allen Latimer, la primera bibliotecaria afroamericana de la NYPL. El 8 de mayo de 1925 abrió ahí la División de Literatura, Historia y Grabados Negros.\n\nEn 1926 la Fundación Carnegie le pagó USD 10,000 a Arturo Alfonso Schomburg, un estudioso afropuertorriqueño que quería que su colección quedara en Harlem y abierta al público, y la donó a la biblioteca. En 1991 se terminó la ampliación sobre Lenox Avenue, con auditorio y conexión al edificio viejo. En 2025 la NYPL celebró los 100 años de la colección.",
+  "curiosities": [
+   {
+    "title": "Langston Hughes está en el piso",
+    "text": "Las cenizas de Langston Hughes están bajo el piso de terrazo del lobby, en el centro de Rivers, un cosmograma de Houston Conwill con versos de \"The Negro Speaks of Rivers\". Conwill es el mismo autor de los relieves de la estación de la 125 que vimos a la mañana.",
+    "source": "https://www.atlasobscura.com/places/rivers-schomburg-center",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "La reunión de 1924",
+    "text": "La colección nació de una reunión que Ernestine Rose convocó a fines de 1924 con Schomburg, James Weldon Johnson y Hubert Harrison para salvar libros raros y pedir donaciones.",
+    "source": "https://en.wikipedia.org/wiki/Schomburg_Center_for_Research_in_Black_Culture",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "strivers-row",
@@ -4365,7 +5313,28 @@
    "File:Strivers' Row-2023 01.jpg",
    "File:2014 Striver's Row Gate No. 12 W 139 southeast.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El desarrollador David H. King Jr., que había construido la base de la Estatua de la Libertad y el Madison Square Garden de Stanford White, levantó estas casas en 1891–1893 como King Model Houses, para familias blancas de clase media alta. Contrató a tres estudios: James Brown Lord (ladrillo rojo, lado sur de la 138), Bruce Price con Clarence S. Luce (ladrillo amarillo) y Stanford White de McKim, Mead & White (lado norte de la 139).\n\nCasi no se vendieron. En 1895, en plena depresión económica, la aseguradora Equitable Life ejecutó casi todas las casas. Se negó a vendérselas a compradores negros y quedaron vacías hasta 1919–1920, cuando se ofrecieron a afroamericanos por USD 8,000 cada una. Las compraron profesionales en ascenso, los \"strivers\" que le dieron el apodo. En los años 40 muchas se dividieron en cuartos; desde 1995 se restauran. Es landmark de la ciudad desde 1967.",
+  "curiosities": [
+   {
+    "title": "Caminen a sus caballos",
+    "text": "Las casas comparten patios traseros unidos por pasajes, algo raro en Manhattan. Servían para guardar caballos y recibir entregas sin molestar al frente; algunos portones todavía tienen el cartel \"Walk Your Horses\".",
+    "source": "https://en.wikipedia.org/wiki/St._Nicholas_Historic_District",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "La base de la estatua",
+    "text": "El mismo King que construyó estas casas levantó el pedestal de la Estatua de la Libertad, la que vimos el domingo desde el ferry.",
+    "source": "https://en.wikipedia.org/wiki/St._Nicholas_Historic_District",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Una calle con canciones",
+    "text": "Sonny Rollins grabó \"Striver's Row\" en 1958 en el Village Vanguard, Cab Calloway la nombra en dos canciones y W. C. Handy en \"Harlem Blues\".",
+    "source": "https://en.wikipedia.org/wiki/St._Nicholas_Historic_District",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "studio-museum-harlem",
@@ -4427,7 +5396,22 @@
   "commons_files": [
    "File:Studio Museum in Harlem, Nov 2025.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El Studio Museum abrió en septiembre de 1968 en un loft alquilado de Fifth Avenue y la 125, con la idea de que el museo fuera parte de la vida diaria del barrio. Su primera muestra fue Electronic Refractions II, obras de luz del artista Tom Lloyd. El nombre viene de su programa de artistas residentes, que propuso el pintor William T. Williams para que artistas negros trabajaran y expusieran en Harlem.\n\nEn 1982 se mudó al 144 de la calle 125 Oeste. En 2015 encargó un edificio nuevo a David Adjaye, cuyo estudio diseñó el Museo Nacional de Historia y Cultura Afroamericana del Smithsonian; el edificio viejo se demolió y el nuevo abrió en noviembre de 2025. Lo dirige Thelma Golden, y en 2024 la Fundación Ford le donó USD 10 millones para los cargos de directora y curadora jefa.",
+  "curiosities": [
+   {
+    "title": "Once meses de taller",
+    "text": "Cada año el museo da una residencia de 11 meses a tres artistas. Por el programa pasaron más de cien egresados.",
+    "source": "https://en.wikipedia.org/wiki/Studio_Museum_in_Harlem",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Los murales del hospital",
+    "text": "Gylbert Coker, primera curadora jefa (1970–1978), consiguió rescatar y limpiar los murales de la WPA que Charles Alston había pintado en el Harlem Hospital.",
+    "source": "https://en.wikipedia.org/wiki/Studio_Museum_in_Harlem",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "summit-one-vanderbilt",
@@ -4488,7 +5472,16 @@
    "File:SUMMIT One Vanderbilt - Affinity - NYC.jpg",
    "File:One Vanderbilt 42 Street.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "One Vanderbilt es un rascacielos de 62 pisos de Kohn Pedersen Fox, inaugurado en 2020 en la esquina de la 42 y Vanderbilt Avenue, pegado a Grand Central. Con la aguja mide 427 m y es el cuarto más alto de la ciudad. La torre se afina a medida que sube y se diseñó para armonizar con la terminal, que tiene al este; el mirador SUMMIT ocupa los pisos altos.",
+  "curiosities": [
+   {
+    "title": "Delfines de terracota",
+    "text": "La torre reemplazó al Vanderbilt Avenue Building de 1902, de Warren and Wetmore. El desarrollador guardó sus delfines y querubines de terracota hasta que la New York Landmarks Conservancy les encontró un nuevo destino.",
+    "source": "https://en.wikipedia.org/wiki/One_Vanderbilt",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "sylvias",
@@ -4559,7 +5552,22 @@
    "File:Harlem - Sylvia's Restaurant (48555310372).jpg",
    "File:Juneteenth, Sylvia's Restaurant, 328 Malcolm X Blvd., Harlem.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Sylvia Woods nació en 1926 en Hemingway, Carolina del Sur, y conoció a su marido, Herbert, en un campo de porotos cuando ella tenía 11 años y él 12. En Nueva York trabajó en una fábrica de sombreros y de 1954 a 1962 fue moza en Johnson's Luncheonette, en Harlem. Cuando el dueño quiso vender, le ofreció el local por USD 20,000: su madre hipotecó la granja para prestarle la plata, y Sylvia la devolvió al año.\n\nSylvia's abrió en 1962 sobre Lenox Avenue. En los años 90 se amplió hasta 450 cubiertos y sumó catering y una línea de productos envasados. Sigue en la familia: en 2021 era de su hijo Kenneth y lo dirigía su nieto De'Sean Woods.",
+  "curiosities": [
+   {
+    "title": "De moza a dueña",
+    "text": "Sylvia atendió mesas en el mismo local durante siete u ocho años antes de comprarlo.",
+    "source": "https://en.wikipedia.org/wiki/Sylvia_Woods",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Despensa en la pandemia",
+    "text": "Durante la pandemia donó comidas al Harlem Hospital y armó una despensa que repartía más de 1,000 platos por semana.",
+    "source": "https://en.wikipedia.org/wiki/Sylvia%27s_Restaurant_of_Harlem",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "tanoreen",
@@ -4642,7 +5650,16 @@
   "commons_files": [
    "File:Tanoreen muhammara.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Rawia Bishara abrió Tanoreen en 1998 como un local de diez mesas en Bay Ridge, con la cocina palestina de su infancia en Nazaret, aprendida de su madre. Con los años se sumó su hija Jumana como socia y el restaurante se mudó a un local más grande, hoy en 3rd Ave. Publicó dos libros de cocina, tiene Bib Gourmand de Michelin y la chef fue nominada al James Beard.",
+  "curiosities": [
+   {
+    "title": "Olivas, limones y za'atar",
+    "text": "Rawia Bishara reunió las recetas de su infancia en Nazaret en el libro Olives, Lemons & Za'atar, que el restaurante reeditó ampliado.",
+    "source": "https://www.tanoreen.com/",
+    "source_name": "Tanoreen"
+   }
+  ]
  },
  {
   "id": "tavern-on-the-green",
@@ -4700,7 +5717,8 @@
    "File:Tavern on the Green - Central Park (5640746624).jpg",
    "File:Tavern on the Green cloudy jeh.JPG"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El edificio fue el corral de las ovejas que pastaban en Sheep Meadow, construido en 1870 con diseño de Calvert Vaux y Jacob Wrey Mould. En 1934 el comisionado Robert Moses sacó las ovejas y lo convirtió en restaurante; cerró en 2009 y reabrió en 2014 después de una renovación millonaria."
  },
  {
   "id": "the-lion-king-minskoff",
@@ -4757,7 +5775,8 @@
   "commons_files": [
    "File:Minskoff Theatre NYC 2007.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El Minskoff abrió en 1973 en el tercer piso de la torre One Astor Plaza, sobre Times Square, y fue de los primeros teatros construidos con la norma especial del Theater District de 1967. Tiene unas 1,710 butacas y lo opera la Nederlander Organization."
  },
  {
   "id": "the-smith-midtown",
@@ -4887,7 +5906,8 @@
   "commons_files": [
    "File:Time Square - TKTS Stand (48193461362).jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "La boletería está en Duffy Square, el extremo norte de Times Square. Enfrente, en Seventh Avenue y la 47, el Palace Theatre (1913) fue el teatro insignia del vodevil; en 2022 levantaron la sala entera 9 m para abrir locales debajo y la obra terminó en mayo de 2024."
  },
  {
   "id": "trote-suave-central-park",
@@ -4946,7 +5966,28 @@
   "commons_files": [
    "File:Central Park td (2019-07-11) 007 - Scholar's Gate.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Central Park se aprobó en 1853 y en 1858 Frederick Law Olmsted y Calvert Vaux ganaron el concurso con el Greensward Plan. Para hacerlo, la ciudad expropió y arrasó Seneca Village, un asentamiento de mayoría negra. Las primeras áreas abrieron a fines de 1858 y el parque se completó en 1876.\n\nEntramos por la esquina sudeste, en Grand Army Plaza, rediseñada en 1916 por Carrère and Hastings, los arquitectos de la Frick. En la mitad norte está el general Sherman dorado de Augustus Saint-Gaudens (1903); en la sur, la fuente Pulitzer (1916), con la Pomona de Karl Bitter arriba.\n\nEl maratón nació en este parque: el 13 de septiembre de 1970 largaron 127 corredores para dar varias vueltas al Park Drive y terminaron 55. Desde 1976 sale del puente Verrazzano y cruza los cinco condados, y la llegada sigue en el parque, sobre West Drive.",
+  "curiosities": [
+   {
+    "title": "Un santuario cerrado desde 1934",
+    "text": "Junto al Pond, la península que Olmsted y Vaux llamaban The Promontory estuvo cerrada desde 1934, cuando Robert Moses la declaró santuario de aves. Desde 2016 abre en horarios fijos como Hallett Nature Sanctuary.",
+    "source": "https://www.atlasobscura.com/places/hallett-nature-sanctuary",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "El primer maratón",
+    "text": "Gary Muhrcke ganó en 2:31:38 ante unos 100 espectadores. Nina Kuscsik fue la única mujer en largar y abandonó; para la federación de atletismo de entonces, los tiempos de las mujeres no eran oficiales.",
+    "source": "https://en.wikipedia.org/wiki/New_York_City_Marathon",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Sherman y la Victoria",
+    "text": "El grupo de bronce dorado muestra al general a caballo detrás de una Victoria alada. Se fundió en 1902 y se inauguró el 30 de mayo de 1903, sobre un pedestal de granito diseñado por Charles McKim.",
+    "source": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman_(Saint-Gaudens)",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "unisphere",
@@ -5003,7 +6044,40 @@
    "File:Unisphere Flushing Meadows Queens.jpg",
    "File:Flushing Meadows Corona Park Unisphere 001.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Flushing Meadows era un humedal sobre el río Flushing. Desde 1910 se rellenó con cenizas de carbón y barrido de calles traídos de Brooklyn: en casi 30 años se volcaron unos 38 millones de m³ y una montaña, Mount Corona, llegó a 27 m. F. Scott Fitzgerald lo llamó el valle de cenizas en El gran Gatsby. Robert Moses lo convirtió en el predio de la Feria Mundial de 1939–40, cuyo símbolo eran el Trylon, una aguja de 190 m, y el Perisphere, una esfera de 55 m.\n\nPara la feria de 1964–65 Moses buscó otro emblema. Gilmore D. Clarke dibujó la idea en un avión en 1960 y la American Bridge Company, de U.S. Steel, armó el globo entre marzo y agosto de 1963 donde había estado el Perisphere. Mide 43 m de alto y 37 m de diámetro; tres anillos representan los primeros satélites artificiales y lo rodea un espejo de agua de 94 m con 48 pares de surtidores. La feria tenía como lema \"Paz a través del entendimiento\" y más de 51 millones de personas pasaron por el Unisphere. Es landmark desde 1995.",
+  "curiosities": [
+   {
+    "title": "Platos voladores en Men in Black",
+    "text": "Las torres de observación del Pabellón del Estado de Nueva York, de Philip Johnson, hacen de platos voladores disfrazados en Men in Black (1997). En Iron Man 2 (2010) el pabellón es una muestra de Stark Industries. Su restauración tenía fecha de fin en octubre de 2026.",
+    "source": "https://en.wikipedia.org/wiki/New_York_State_Pavilion",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Cápsulas para el año 6939",
+    "text": "Westinghouse enterró dos cápsulas del tiempo a 15 m de profundidad, una en 1939 y otra en 1965, a 3 m una de otra. Se abren en el año 6939 y un monolito de granito marca el lugar.",
+    "source": "https://en.wikipedia.org/wiki/Westinghouse_Time_Capsules",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Nueva York en una sala",
+    "text": "El Queens Museum guarda el Panorama, una maqueta de los cinco distritos hecha para la feria de 1964: escala de 1 pulgada cada 100 pies, 867 m², y un Empire State de 38 cm. Cada pocos minutos despegaban avioncitos del LaGuardia en miniatura. El museo cierra los martes.",
+    "source": "https://www.atlasobscura.com/places/a-panorama-view-of-new-york-city",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "La ONU patinaba acá",
+    "text": "El Queens Museum ocupa el pabellón de la ciudad de Nueva York de la feria de 1939. En los 40 y 50 fue pista de patinaje, salvo de 1946 a 1951, cuando albergó la Asamblea General de la ONU.",
+    "source": "https://en.wikipedia.org/wiki/Queens_Museum",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un geriátrico de animales de plaza",
+    "text": "Desde agosto de 2023, a unos 250 m del globo, hay un Home for Retired Playground Animals: seis figuras de hormigón jubiladas de otros parques, entre ellas un oso hormiguero, un camello y dos delfines que no combinan.",
+    "source": "https://www.atlasobscura.com/places/home-for-retired-playground-animals",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "village-halloween-parade",
@@ -5080,7 +6154,34 @@
    "File:Crowd at Manhattan's Village 2025 Halloween Parade on 6th Ave.jpg",
    "File:2019 Village Halloween Parade - 49376052626.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El desfile nació con Ralph Lee, titiritero y fabricante de máscaras del Village, como una caminata de casa en casa con sus hijos y sus amigos. Wikipedia fecha el primero el 31 de octubre de 1974, alrededor de Westbeth, la residencia de artistas donde vivía; el sitio oficial dice 1973.\n\nEn 1975 lo produjo el Theatre for the New City, con 1,500 participantes y un premio Obie. Desde 1976 lo organiza una entidad sin fines de lucro y, cuando Lee se retiró, tomó la dirección Jeanne Fleming. Con 250,000 espectadores, en 1985 dejó las calles del Village y se mudó a Sixth Avenue. Desde 1998 los títeres gigantes los diseñan Sophia Michahelles y Alex Kahn.\n\nSe suspendió dos veces: en 2012 por el huracán Sandy y en 2020 por la pandemia. En 2001, siete semanas después del 11 de septiembre, lo encabezó un fénix gigante saliendo de las cenizas. En 2026 es la edición 53, con el tema Body & Soul, y va por Sixth Avenue de King St a la calle 15.",
+  "curiosities": [
+   {
+    "title": "La araña de la biblioteca",
+    "text": "Desde 1977 una araña gigante cuelga de la torre de la Jefferson Market Library, sobre Sixth Avenue y la 10. La versión actual la diseñó Basil Twist en 1999.",
+    "source": "https://en.wikipedia.org/wiki/Village_Halloween_Parade",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Un juzgado salvado por vecinos",
+    "text": "La Jefferson Market Library fue un juzgado de 1877, de Frederick Clarke Withers, que funcionó hasta 1945. Una campaña vecinal en la que participaron E. E. Cummings y Lewis Mumford logró convertirla en biblioteca.",
+    "source": "https://www.atlasobscura.com/places/jefferson-market-library",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Se marcha sin inscripción",
+    "text": "Cualquiera que vaya disfrazado puede sumarse al desfile sin registrarse ni pagar. Lo llaman \"el carnaval de Nueva York\".",
+    "source": "https://en.wikipedia.org/wiki/Village_Halloween_Parade",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "2017: salió igual",
+    "text": "Menos de cuatro horas después del atentado con un camión a seis cuadras del recorrido, en el que murieron ocho personas, el desfile salió igual y marcharon el alcalde y el gobernador.",
+    "source": "https://en.wikipedia.org/wiki/Village_Halloween_Parade",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "westlight",
@@ -5144,7 +6245,28 @@
   "commons_files": [
    "File:William Vale Hotel 1 jeh.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "The William Vale abrió en 2016 en North 12th Street y Wythe Avenue, y Westlight ocupa su piso 22. Los bares y restaurantes del hotel los maneja NoHo Hospitality con el chef Andrew Carmellini, ganador del premio James Beard.\n\nLa torre es hija de la rezonificación de 2005, que pasó la costa norte de Williamsburg de uso industrial a residencial en altura. A cuatro cuadras estaba la Brooklyn Eastern District Terminal, abierta en 1870 como Palmer's Dock y hoy convertida en el Marsha P. Johnson State Park, y a una cuadra está el Wythe Hotel, que ocupa una tonelería de 1901 diseñada por Theobald Engelhardt que después fue fábrica textil.\n\nDesde la terraza se ve el skyline de Manhattan del otro lado del río, con la costa de Williamsburg y Greenpoint abajo.",
+  "curiosities": [
+   {
+    "title": "Un hotel en una tonelería",
+    "text": "El Wythe Hotel conserva las vigas de pino amarillo del sur, la mampostería gastada y los rieles metálicos en el techo del lobby del edificio de 1901. La conversión empezó en 2008, cuando en esa esquina casi no había nada.",
+    "source": "https://www.wythehotel.com/about",
+    "source_name": "Wythe Hotel"
+   },
+   {
+    "title": "Pescado ahumado a tres cuadras",
+    "text": "En 30 Gem St, a unos 300 m, sigue Acme Smoked Fish: Harry Brownstein, inmigrante judío ruso, repartía pescado ahumado en carro a principios del siglo XX, abrió su propio ahumadero y hoy la cuarta generación lo maneja. Solo vende al público los viernes.",
+    "source": "https://www.atlasobscura.com/places/acme-smoked-fish",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Donde nació el Monitor",
+    "text": "Frente al hotel, sobre Kent Ave entre North 12th y North 15th, está la ensenada de Bushwick Inlet. En su orilla estaba la Continental Iron Works, que construyó y botó el USS Monitor, el buque de hierro que en 1862 enfrentó al CSS Virginia en la Guerra Civil.",
+    "source": "https://www.atlasobscura.com/places/bushwick-inlet",
+    "source_name": "Atlas Obscura"
+   }
+  ]
  },
  {
   "id": "whitehall-ferry-terminal",
@@ -5157,7 +6279,7 @@
   "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=Whitehall+Terminal,+New+York",
   "hours": "dom 1-nov: salida del ferry de corredores asignada por NYRR (impresa en el dorsal).",
   "hours_source": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
-  "price": "Gratis (ferry hasta St. George y micro oficial hasta Fort Wadsworth).",
+  "price": "Gratis",
   "duration_min": 90,
   "booking": {
    "needed": "sí",
@@ -5201,7 +6323,34 @@
   "commons_files": [
    "File:Staten Island Ferry Whitehall Terminal.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "El ferry a Staten Island arrancó en 1817, cuando la Richmond Turnpike Company puso un barco a vapor entre Manhattan y la isla. Cornelius Vanderbilt, nacido en Staten Island en 1794, había empezado a los 16 años en ese mismo cruce con un velero chato de dos mástiles, y en 1838 compró la Richmond Turnpike Company. La ciudad se hizo cargo del servicio en 1905.\n\nSon 8.4 km por la bahía y unos 25 minutos. Desde 1997 el viaje es gratis. Corre las 24 horas y los fines de semana sale un barco cada 30 minutos de cada terminal: tres barcos hacen 96 viajes por día.\n\nLa terminal Whitehall se incendió en 1991 y reabrió reconstruida en febrero de 2005, con un hall de 23 m de alto que mira a la bahía. El nombre viene de la calle: la casa de gobernador que Peter Stuyvesant construyó hacia 1657 pasó a llamarse Whitehall con los ingleses, por la sede del gobierno en Londres.",
+  "curiosities": [
+   {
+    "title": "El Comodoro",
+    "text": "Por la energía con que cruzaba la bahía, los otros capitanes le decían \"The Commodore\" en broma a Vanderbilt. El apodo le quedó de por vida.",
+    "source": "https://en.wikipedia.org/wiki/Cornelius_Vanderbilt",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Bancos con forma de canoa",
+    "text": "En la terminal hay 28 bancos de granito de Ming Fay, \"Whitehall Crossing\", que imitan canoas indígenas cruzando la bahía de Nueva York.",
+    "source": "https://www.nyc.gov/html/dot/html/ferrybus/sif-traveler-info.shtml",
+    "source_name": "NYC DOT"
+   },
+   {
+    "title": "Barcos con nombre propio",
+    "text": "Los tres barcos más nuevos, clase Ollis, llevan 4,500 pasajeros cada uno y entraron en servicio en 2022 y 2023. Uno se llama Sandy Ground, por la comunidad negra libre de Staten Island que nació hacia 1828; otro, Dorothy Day, por la activista católica.",
+    "source": "https://www.nyc.gov/html/dot/html/ferrybus/ferry-facts.shtml",
+    "source_name": "NYC DOT"
+   },
+   {
+    "title": "En St. George se baja",
+    "text": "Para hacer ida y vuelta hay que bajar en St. George y volver a entrar por el edificio de la terminal: lo exigen las normas de capacidad de la Guardia Costera. Los molinetes se desarmaron en 1997, cuando el viaje pasó a ser gratis.",
+    "source": "https://en.wikipedia.org/wiki/Staten_Island_Ferry",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "whitney-museum",
@@ -5212,7 +6361,7 @@
   "lat": 40.739645,
   "lng": -74.008921,
   "coords_source": "https://www.openstreetmap.org/way/288749896",
-  "hours": "sáb 31-oct: 10:30–18:00",
+  "hours": "10:30–18:00 (horario verificado para el sábado 31; confirmar el del jueves)",
   "hours_source": "https://whitney.org/visit",
   "price": "Adultos USD 30; la planta baja es gratis",
   "duration_min": 120,
@@ -5259,7 +6408,8 @@
    "File:Whitney Museum of American Art April 2022.jpg",
    "File:Whitney Museum from west.jpg"
   ],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Gertrude Vanderbilt Whitney, escultora y coleccionista, fundó el museo en 1930 para el arte estadounidense, después de años de exponer a artistas poco reconocidos en su Whitney Studio. Entre 1966 y 2014 estuvo en el edificio de Marcel Breuer en Madison Avenue; el edificio actual, de Renzo Piano, abrió el 1 de mayo de 2015 en 99 Gansevoort Street, al pie de la High Line."
  },
  {
   "id": "xian-famous-foods-chinatown",
@@ -5425,7 +6575,34 @@
    "wikipedia": ""
   },
   "commons_files": [],
-  "checked": "2026-09-28"
+  "checked": "2026-09-28",
+  "history": "Yemen Café abrió a mediados de los años 80 en 176 Atlantic Avenue, en Cobble Hill, y con los años sumó locales en Bay Ridge y en Staten Island. La sucursal de Bay Ridge se mudó en 2021 a 7317 5th Ave. The Infatuation la describe como una institución de la ciudad por su lamb haneeth, cocinado durante horas.\n\nAtlantic Avenue fue el primer corredor árabe de Brooklyn. La comunidad había nacido en Little Syria, sobre Washington Street, en el bajo Manhattan, donde desde la década de 1880 se instalaron inmigrantes de habla árabe de la Siria otomana. Las familias se fueron mudando a Brooklyn Heights, Sunset Park y Bay Ridge, los comercios a Atlantic Avenue, y en los años 40 las rampas del túnel Brooklyn–Battery demolieron lo que quedaba del barrio.\n\nBay Ridge se llamó Yellow Hook hasta 1853 y durante un siglo fue el barrio noruego de Brooklyn. Desde fines del siglo XX llegaron familias de Medio Oriente y el norte de África; hoy es la mayor comunidad árabe-estadounidense de la ciudad y The New York Times lo llamó el corazón de la comunidad árabe de Brooklyn.",
+  "curiosities": [
+   {
+    "title": "De Little Syria a Brooklyn",
+    "text": "Little Syria ocupaba unas cuadras de Washington Street, en el borde sur de lo que después fue el World Trade Center. Después del 11 de septiembre apareció entre los escombros la piedra fundamental de la iglesia maronita St. Joseph's, una de las pocas huellas del barrio.",
+    "source": "https://en.wikipedia.org/wiki/Little_Syria,_Manhattan",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Cafés y delis",
+    "text": "Hay registros de inmigrantes yemeníes en Estados Unidos desde la década de 1890. En Brooklyn, igual que en Chicago y Dearborn, los primeros emprendedores yemeníes fueron dueños de cafés y delis.",
+    "source": "https://en.wikipedia.org/wiki/Yemeni_Americans",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "Por qué dejó de llamarse Yellow Hook",
+    "text": "El nombre venía del color del suelo y del holandés hoek (rincón). En 1853 lo cambiaron para no asociarlo con la fiebre amarilla; Bay Ridge lo propuso el horticultor James Weir por la loma con vista a la bahía.",
+    "source": "https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn",
+    "source_name": "Wikipedia"
+   },
+   {
+    "title": "La ciudad noruega",
+    "text": "En 1971 los 55,000 noruegos de Bay Ridge decían ser la cuarta ciudad noruega del mundo. La 8th Ave todavía tiene el apodo de Lapskaus Boulevard, por un guiso de carne salada, y cada mayo el desfile de Syttende Mai baja por 3rd Ave.",
+    "source": "https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn",
+    "source_name": "Wikipedia"
+   }
+  ]
  },
  {
   "id": "bag-precheck-cpw",
@@ -5442,6 +6619,27 @@
   ],
   "photo_fallback": true,
   "checked": "2026-09-28",
-  "standalone": false
+  "standalone": false,
+  "history": "Central Park West es el nombre de Eighth Avenue a lo largo del parque, al norte de Columbus Circle, y entre las calles 61 y 97 forma un distrito histórico protegido. En esta cuadra quedan dos de sus edificios más conocidos: el Dakota, en la 72, y el San Remo, entre la 74 y la 75. Unas cuadras al norte está el Museo Americano de Historia Natural.\n\nEl Dakota, de Henry Janeway Hardenbergh, se construyó entre 1880 y 1884 para Edward Cabot Clark y es el edificio de departamentos de lujo más antiguo que sigue en pie en la ciudad. John Lennon vivía ahí y lo mataron en la entrada el 8 de diciembre de 1980; enfrente, en el parque, está Strawberry Fields. El San Remo, de Emery Roth (1929–1930), levanta dos torres sobre una base de 17 pisos.",
+  "curiosities": [
+   {
+    "title": "La placa de Henry Bliss",
+    "text": "El 13 de septiembre de 1899 Henry Bliss bajó de un tranvía en la esquina de la 74 y lo atropelló un taxi eléctrico. Fue la primera muerte por un auto en el hemisferio occidental; una placa marca el lugar.",
+    "source": "https://www.atlasobscura.com/places/henry-bliss-plaque",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Imagine",
+    "text": "El mosaico de Strawberry Fields, frente al Dakota, se inauguró en 1985. Durante años lo cuidó Gary dos Santos, que se hacía llamar alcalde de Strawberry Fields y vivía de las propinas de los turistas.",
+    "source": "https://www.atlasobscura.com/places/strawberry-fields-memorial",
+    "source_name": "Atlas Obscura"
+   },
+   {
+    "title": "Spook Central",
+    "text": "Más al sur, el 55 de Central Park West es el \"Spook Central\" de la película Ghostbusters.",
+    "source": "https://en.wikipedia.org/wiki/Eighth_Avenue_(Manhattan)",
+    "source_name": "Wikipedia"
+   }
+  ]
  }
 ]

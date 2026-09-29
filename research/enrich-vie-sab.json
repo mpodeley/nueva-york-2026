@@ -1,0 +1,980 @@
+{
+  "places": {
+    "grand-central-terminal": {
+      "history": "Grand Central Terminal abrió el 2 de febrero de 1913 en el lugar de dos estaciones anteriores; la primera, Grand Central Depot, era de 1871. La construyó el New York Central Railroad, el ferrocarril de los Vanderbilt. El plan general es de Reed and Stem y buena parte de la fachada y los interiores Beaux-Arts, de Warren and Wetmore. Las vías se electrificaron y quedaron bajo tierra: encima se tendió Park Avenue y alrededor creció Terminal City, el distrito de hoteles y oficinas donde está nuestro hotel.\n\nA fines de los sesenta, Penn Central quiso levantar una torre sobre el Main Concourse, como había pasado con la vieja Penn Station, demolida en 1963. La Comisión de Preservación de Monumentos, que había protegido la terminal en 1967, rechazó el proyecto y el juicio llegó a la Corte Suprema, que falló a favor de la ciudad. Jacqueline Kennedy Onassis ayudó a frenar la demolición en los setenta; el vestíbulo de la entrada principal lleva su nombre desde 2014.\n\nLa restauración que terminó en 1998 limpió el techo celeste y devolvió a las rampas del Oyster Bar su aspecto original. Quedaron dos testigos a propósito: un rectángulo de mugre en el techo y el agujero de un misil. Por todo el edificio se repiten bellotas y hojas de roble, el emblema de los Vanderbilt.",
+      "curiosities": [
+        {
+          "title": "La mancha que no limpiaron",
+          "text": "En la esquina noroeste del techo, junto a la pinza del cangrejo (Cáncer), quedó un rectángulo oscuro sin restaurar. Atlas Obscura lo atribuye sobre todo al humo de tabaco de décadas; lo dejaron para mostrar cómo estaba el cielo antes de 1996.",
+          "source": "https://www.atlasobscura.com/places/grand-central-ceiling-dark-patch",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "El agujero del misil",
+          "text": "Arriba de Piscis hay un círculo oscuro entre las estrellas. En 1957, después del Sputnik, se exhibió un misil Redstone en el Main Concourse y para levantarlo perforaron el techo y bajaron un cable. El agujero se conserva.",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Terminal_art",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un cielo al revés",
+          "text": "El mural copia la Uranometria, un atlas estelar de 1603, pero invertido de izquierda a derecha, salvo Orión. La explicación del cielo visto por Dios desde afuera no cierra, porque también habría dado vuelta a Orión.",
+          "source": "https://en.wikipedia.org/wiki/Grand_Central_Terminal_art",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "La galería de los susurros",
+          "text": "En el descanso bajo el puente del Oyster Bar, las bóvedas de azulejo Guastavino llevan la voz de una esquina a la opuesta en diagonal. Cada uno se para en un rincón, de cara a la pared, y se habla bajito.",
+          "source": "https://www.atlasobscura.com/places/grand-central-terminal-whispering-gallery",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Tenis detrás de los ventanales",
+          "text": "En los pisos altos hay canchas de tenis desde los años sesenta. El primer club, el Vanderbilt Athletic Club, tenía dos canchas de polvo de ladrillo y una pista de esquí cubierta de unos 20 m; hoy funciona el Vanderbilt Tennis Club.",
+          "source": "https://www.atlasobscura.com/places/vanderbilt-tennis-club",
+          "source_name": "Atlas Obscura"
+        }
+      ]
+    },
+    "hotel-lexington": {
+      "history": "The Lexington abrió el 15 de octubre de 1929 como Hotel Lexington, uno de los hoteles de Terminal City, levantados sobre las vías tapadas de Grand Central. Lo diseñó Schultze & Weaver, el mismo estudio del Waldorf Astoria, que está a una cuadra. Es neorrománico, con base de piedra caliza, ladrillo y terracota, grifos y leones en la fachada y unas 800 habitaciones al abrir. Nació con la Gran Depresión y en 1932 ya estaba en ejecución hipotecaria.\n\nEn 1937 el salón del subsuelo se convirtió en el Hawaiian Room, con músicos de Hawái y el programa de radio de Arthur Godfrey transmitido en vivo; cerró después de un incendio en 1966. Joe DiMaggio vivía en la suite 1806 y Marilyn Monroe se instaló con él durante su matrimonio. Hoy una suite del piso 18 que ocuparon está ambientada con motivos de béisbol.\n\nEl grupo indio Tata lo compró en 1981; en 1999 pasó a ser un Radisson y desde 2013 integra la Autograph Collection de Marriott. La Comisión de Preservación de Monumentos lo declaró monumento de la ciudad el 22 de noviembre de 2016.",
+      "curiosities": [
+        {
+          "title": "La suite de DiMaggio y Marilyn",
+          "text": "Joe DiMaggio vivió en la suite 1806 y Marilyn Monroe vivió ahí con él mientras estuvieron casados. Una de las suites del piso 18 que ocupó la pareja hoy tiene decoración de béisbol, cocina y terraza.",
+          "source": "https://en.wikipedia.org/wiki/Lexington_Hotel_(New_York_City)",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "La rejilla de Marilyn, a cuatro cuadras",
+          "text": "En la esquina sudoeste de Lexington y la 52 se filmó, a la 1 de la mañana del 15 de septiembre de 1954, la escena de The Seven Year Itch en la que un tren de la línea 6 le levanta el vestido blanco. La rejilla no tiene placa.",
+          "source": "https://www.atlasobscura.com/places/marilyn-monroe-s-subway-grate",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Houdini en la pileta del vecino",
+          "text": "El edificio de al lado, 525 Lexington, fue el Shelton Hotel, terminado en 1924, donde vivieron Georgia O'Keeffe y Alfred Stieglitz. En 1926 Harry Houdini pasó 91 minutos encerrado en una caja hermética en el fondo de su pileta. Hoy es una residencia de estudiantes.",
+          "source": "https://en.wikipedia.org/wiki/525_Lexington_Avenue",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Track 61, bajo el Waldorf",
+          "text": "Una cuadra al norte, bajo el Waldorf Astoria, pasa una vía privada del ferrocarril de Grand Central. Según la tradición, Franklin D. Roosevelt la usaba para llegar al hotel sin ser visto. No se visita.",
+          "source": "https://www.atlasobscura.com/places/track-61",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Donde empezaron los Draft Riots",
+          "text": "El 13 de julio de 1863 una turba quemó la oficina de reclutamiento del ejército en Third Avenue y la 46, a dos cuadras del hotel. Así empezaron los disturbios contra la conscripción de la Guerra Civil, que duraron tres días.",
+          "source": "https://en.wikipedia.org/wiki/Turtle_Bay,_Manhattan",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "frick-collection": {
+      "history": "Henry Clay Frick (1849–1919) hizo su fortuna con el coque de Pensilvania y presidió Carnegie Steel, donde reprimió con violencia la huelga de Homestead de 1892. En 1906 y 1907 compró el terreno de la Lenox Library, obra de Richard Morris Hunt, sobre Fifth Avenue y la 70. Le encargó a Thomas Hastings, de Carrère and Hastings, una mansión Beaux-Arts de tres pisos, construida entre 1912 y 1914.\n\nFrick vivió ahí apenas cinco años. Su viuda Adelaide y su hija Helen siguieron en la casa hasta 1931 y, como pedía su testamento, se abrió al público como museo en 1935, con la entrada de John Russell Pope sobre la calle 70. Las obras cuelgan en los salones de la casa, entre muebles, relojes y porcelanas.\n\nEntre 2020 y 2025 cerró para una ampliación diseñada por Annabelle Selldorf; mientras tanto, la colección se mostró en el edificio Breuer de Madison Avenue, que vamos a pasar camino al almuerzo. La reapertura sumó al recorrido las habitaciones del primer piso, donde dormía la familia.",
+      "curiosities": [
+        {
+          "title": "Un bowling en el sótano",
+          "text": "En el subsuelo hay una cancha de bowling de 1914 hecha por Brunswick-Balke-Collender, junto a la sala de billar, con techos de estilo jacobino. En los años veinte funcionó ahí la biblioteca de arte de la familia; sigue en pie, cerrada al público.",
+          "source": "https://en.wikipedia.org/wiki/Henry_Clay_Frick_House",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Iba a volver en el Titanic",
+          "text": "Frick y su esposa tenían pasajes para el viaje inaugural del Titanic en 1912. Cancelaron porque Adelaide se torció un tobillo en Italia.",
+          "source": "https://en.wikipedia.org/wiki/Henry_Clay_Frick",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un órgano en la escalera",
+          "text": "En el descanso de la escalera principal hay un órgano Aeolian dentro de una caja de mármol de Verona con columnitas en espiral. Todavía se toca de vez en cuando.",
+          "source": "https://en.wikipedia.org/wiki/Henry_Clay_Frick_House",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Dos balazos en Pittsburgh",
+          "text": "El 23 de julio de 1892, en plena huelga de Homestead, el anarquista Alexander Berkman entró a su oficina y le disparó dos veces en el cuello. Frick sobrevivió.",
+          "source": "https://en.wikipedia.org/wiki/Henry_Clay_Frick",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "pastrami-queen-ues": {
+      "history": "Pastrami Queen nació en 1956 como Pastrami King, en Williamsburg (Brooklyn). En 1961 se mudó a Kew Gardens, en Queens, y en 1998 cambió King por Queen. Después se instaló en 1125 Lexington Avenue, en la esquina de la 78, que hoy es su local principal y es kosher, como el del Upper West Side.\n\nSegún la casa, el pastrami lleva tres días: el corte de pecho se pone en salmuera, se condimenta, se seca y se ahuma, y en el local pasa 24 horas al vapor antes de cortarlo a mano. El pan de centeno viene de Orwasher's, una panadería de la zona. Anthony Bourdain lo ponía a la par de Katz's.\n\nLexington Avenue no estaba en la cuadrícula de 1811. La abrió Samuel Ruggles: el tramo sur en 1833 y el norte en 1836, con el nombre de la batalla de Lexington de la guerra de independencia.",
+      "curiosities": [
+        {
+          "title": "Por qué Queen",
+          "text": "El nombre cambió en 1998, cuando el deli ya estaba en Kew Gardens, Queens. La casa sigue sirviendo platos del menú de 1956, como lengua, kasha varnishkes y repollo relleno.",
+          "source": "https://www.pastramiqueen.com/new-page",
+          "source_name": "Pastrami Queen"
+        },
+        {
+          "title": "El primer arresto por velocidad",
+          "text": "En 1899 un policía en bicicleta alcanzó en Lexington Avenue al taxista Jacob German, que iba a 12 millas por hora (19 km/h). Fue el primer arresto por exceso de velocidad en la ciudad.",
+          "source": "https://en.wikipedia.org/wiki/Lexington_Avenue",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Avenida y subte el mismo día",
+          "text": "El tramo de Lexington al norte de la 42 se ensanchó mientras se construía la línea de subte que usamos a la mañana. Las dos cosas se inauguraron el 17 de julio de 1918.",
+          "source": "https://en.wikipedia.org/wiki/Lexington_Avenue",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "met-fifth-avenue": {
+      "history": "El Metropolitan Museum se fundó en 1870 y en 1871 la ciudad le cedió un terreno dentro de Central Park, entre Fifth Avenue y las transversales de las calles 79 y 85. El primer edificio, de 1880, fue de ladrillo rojo y estilo neogótico, obra de Calvert Vaux y Jacob Wrey Mould, dos de los diseñadores del parque. La crítica lo llamó mausoleo y el presidente del museo lo consideró un error.\n\nEn menos de 20 años empezaron las ampliaciones que lo rodearon. La fachada Beaux-Arts de Fifth Avenue, el Great Hall y la escalera principal son de Richard Morris Hunt, el arquitecto de la Lenox Library que ocupaba el terreno de la Frick; los terminó su hijo en 1902. Las alas laterales son de McKim, Mead & White y los muros de vidrio del fondo, de Kevin Roche, que planificó el museo durante más de 40 años.\n\nEl Templo de Dendur, construido en Nubia entre el 23 y el 10 a.C. por orden de Augusto, llegó por la campaña de la UNESCO para salvar monumentos de la represa de Asuán. Egipto lo regaló a Estados Unidos en 1965 y el Met lo exhibe desde 1978.",
+      "curiosities": [
+        {
+          "title": "Las esculturas que nunca se tallaron",
+          "text": "Sobre las columnas de la fachada hay cuatro bloques de piedra sin tallar. Iban a ser grupos escultóricos de las grandes épocas del arte; faltó plata y no hubo acuerdo sobre cómo representar el arte moderno.",
+          "source": "https://en.wikipedia.org/wiki/The_Met_Fifth_Avenue",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un bife para el más allá",
+          "text": "En la galería 109 hay un estuche de madera hecho a medida con una paleta de vaca momificada de unos 3,500 años. Probablemente acompañó al príncipe Amenemhat en su tumba.",
+          "source": "https://www.atlasobscura.com/places/beef-case-egypt-mummy-metropolitan-museum",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Grafiti de 1817 en Dendur",
+          "text": "El templo tiene inscripciones de visitantes desde el año 10 a.C. La más visible, a la izquierda al entrar, dice \"A L Corry RN 1817\": la talló un oficial de la marina británica.",
+          "source": "https://en.wikipedia.org/wiki/Temple_of_Dendur",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "El Dendur Derby",
+          "text": "Cuando Egipto regaló el templo, varios museos compitieron por él y la prensa lo llamó \"Dendur Derby\". Cairo (Illinois) y Memphis (Tennessee) alegaron que sus nombres egipcios los hacían la sede natural.",
+          "source": "https://en.wikipedia.org/wiki/Temple_of_Dendur",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Los cangrejos del obelisco",
+          "text": "Detrás del museo, en el parque, está la Aguja de Cleopatra, un obelisco levantado en Heliópolis hacia 1450 a.C. Lo sostienen réplicas de los cangrejos de bronce que los romanos pusieron en su base.",
+          "source": "https://www.atlasobscura.com/places/crabs-of-cleopatra-s-needle",
+          "source_name": "Atlas Obscura"
+        }
+      ]
+    },
+    "hadestown-walter-kerr": {
+      "history": "El Walter Kerr abrió el 21 de marzo de 1921 como Ritz Theatre. Lo diseñó Herbert J. Krapp para los hermanos Shubert, dentro de un grupo de teatros sobre las calles 48 y 49. Tiene 975 butacas en tres niveles, detalles de estilo Adam y murales.\n\nDespués de una década de obras que no funcionaron, entre 1936 y 1939 lo usó el Federal Theatre Project de la WPA; después fue estudio de radio y televisión de CBS, NBC y ABC hasta 1965. En los setenta pasó por cine pornográfico, vodevil, teatro infantil y depósito de afiches. Jujamcyn lo restauró y lo reabrió en 1983, y en 1990 le puso el nombre del crítico Walter Kerr.\n\nHadestown empezó en 2006 como un espectáculo comunitario de Anaïs Mitchell en Barre y Vergennes, Vermont, y en 2010 fue un disco conceptual. Con la directora Rachel Chavkin se estrenó off-Broadway en 2016 y llegó al Kerr el 17 de abril de 2019. Es la obra que más tiempo lleva en esta sala.",
+      "curiosities": [
+        {
+          "title": "Monumento negado",
+          "text": "En 1987 la Comisión de Preservación protegió en bloque a los teatros de Broadway, pero el Ritz quedó entre los pocos a los que les negó ese estatus, por fuera y por dentro.",
+          "source": "https://en.wikipedia.org/wiki/Walter_Kerr_Theatre",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "El vecino de enfrente",
+          "text": "En la vereda opuesta, en el 220 de la calle 48, está el Longacre, de 1913. Su nombre recuerda Longacre Square, como se llamaba Times Square antes.",
+          "source": "https://en.wikipedia.org/wiki/Longacre_Theatre",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Teatro documental en la Depresión",
+          "text": "En 1937 el Ritz presentó Power, una obra del Living Newspaper, el teatro periodístico que financiaba la WPA. Estuvo cinco meses en cartel.",
+          "source": "https://en.wikipedia.org/wiki/Walter_Kerr_Theatre",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "joe-allen": {
+      "history": "Joe Allen abrió en 1965 en la calle 46 oeste, en la cuadra entre 8th y 9th Ave que se conoce como Restaurant Row. Su dueño, Joe Allen (1933–2021), había sido maître de P.J. Clarke's, el saloon de 1884 de Third Avenue. El lugar se volvió punto de reunión de actores, técnicos y público de Broadway.\n\nAbrió sucursales en París en 1972 y en Londres en 1977; desde 2018 tienen otros dueños y conservan el nombre. En 1972 dos de sus barmen, Jack O'Neill y George Mourges, se fueron y fundaron J.G. Melon en el Upper East Side: la J y la G son sus iniciales.\n\nEnfrente, en el 321, funcionó desde 1906 Barbetta, el restaurante más antiguo del Theater District, de cocina piamontesa. Cerró el 27 de febrero de 2026, un mes después de la muerte de su dueña, Laura Maioglio, a los 93 años.",
+      "curiosities": [
+        {
+          "title": "La pared de los fracasos",
+          "text": "Las paredes de ladrillo están cubiertas de afiches de musicales que fracasaron en Broadway, como Moose Murders, Laughing Room Only y Dance of the Vampires.",
+          "source": "https://en.wikipedia.org/wiki/Joe_Allen_(restaurant)",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "De P.J. Clarke's a la 46",
+          "text": "Joe Allen dejó su puesto de maître en P.J. Clarke's para abrir este restaurante en 1965. P.J. Clarke's es la alternativa de cena del sábado, a cinco cuadras del hotel.",
+          "source": "https://en.wikipedia.org/wiki/P._J._Clarke%27s",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Trufas en la vereda de enfrente",
+          "text": "Barbetta, fundado en 1906 por Sebastiano Maioglio, fue el primer restaurante italiano de la ciudad en servir trufa blanca en forma regular durante la temporada. También fue uno de los primeros de Manhattan con jardín para comer afuera.",
+          "source": "https://en.wikipedia.org/wiki/Barbetta",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "trote-suave-central-park": {
+      "history": "Central Park se aprobó en 1853 y en 1858 Frederick Law Olmsted y Calvert Vaux ganaron el concurso con el Greensward Plan. Para hacerlo, la ciudad expropió y arrasó Seneca Village, un asentamiento de mayoría negra. Las primeras áreas abrieron a fines de 1858 y el parque se completó en 1876.\n\nEntramos por la esquina sudeste, en Grand Army Plaza, rediseñada en 1916 por Carrère and Hastings, los arquitectos de la Frick. En la mitad norte está el general Sherman dorado de Augustus Saint-Gaudens (1903); en la sur, la fuente Pulitzer (1916), con la Pomona de Karl Bitter arriba.\n\nEl maratón nació en este parque: el 13 de septiembre de 1970 largaron 127 corredores para dar varias vueltas al Park Drive y terminaron 55. Desde 1976 sale del puente Verrazzano y cruza los cinco condados, y la llegada sigue en el parque, sobre West Drive.",
+      "curiosities": [
+        {
+          "title": "Un santuario cerrado desde 1934",
+          "text": "Junto al Pond, la península que Olmsted y Vaux llamaban The Promontory estuvo cerrada desde 1934, cuando Robert Moses la declaró santuario de aves. Desde 2016 abre en horarios fijos como Hallett Nature Sanctuary.",
+          "source": "https://www.atlasobscura.com/places/hallett-nature-sanctuary",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "El primer maratón",
+          "text": "Gary Muhrcke ganó en 2:31:38 ante unos 100 espectadores. Nina Kuscsik fue la única mujer en largar y abandonó; para la federación de atletismo de entonces, los tiempos de las mujeres no eran oficiales.",
+          "source": "https://en.wikipedia.org/wiki/New_York_City_Marathon",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Sherman y la Victoria",
+          "text": "El grupo de bronce dorado muestra al general a caballo detrás de una Victoria alada. Se fundió en 1902 y se inauguró el 30 de mayo de 1903, sobre un pedestal de granito diseñado por Charles McKim.",
+          "source": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman_(Saint-Gaudens)",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "bag-precheck-cpw": {
+      "history": "Central Park West es el nombre de Eighth Avenue a lo largo del parque, al norte de Columbus Circle, y entre las calles 61 y 97 forma un distrito histórico protegido. En esta cuadra quedan dos de sus edificios más conocidos: el Dakota, en la 72, y el San Remo, entre la 74 y la 75. Unas cuadras al norte está el Museo Americano de Historia Natural.\n\nEl Dakota, de Henry Janeway Hardenbergh, se construyó entre 1880 y 1884 para Edward Cabot Clark y es el edificio de departamentos de lujo más antiguo que sigue en pie en la ciudad. John Lennon vivía ahí y lo mataron en la entrada el 8 de diciembre de 1980; enfrente, en el parque, está Strawberry Fields. El San Remo, de Emery Roth (1929–1930), levanta dos torres sobre una base de 17 pisos.",
+      "curiosities": [
+        {
+          "title": "La placa de Henry Bliss",
+          "text": "El 13 de septiembre de 1899 Henry Bliss bajó de un tranvía en la esquina de la 74 y lo atropelló un taxi eléctrico. Fue la primera muerte por un auto en el hemisferio occidental; una placa marca el lugar.",
+          "source": "https://www.atlasobscura.com/places/henry-bliss-plaque",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Imagine",
+          "text": "El mosaico de Strawberry Fields, frente al Dakota, se inauguró en 1985. Durante años lo cuidó Gary dos Santos, que se hacía llamar alcalde de Strawberry Fields y vivía de las propinas de los turistas.",
+          "source": "https://www.atlasobscura.com/places/strawberry-fields-memorial",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Spook Central",
+          "text": "Más al sur, el 55 de Central Park West es el \"Spook Central\" de la película Ghostbusters.",
+          "source": "https://en.wikipedia.org/wiki/Eighth_Avenue_(Manhattan)",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "whitehall-ferry-terminal": {
+      "history": "El ferry a Staten Island arrancó en 1817, cuando la Richmond Turnpike Company puso un barco a vapor entre Manhattan y la isla. Cornelius Vanderbilt, nacido en Staten Island en 1794, había empezado a los 16 años en ese mismo cruce con un velero chato de dos mástiles, y en 1838 compró la Richmond Turnpike Company. La ciudad se hizo cargo del servicio en 1905.\n\nSon 8.4 km por la bahía y unos 25 minutos. Desde 1997 el viaje es gratis. Corre las 24 horas y los fines de semana sale un barco cada 30 minutos de cada terminal: tres barcos hacen 96 viajes por día.\n\nLa terminal Whitehall se incendió en 1991 y reabrió reconstruida en febrero de 2005, con un hall de 23 m de alto que mira a la bahía. El nombre viene de la calle: la casa de gobernador que Peter Stuyvesant construyó hacia 1657 pasó a llamarse Whitehall con los ingleses, por la sede del gobierno en Londres.",
+      "curiosities": [
+        {
+          "title": "El Comodoro",
+          "text": "Por la energía con que cruzaba la bahía, los otros capitanes le decían \"The Commodore\" en broma a Vanderbilt. El apodo le quedó de por vida.",
+          "source": "https://en.wikipedia.org/wiki/Cornelius_Vanderbilt",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Bancos con forma de canoa",
+          "text": "En la terminal hay 28 bancos de granito de Ming Fay, \"Whitehall Crossing\", que imitan canoas indígenas cruzando la bahía de Nueva York.",
+          "source": "https://www.nyc.gov/html/dot/html/ferrybus/sif-traveler-info.shtml",
+          "source_name": "NYC DOT"
+        },
+        {
+          "title": "Barcos con nombre propio",
+          "text": "Los tres barcos más nuevos, clase Ollis, llevan 4,500 pasajeros cada uno y entraron en servicio en 2022 y 2023. Uno se llama Sandy Ground, por la comunidad negra libre de Staten Island que nació hacia 1828; otro, Dorothy Day, por la activista católica.",
+          "source": "https://www.nyc.gov/html/dot/html/ferrybus/ferry-facts.shtml",
+          "source_name": "NYC DOT"
+        },
+        {
+          "title": "En St. George se baja",
+          "text": "Para hacer ida y vuelta hay que bajar en St. George y volver a entrar por el edificio de la terminal: lo exigen las normas de capacidad de la Guardia Costera. Los molinetes se desarmaron en 1997, cuando el viaje pasó a ser gratis.",
+          "source": "https://en.wikipedia.org/wiki/Staten_Island_Ferry",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "nom-wah-tea-parlor": {
+      "history": "Nom Wah Tea Parlor (南華茶室, casa de té del sur de China) abrió en 1920 en el 15 de Doyers Street y en 1968 se mudó al 13. Es el restaurante en funcionamiento más antiguo de Chinatown. Desde los años cuarenta lo manejaron Ed y May Choy, sobre todo como panadería; en 1950 llegó su sobrino Wally Tang, de 16 años, que lo compró en 1976. En 2010 lo tomó Wilson Tang, sobrino de Wally y ex banquero, que cambió los carritos de dim sum por pedidos a la carta.\n\nDoyers Street mide 61 m y dobla en ángulo cerrado a mitad de camino. Lleva el nombre de Hendrik Doyers, un inmigrante holandés que a fines del siglo XVIII tenía una destilería en el número 6. A principios del siglo XX el codo se llamó Bloody Angle por los asesinatos entre tongs rivales, como Hip Sing y On Leong, que siguieron hasta los años treinta.\n\nChinatown empezó en Mott, Pell y Doyers, al este de Five Points. En 1870 vivían unos 200 chinos y en 1882, cuando se aprobó la Ley de Exclusión China, unos 2,000; la ley rigió hasta 1943 y el barrio fue casi solo de hombres hasta 1965.",
+      "curiosities": [
+        {
+          "title": "Un siglo de reservados rojos",
+          "text": "Atlas Obscura lo registra como la casa de dim sum más antigua de Nueva York. Los detalles art déco y los reservados de vinilo rojo se ven parecidos a los de hace cien años.",
+          "source": "https://www.atlasobscura.com/places/nom-wah-tea-parlor",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "La esquina más violenta",
+          "text": "En 1994 la policía dijo que en el codo de Doyers había muerto más gente de forma violenta que en cualquier otra esquina de Estados Unidos. Las hachas eran tan comunes que de ahí viene la expresión \"hatchet man\".",
+          "source": "https://en.wikipedia.org/wiki/Doyers_Street",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un teatro chino y una balacera",
+          "text": "Entre 1893 y 1911 funcionó en el 5–7 de Doyers el primer teatro en chino de la ciudad. En 1905, con 400 personas en la sala, miembros del Hip Sing dispararon contra los del On Leong y murieron tres.",
+          "source": "https://en.wikipedia.org/wiki/Doyers_Street",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "El baogel",
+          "text": "En 2017 Nom Wah inventó el baogel, un cruce entre bagel y bollo de cerdo asado (cha siu bao).",
+          "source": "https://en.wikipedia.org/wiki/Nom_Wah_Tea_Parlor",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "rosemarys-midtown": {
+      "history": "Rosemary's lleva el nombre de la madre de su fundador, Carlos Suarez, que cocinaba para la familia en cada país donde vivieron. El primer local abrió en 2012 en el West Village, con una huerta en la azotea y vista al Jefferson Market Garden, inspirado en la casa de sus padres en Lucca. Hoy la marca tiene tres locales en Nueva York y uno en Tokio.\n\nLa esquina de Third Avenue y la 50 estuvo bajo el Third Avenue El, el tren elevado que desde 1878 iba de South Ferry a Grand Central Depot y ese mismo año llegó a Harlem. En Manhattan dejó de funcionar el 12 de mayo de 1955 y fue el último elevado de la isla, aparte de los tramos a cielo abierto de la línea 1.\n\nTurtle Bay, el barrio del hotel y del restaurante, toma el nombre de una ensenada del East River entre las calles 45 y 48. La alimentaba un arroyo que nacía en Second Avenue y la 48, y se rellenó después de la Guerra Civil.",
+      "curiosities": [
+        {
+          "title": "Una huerta en la azotea",
+          "text": "El local original del West Village cultiva parte de sus verduras en la azotea y trabaja con productores locales como Brooklyn Grange.",
+          "source": "https://www.rosemarysnyc.com/about/",
+          "source_name": "Rosemary's"
+        },
+        {
+          "title": "Pegado al desfile",
+          "text": "El Rosemary's original mira al Jefferson Market Garden, junto a la Sixth Avenue por donde pasa el desfile de Halloween, varias cuadras al sur de donde lo vamos a mirar.",
+          "source": "https://www.rosemarysnyc.com/about/",
+          "source_name": "Rosemary's"
+        }
+      ]
+    },
+    "village-halloween-parade": {
+      "history": "El desfile nació con Ralph Lee, titiritero y fabricante de máscaras del Village, como una caminata de casa en casa con sus hijos y sus amigos. Wikipedia fecha el primero el 31 de octubre de 1974, alrededor de Westbeth, la residencia de artistas donde vivía; el sitio oficial dice 1973.\n\nEn 1975 lo produjo el Theatre for the New City, con 1,500 participantes y un premio Obie. Desde 1976 lo organiza una entidad sin fines de lucro y, cuando Lee se retiró, tomó la dirección Jeanne Fleming. Con 250,000 espectadores, en 1985 dejó las calles del Village y se mudó a Sixth Avenue. Desde 1998 los títeres gigantes los diseñan Sophia Michahelles y Alex Kahn.\n\nSe suspendió dos veces: en 2012 por el huracán Sandy y en 2020 por la pandemia. En 2001, siete semanas después del 11 de septiembre, lo encabezó un fénix gigante saliendo de las cenizas. En 2026 es la edición 53, con el tema Body & Soul, y va por Sixth Avenue de King St a la calle 15.",
+      "curiosities": [
+        {
+          "title": "La araña de la biblioteca",
+          "text": "Desde 1977 una araña gigante cuelga de la torre de la Jefferson Market Library, sobre Sixth Avenue y la 10. La versión actual la diseñó Basil Twist en 1999.",
+          "source": "https://en.wikipedia.org/wiki/Village_Halloween_Parade",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un juzgado salvado por vecinos",
+          "text": "La Jefferson Market Library fue un juzgado de 1877, de Frederick Clarke Withers, que funcionó hasta 1945. Una campaña vecinal en la que participaron E. E. Cummings y Lewis Mumford logró convertirla en biblioteca.",
+          "source": "https://www.atlasobscura.com/places/jefferson-market-library",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Se marcha sin inscripción",
+          "text": "Cualquiera que vaya disfrazado puede sumarse al desfile sin registrarse ni pagar. Lo llaman \"el carnaval de Nueva York\".",
+          "source": "https://en.wikipedia.org/wiki/Village_Halloween_Parade",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "2017: salió igual",
+          "text": "Menos de cuatro horas después del atentado con un camión a seis cuadras del recorrido, en el que murieron ocho personas, el desfile salió igual y marcharon el alcalde y el gobernador.",
+          "source": "https://en.wikipedia.org/wiki/Village_Halloween_Parade",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "summit-one-vanderbilt": {
+      "history": "One Vanderbilt es un rascacielos de 62 pisos de Kohn Pedersen Fox, inaugurado en 2020 en la esquina de la 42 y Vanderbilt Avenue, pegado a Grand Central. Con la aguja mide 427 m y es el cuarto más alto de la ciudad. La torre se afina a medida que sube y se diseñó para armonizar con la terminal, que tiene al este; el mirador SUMMIT ocupa los pisos altos."
+    },
+    "guggenheim": {
+      "history": "El museo nació en 1939 como Museum of Non-Objective Painting, dirigido por Hilla von Rebay, y tomó el nombre de Solomon R. Guggenheim en 1952, tres años después de la muerte del fundador. Ocupa el edificio en espiral de Frank Lloyd Wright en Fifth Avenue, entre las calles 88 y 89, y guarda arte impresionista, posimpresionista, moderno temprano y contemporáneo."
+    },
+    "2nd-ave-deli-ues": {
+      "history": "El 2nd Ave Deli abrió en 1954 en la esquina de Second Avenue y la calle 10, en el East Village. En 2007 dejó esa esquina y se mudó a la calle 33; en agosto de 2011 abrió esta sucursal en First Avenue y la 75, y en 2017 sumó un bar arriba. En 1998 recibió un America's Classic de la Fundación James Beard."
+    },
+    "cafe-sabarsky": {
+      "history": "La Neue Galerie, museo de arte y diseño alemán y austríaco de principios del siglo XX, abrió en 2001 en la William Starr Miller House, en Fifth Avenue y la 86. La idearon el marchand Serge Sabarsky, que le da nombre al café, y Ronald S. Lauder. En 2026 se anunció que el Met la absorberá en 2028."
+    },
+    "nycm-opening-ceremony": {
+      "history": "La ceremonia se hace sobre la línea de llegada, frente a Tavern on the Green. El restaurante ocupa el antiguo redil de las ovejas que pastaban en el Sheep Meadow, construido en 1870 con diseño de Calvert Vaux y Jacob Wrey Mould. Robert Moses sacó a las ovejas en 1934 y ese año abrió el restaurante."
+    },
+    "maybe-happy-ending-belasco": {
+      "history": "El Belasco abrió en 1907 como Stuyvesant Theatre, diseñado por George Keister para el empresario David Belasco, en la calle 44 entre Sixth y Seventh. Tiene 1,016 butacas en tres niveles, lo opera la Shubert Organization desde 1948 y su fachada y su interior son monumentos de la ciudad."
+    },
+    "buena-vista-social-club-schoenfeld": {
+      "history": "El Gerald Schoenfeld abrió en 1917 como Plymouth Theatre, obra de Herbert J. Krapp (el mismo del Walter Kerr) para los Shubert. En 2004 tomó el nombre del presidente de la Shubert Organization. Tiene 1,079 butacas en dos niveles y fachada e interior protegidos."
+    },
+    "the-lion-king-minskoff": {
+      "history": "El Minskoff abrió en 1973 en el tercer piso de la torre One Astor Plaza, sobre Times Square, y fue de los primeros teatros construidos con la norma especial del Theater District de 1967. Tiene unas 1,710 butacas y lo opera la Nederlander Organization."
+    },
+    "tkts-times-square": {
+      "history": "La boletería está en Duffy Square, el extremo norte de Times Square. Enfrente, en Seventh Avenue y la 47, el Palace Theatre (1913) fue el teatro insignia del vodevil; en 2022 levantaron la sala entera 9 m para abrir locales debajo y la obra terminó en mayo de 2024."
+    },
+    "becco": {
+      "history": "Becco es el restaurante de Lidia Bastianich y su hijo Joe en Restaurant Row, la cuadra de la calle 46 entre 8th y 9th Ave, la misma de Joe Allen. Sirve pasta sin límite a precio fijo."
+    },
+    "marseille": {
+      "history": "Marseille es una brasserie de inspiración francesa y mediterránea en la esquina de 9th Avenue y la 44, a dos cuadras de Restaurant Row, en el borde oeste del Theater District."
+    },
+    "moma": {
+      "history": "El MoMA lo idearon en 1929 Abby Aldrich Rockefeller, Lillie P. Bliss y Mary Quinn Sullivan. Abrió en el Heckscher Building de Fifth Avenue días después del crac de Wall Street y hoy ocupa la calle 53 entre Fifth y Sixth, con más de 200,000 obras de arte, arquitectura, diseño, fotografía y cine."
+    },
+    "joes-shanghai-chinatown": {
+      "history": "Joe's Shanghai es una cadena de restaurantes de cocina de Shanghái fundada por la empresaria Mei Ping \"Barbara\" Matsumura y el cocinero Kiu Sang \"Joe\" Si. El primer local fue en Flushing, Queens; después abrieron en Chinatown y en Midtown, y hoy suman cuatro locales en Japón."
+    },
+    "mei-lai-wah": {
+      "history": "Mei Lai Wah es una panadería cantonesa de Chinatown conocida por sus bollos de cerdo asado. Abrió en 1968 en Bayard Street y hoy está en el 41 de Mott Street, a una cuadra de Nom Wah."
+    },
+    "pj-clarkes-third-avenue": {
+      "history": "P.J. Clarke's es un saloon de 1884 en Third Avenue y la 55, uno de los restaurantes en funcionamiento más antiguos de Nueva York. Toma el nombre de Patrick J. Clarke, un inmigrante irlandés que trabajó ahí unos diez años y terminó comprando el bar. Su casa de ladrillo es un holdout: quedó rodeada por la torre de 47 pisos de 919 Third Avenue. El bar de Nat en The Lost Weekend (1945), de Billy Wilder, se inspiró en este lugar."
+    }
+  },
+  "blocks": {
+    "2026-10-30#0": {
+      "note": "Entramos por el Graybar Passage y vamos directo al Main Concourse: la mancha oscura junto a Cáncer, el agujero del misil arriba de Piscis y el reloj de la Information Booth. Pasamos por Vanderbilt Hall y bajamos por la rampa del Oyster Bar a la Whispering Gallery, cada uno en una esquina. A las 10:00 buscamos el andén de la línea 6.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Por Lexington Ave hacia el sur, de la 48 a la entrada del Graybar Passage, entre la 43 y la 44 (450 m); adentro, 150 m por el pasaje hasta el Main Concourse.",
+        "minutes": 8,
+        "km": 0.6,
+        "sights": [
+          {
+            "name": "270 Park Avenue",
+            "text": "Al salir del hotel, mirando al oeste por la 48: la torre de JPMorgan Chase, de Foster + Partners, 423 m, sede del banco desde octubre de 2025. Reemplazó al Union Carbide Building, demolido en 2021.",
+            "lat": 40.756,
+            "lng": -73.976,
+            "source": "https://en.wikipedia.org/wiki/270_Park_Avenue_(2025%E2%80%93present)"
+          },
+          {
+            "name": "Chrysler Building",
+            "text": "De frente, bajando por Lexington: 319 m, terminado en 1930 y el edificio más alto del mundo durante 11 meses. En el piso 31 tiene gárgolas y réplicas de las tapas de radiador Chrysler de 1929; en el 61, águilas.",
+            "lat": 40.75166667,
+            "lng": -73.97527778,
+            "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+          },
+          {
+            "name": "Las ratas del Graybar Building",
+            "text": "En la entrada de Lexington, los cables de la marquesina imitan amarras de barco, con ratas de metal que suben y conos que les impiden llegar al edificio (1927).",
+            "lat": 40.752684,
+            "lng": -73.975902,
+            "source": "https://www.atlasobscura.com/places/graybar-rats"
+          },
+          {
+            "name": "Graybar Passage",
+            "text": "El pasaje de 1926 tiene arcos de travertino y siete bóvedas: las dos primeras con nubes pintadas y la tercera con un mural de Edward Trumbull de 1927 sobre el transporte en Estados Unidos.",
+            "lat": 40.752626,
+            "lng": -73.9757,
+            "source": "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
+          }
+        ]
+      }
+    },
+    "2026-10-30#1": {
+      "note": "Llegamos a las 10:20 para la entrada de las 10:30. Planta baja primero (Holbein, Vermeer, sala Fragonard) y después la escalera del órgano hasta las salas del primer piso. Salimos 12:15.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "Por los pasillos de la terminal al andén uptown de la [6]; [6] de Grand Central–42 St a 68 St–Hunter College, 3 paradas, 5 min (a esa hora pasa cada 3–4 min). Salida por la calle 68 y 740 m a pie: por la 68 hasta Park Ave, dos cuadras al norte por Park y por la 70 al oeste hasta Fifth.",
+        "minutes": 22,
+        "km": 0.7,
+        "sights": [
+          {
+            "name": "68 St–Hunter College: Tempestuous Terrain",
+            "text": "Mosaicos de vidrio de Lisa Corinne Davis (2024) en el entrepiso de la salida de la 68: líneas en red y manchas de color como un mapa del barrio. En los andenes siguen los frisos de 1918 con el número 68.",
+            "lat": 40.768141,
+            "lng": -73.96387,
+            "source": "https://www.mta.info/agency/arts-design/collection/tempestuous-terrain-liminal-location"
+          },
+          {
+            "name": "Hunter College",
+            "text": "Al subir, los edificios de Hunter College, universidad pública de la City University of New York, sobre Lexington y la 68.",
+            "lat": 40.768538,
+            "lng": -73.964741,
+            "source": "https://en.wikipedia.org/wiki/Hunter_College"
+          },
+          {
+            "name": "Americas Society (Percy R. Pyne House)",
+            "text": "Esquina noroeste de Park y la 68: casa neofederal de McKim, Mead & White (1909–1911). Entre 1948 y 1964 fue la misión soviética ante la ONU. Al lado están el Instituto Español Reina Sofía (684 Park) y el consulado de Italia (690 Park).",
+            "lat": 40.76805556,
+            "lng": -73.965,
+            "source": "https://en.wikipedia.org/wiki/Percy_R._Pyne_House"
+          },
+          {
+            "name": "Asia Society",
+            "text": "Park Ave y la 70: sede central de la Asia Society, con museo propio de arte asiático.",
+            "lat": 40.7698,
+            "lng": -73.9643,
+            "source": "https://en.wikipedia.org/wiki/Asia_Society"
+          },
+          {
+            "name": "Explorers Club",
+            "text": "46 East 70th St: mansión jacobina de 1910, sede del club de exploradores fundado en 1904. Adentro guardan el globo con el que Thor Heyerdahl planeó la Kon-Tiki y un oso polar embalsamado llamado Percy.",
+            "lat": 40.769891,
+            "lng": -73.965614,
+            "source": "https://www.atlasobscura.com/places/explorers-club-headquarters"
+          }
+        ]
+      }
+    },
+    "2026-10-30#2": {
+      "note": "Un pastrami para los dos, sopa de matzo ball y un knish. Si no hay mesa, pedimos para llevar y comemos en un banco de Fifth, frente al parque, antes de entrar al Met.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Por la 70 hasta Madison, ocho cuadras al norte por Madison hasta la 78 y por la 78 al este hasta Lexington (1 km).",
+        "minutes": 14,
+        "km": 1.0,
+        "sights": [
+          {
+            "name": "945 Madison (edificio Breuer)",
+            "text": "Madison y la 75: el bloque de granito de Marcel Breuer (1964–1966) fue el Whitney, después una sede del Met y la casa provisoria de la Frick durante su obra. Hoy es la sede de Sotheby's.",
+            "lat": 40.7734,
+            "lng": -73.9638,
+            "source": "https://en.wikipedia.org/wiki/945_Madison_Avenue"
+          },
+          {
+            "name": "Dwellings, de Charles Simonds",
+            "text": "En la escalera del Breuer, sobre la ventana que da a Madison, hay una aldea en miniatura de arcilla encargada en 1981. Siguió en el edificio por un acuerdo de Sotheby's con el Whitney.",
+            "lat": 40.773442,
+            "lng": -73.963827,
+            "source": "https://www.atlasobscura.com/places/dwellings-at-the-breuer-building"
+          },
+          {
+            "name": "The Carlyle y Bemelmans Bar",
+            "text": "Madison y la 76: hotel art déco de 1930. Su bar, abierto en 1947, tiene murales de Ludwig Bemelmans, el autor de Madeline, y es el único lugar abierto al público con obra suya en las paredes.",
+            "lat": 40.774299,
+            "lng": -73.962994,
+            "source": "https://www.atlasobscura.com/places/bemelmans-bar"
+          }
+        ]
+      }
+    },
+    "2026-10-30#3": {
+      "note": "Entramos por la escalinata de Fifth y vamos primero al Templo de Dendur: el grafiti de 1817 está a la izquierda al entrar. Después Vermeer y Rembrandt, Washington Crossing the Delaware y la muestra de Krasner y Pollock, siempre en ascensor. Cortamos a las 16:15.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Por Lexington cinco cuadras al norte hasta la 83, por la 83 al oeste hasta Fifth y una cuadra al sur hasta la escalinata (950 m).",
+        "minutes": 13,
+        "km": 0.95,
+        "sights": [
+          {
+            "name": "Lexington Candy Shop",
+            "text": "Esquina de Lexington y la 83: luncheonette familiar abierta en 1925 y sin reformas desde 1948. Hace egg creams con una batidora Hamilton Beach de 1940; ahí se filmó una escena de Three Days of the Condor.",
+            "lat": 40.777495,
+            "lng": -73.957301,
+            "source": "https://www.atlasobscura.com/places/the-lexington-candy-shop"
+          },
+          {
+            "name": "La fachada del Met",
+            "text": "Fachada Beaux-Arts de Richard Morris Hunt, terminada por su hijo en 1902, con esculturas de Karl Bitter. Arriba de las columnas, cuatro bloques de piedra sin tallar: las esculturas previstas nunca se hicieron.",
+            "lat": 40.7794,
+            "lng": -73.9631,
+            "source": "https://en.wikipedia.org/wiki/The_Met_Fifth_Avenue"
+          }
+        ]
+      }
+    },
+    "2026-10-30#4": {
+      "note": "Llegamos cerca de las 16:45: ducha, piernas en alto y algo liviano antes del teatro. Salimos 18:10. Si en cambio vamos a la ceremonia de apertura, cruzamos el parque desde el Met hasta Tavern on the Green (1.7 km) y de ahí al teatro son otros 1.7 km.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "Por Fifth hasta la 79, por la 79 al este hasta Lexington y dos cuadras al sur hasta 77 St (1 km, 14 min); [6] hacia el sur (downtown) de 77 St a 51 St, 3 paradas, 5.5 min (pasa cada 3–5 min); 280 m a pie por Lexington hasta la 48.",
+        "minutes": 28,
+        "km": 1.3,
+        "sights": [
+          {
+            "name": "Harry F. Sinclair House (Ukrainian Institute)",
+            "text": "Fifth y la 79, esquina sudeste: mansión renacentista francesa de C. P. H. Gilbert (1897–1899). Fue de Isaac D. Fletcher, del petrolero Harry F. Sinclair y de descendientes de Peter Stuyvesant; desde 1955 es del Ukrainian Institute of America.",
+            "lat": 40.77666667,
+            "lng": -73.96361111,
+            "source": "https://en.wikipedia.org/wiki/Harry_F._Sinclair_House"
+          },
+          {
+            "name": "Lenox Hill Hospital",
+            "text": "Lexington entre la 76 y la 77: fundado en 1857 como German Dispensary, ocupa este solar desde 1869.",
+            "lat": 40.7736,
+            "lng": -73.9609,
+            "source": "https://en.wikipedia.org/wiki/Lenox_Hill_Hospital"
+          },
+          {
+            "name": "77 St: 4 Seasons Seasoned",
+            "text": "Mosaicos de vidrio de Robert Kushner (2004) en el entrepiso, sobre las escaleras: ramos de flores de las cuatro estaciones inspirados en la pintura holandesa y los biombos japoneses.",
+            "lat": 40.77362,
+            "lng": -73.959874,
+            "source": "https://www.mta.info/agency/arts-design/collection/4-seasons-seasoned"
+          }
+        ]
+      }
+    },
+    "2026-10-30#5": {
+      "note": "Función de las 19:00, 2 h 30 min con intervalo. Llegamos 18:30 para entrar sin apuro y pasar por el baño. En la vereda de enfrente está el Longacre, de 1913.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Por la 48 hacia el oeste, de Lexington hasta entre Broadway y 8th Ave (1.25 km). Con piernas cansadas, taxi: son 2 km por calle.",
+        "minutes": 17,
+        "km": 1.25,
+        "sights": [
+          {
+            "name": "Helmsley Building",
+            "text": "Al cruzar Park Ave, mirando al sur: el ex New York Central Building (1927–1929, Warren & Wetmore), con dos portales por donde pasa el tránsito de Park Avenue. Detrás está Grand Central.",
+            "lat": 40.75444444,
+            "lng": -73.97583333,
+            "source": "https://en.wikipedia.org/wiki/Helmsley_Building"
+          },
+          {
+            "name": "James Earl Jones Theatre",
+            "text": "138 West 48th St: el ex Cort Theatre, de 1912, obra de Thomas W. Lamb. Fachada e interior son monumentos de la ciudad.",
+            "lat": 40.75916667,
+            "lng": -73.98305556,
+            "source": "https://en.wikipedia.org/wiki/James_Earl_Jones_Theatre"
+          },
+          {
+            "name": "Palace Theatre",
+            "text": "Al llegar a Seventh Ave, una cuadra al sur: el Palace (1913), teatro insignia del vodevil. En 2022 levantaron la sala entera 9 m para abrir locales debajo.",
+            "lat": 40.758842,
+            "lng": -73.984728,
+            "source": "https://en.wikipedia.org/wiki/Palace_Theatre_(New_York_City)"
+          },
+          {
+            "name": "Brill Building",
+            "text": "Una cuadra al norte, en Broadway y la 49: en 1962 funcionaban ahí 165 empresas de música y salieron compositores como Carole King y Neil Diamond. Sobre la entrada art déco hay un busto de Alan Lefcourt, hijo del constructor.",
+            "lat": 40.761136,
+            "lng": -73.984476,
+            "source": "https://www.atlasobscura.com/places/the-brill-building"
+          }
+        ]
+      }
+    },
+    "2026-10-30#6": {
+      "note": "Reserva a las 21:45. Pedimos pappardelle o meatloaf con puré y banana cream pie. Mientras esperamos, leemos los afiches: cada uno es un musical que bajó de cartel rápido.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Por la 48 hasta 8th Ave, dos cuadras al sur por 8th hasta la 46 y media cuadra al oeste (400 m).",
+        "minutes": 5,
+        "km": 0.4,
+        "sights": [
+          {
+            "name": "Barbetta",
+            "text": "321 West 46th St, enfrente de Joe Allen: el restaurante más antiguo del Theater District, abierto en 1906. Cerró el 27 de febrero de 2026.",
+            "lat": 40.76027,
+            "lng": -73.98883,
+            "source": "https://en.wikipedia.org/wiki/Barbetta"
+          }
+        ]
+      }
+    },
+    "2026-10-30#7": {
+      "note": "Subte [E] o taxi, y a dormir. Al salir de Lexington Av/53 St bajamos por Lexington: en la esquina de la 52 está la rejilla de Marilyn, y una cuadra antes del hotel, el Waldorf.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "Por la 46 y 8th Ave al norte hasta la 50 (450 m, 6 min); [E] hacia Jamaica Center de 50 St a Lexington Av/53 St, 3 paradas, 5.5 min (a esa hora pasa cada 8–12 min); salida a Lexington y la 53 y 560 m por Lexington al sur hasta la 48. En taxi son 1.6 km.",
+        "minutes": 25,
+        "km": 1.0,
+        "sights": [
+          {
+            "name": "Lexington Av/53 St: Passing Through",
+            "text": "Mosaico de vidrio de Al Held (2004) en la estación de la E: formas geométricas que flotan en un espacio de color.",
+            "lat": 40.757552,
+            "lng": -73.969055,
+            "source": "https://www.mta.info/agency/arts-design/collection/passing-through"
+          },
+          {
+            "name": "Citigroup Center",
+            "text": "Lexington y la 53, lado este: torre de 279 m apoyada sobre columnas, de 1977. Menos de un año después de terminada hubo que reforzarla porque un error de diseño la hacía vulnerable a vientos fuertes.",
+            "lat": 40.75861111,
+            "lng": -73.97027778,
+            "source": "https://en.wikipedia.org/wiki/Citigroup_Center"
+          },
+          {
+            "name": "La rejilla de Marilyn",
+            "text": "Esquina sudoeste de Lexington y la 52: la rejilla del subte de la escena de The Seven Year Itch, filmada el 15 de septiembre de 1954. No tiene placa.",
+            "lat": 40.757749,
+            "lng": -73.971466,
+            "source": "https://www.atlasobscura.com/places/marilyn-monroe-s-subway-grate"
+          },
+          {
+            "name": "Waldorf Astoria",
+            "text": "Lexington entre la 49 y la 50: el hotel art déco de 1931, de Schultze and Weaver, los mismos arquitectos de nuestro hotel. Reabrió en julio de 2025 después de una larga reforma.",
+            "lat": 40.75638889,
+            "lng": -73.97416667,
+            "source": "https://en.wikipedia.org/wiki/Waldorf_Astoria_New_York"
+          }
+        ]
+      }
+    },
+    "2026-10-31#0": {
+      "note": "Unos 25 minutos muy suaves y cuatro aceleraciones cortas por East Drive. Ida por Madison y la 59; a las 8:15 estamos de vuelta. Si las piernas piden descanso, lo salteamos.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Trotando suave: por la 49 hasta Madison, por Madison al norte hasta la 59 y por la 59 al oeste hasta Grand Army Plaza; entramos al parque por Fifth y la 60 (1.5 km).",
+        "minutes": 9,
+        "km": 1.5,
+        "sights": [
+          {
+            "name": "Villard Houses",
+            "text": "Madison entre la 50 y la 51: seis casas de 1884 de McKim, Mead & White para Henry Villard, presidente del Northern Pacific. Desde 1980 son parte del Lotte New York Palace; detrás asoma St. Patrick's.",
+            "lat": 40.75805556,
+            "lng": -73.97527778,
+            "source": "https://en.wikipedia.org/wiki/Villard_Houses"
+          },
+          {
+            "name": "550 Madison Avenue",
+            "text": "Madison entre la 55 y la 56: torre de granito rosa de Philip Johnson y John Burgee (1984), con un frontón partido que la prensa comparó con un mueble Chippendale.",
+            "lat": 40.76138889,
+            "lng": -73.97333333,
+            "source": "https://en.wikipedia.org/wiki/550_Madison_Avenue"
+          },
+          {
+            "name": "Ex Playboy Club",
+            "text": "5 East 59th St: desde diciembre de 1962 funcionó ahí el Playboy Club de Nueva York, al que se entraba con una llave numerada. Hoy es un edificio gris sin nada que lo recuerde.",
+            "lat": 40.764232,
+            "lng": -73.97222,
+            "source": "https://www.atlasobscura.com/places/the-former-home-of-new-york-s-playboy-club-new-york-new-york"
+          },
+          {
+            "name": "Fuente Pulitzer",
+            "text": "Grand Army Plaza, mitad sur: fuente de 1916 de Thomas Hastings con la Pomona de Karl Bitter. Joseph Pulitzer dejó USD 50,000 en su testamento para una fuente como las de la Place de la Concorde.",
+            "lat": 40.76403,
+            "lng": -73.97361,
+            "source": "https://en.wikipedia.org/wiki/Pulitzer_Fountain"
+          },
+          {
+            "name": "Monumento a Sherman",
+            "text": "Grand Army Plaza, mitad norte: el general a caballo detrás de una Victoria alada, bronce dorado de Augustus Saint-Gaudens inaugurado en 1903.",
+            "lat": 40.7645,
+            "lng": -73.9732,
+            "source": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman_(Saint-Gaudens)"
+          }
+        ]
+      }
+    },
+    "2026-10-31#1": {
+      "note": "Solo si lo elegimos en el panel de NYRR: dejamos el bolso con la ropa seca para después de la llegada y seguimos a pie hacia el subte. La placa de Henry Bliss está en la esquina de la 74.",
+      "from_prev": {
+        "mode": "taxi",
+        "detail": "Taxi del hotel a Central Park West y la 74: 3.6 km por calle. Sin tránsito son 7 min según el ruteo de OpenStreetMap; con el tránsito del sábado calculamos 15.",
+        "minutes": 15,
+        "sights": [
+          {
+            "name": "The San Remo",
+            "text": "Al bajar del taxi, entre la 74 y la 75: edificio de Emery Roth (1929–1930) con dos torres de 10 pisos sobre una base de 17.",
+            "lat": 40.77805556,
+            "lng": -73.975,
+            "source": "https://en.wikipedia.org/wiki/The_San_Remo"
+          },
+          {
+            "name": "The Dakota",
+            "text": "Dos cuadras al sur, en la 72: el edificio de departamentos de lujo más antiguo de la ciudad (1880–1884), de Henry Janeway Hardenbergh. John Lennon vivía ahí.",
+            "lat": 40.77666667,
+            "lng": -73.97638889,
+            "source": "https://en.wikipedia.org/wiki/The_Dakota"
+          }
+        ]
+      }
+    },
+    "2026-10-31#2": {
+      "note": "Tomamos el ferry de las 11:00 (los fines de semana sale uno cada 30 minutos, en punto y a y media) y a la ida vamos del lado derecho para ver la estatua y Ellis Island. En St. George se baja; volvemos en el de las 11:30 y a las 11:55 estamos en Whitehall. Sin pre-check, vamos del hotel con la [4] o la [5] de Grand Central a Bowling Green (12.5 min) y llegamos al de las 10:30.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "Por Central Park West dos cuadras al sur, frente al Dakota, y por la 72 al oeste hasta Broadway (740 m, 10 min); [1] de 72 St a South Ferry, 17 paradas, 26.5 min (el sábado a la mañana pasa cada 6–7 min); 170 m a pie por Peter Minuit Plaza hasta la terminal. En el ferry, 25 min por tramo.",
+        "minutes": 45,
+        "km": 0.9,
+        "sights": [
+          {
+            "name": "72 St: Laced Canopy",
+            "text": "En la claraboya del acceso nuevo de Verdi Square, Robert Hickman (2002) armó con más de un millón de fragmentos de vidrio unos nudos que forman la partitura de un pasaje de Rigoletto, de Verdi. La estación es de 1904, una de las 28 originales.",
+            "lat": 40.779,
+            "lng": -73.98186111,
+            "source": "https://www.mta.info/agency/arts-design/collection/laced-canopy"
+          },
+          {
+            "name": "Franklin St: Respect",
+            "text": "Cuando murió Aretha Franklin, en 2018, la MTA pegó carteles con la palabra \"Respect\" junto a los del nombre de la estación. En 2023 seguían ahí; los buscamos por la ventana cuando el tren para.",
+            "lat": 40.719001,
+            "lng": -74.006679,
+            "source": "https://www.atlasobscura.com/places/aretha-franklin-subway-tributes"
+          },
+          {
+            "name": "South Ferry: See it split, see it change",
+            "text": "En el entrepiso, vidrio fundido, mosaico de piedra y acero cortado a láser de los gemelos Doug y Mike Starn (2009): ramas de árboles y un mapa que superpone Manhattan actual y la antigua. Costó USD 1 millón.",
+            "lat": 40.7025,
+            "lng": -74.0128,
+            "source": "https://www.mta.info/agency/arts-design/collection/see-it-split-see-it-change"
+          },
+          {
+            "name": "Desde el ferry: Castle Williams",
+            "text": "A la izquierda, en Governors Island: fuerte circular de arenisca roja terminado en 1811, con lugar para 100 cañones. Nunca tuvo que disparar: los británicos no atacaron Nueva York en la guerra de 1812.",
+            "lat": 40.692778,
+            "lng": -74.019167,
+            "source": "https://www.atlasobscura.com/places/castle-williams"
+          },
+          {
+            "name": "Desde el ferry: Estatua de la Libertad",
+            "text": "A la derecha a la ida: la estatua de Bartholdi con estructura de Gustave Eiffel. Se inauguró el 28 de octubre de 1886; cumple 140 años el día que llegamos. Pisa una cadena rota y en la tabla lleva la fecha JULY IV MDCCLXXVI.",
+            "lat": 40.68916667,
+            "lng": -74.04444444,
+            "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+          },
+          {
+            "name": "Desde el ferry: Ellis Island",
+            "text": "Al norte de la estatua, pegada a Nueva Jersey: entre 1892 y 1954 pasaron por su estación de inmigración unos 12 millones de personas.",
+            "lat": 40.69944444,
+            "lng": -74.03972222,
+            "source": "https://en.wikipedia.org/wiki/Ellis_Island"
+          },
+          {
+            "name": "Desde el ferry: Robbins Reef Light",
+            "text": "Faro de 1883 sobre un arrecife frente a Bayonne. Kate Walker lo atendió sola desde la muerte de su marido, en 1886, hasta 1919, y llevaba a sus hijos a la escuela en bote.",
+            "lat": 40.65736444,
+            "lng": -74.06535472,
+            "source": "https://en.wikipedia.org/wiki/Robbins_Reef_Light"
+          },
+          {
+            "name": "Desde el ferry: puente Verrazzano",
+            "text": "Al fondo, hacia el sur: el puente colgante abrió el 21 de noviembre de 1964. Desde 1976 el maratón larga en su extremo de Staten Island; mañana lo cruzamos corriendo.",
+            "lat": 40.60638889,
+            "lng": -74.04555556,
+            "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge"
+          },
+          {
+            "name": "Postcards, St. George",
+            "text": "Al norte de la terminal de St. George: memorial de 2004 para los 274 vecinos de Staten Island muertos el 11 de septiembre de 2001 y en el atentado de 1993.",
+            "lat": 40.64666667,
+            "lng": -74.07638889,
+            "source": "https://en.wikipedia.org/wiki/Postcards_(memorial)"
+          }
+        ]
+      }
+    },
+    "2026-10-31#3": {
+      "note": "Nos anotamos en la puerta y pedimos ha gow, el egg roll de la casa y fideos salteados; llevamos efectivo. Al salir miramos el codo de Doyers, el Bloody Angle.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "250 m a pie de la terminal a Whitehall St–South Ferry; [R] hacia el norte hasta Canal St, 4 paradas, 8.5 min (el sábado la [W] no corre y la [R] pasa cada 12 min). Salida por Canal y Broadway y 900 m a pie: por Canal al este hasta Mott, por Mott al sur hasta Pell y por Pell hasta Doyers.",
+        "minutes": 32,
+        "km": 1.1,
+        "sights": [
+          {
+            "name": "Whitehall St: Passages",
+            "text": "Relieves y mosaicos cerámicos de Frank Giorgini (2000) que retroceden en el tiempo: la ciudad actual, los vapores, Nueva Ámsterdam y el paisaje anterior a la colonia, con peces y marismas.",
+            "lat": 40.703087,
+            "lng": -74.012994,
+            "source": "https://www.mta.info/agency/arts-design/collection/passages"
+          },
+          {
+            "name": "Canal St: mosaicos del canal y Empress Voyage",
+            "text": "Los mosaicos originales de los andenes de la R recuerdan el canal que corría por la calle, según un dibujo de 1796, y hay placas con los caracteres de \"dinero\" y \"suerte\". Bing Lee sumó en 1998 teteras y signos chinos por el viaje del Empress of China de 1784.",
+            "lat": 40.719527,
+            "lng": -74.001775,
+            "source": "https://www.mta.info/agency/arts-design/collection/empress-voyage-2-22-1784"
+          },
+          {
+            "name": "Museum of Chinese in America",
+            "text": "Media cuadra al norte de Canal, sobre Centre St: museo diseñado por Maya Lin, con una recreación de un almacén chino de otra época.",
+            "lat": 40.719388,
+            "lng": -73.999088,
+            "source": "https://www.atlasobscura.com/places/museum-of-chinese-in-america"
+          },
+          {
+            "name": "Chinatown Ice Cream Factory",
+            "text": "Bayard St, a metros de Mott: heladería familiar abierta en 1978 por Philip Seid, con sabores como pandan, lichi y sésamo negro.",
+            "lat": 40.715387,
+            "lng": -73.998156,
+            "source": "https://www.atlasobscura.com/places/chinatown-ice-cream-factory"
+          },
+          {
+            "name": "Edward Mooney House",
+            "text": "18 Bowery, en la esquina de Pell: la casa en hilera más antigua de la ciudad, de 1785–1789. Fue taberna, burdel, hotel y el saloon de Chuck Connors, el \"alcalde de Chinatown\".",
+            "lat": 40.71462,
+            "lng": -73.997442,
+            "source": "https://www.atlasobscura.com/places/edward-mooney-house"
+          },
+          {
+            "name": "Bloody Angle",
+            "text": "El codo de Doyers Street, escenario de las guerras entre tongs a principios del siglo XX.",
+            "lat": 40.714427,
+            "lng": -73.998102,
+            "source": "https://www.atlasobscura.com/places/chinatown-s-bloody-angle"
+          }
+        ]
+      }
+    },
+    "2026-10-31#4": {
+      "note": "Piernas arriba y armado del kit del domingo: dorsal, geles, bolsa oficial y ropa descartable para la largada.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "Por Doyers, Pell y Mott hasta Bayard, por Bayard al oeste hasta Columbus Park y por Mulberry y Canal hasta Lafayette (730 m, 10 min); entramos por las esquinas del lado este, las del andén uptown. [6] de Canal St a 51 St, 9 paradas, 13.5 min (pasa cada 6 min); 280 m a pie por Lexington hasta la 48.",
+        "minutes": 32,
+        "km": 1.0,
+        "sights": [
+          {
+            "name": "Columbus Park (Mulberry Bend)",
+            "text": "El parque de Calvert Vaux ocupa el centro de Five Points, el barrio del siglo XIX con la tasa de homicidios más alta del mundo. Hoy se juega a las cartas y al básquet.",
+            "lat": 40.715142,
+            "lng": -73.999439,
+            "source": "https://www.atlasobscura.com/places/the-mulberry-bend"
+          },
+          {
+            "name": "Canal St: placas del arroyo",
+            "text": "En los andenes de la 6 hay placas de terracota de 1904 con una casita junto a un puente sobre un arroyo, recuerdo del canal que le dio nombre a la calle.",
+            "lat": 40.718803,
+            "lng": -74.000193,
+            "source": "https://en.wikipedia.org/wiki/Canal_Street_station_(New_York_City_Subway)"
+          },
+          {
+            "name": "Astor Place: los castores",
+            "text": "Por la ventana: las placas de cerámica con castores, por la fortuna que John Jacob Astor hizo con las pieles de castor; se restauraron en 1984–1986. La MTA rechazó que Milton Glaser pusiera castores en su obra porque parecían ratas.",
+            "lat": 40.72972222,
+            "lng": -73.99166667,
+            "source": "https://en.wikipedia.org/wiki/Astor_Place_station"
+          },
+          {
+            "name": "La estación fantasma de la 18",
+            "text": "Entre 14 St y 23 St, por la ventana: una estación de 1904 cerrada el 8 de noviembre de 1948 cuando alargaron los andenes de la 23. Se ve pasar a oscuras y con grafiti.",
+            "lat": 40.737177,
+            "lng": -73.988593,
+            "source": "https://www.atlasobscura.com/places/abandoned-18th-street-subway-station"
+          }
+        ]
+      }
+    },
+    "2026-10-31#5": {
+      "note": "Mesa a las 17:30: pasta simple, pan y agua, nada frito ni picante. Así llegamos al desfile o a la cama temprano.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Por la 48 hasta Third Avenue y dos cuadras al norte hasta la 50 (310 m).",
+        "minutes": 4,
+        "km": 0.3,
+        "sights": []
+      }
+    },
+    "2026-10-31#6": {
+      "note": "Vamos al extremo norte, en Sixth Ave y la 15, del lado este. La cabecera sale de King St a las 19:00 y tarda en llegar hasta acá; miramos 30–40 minutos y volvemos por el mismo camino.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "240 m a pie hasta 51 St; [6] hacia el sur hasta 14 St–Union Sq, 5 paradas, 7.5 min (pasa cada 6 min); salida a Union Square West y 730 m a pie por la 14 hasta Sixth Ave y una cuadra al norte hasta la 15.",
+        "minutes": 25,
+        "km": 1.0,
+        "sights": [
+          {
+            "name": "Union Sq: las plataformas que se mueven",
+            "text": "Bajamos en el andén downtown, el único de la ciudad que todavía usa gap fillers: plataformas hidráulicas que salen al llegar el tren para tapar el hueco de la curva del andén de 1904. Se oye el golpe.",
+            "lat": 40.734563,
+            "lng": -73.990313,
+            "source": "https://www.atlasobscura.com/places/14th-street-union-square-moving-platforms"
+          },
+          {
+            "name": "Framing Union Square",
+            "text": "Marcos rojos de Mary Miss (1998) señalan restos de la estación original, entre ellos águilas de terracota con escudos que llevan el número 14.",
+            "lat": 40.735682,
+            "lng": -73.99052,
+            "source": "https://www.atlasobscura.com/places/remains-of-the-union-square-subway"
+          },
+          {
+            "name": "Metronome",
+            "text": "En el lado sur de la plaza: obra de Kristin Jones y Andrew Ginzel (1999) con 15 dígitos; a la izquierda, la hora, y a la derecha, lo que falta para la medianoche. Desde 2020 también se usa como reloj climático.",
+            "lat": 40.734618,
+            "lng": -73.990272,
+            "source": "https://www.atlasobscura.com/places/union-square-metronome"
+          }
+        ]
+      }
+    },
+    "2026-10-31#7": {
+      "note": "Dejamos todo listo sobre una silla: dorsal prendido, geles, ropa descartable. Esta madrugada termina el horario de verano: a las 2:00 vuelve a ser la 1:00; el celular se ajusta solo, el reloj de carrera y el despertador hay que revisarlos.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "730 m a pie de vuelta a 14 St–Union Sq; [6] hacia el norte hasta 51 St, 5 paradas, 7.5 min (entre las 20:00 y las 21:30 pasa cada 6–8 min); 280 m a pie hasta el hotel.",
+        "minutes": 26,
+        "km": 1.0,
+        "sights": [
+          {
+            "name": "George Washington a caballo",
+            "text": "Punta sur de Union Square: estatua de Henry Kirke Brown inaugurada en 1856, la primera escultura ecuestre de bronce de Estados Unidos.",
+            "lat": 40.7353762,
+            "lng": -73.990695,
+            "source": "https://en.wikipedia.org/wiki/Union_Square,_Manhattan"
+          }
+        ]
+      }
+    }
+  },
+  "days": {
+    "2026-10-30": {
+      "context": "El viernes une tres zonas con la línea 6. Arrancamos en Terminal City, el Midtown East de hoteles y oficinas que creció sobre las vías tapadas de Grand Central después de 1913, y donde está nuestro hotel. Tres paradas al norte empieza el Upper East Side de las mansiones sobre Fifth y Park: la Frick, la cuadra de Park y la 68, la casa Sinclair. Por las veredas comerciales de Madison y Lexington llegamos caminando al Met.\n\nA la tarde volvemos al hotel en subte y a la noche cruzamos Midtown a pie por la 48: Park Avenue, Fifth, Sixth y el Theater District, con el Walter Kerr entre Broadway y 8th Ave. La cena es en Restaurant Row, la cuadra de la 46 entre 8th y 9th Ave. En la calle caminamos unos 7.3 km, más lo que se recorre adentro de los museos.",
+      "km_walk": 7.3
+    },
+    "2026-10-31": {
+      "context": "El sábado usamos el subte para casi todo. La línea 1 baja por el West Side desde Central Park West hasta la punta de Manhattan, donde empezó la ciudad holandesa: Whitehall, Peter Minuit Plaza y el muelle del ferry. Desde el agua se ven la Estatua de la Libertad, Ellis Island, Governors Island y, al fondo, el Verrazzano, donde larga el maratón.\n\nDe vuelta, la [R] sube hasta Canal Street, el borde de Chinatown, que nació en Mott, Pell y Doyers al este de Five Points. La tarde es de hotel en Turtle Bay y la noche termina en Union Square y la Sixth Avenue del desfile. A pie son unos 5.4 km en tramos de menos de 1 km (3.7 km si salteamos el desfile), más los pasillos de las terminales del ferry y el trote opcional de la mañana.",
+      "km_walk": 5.4
+    }
+  }
+}

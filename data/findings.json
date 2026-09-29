@@ -182,20 +182,6 @@
   "slice": "sab"
  },
  {
-  "topic": "MoMA el sábado",
-  "status": "ok",
-  "detail": "Abre 10:30–17:30 (viernes hasta 20:30); sábados y domingos de 9:30 a 10:30 solo socios y sus invitados. Adultos USD 30, mayores de 65 USD 22, estudiantes USD 17. Conviene comprar online con horario. El 25 de octubre abre Brancusi: The Artist and His Studio, así que el 31 habrá más público. La muestra Frida and Diego terminó el 12 de septiembre: confirmar en qué sala está el autorretrato de Frida.",
-  "source": "https://visit.moma.org/select",
-  "slice": "sab"
- },
- {
-  "topic": "Atardecer del 31 de octubre",
-  "status": "ok",
-  "detail": "Puesta del sol a las 17:55 (hora de verano, EDT); crepúsculo civil hasta las 18:22 y náutico hasta las 18:54. El horario de verano termina el domingo 1 de noviembre a las 2:00. Recomendación: estar sentados en Pier 1 entre 17:15 y 17:25 y quedarse hasta 18:25 para ver prenderse Lower Manhattan.",
-  "source": "https://api.sunrise-sunset.org/json?lat=40.7033&lng=-73.9967&date=2026-10-31&tzid=America/New_York",
-  "slice": "sab"
- },
- {
   "topic": "Abbott Dash to the Finish Line 5K",
   "status": "cambia-plan",
   "detail": "Es el sábado 31 de octubre a las 8:45 y termina en la llegada del maratón en Central Park, pero está agotado: la inscripción 2026 cerró. Según NYRR, en 2025 largó junto a la ONU (1st Ave y 44th St) y pasó por la calle 42 frente a Grand Central antes de subir por la 6th Ave; por eso entramos a Grand Central por Lexington. El shakeout lo hacemos por nuestra cuenta.",
@@ -210,31 +196,10 @@
   "slice": "sab"
  },
  {
-  "topic": "NYC Ferry desde DUMBO",
-  "status": "riesgo",
-  "detail": "Ruta East River: DUMBO/Fulton Ferry (al pie de Old Fulton St) a East 34th St en 26–27 minutos, con escalas alternadas por South Williamsburg y Greenpoint o por North Williamsburg y Hunters Point South. Sábados de otoño: salidas cada 13–15 minutos; cerca del atardecer 18:31, 18:44 y 18:59; última 20:51. Pasaje USD 4.00. East 34th St queda a 1.6 km del hotel: taxi. Riesgo: el PDF de otoño marca el 31 de octubre como modified weekend schedule, sin detalle; revisar la app esa semana.",
-  "source": "https://www.ferry.nyc/routes-and-schedules/east-river/",
-  "slice": "sab"
- },
- {
-  "topic": "Kilómetros a pie del día",
-  "status": "riesgo",
-  "detail": "Estimación con distancias de OpenStreetMap, factor 1.3 por la grilla y 2.5 km dentro de MoMA. Plan como está escrito (puente ida y vuelta, desfile, subte solo MoMA–Chinatown y City Hall–Spring St): unos 16 km, más el trote. Caminando del puente al desfile: unos 18 km; y yendo también a pie de MoMA a Chinatown: unos 22 km. Versión piernas frescas (ferry, cena cerca del hotel, desfile corto): unos 12 km. Versión mínima (línea F en vez del puente, desfile por TV): unos 9 km.",
-  "source": "https://www.openstreetmap.org/way/32922945",
-  "slice": "sab"
- },
- {
   "topic": "Neue Galerie como alternativa a MoMA",
   "status": "cambia-plan",
   "detail": "Las salas están cerradas por obras hasta el 12 de noviembre de 2026, cuando reabren con la muestra del 25 aniversario (el Café Sabarsky, la librería y la tienda reabren el 1 de octubre). No sirve el 31 de octubre: la alternativa es el Whitney (10:30–18:00, USD 30).",
   "source": "https://www.neuegalerie.org/visit",
-  "slice": "sab"
- },
- {
-  "topic": "Oyster Bar de Grand Central",
-  "status": "riesgo",
-  "detail": "El restaurante abre de lunes a viernes, 11:30–21:30: el sábado está cerrado. La rampa y la Whispering Gallery son espacios públicos de la terminal (abierta 5:15–2:00) y se visitan igual.",
-  "source": "https://www.oysterbarny.com/",
   "slice": "sab"
  },
  {
@@ -249,13 +214,6 @@
   "status": "riesgo",
   "detail": "La Expo en el Javits Center funciona el sábado 31 de 9:00 a 17:00 y el turno de retiro se elige en el dashboard de NYRR hasta las 16:00 de ese día. Si el número no está retirado antes del sábado, el plan de la tarde no entra.",
   "source": "https://www.nyrr.org/tcsnycmarathon/raceweek/expo",
-  "slice": "sab"
- },
- {
-  "topic": "Entrada del Brooklyn Bridge en Manhattan",
-  "status": "ok",
-  "detail": "En 2026 la ciudad separó las entradas de peatones y bicicletas desde Centre St y Park Row y duplicó el ancho del cruce peatonal sur hacia City Hall Park. La pasarela está abierta a toda hora. Del lado de Brooklyn, la escalera de Washington St y Prospect St baja directo a DUMBO.",
-  "source": "https://nyc.gov/mayors-office/news/2026/03/mayor-mamdani-announces-redesigned-bike-and-pedestrian-connectio",
   "slice": "sab"
  },
  {

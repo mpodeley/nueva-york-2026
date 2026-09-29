@@ -1,0 +1,1095 @@
+{
+  "places": {
+    "jfk-airport": {
+      "history": "El aeropuerto abrió en 1948 como New York International Airport, aunque todos lo llamaban Idlewild: se construyó sobre los pantanos de la bahía de Jamaica, donde estaba la cancha de golf Idlewild Beach. Tras el asesinato de John F. Kennedy, en 1963, pasó a llevar su nombre.\n\nHoy ocupa 2,104 hectáreas en el sur de Queens y es el más transitado de los tres aeropuertos de Nueva York, con casi 100 aerolíneas. Su edificio más famoso es el TWA Flight Center de Eero Saarinen, inaugurado en 1962 con un techo de hormigón en forma de alas; funcionó como terminal durante cuatro décadas y desde 2019 es el TWA Hotel, pegado a la Terminal 5.\n\nPara salir hacia la ciudad está el AirTrain, un tren elevado sin conductor de 13 km que corre las 24 horas. Une las terminales con el subte y el LIRR en Jamaica y con el subte en Howard Beach.",
+      "curiosities": [
+        {
+          "title": "Un aeropuerto encima de una cancha de golf",
+          "text": "El apodo Idlewild viene de la Idlewild Beach Golf Course, que el aeropuerto desplazó en los años 40. El mismo día que aterrizamos jugamos en Dyker Beach, una de las canchas que sí sobrevivió.",
+          "source": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "El TWA Flight Center",
+          "text": "Eero Saarinen lo diseñó para Trans World Airlines con un techo de cáscara de hormigón sobre cuatro pilares en Y. Cerró en 2001, cuando TWA vendió sus activos, y en 2019 reabrió como parte del TWA Hotel.",
+          "source": "https://en.wikipedia.org/wiki/TWA_Flight_Center",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un tren sin conductor",
+          "text": "El AirTrain tiene tres líneas y nueve estaciones, todas en Queens, y funciona sin conductor todo el día. La conexión ferroviaria con JFK se venía proponiendo desde los años 40 y la obra recién empezó en 1998.",
+          "source": "https://en.wikipedia.org/wiki/AirTrain_JFK",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "hoxton-williamsburg": {
+      "history": "The Hoxton abrió en septiembre de 2018 en 97 Wythe Ave: fue el primer hotel de la cadena en Estados Unidos y el primero de la marca con bar en la terraza. La cadena había nacido en 2006 en Shoreditch, Londres, en un edificio que antes era un estacionamiento.\n\nLa cuadra resume la historia de Williamsburg. El barrio nació en 1802 como un loteo de 13 acres que Richard Woodhull bautizó Williamsburgh en honor del ingeniero Jonathan Williams, que lo midió. Fue ciudad independiente hasta 1855, cuando Brooklyn lo anexó y perdió la h final. La costa se llenó de astilleros, cervecerías y refinerías de azúcar, y después de la apertura del Williamsburg Bridge, en 1903, fue el barrio más densamente poblado de la ciudad.\n\nCon la salida de la industria llegaron artistas a los depósitos vacíos. En 2005 la ciudad rezonificó la costa norte para torres residenciales con la condición de un paseo costero continuo; los hoteles de Wythe Avenue son parte de ese cambio.",
+      "curiosities": [
+        {
+          "title": "Un museo detrás de una bodega",
+          "text": "En 370 Metropolitan Ave, cerca de la estación Bedford Av, el City Reliquary guarda reliquias de la ciudad detrás de un toldo de almacén: huesos de rata del subte, fichas viejas, adoquines, piedras angulares de edificios demolidos y un altar a Jackie Robinson. Empezó como una vitrina en la ventana del departamento de su fundador, Dave Herman.",
+          "source": "https://www.atlasobscura.com/places/city-reliquary",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "El cartel de Domino",
+          "text": "A 1 km al sur del hotel está la refinería de Domino: en 1870 este barrio refinaba más de la mitad del azúcar de Estados Unidos. La planta cerró en 2004 y en diciembre de 2022 se instaló una réplica LED del cartel amarillo sobre el edificio de 1882, hoy oficinas.",
+          "source": "https://en.wikipedia.org/wiki/Domino_Sugar_Refinery",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un parque con nombre de activista",
+          "text": "A tres cuadras, el Marsha P. Johnson State Park ocupa el terreno de la Brooklyn Eastern District Terminal, que abrió en 1870 como Palmer's Dock. En 2020 tomó el nombre de la activista Marsha P. Johnson: fue el primer parque estatal de Nueva York con nombre de una persona LGBTQ.",
+          "source": "https://en.wikipedia.org/wiki/Marsha_P._Johnson_State_Park",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "dyker-beach-golf": {
+      "history": "Dyker Beach fue tierra común antes de ser parque: los canarsee y después los colonos holandeses de New Utrecht no podían cultivarla porque era pantano y marisma. El nombre viene de la familia Van Dyke, que en el siglo XVII intentó secarla con diques.\n\nEn 1895 la ciudad de Brooklyn compró la primera parcela y contrató a Olmsted, Olmsted and Eliot para un parque costero de 50 acres; el informe de parques de 1896 lo prometía como el mejor parque junto al mar del mundo. Entre las calles 86 y 92, en tierras privadas, jugaban el Dyker Golf Club y el Marine and Field Club. El parque sumó parcelas hasta 1934 y en 1935 se construyó el clubhouse de John Van Kleek.\n\nHoy son 217 acres y 6,548 yardas de juego: es la segunda cancha más antigua de la ciudad, después de Van Cortlandt, en el Bronx, y una de las públicas más jugadas del país. La ciudad la administró hasta 1984; desde entonces la opera American Golf, que amplió el clubhouse en 2008.",
+      "curiosities": [
+        {
+          "title": "El puente de la largada",
+          "text": "Desde la cancha se ve el Verrazzano–Narrows Bridge, inaugurado en 1964. Desde 1976 la maratón de Nueva York larga cada año en su extremo de Staten Island: el domingo lo cruzamos corriendo.",
+          "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un colegio que se quedó sin cancha",
+          "text": "En 1916 el colegio Poly Prep quiso comprar la parcela de golf entre las calles 86 y 92, pero le faltaban unos USD 80,000. El comisionado de parques, que tenía dos hijos en Poly, le ofreció 25 acres en 92nd St y 7th Ave, y el colegio sigue ahí, al lado de la cancha.",
+          "source": "https://en.wikipedia.org/wiki/Dyker_Beach_Park_and_Golf_Course",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Una calle que desapareció",
+          "text": "Las ampliaciones del parque borraron calles del mapa entre la 86 y la 92, como De Russy Street, trazada en la década de 1870. En 2008 la ciudad le puso ese nombre a la rotonda de entrada del clubhouse.",
+          "source": "https://en.wikipedia.org/wiki/Dyker_Beach_Park_and_Golf_Course",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "yemen-cafe-bay-ridge": {
+      "history": "Yemen Café abrió a mediados de los años 80 en 176 Atlantic Avenue, en Cobble Hill, y con los años sumó locales en Bay Ridge y en Staten Island. La sucursal de Bay Ridge se mudó en 2021 a 7317 5th Ave. The Infatuation la describe como una institución de la ciudad por su lamb haneeth, cocinado durante horas.\n\nAtlantic Avenue fue el primer corredor árabe de Brooklyn. La comunidad había nacido en Little Syria, sobre Washington Street, en el bajo Manhattan, donde desde la década de 1880 se instalaron inmigrantes de habla árabe de la Siria otomana. Las familias se fueron mudando a Brooklyn Heights, Sunset Park y Bay Ridge, los comercios a Atlantic Avenue, y en los años 40 las rampas del túnel Brooklyn–Battery demolieron lo que quedaba del barrio.\n\nBay Ridge se llamó Yellow Hook hasta 1853 y durante un siglo fue el barrio noruego de Brooklyn. Desde fines del siglo XX llegaron familias de Medio Oriente y el norte de África; hoy es la mayor comunidad árabe-estadounidense de la ciudad y The New York Times lo llamó el corazón de la comunidad árabe de Brooklyn.",
+      "curiosities": [
+        {
+          "title": "De Little Syria a Brooklyn",
+          "text": "Little Syria ocupaba unas cuadras de Washington Street, en el borde sur de lo que después fue el World Trade Center. Después del 11 de septiembre apareció entre los escombros la piedra fundamental de la iglesia maronita St. Joseph's, una de las pocas huellas del barrio.",
+          "source": "https://en.wikipedia.org/wiki/Little_Syria,_Manhattan",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Cafés y delis",
+          "text": "Hay registros de inmigrantes yemeníes en Estados Unidos desde la década de 1890. En Brooklyn, igual que en Chicago y Dearborn, los primeros emprendedores yemeníes fueron dueños de cafés y delis.",
+          "source": "https://en.wikipedia.org/wiki/Yemeni_Americans",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Por qué dejó de llamarse Yellow Hook",
+          "text": "El nombre venía del color del suelo y del holandés hoek (rincón). En 1853 lo cambiaron para no asociarlo con la fiebre amarilla; Bay Ridge lo propuso el horticultor James Weir por la loma con vista a la bahía.",
+          "source": "https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "La ciudad noruega",
+          "text": "En 1971 los 55,000 noruegos de Bay Ridge decían ser la cuarta ciudad noruega del mundo. La 8th Ave todavía tiene el apodo de Lapskaus Boulevard, por un guiso de carne salada, y cada mayo el desfile de Syttende Mai baja por 3rd Ave.",
+          "source": "https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "brooklyn-bridge": {
+      "history": "Cuando abrió, el 24 de mayo de 1883, fue el primer cruce fijo del East River y el puente colgante más largo del mundo: 486 m de luz principal y el tablero a 38.7 m sobre el agua. Lo diseñó John A. Roebling, que no llegó a verlo: en 1869, mientras ubicaba el puente en el muelle de Fulton Ferry, un ferry le aplastó el pie y murió de tétanos 24 días después.\n\nSu hijo Washington Roebling tomó la obra y quedó paralizado por la enfermedad de los cajones, la descompresión que sufrían los obreros que excavaban bajo el río en cámaras de aire comprimido. Dirigió desde su cuarto, mirando con un telescopio, y su esposa Emily Warren Roebling hizo durante 11 años buena parte del trabajo del ingeniero jefe: estudió catenarias, resistencia de materiales y construcción de cables y supervisaba la obra. Fue la primera en cruzarlo, en carruaje y con un gallo como señal de victoria.\n\nLa obra duró 13 años y costó USD 15.5 millones de la época; murieron unas 27 personas. Seis días después de la inauguración, una estampida en la escalera de Brooklyn mató al menos a 12 personas, y el 17 de mayo de 1884 el elefante Jumbo, estrella del circo de P. T. Barnum, encabezó un desfile de 21 elefantes para demostrar que era seguro.",
+      "curiosities": [
+        {
+          "title": "Candados de amor",
+          "text": "La costumbre europea de colgar candados con nombres llegó a la pasarela y se hizo masiva. Como el peso daña el puente, la ciudad los corta periódicamente: los candados duran menos que muchas parejas.",
+          "source": "https://www.atlasobscura.com/places/brooklyn-bridge-love-locks",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Bodegas de vino bajo el puente",
+          "text": "Desde 1876 la ciudad alquiló las bóvedas del anclaje de Manhattan para financiar el mantenimiento. Guardaban vino porque se mantenían a 16 °C todo el año; una se llamaba Blue Grotto por un altar a la Virgen, y en 1978 todavía se leía en una pared: 'Who loveth not wine, women and song, he remaineth a fool his whole life long'.",
+          "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un refugio antinuclear",
+          "text": "Durante la reconstrucción de los años 50 se armó un refugio en uno de los arcos del acceso de Manhattan, con provisiones para un ataque soviético. Las provisiones seguían ahí medio siglo después.",
+          "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "El alambre trucho",
+          "text": "Roebling calculó el reticulado entre seis y ocho veces más fuerte de lo necesario. Un proveedor cambió a escondidas parte del alambre de los cables por uno de peor calidad, y el margen se recalculó en cuatro veces.",
+          "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Granito de Maine",
+          "text": "Las torres miden 85 m y son de piedra caliza, granito y cemento Rosendale. El granito se cortó en la isla de Vinalhaven, en Maine, y llegó a Nueva York en goletas.",
+          "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "dumbo-washington-street-view": {
+      "history": "DUMBO es la sigla de Down Under the Manhattan Bridge Overpass, un nombre que inventaron en 1978 los artistas que se mudaban a los depósitos, convencidos de que un nombre tan feo espantaría a los desarrolladores. Antes fue Fulton Landing, por el muelle del ferry, y Gairville, por Robert Gair, el inmigrante escocés en cuyo edificio de Washington Street se inventó la caja de cartón.\n\nA fines del siglo XIX era un distrito fabril: Benjamin Moore hacía pintura, los Arbuckle procesaban café y azúcar, E.W. Bliss fabricaba maquinaria y Brillo sus esponjas de acero. El distrito histórico incluye los primeros grandes edificios fabriles de hormigón armado de Estados Unidos. Entre 1904 y 1957 el Jay Street Connecting Railroad movía vagones por estas calles hasta las fábricas.\n\nDesde fines de los años 70 llegaron artistas buscando lofts; el desarrollador David Walentas y Two Trees compraron gran parte de los edificios y el barrio pasó de las galerías a las empresas tecnológicas. La esquina de Washington y Water es la foto del Manhattan Bridge, inaugurado en 1909, con el Empire State dentro del arco de su torre.",
+      "curiosities": [
+        {
+          "title": "Rieles entre los adoquines",
+          "text": "El Jay Street Connecting Railroad tenía desvíos que entraban a los edificios y un playón para 120 vagones. Se abandonó en 1959, pero sus rieles siguen a la vista en varias calles del barrio.",
+          "source": "https://en.wikipedia.org/wiki/Dumbo,_Brooklyn",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Miles de objetos bajo la calle",
+          "text": "En 2025 la ciudad terminó una obra de USD 108 millones para rehacer los adoquines de DUMBO y Vinegar Hill. Al levantarlos aparecieron varios miles de objetos, algunos del siglo XVIII.",
+          "source": "https://en.wikipedia.org/wiki/Dumbo,_Brooklyn",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un puente que se inclinaba",
+          "text": "El Manhattan Bridge fue el primer colgante que usó la teoría de la deflexión y un reticulado Warren liviano. El peso desparejo de los trenes del subte que lo cruzan por los costados lo hacía inclinarse, y en 1982 empezó una reconstrucción de fondo.",
+          "source": "https://en.wikipedia.org/wiki/Manhattan_Bridge",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "El siglo XIX a cinco cuadras",
+          "text": "Del otro lado del Manhattan Bridge está Vinegar Hill, un barrio chico que Atlas Obscura describe como una caminata por el siglo XIX sin salir de Brooklyn.",
+          "source": "https://www.atlasobscura.com/places/vinegar-hill",
+          "source_name": "Atlas Obscura"
+        }
+      ]
+    },
+    "nyc-ferry-dumbo-fulton-ferry": {
+      "history": "Desde este punto se cruzaba a Manhattan en velero o en bote de remos ya en 1642. En 1814 empezó el servicio regular de la Fulton Ferry Company y en 1872 había 1,200 cruces por día; las calles que llevaban a los dos muelles se llaman Fulton Street en las dos orillas. Walt Whitman contó uno de esos viajes en el poema de 1856 que después tituló Crossing Brooklyn Ferry.\n\nEl puente de 1883 le quitó pasajeros y el Fulton Ferry dejó de funcionar en 1924. La red de ferries de la ciudad casi desapareció en los años 60 y revivió desde los 80: a este muelle el servicio volvió en 2006, en 2011 empezó la ruta del East River de NY Waterway y en mayo de 2017 pasó a NYC Ferry, la red municipal que opera Hornblower.\n\nAl pie de Old Fulton Street quedan el Eagle Warehouse, que el diario Brooklyn Daily Eagle construyó en 1893, y el amarre de Bargemusic, la sala de conciertos que Olga Bloom armó en 1977 en una barcaza de café de 1899. Desde abril de 2025 sus conciertos se hacen en el Boathouse de Brooklyn Bridge Park.",
+      "curiosities": [
+        {
+          "title": "Una barcaza de café con música de cámara",
+          "text": "La barcaza de 1899 llevaba bolsas de café para el ferrocarril Erie Lackawanna. Para convertirla en sala, Olga Bloom usó paneles, listones de caoba y bancos del viejo ferry de Staten Island American Legion.",
+          "source": "https://www.atlasobscura.com/places/bargemusic",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "El accidente que empezó todo",
+          "text": "El 28 de junio de 1869, parado en el borde de este muelle mientras fijaba la ubicación del puente, John A. Roebling tuvo el pie aplastado por un ferry que llegaba. Le amputaron los dedos, rechazó otros tratamientos y murió de tétanos 24 días después.",
+          "source": "https://en.wikipedia.org/wiki/John_A._Roebling",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Whitman al atardecer",
+          "text": "Crossing Brooklyn Ferry arranca media hora antes de la puesta del sol, en la cubierta de un ferry que va de Manhattan a Brooklyn: el poeta imagina que la gente del futuro va a sentir lo mismo al cruzar el río.",
+          "source": "https://en.wikipedia.org/wiki/Crossing_Brooklyn_Ferry",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "westlight": {
+      "history": "The William Vale abrió en 2016 en North 12th Street y Wythe Avenue, y Westlight ocupa su piso 22. Los bares y restaurantes del hotel los maneja NoHo Hospitality con el chef Andrew Carmellini, ganador del premio James Beard.\n\nLa torre es hija de la rezonificación de 2005, que pasó la costa norte de Williamsburg de uso industrial a residencial en altura. A cuatro cuadras estaba la Brooklyn Eastern District Terminal, abierta en 1870 como Palmer's Dock y hoy convertida en el Marsha P. Johnson State Park, y a una cuadra está el Wythe Hotel, que ocupa una tonelería de 1901 diseñada por Theobald Engelhardt que después fue fábrica textil.\n\nDesde la terraza se ve el skyline de Manhattan del otro lado del río, con la costa de Williamsburg y Greenpoint abajo.",
+      "curiosities": [
+        {
+          "title": "Un hotel en una tonelería",
+          "text": "El Wythe Hotel conserva las vigas de pino amarillo del sur, la mampostería gastada y los rieles metálicos en el techo del lobby del edificio de 1901. La conversión empezó en 2008, cuando en esa esquina casi no había nada.",
+          "source": "https://www.wythehotel.com/about",
+          "source_name": "Wythe Hotel"
+        },
+        {
+          "title": "Pescado ahumado a tres cuadras",
+          "text": "En 30 Gem St, a unos 300 m, sigue Acme Smoked Fish: Harry Brownstein, inmigrante judío ruso, repartía pescado ahumado en carro a principios del siglo XX, abrió su propio ahumadero y hoy la cuarta generación lo maneja. Solo vende al público los viernes.",
+          "source": "https://www.atlasobscura.com/places/acme-smoked-fish",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Donde nació el Monitor",
+          "text": "Frente al hotel, sobre Kent Ave entre North 12th y North 15th, está la ensenada de Bushwick Inlet. En su orilla estaba la Continental Iron Works, que construyó y botó el USS Monitor, el buque de hierro que en 1862 enfrentó al CSS Virginia en la Guerra Civil.",
+          "source": "https://www.atlasobscura.com/places/bushwick-inlet",
+          "source_name": "Atlas Obscura"
+        }
+      ]
+    },
+    "hotel-lexington": {
+      "history": "El Lexington abrió el 15 de octubre de 1929, días antes del crack de Wall Street, y en 1932 ya estaba en ejecución hipotecaria. Lo diseñó el estudio Schultze & Weaver en estilo neorrománico: 27 pisos de ladrillo, piedra caliza y terracota, con retiros escalonados por la ley de zonificación de 1916. Es uno de los hoteles de Terminal City, el conjunto de edificios que creció alrededor de Grand Central.\n\nEn 1937 el comedor del sótano se convirtió en el Hawaiian Room, con palmeras, cielo raso azul y un mural de Carl Koeck; The Wall Street Journal lo describió como la mejor cocina polinesia al este del Pacífico. El grupo indio Tata lo compró en 1981, fue Radisson desde 1999 y en 2011 pasó a la Autograph Collection de Marriott. Es monumento histórico de la ciudad.\n\nUna de las suites del piso 18, donde vivieron Joe DiMaggio y Marilyn Monroe, hoy está decorada con temas de béisbol.",
+      "curiosities": [
+        {
+          "title": "La rejilla de Marilyn",
+          "text": "A cuatro cuadras, en la esquina suroeste de Lexington y 52nd St, se filmó a la 1 de la mañana del 15 de septiembre de 1954 la escena de The Seven Year Itch con el vestido blanco. Fue una movida de prensa: fueron miles de curiosos, el ruido arruinó el sonido y la toma se rehizo en Hollywood. DiMaggio miraba entre el público; semanas después Monroe pidió el divorcio.",
+          "source": "https://www.atlasobscura.com/places/marilyn-monroe-s-subway-grate",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Track 61",
+          "text": "Debajo del Waldorf Astoria, en 49th St y Park Ave, a dos cuadras, hay un andén de Grand Central que según la leyenda usaban los presidentes para entrar sin ser vistos; se dice que Franklin D. Roosevelt lo usaba para ocultar su polio. El vagón que estaba estacionado ahí se llevó en 2020 a un museo ferroviario de Connecticut.",
+          "source": "https://www.atlasobscura.com/places/track-61",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "O'Keeffe en la vereda de enfrente",
+          "text": "Cruzando la 48, 525 Lexington Avenue abrió en 1924 como el Shelton Hotel, citado entonces como el hotel más alto del mundo. Ahí vivieron Alfred Stieglitz y Georgia O'Keeffe; hoy es una residencia estudiantil.",
+          "source": "https://en.wikipedia.org/wiki/525_Lexington_Avenue",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "La primera casa modernista",
+          "text": "En 211 East 48th Street, hacia el este, William Lescaze transformó en 1933–1934 una casa de piedra rojiza en la primera casa modernista de la ciudad. Sus bloques de vidrio fueron los primeros usados en un edificio de Nueva York.",
+          "source": "https://www.atlasobscura.com/places/william-lescaze-townhouse",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Un tablero de ajedrez gigante",
+          "text": "A una cuadra, en 767 Third Avenue, un edificio de oficinas tiene lo que Atlas Obscura describe como el tablero de ajedrez más grande del mundo.",
+          "source": "https://www.atlasobscura.com/places/767-third-avenue",
+          "source_name": "Atlas Obscura"
+        }
+      ]
+    },
+    "javits-expo": {
+      "history": "El Javits Center se construyó entre 1979 y 1986 junto al viejo patio ferroviario de Penn Central, con proyecto de James Ingo Freed, de Pei Cobb Freed & Partners. Es una estructura espacial de vidrio y acero; el hall de entrada, el Crystal Palace, mide 82 por 82 m en planta y 55 m de alto. Reemplazó al New York Coliseum de Columbus Circle y lleva el nombre de Jacob K. Javits, senador por Nueva York, por sugerencia del gobernador Mario Cuomo en 1984.\n\nDurante años quedó aislado: el subte más cercano estaba a 800 m, hasta que en 2015 llegó la extensión de la línea 7. En 2014 el techo nuevo se convirtió en una cubierta verde de sedum de 2.7 hectáreas, la segunda de su tipo en Estados Unidos, y en 2021 una ampliación lo llevó a 310,000 m² cubiertos.\n\nEn marzo de 2020 funcionó como hospital de campaña para COVID-19, y en marzo de 2021, como centro de vacunación, marcó el récord nacional de vacunas aplicadas en un día: hasta 14,000.",
+      "curiosities": [
+        {
+          "title": "La oferta de Trump",
+          "text": "En 1975 Donald Trump compró la opción sobre el patio ferroviario de la calle 30 y propuso levantar ahí el centro de convenciones; ofreció renunciar a sus honorarios si llevaba el nombre de su familia. El centro se hizo, pero con otro nombre.",
+          "source": "https://en.wikipedia.org/wiki/Javits_Center",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un techo con biodiversidad",
+          "text": "La cubierta verde terminada en 2014 se estudió después: los trabajos registraron más biodiversidad, más retención de agua de lluvia y un techo más fresco.",
+          "source": "https://en.wikipedia.org/wiki/Javits_Center",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un Tiny Desk en el techo",
+          "text": "En octubre de 2020, sin poder viajar a Washington por la pandemia, Linda Diaz y su banda tocaron su Tiny Desk Concert de NPR en el techo del Javits: fue el primer concierto sobre el edificio.",
+          "source": "https://en.wikipedia.org/wiki/Javits_Center",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "high-line": {
+      "history": "Desde 1849 los trenes de carga del Hudson River Railroad corrían a nivel de calle por el West Side, entre carros y peatones. Delante de cada tren iba un jinete, el West Side cowboy, agitando una bandera; aun así los choques eran tantos que la 10th y la 11th Ave se ganaron el apodo de Death Avenue. En 1910 se estimaba que sobre la 11th Ave habían muerto 548 personas.\n\nComo parte del West Side Improvement, en 1933 corrió el primer tren sobre un viaducto elevado que se inauguró el 29 de junio de 1934. Pasaba por el medio de las manzanas y entraba a fábricas y depósitos, como la de Nabisco, para cargar y descargar sin tocar la calle. Con los camiones el tráfico cayó; el último tren, en 1980, llevaba tres vagones de pavos congelados.\n\nEn 1999 Joshua David y Robert Hammond fundaron Friends of the High Line para evitar la demolición. El parque, de James Corner Field Operations, Diller Scofidio + Renfro y el paisajista Piet Oudolf, abrió por tramos en 2009, 2011 y 2014, y The Spur se sumó en 2019. Mide 2.33 km y en 2019 recibía 8 millones de visitantes.",
+      "curiosities": [
+        {
+          "title": "La placa de Death Avenue",
+          "text": "En la pared de un edificio de ladrillo de 10th Ave y la calle 29, a una cuadra de The Spur, hay una placa con una foto de época. Recuerda a los cientos de muertos por los trenes de carga de la avenida y se ve desde la vereda de 10th Ave.",
+          "source": "https://www.atlasobscura.com/places/death-avenue-plaque",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "El último tren",
+          "text": "La obra del Javits obligó a desconectar el viaducto de la red durante un año, y en ese tiempo los dos clientes grandes que quedaban se mudaron a Nueva Jersey. El último convoy, en 1980, llevaba pavos congelados.",
+          "source": "https://en.wikipedia.org/wiki/High_Line",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "El parque por acre más caro",
+          "text": "Atlas Obscura cuenta que el viaducto costó el equivalente a más de USD 2,000 millones de hoy y que, ya como parque, es el más caro de la ciudad por acre.",
+          "source": "https://www.atlasobscura.com/places/highline",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Robles de Beuys",
+          "text": "En la calle 22, entre 10th y 11th Ave, hay 23 árboles, cada uno con una piedra de basalto al lado: la continuación en Chelsea de 7000 Oaks, el proyecto del artista alemán Joseph Beuys.",
+          "source": "https://www.atlasobscura.com/places/7000-oaks",
+          "source_name": "Atlas Obscura"
+        }
+      ]
+    },
+    "chelsea-market": {
+      "history": "La manzana entre 9th y 10th Ave y las calles 15 y 16 se llenó de panaderías industriales en la década de 1890. En 1898 varias empresas se fusionaron en la National Biscuit Company, Nabisco, que siguió ampliando el complejo hasta irse a los suburbios en 1958. Son 19 edificios de estructura de madera pesada y fachadas de ladrillo, casi todos del estudio Romeyn & Stever; el del lado de 10th Ave es de los años 30, se construyó junto con la High Line y tenía un desvío ferroviario dentro del propio edificio.\n\nEn esta fábrica se desarrolló la galletita Oreo a comienzos de 1912; la marca se registró el 14 de marzo de ese año y en 2002 esta cuadra de 9th Ave se bautizó ceremonialmente Oreo Way.\n\nDespués de décadas de uso industrial menor, Irwin Cohen lo reconvirtió en los 90 en un pasaje comercial con oficinas arriba, que reutiliza piezas industriales como decoración; el pasaje abrió en 1997. En 2018 Alphabet, la empresa madre de Google, lo compró por más de USD 2,400 millones.",
+      "curiosities": [
+        {
+          "title": "La Oreo fue una copia",
+          "text": "La Oreo nació como imitación de la Hydrox, que la empresa Sunshine lanzó en 1908. La copia vendió tanto más que hoy mucha gente cree que la Hydrox es la imitación; desde 2014 la Oreo es la galletita más vendida del mundo.",
+          "source": "https://en.wikipedia.org/wiki/Oreo",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Croissants a la vista",
+          "text": "En el nivel inferior del mercado, ALF Bakery, del panadero Amadou Ly, de raíces en Senegal y Togo, trabaja detrás de un vidrio: se ve estirar la masa hojaldrada toda la mañana.",
+          "source": "https://www.atlasobscura.com/places/alf-bakery",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Google de los dos lados",
+          "text": "Cruzando 9th Ave, 111 Eighth Avenue (1932), la vieja terminal interior del Port Authority, tiene más superficie que el Empire State. Google la compró en 2010 y, con Chelsea Market, ocupa las dos manzanas.",
+          "source": "https://en.wikipedia.org/wiki/111_Eighth_Avenue",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "moma": {
+      "history": "El museo lo idearon en 1929 Abby Aldrich Rockefeller, Lillie P. Bliss y Mary Quinn Sullivan, conocidas como the Ladies. Abrió el 7 de noviembre de 1929, nueve días después del crack de Wall Street, en oficinas alquiladas del Heckscher Building, en 730 Fifth Avenue, con Alfred H. Barr Jr. como primer director. La primera muestra con préstamos reunió a Van Gogh, Gauguin, Cézanne y Seurat.\n\nEn 1939 se mudó a la calle 53, a un edificio de Philip L. Goodwin y Edward Durell Stone sobre un terreno donado por John D. Rockefeller Jr. En 1953 Philip Johnson rediseñó el jardín, que hoy lleva el nombre de Abby Aldrich Rockefeller. El 15 de abril de 1958 un incendio iniciado por obreros que fumaban destruyó unos Nenúfares de Monet de 5.5 m y mató a un trabajador; los Nenúfares que se ven hoy se compraron poco después como reemplazo.\n\nLa ampliación de Yoshio Taniguchi reabrió en noviembre de 2004 y la de Diller Scofidio + Renfro con Gensler se completó en 2019. En 2024 recibió más de 2.6 millones de visitantes.",
+      "curiosities": [
+        {
+          "title": "Un tanque de agua de resina",
+          "text": "Water Tower, de Rachel Whiteread, es el molde en resina translúcida del interior de un tanque de agua de cedro, montado sobre la estructura de acero típica de las azoteas. Estuvo en un techo del SoHo desde 1998 y hoy está en el MoMA; cambia de color con el clima y de noche casi desaparece.",
+          "source": "https://www.atlasobscura.com/places/water-tower",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Ocho grabados y un dibujo",
+          "text": "La colección del MoMA arrancó con una donación de ocho grabados y un dibujo. Bajo la dirección de Barr creció rápido y en 1936 montó Cubism and Abstract Art.",
+          "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "central-park-rowboats": {
+      "history": "El lago de 8 hectáreas se excavó a mano sobre un terreno pantanoso atravesado por zanjas, y fue lo primero que se abrió de Central Park: en el invierno de 1858 funcionó como pista de patinaje y la mañana de Navidad de ese año llegaron unas 8,000 personas. Los botes aparecieron en los años 1860: había un bote de pasajeros que daba la vuelta al lago parando en varios muelles y también se podía alquilar una góndola con guía.\n\nHacia 1873 o 1874 se terminó en la orilla este un embarcadero victoriano de madera de Calvert Vaux; en 1950 ya no existía. El edificio actual, de ladrillo y piedra caliza, se inauguró en 1954 con una donación de USD 305,000 del financista Carl M. Loeb, y desde entonces alquila botes a remo.\n\nEl lago une la Ramble, la Bethesda Terrace y el Bow Bridge. El Central Park Conservancy terminó en 2010 una restauración de cuatro años de sus orillas y reconstruyó los embarcaderos rústicos con los diseños del siglo XIX en mente.",
+      "curiosities": [
+        {
+          "title": "El puente de hierro",
+          "text": "El Bow Bridge, de Calvert Vaux y Jacob Wrey Mould, se terminó en 1862 y tiene la luz más larga del parque: 27 m. Lo fabricó Janes, Kirtland & Co., la fundición del Bronx que hizo la cúpula del Capitolio en Washington.",
+          "source": "https://en.wikipedia.org/wiki/Bow_Bridge_(Central_Park)",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "La cueva de la Ramble",
+          "text": "Al excavar una bahía del lado norte del lago apareció una cavidad que subía unos 9 m desde el agua. Olmsted y Vaux la disimularon con rocas y le hicieron una escalera de piedra; fue una atracción popular y después se tapó.",
+          "source": "https://www.atlasobscura.com/places/the-ramble-cave-new-york-new-york",
+          "source_name": "Atlas Obscura"
+        },
+        {
+          "title": "Un castillo que fue estación meteorológica",
+          "text": "En la esquina noroeste del lago, sobre Vista Rock, está Belvedere Castle (1869–1871), un capricho sin puertas ni ventanas que se las ganó cuando funcionó como estación meteorológica, entre 1919 y 1960.",
+          "source": "https://en.wikipedia.org/wiki/The_Ramble_and_Lake",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "El pabellón de las damas",
+          "text": "Sobre el promontorio de Hernshead, en la orilla oeste, está el Ladies' Pavilion: Mould lo diseñó en 1871 como refugio de tranvía en Columbus Circle y después lo trasladaron al lago. Lo destrozaron en 1971 y se restauró por completo unos años después.",
+          "source": "https://en.wikipedia.org/wiki/The_Ramble_and_Lake",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "central-park-boathouse": {
+      "history": "El restaurante ocupa el edificio de ladrillo y piedra caliza que se inauguró en 1954 gracias a USD 305,000 que donó el financista Carl M. Loeb, más USD 110,000 de la ciudad. Reemplazó al embarcadero victoriano de Calvert Vaux, terminado hacia 1873, que para 1950 ya había sido demolido.\n\nEn 1983 una renovación de USD 750,000 abrió adentro un restaurante de 40 cubiertos. Dean Poll lo tomó en 2000 y a mediados de la década de 2010 facturaba USD 20 millones por año, pero anunció el cierre en octubre de 2022. La ciudad eligió como operador a Legends Hospitality: después de una renovación de USD 3.25 millones reabrió con servicio limitado en junio de 2023 y por completo en marzo de 2024, ya como The Central Park Boathouse.\n\nEstá en la orilla este del lago, así que mira al oeste: a fin de octubre el sol cae hacia el oeste-suroeste, detrás de los edificios de Central Park West.",
+      "curiosities": [
+        {
+          "title": "De película",
+          "text": "El Boathouse aparece en Cuando Harry conoció a Sally, en la serie Sex and the City y en The Walking Dead: Dead City.",
+          "source": "https://en.wikipedia.org/wiki/The_Ramble_and_Lake",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Góndolas en el lago",
+          "text": "En los años 1860 el lago tenía un bote de pasajeros que hacía un circuito con paradas y también se podía contratar una góndola con guía para un paseo más íntimo.",
+          "source": "https://www.centralparknyc.org/locations/loeb-boathouse",
+          "source_name": "Central Park Conservancy"
+        }
+      ]
+    },
+    "edge-hudson-yards": {
+      "history": "Edge es el mirador triangular que sobresale del piso 100 de 30 Hudson Yards, a 340 m de altura, con piso de vidrio en la punta. Abrió en marzo de 2020. La torre, de Kohn Pedersen Fox, empezó a construirse en diciembre de 2012, fue sede de WarnerMedia y hoy aloja a Warner Bros. Discovery, con estudios de CNN, y a la firma KKR.\n\nTodo Hudson Yards está construido encima de un patio ferroviario en uso: el West Side Yard, 30 vías del LIRR entre las calles 30 y 33 y las avenidas 10 y 12, abierto en 1987 para guardar los trenes que antes volvían vacíos a Long Island. La primera obra fue una plataforma apoyada en pilotes perforados entre las vías; encima, Related Companies y Oxford Properties levantaron torres, el Vessel de Thomas Heatherwick y el centro cultural The Shed.\n\nEl barrio fue durante décadas un borde industrial sin subte: el Javits abrió en 1986 aislado y la línea 7 recién llegó en 2015.",
+      "curiosities": [
+        {
+          "title": "Un piso de vidrio a 340 m",
+          "text": "Según Wikipedia, es el segundo mirador exterior más alto del mundo con piso transparente, después del Cabo Girão Skywalk, en Madeira.",
+          "source": "https://en.wikipedia.org/wiki/30_Hudson_Yards",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Escaleras que suben a ningún lado",
+          "text": "El Vessel tiene 154 tramos de escalera, 2,500 escalones y 80 descansos, inspirados en los pozos escalonados de la India. Cerró varias veces después de una serie de suicidios y reabrió en octubre de 2024 con barreras de vidrio.",
+          "source": "https://en.wikipedia.org/wiki/Vessel_(structure)",
+          "source_name": "Wikipedia"
+        },
+        {
+          "title": "Un techo que se mueve",
+          "text": "The Shed, abierto en abril de 2019, tiene una cáscara exterior retráctil que se corre para cubrir la plaza y crear una sala para grandes montajes, The McCourt.",
+          "source": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "chelsea-piers-golf": {
+      "history": "Chelsea Piers fue, entre 1910 y los años 30, la terminal de los transatlánticos de Manhattan: una fila de edificios con fachadas de granito rosado donde amarraba el Lusitania y adonde llegó el Carpathia con los sobrevivientes del Titanic. El complejo deportivo actual, sobre los muelles 59, 60 y 61, abrió en 1995 e incluye el driving range de varios pisos del Golf Club.",
+      "curiosities": [
+        {
+          "title": "El muelle del Titanic",
+          "text": "El Golf Club está en el Pier 59, el muelle de White Star donde tenía que amarrar el Titanic. En abril de 1912 el Carpathia paró ahí solo para dejar los botes salvavidas y siguió hasta el Pier 54, el de Cunard, donde bajaron los sobrevivientes ante miles de personas.",
+          "source": "https://www.atlasobscura.com/places/pier-54-titanics-destination",
+          "source_name": "Atlas Obscura"
+        }
+      ]
+    },
+    "tanoreen": {
+      "history": "Rawia Bishara abrió Tanoreen en 1998 como un local de diez mesas en Bay Ridge, con la cocina palestina de su infancia en Nazaret, aprendida de su madre. Con los años se sumó su hija Jumana como socia y el restaurante se mudó a un local más grande, hoy en 3rd Ave. Publicó dos libros de cocina, tiene Bib Gourmand de Michelin y la chef fue nominada al James Beard.",
+      "curiosities": [
+        {
+          "title": "Olivas, limones y za'atar",
+          "text": "Rawia Bishara reunió las recetas de su infancia en Nazaret en el libro Olives, Lemons & Za'atar, que el restaurante reeditó ampliado.",
+          "source": "https://www.tanoreen.com/",
+          "source_name": "Tanoreen"
+        }
+      ]
+    },
+    "cecconis-dumbo": {
+      "history": "Cecconi's ocupa parte de Empire Stores, un conjunto de siete depósitos terminado en 1869 y ampliado en 1885 que durante casi un siglo guardó café en grano, azúcar y melaza, hasta quedar abandonado en los años 60. La reconversión conservó muros de esquisto, ruedas de izado de hierro y los conductos por donde bajaba el café; el primer inquilino, West Elm, abrió en agosto de 2016.",
+      "curiosities": []
+    },
+    "pebble-beach-dumbo": {
+      "history": "Pebble Beach es la orilla de canto rodado de la sección Main Street de Brooklyn Bridge Park, entre los dos puentes. El parque, de Michael Van Valkenburgh Associates, se armó sobre la costa industrial que el Port Authority usó para cargas hasta 1983; la primera parte abrió en 2010 y se terminó en diciembre de 2021, con 34 hectáreas a lo largo de 2.1 km.",
+      "curiosities": [
+        {
+          "title": "Un carrusel de Ohio",
+          "text": "A pocos metros, el carrusel de Jane se talló en 1922 para el parque Idora de Youngstown, Ohio. Jane y David Walentas lo compraron en 1984 por USD 385,000, lo restauraron durante 22 años y desde 2011 gira en un pabellón de vidrio de Jean Nouvel.",
+          "source": "https://en.wikipedia.org/wiki/Jane%27s_Carousel",
+          "source_name": "Wikipedia"
+        }
+      ]
+    },
+    "brooklyn-bridge-park-pier-1": {
+      "history": "Pier 1 fue la primera parte de Brooklyn Bridge Park en abrir, en 2010. Los muelles 1 a 6 los construyó la New York Dock Company entre 1956 y 1964 para barcos más grandes; en 1983 el Port Authority terminó con las operaciones de carga y en 1985 vecinos de Fulton Ferry propusieron el parque. La gradería Granite Prospect se armó con granito recuperado del puente de Roosevelt Island.",
+      "curiosities": []
+    },
+    "laser-wolf-brooklyn": {
+      "history": "Laser Wolf es la parrilla israelí del chef Michael Solomonov, que tiene otro local en Filadelfia. En Brooklyn ocupa la terraza de la Hoxton, el hotel que en 2018 trajo la cadena a Estados Unidos con su primer bar en altura. Se sirve como una shipudiya, con brochetas a las brasas y ensaladitas para compartir, frente al skyline de Manhattan.",
+      "curiosities": []
+    },
+    "bar-blondeau": {
+      "history": "Bar Blondeau ocupa la terraza del sexto piso del Wythe Hotel, donde antes estaba The Ides. El edificio es de 1901: fue una tonelería diseñada por el arquitecto de Brooklyn Theobald Engelhardt y después una fábrica de telas especiales, y su conversión en hotel empezó en 2008.",
+      "curiosities": []
+    },
+    "little-island": {
+      "history": "Little Island abrió en 2021 sobre el Pier 55 del Hudson, con diseño de Heatherwick Studio y fondos de Barry Diller y Diane von Fürstenberg. Ocupa casi una hectárea sobre 132 macetas de hormigón, los tulipanes, apoyadas en 280 pilotes; las más altas están a 18.9 m sobre el agua. El proyecto se frenó en 2017 por juicios y se retomó después.",
+      "curiosities": [
+        {
+          "title": "El muelle vecino",
+          "text": "Pegado a Little Island está el Pier 54 de Cunard: ahí desembarcaron en 1912 los sobrevivientes del Titanic que traía el Carpathia, y de ahí zarpó el Lusitania en 1915. Queda el arco oxidado de la entrada con las letras Cunard White Star.",
+          "source": "https://www.atlasobscura.com/places/pier-54-titanics-destination",
+          "source_name": "Atlas Obscura"
+        }
+      ]
+    },
+    "whitney-museum": {
+      "history": "Gertrude Vanderbilt Whitney, escultora y coleccionista, fundó el museo en 1930 para el arte estadounidense, después de años de exponer a artistas poco reconocidos en su Whitney Studio. Entre 1966 y 2014 estuvo en el edificio de Marcel Breuer en Madison Avenue; el edificio actual, de Renzo Piano, abrió el 1 de mayo de 2015 en 99 Gansevoort Street, al pie de la High Line.",
+      "curiosities": []
+    },
+    "bethesda-terrace": {
+      "history": "Calvert Vaux la diseñó con Jacob Wrey Mould, responsable de las tallas de estaciones del año, frutas y pájaros en rampas y balaustradas; se construyó durante la Guerra Civil y la fuente se terminó en 1873. La estatua Angel of the Waters, de Emma Stebbins, es la única obra de arte del parque encargada por sus propios diseñadores y celebra el acueducto del Croton, que trajo agua limpia a la ciudad en 1842.",
+      "curiosities": [
+        {
+          "title": "Un techo de piso",
+          "text": "El techo de la arcada lleva casi 16,000 azulejos encáusticos de Minton, de Stoke-on-Trent, en 49 paneles: es el único techo del mundo hecho con ese tipo de azulejo, pensado para pisos. Se retiraron en 1983 y volvieron restaurados en 2007.",
+          "source": "https://www.centralparknyc.org/locations/bethesda-terrace",
+          "source_name": "Central Park Conservancy"
+        },
+        {
+          "title": "Un ángel con modelo",
+          "text": "Se cree que Emma Stebbins se inspiró en su pareja, la actriz Charlotte Cushman, para la cara del ángel.",
+          "source": "https://www.centralparknyc.org/locations/bethesda-fountain",
+          "source_name": "Central Park Conservancy"
+        }
+      ]
+    },
+    "tavern-on-the-green": {
+      "history": "El edificio fue el corral de las ovejas que pastaban en Sheep Meadow, construido en 1870 con diseño de Calvert Vaux y Jacob Wrey Mould. En 1934 el comisionado Robert Moses sacó las ovejas y lo convirtió en restaurante; cerró en 2009 y reabrió en 2014 después de una renovación millonaria.",
+      "curiosities": []
+    },
+    "summit-one-vanderbilt": {
+      "history": "One Vanderbilt, de Kohn Pedersen Fox para SL Green, abrió en 2020 junto a Grand Central: su aguja llega a 427 m y es el cuarto edificio más alto de la ciudad. Summit ocupa los pisos 91 a 93 con interiores de Snøhetta y la sala espejada Air de Kenzo Digital; los ascensores suben 310 m en menos de 50 segundos. Abrió el 21 de octubre de 2021.",
+      "curiosities": [
+        {
+          "title": "Delfines de terracota",
+          "text": "La torre reemplazó al Vanderbilt Avenue Building de 1902, de Warren and Wetmore. El desarrollador guardó sus delfines y querubines de terracota hasta que la New York Landmarks Conservancy les encontró un nuevo destino.",
+          "source": "https://en.wikipedia.org/wiki/One_Vanderbilt",
+          "source_name": "Wikipedia"
+        }
+      ]
+    }
+  },
+  "blocks": {
+    "2026-10-28#0": {
+      "note": "Aterrizamos a las 09:30 y, entre migraciones y valijas, calculamos salir de la terminal cerca de las 11:00. En la vereda de arribos elegimos: taxi de la fila oficial (lo más simple con valijas) o AirTrain y subte."
+    },
+    "2026-10-28#1": {
+      "note": "Dejamos las valijas (guardado gratis) o hacemos check-in si reservamos Flexy Time, nos cambiamos a ropa de golf y comemos algo en K'Far, el café del lobby. Salimos hacia Dyker Beach a las 12:45.",
+      "from_prev": {
+        "mode": "taxi",
+        "detail": "Opción 1, taxi amarillo de la fila oficial: a Brooklyn va con taxímetro (la tarifa fija de USD 70 rige solo para Manhattan), USD 55–75 antes de propina más USD 2 de acceso al aeropuerto, 40–60 min. Opción 2, AirTrain hasta Jamaica (USD 8.75, se paga al salir con la tarjeta contactless) y subte: [J] de Sutphin Blvd–Archer Av a Broadway Junction y [L] hasta Bedford Av (USD 3.00), 70–80 min en total; de Bedford Av son 580 m a pie por North 7th St hasta la Hoxton. Opción 3, LIRR: no conviene, porque desde Jamaica va a Atlantic Terminal, Penn o Grand Central, lejos de Williamsburg, y habría que sumar otro subte con las valijas.",
+        "minutes": 50,
+        "sights": [
+          {
+            "name": "TWA Flight Center",
+            "text": "Si vamos en AirTrain, al pasar por la Terminal 5 se ve el edificio de Eero Saarinen (1962), con su techo de hormigón en forma de alas; desde 2019 es el TWA Hotel.",
+            "lat": 40.645833,
+            "lng": -73.7775,
+            "source": "https://en.wikipedia.org/wiki/TWA_Flight_Center"
+          },
+          {
+            "name": "Five Points of Observation",
+            "text": "En el [J], que corre elevado sobre Jamaica Ave, los andenes de 111 St, 104 St, Woodhaven Blvd, 75 St y Cypress Hills tienen cabezas gigantes de malla de cobre de Kathleen McCarthy (1990) encastradas en los paravientos: uno se mete adentro y mira la calle a través de sus ojos.",
+            "lat": 40.693891,
+            "lng": -73.851654,
+            "source": "https://new.mta.info/agency/arts-design/collection/five-points-of-observation"
+          },
+          {
+            "name": "El elevado más viejo del subte",
+            "text": "Entre Van Siclen Av y Broadway Junction el [J] corre sobre un tramo de 1885 del Brooklyn Elevated Railroad, la estructura elevada más antigua que sigue en uso en el sistema.",
+            "lat": 40.678037,
+            "lng": -73.891677,
+            "source": "https://en.wikipedia.org/wiki/BMT_Jamaica_Line"
+          },
+          {
+            "name": "Brooklyn, New Morning",
+            "text": "En Broadway Junction, donde combinamos con la [L], está la obra de Al Loving (2001).",
+            "lat": 40.679192,
+            "lng": -73.903354,
+            "source": "https://new.mta.info/agency/arts-design/permanent-art/nyct-brooklyn"
+          },
+          {
+            "name": "Mosaico de Marcel Dzama en Bedford Av",
+            "text": "La estación de la [L] donde bajamos tiene desde 2021 No Less Than Everything Comes Together, de Marcel Dzama. Es la estación más usada de Brooklyn fuera de Downtown en 2015.",
+            "lat": 40.71772,
+            "lng": -73.95756,
+            "source": "https://new.mta.info/agency/arts-design/permanent-art/nyct-brooklyn"
+          }
+        ]
+      }
+    },
+    "2026-10-28#2": {
+      "note": "Llegamos 13:30 para pagar y alquilar palos; salida reservada entre 14:00 y 14:30 con tarifa twilight de 18 hoyos y cortamos en el hoyo 9. Con salida a las 14:00, terminamos cerca de las 16:00 y seguimos a pie hacia Bay Ridge.",
+      "from_prev": {
+        "mode": "taxi",
+        "detail": "Taxi o auto de app desde la Hoxton hasta el clubhouse (86th St y 7th Ave), 35–45 min, normalmente por la BQE y la Gowanus Expressway. En subte: [L] de Bedford Av a Lorimer St, [G] de Metropolitan Av a 4 Av–9 St y [R] hasta 86 St, 65–75 min, más 1.1 km a pie por 86th St hasta el clubhouse.",
+        "minutes": 40,
+        "sights": [
+          {
+            "name": "Brooklyn Heights Promenade",
+            "text": "Si el taxi va por la BQE, pasa por debajo de este paseo peatonal, montado sobre la autopista en el tramo que abrió en 1954.",
+            "lat": 40.697371,
+            "lng": -73.997389,
+            "source": "https://en.wikipedia.org/wiki/Interstate_278"
+          },
+          {
+            "name": "Smith–9 Sts",
+            "text": "Si vamos en subte, el [G] cruza el canal Gowanus por esta estación a 26.7 m sobre la calle, la más alta del subte. La estación tiene una obra de Alyson Shotz (2013) basada en cartas náuticas del Gowanus y Red Hook de 1733–1922.",
+            "lat": 40.674444,
+            "lng": -73.997222,
+            "source": "https://en.wikipedia.org/wiki/Smith%E2%80%93Ninth_Streets_station"
+          },
+          {
+            "name": "Heydays, en 86 St",
+            "text": "El mosaico de Amy Bennett (2011/2021) en el entrepiso de la estación de la [R] muestra casas y vecinos de Bay Ridge: la artista construyó maquetas 3D de las casas, las pintó al óleo y esas pinturas se pasaron a mosaico.",
+            "lat": 40.622811,
+            "lng": -74.028298,
+            "source": "https://new.mta.info/agency/arts-design/collection/heydays"
+          },
+          {
+            "name": "Verrazzano–Narrows Bridge",
+            "text": "Al llegar aparece al suroeste el puente de 1964, que al abrir fue el colgante más largo del mundo. El domingo largamos la maratón en su extremo de Staten Island.",
+            "lat": 40.606389,
+            "lng": -74.045556,
+            "source": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge"
+          }
+        ]
+      }
+    },
+    "2026-10-28#3": {
+      "note": "Comida fuerte del día a las 16:15, antes del pico de la cena: un lamb haneeth para compartir, pan yemení recién horneado y una entrada. Salimos a más tardar 16:55 para llegar al puente antes de la puesta del sol (17:58).",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Del clubhouse (86th St y 7th Ave) hacia el oeste hasta 5th Ave y por 5th Ave hacia el norte hasta la calle 73: 1.9 km. Si no hay piernas: bus B63 por 5th Ave o taxi de 8 min.",
+        "minutes": 26,
+        "km": 1.9,
+        "sights": [
+          {
+            "name": "5th Avenue de Bay Ridge",
+            "text": "Caminamos por el barrio que The New York Times llamó el corazón de la comunidad árabe de Brooklyn: la mayor comunidad árabe-estadounidense de la ciudad, con muchos vecinos musulmanes hacia el norte, del lado de Sunset Park.",
+            "lat": 40.626,
+            "lng": -74.024,
+            "source": "https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn"
+          },
+          {
+            "name": "Bay Ridge Parkway",
+            "text": "Cruzamos la calle 75, que se trazó ancha y arbolada a fines del siglo XIX, cuando se esperaba unir Bay Ridge con Prospect Park por una red de parkways.",
+            "lat": 40.629461,
+            "lng": -74.022405,
+            "source": "https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn"
+          }
+        ]
+      }
+    },
+    "2026-10-28#4": {
+      "note": "Subimos por la rampa de Tillary St y caminamos 1 km por la pasarela hasta la torre de Brooklyn para ver la puesta del sol (17:58) con Lower Manhattan y la bahía enfrente. Si hay luz y ganas, seguimos 250 m hasta la mitad del puente; después volvemos hacia Brooklyn para bajar por la escalera de Washington St.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "A pie 530 m hasta 77 St. [R] de 77 St a Jay St–MetroTech, 12 paradas, unos 30 min. Desde la estación caminamos 650 m hasta la rampa peatonal de Tillary St y Adams St; de ahí, 1 km por la pasarela hasta la torre de Brooklyn.",
+        "minutes": 50,
+        "km": 2.2,
+        "sights": [
+          {
+            "name": "Departures and Arrivals",
+            "text": "En el entrepiso sur de Jay St–MetroTech hay un mural de mosaico de 31 m de Ben Snead (2009). Muestra especies que llegaron a Brooklyn (estornino, gorrión, pez león, cotorra, carpa koi) y un escarabajo tigre local que está desapareciendo.",
+            "lat": 40.693681,
+            "lng": -73.987233,
+            "source": "https://new.mta.info/agency/arts-design/collection/departures-and-arrivals"
+          },
+          {
+            "name": "La torre de Brooklyn",
+            "text": "85 m de piedra caliza y granito cortado en la isla de Vinalhaven, Maine, con los arcos góticos por donde pasa el tránsito. El puente tiene una placa dedicada a Emily Warren Roebling junto a Washington y John Roebling.",
+            "lat": 40.704,
+            "lng": -73.994222,
+            "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+          },
+          {
+            "name": "La bahía al atardecer",
+            "text": "El sol se pone hacia el oeste-suroeste, sobre Nueva Jersey. En esa dirección, sobre la bahía y a unos 4.5 km, está la Estatua de la Libertad; a la derecha, las torres de Lower Manhattan.",
+            "lat": 40.689249,
+            "lng": -74.0445,
+            "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+          },
+          {
+            "name": "Candados de amor",
+            "text": "Si seguimos hasta la mitad del puente, en las barandas aparecen candados con nombres; la ciudad los corta seguido porque dañan la estructura.",
+            "lat": 40.706086,
+            "lng": -73.996864,
+            "source": "https://www.atlasobscura.com/places/brooklyn-bridge-love-locks"
+          }
+        ]
+      }
+    },
+    "2026-10-28#5": {
+      "note": "Bajamos por la escalera de Washington St con el cielo oscureciendo (el crepúsculo termina 18:25) y caminamos por Washington St hasta Water St: la foto del Manhattan Bridge con el Empire State dentro del arco de la torre, ya iluminado.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "De la torre de Brooklyn volvemos 560 m por la pasarela hasta la escalera de Washington St, bajamos y seguimos 260 m por Washington St, entre depósitos de ladrillo, hasta Water St.",
+        "minutes": 12,
+        "km": 0.8,
+        "sights": [
+          {
+            "name": "Escalera de Washington St",
+            "text": "Se renovó en la gran rehabilitación del puente de los años 80 y baja directo a DUMBO.",
+            "lat": 40.70064,
+            "lng": -73.98998,
+            "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+          },
+          {
+            "name": "Rieles entre los adoquines",
+            "text": "En las calles de DUMBO asoman los rieles del Jay Street Connecting Railroad (1904–1957), que llevaba vagones hasta las fábricas; los adoquines se rehicieron en una obra terminada en 2025.",
+            "lat": 40.7025,
+            "lng": -73.9895,
+            "source": "https://en.wikipedia.org/wiki/Dumbo,_Brooklyn"
+          }
+        ]
+      }
+    },
+    "2026-10-28#6": {
+      "note": "Tomamos el ferry de las 19:04 hacia East 34th St, que para en North Williamsburg a las 19:18 según el horario de otoño de días de semana (vigente desde el 14 de septiembre). Pasaje USD 4.50 en la app de NYC Ferry o en la máquina del muelle; si lo perdemos, el siguiente que para en North Williamsburg sale 19:32 y llega 19:52.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Por Water St hasta Main St, bajamos al borde del agua en Pebble Beach, pasamos junto al carrusel de Jane y seguimos por la costanera del parque hasta el muelle de Fulton Ferry, al pie de Old Fulton St: 900 m.",
+        "minutes": 15,
+        "km": 0.9,
+        "sights": [
+          {
+            "name": "Pebble Beach",
+            "text": "La orilla de canto rodado entre los dos puentes: de un lado el Manhattan Bridge casi encima, del otro el Brooklyn Bridge con Lower Manhattan iluminado.",
+            "lat": 40.704383,
+            "lng": -73.990549,
+            "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge_Park"
+          },
+          {
+            "name": "Empire Stores",
+            "text": "Siete depósitos de 1869 y 1885 que guardaban café, azúcar y melaza; la reconversión dejó a la vista las ruedas de izado de hierro y los conductos del café.",
+            "lat": 40.703605,
+            "lng": -73.991648,
+            "source": "https://en.wikipedia.org/wiki/Empire_Stores"
+          },
+          {
+            "name": "Jane's Carousel",
+            "text": "Carrusel de madera tallado en 1922 para un parque de Youngstown, Ohio, con 48 caballos; gira desde 2011 dentro del pabellón de vidrio de Jean Nouvel.",
+            "lat": 40.70442,
+            "lng": -73.99238,
+            "source": "https://en.wikipedia.org/wiki/Jane%27s_Carousel"
+          },
+          {
+            "name": "Eagle Warehouse",
+            "text": "El edificio románico de ocho pisos que el diario Brooklyn Daily Eagle construyó en 1893 sobre Old Fulton St, en el distrito histórico de Fulton Ferry.",
+            "lat": 40.702278,
+            "lng": -73.99349,
+            "source": "https://en.wikipedia.org/wiki/Fulton_Ferry,_Brooklyn"
+          },
+          {
+            "name": "Bargemusic",
+            "text": "En este muelle estuvo amarrada desde 1977 la barcaza de café de 1899 convertida en sala de música de cámara; desde abril de 2025 los conciertos se hacen en el Boathouse del parque.",
+            "lat": 40.703042,
+            "lng": -73.99528,
+            "source": "https://www.atlasobscura.com/places/bargemusic"
+          }
+        ]
+      }
+    },
+    "2026-10-28#7": {
+      "note": "Bajamos en North Williamsburg a las 19:18 y caminamos 10 minutos hasta la Hoxton para bañarnos y cambiarnos (Westlight pide smart casual y es solo para mayores de 21 desde las 18:00: llevamos el pasaporte). Después son 3 minutos hasta The William Vale; terraza del piso 22 con Manhattan iluminado y vuelta caminando.",
+      "from_prev": {
+        "mode": "ferry",
+        "detail": "NYC Ferry, ruta East River, de DUMBO/Fulton Ferry (19:04) a North Williamsburg (19:18), 14 min sin escalas: los viajes que paran en North Williamsburg (servicio A del horario) saltean South Williamsburg. Del muelle de North 6th St son 710 m a pie hasta la Hoxton y 240 m más hasta Westlight.",
+        "minutes": 14,
+        "km": 0.95,
+        "sights": [
+          {
+            "name": "Manhattan Bridge",
+            "text": "El ferry pasa por debajo del puente de 1909, el primer colgante con reticulado Warren liviano; los trenes del subte lo cruzan por los costados del tablero inferior.",
+            "lat": 40.707,
+            "lng": -73.9905,
+            "source": "https://en.wikipedia.org/wiki/Manhattan_Bridge"
+          },
+          {
+            "name": "Brooklyn Navy Yard",
+            "text": "El astillero de la Marina desde 1801, en la bahía de Wallabout: acá se construyeron el Maine, el Arizona y el Missouri, donde Japón firmó la rendición en 1945. En la Segunda Guerra trabajaban 75,000 personas; cerró como base en 1966.",
+            "lat": 40.702563,
+            "lng": -73.96978,
+            "source": "https://www.atlasobscura.com/places/the-brooklyn-navy-yard-brooklyn-new-york"
+          },
+          {
+            "name": "Williamsburg Bridge",
+            "text": "Abrió en 1903 y fue el colgante de luz más larga del mundo hasta 1924. El contrato de los cables lo ganó Washington Roebling, el mismo del Brooklyn Bridge.",
+            "lat": 40.71356,
+            "lng": -73.97197,
+            "source": "https://en.wikipedia.org/wiki/Williamsburg_Bridge"
+          },
+          {
+            "name": "Refinería de Domino",
+            "text": "El edificio de ladrillo de 1882 con la réplica LED del cartel amarillo; la planta refinó azúcar hasta 2004 y hoy es oficinas junto a Domino Park.",
+            "lat": 40.714444,
+            "lng": -73.9675,
+            "source": "https://en.wikipedia.org/wiki/Domino_Sugar_Refinery"
+          },
+          {
+            "name": "Marsha P. Johnson State Park",
+            "text": "El muelle de North 6th St está junto a este parque estatal, levantado en 2007 sobre la vieja terminal ferroviaria Brooklyn Eastern District Terminal.",
+            "lat": 40.721592,
+            "lng": -73.962257,
+            "source": "https://en.wikipedia.org/wiki/Marsha_P._Johnson_State_Park"
+          },
+          {
+            "name": "Bushwick Inlet",
+            "text": "A una cuadra de Westlight, sobre Kent Ave, la ensenada donde la Continental Iron Works construyó y botó el USS Monitor en 1862.",
+            "lat": 40.725071,
+            "lng": -73.959678,
+            "source": "https://www.atlasobscura.com/places/bushwick-inlet"
+          }
+        ]
+      }
+    },
+    "2026-10-29#0": {
+      "note": "Check-out a las 08:30 con todo el equipaje. Pedimos el auto por app desde la habitación unos minutos antes para no esperar en la vereda con las valijas."
+    },
+    "2026-10-29#1": {
+      "note": "Dejamos las valijas en el Lexington, pedimos que las guarden y dejamos anotado el pedido de early check-in (el estándar es a las 16:00). Salimos a las 09:25 hacia Grand Central.",
+      "from_prev": {
+        "mode": "taxi",
+        "detail": "Taxi o auto de app de Wythe Ave al Lexington (Lexington Ave y E 48th St) por el Williamsburg Bridge y la FDR Drive, 30–45 min en hora pico. Con valijas no conviene el subte ([L] hasta 14 St–Union Sq y [6] hasta 51 St, unos 40 min).",
+        "minutes": 40,
+        "sights": [
+          {
+            "name": "Williamsburg Bridge",
+            "text": "Cruzamos el puente de 1903 que trajo a Williamsburg a miles de inmigrantes del Lower East Side; al subir, a la derecha, queda la refinería de Domino.",
+            "lat": 40.71356,
+            "lng": -73.97197,
+            "source": "https://en.wikipedia.org/wiki/Williamsburg_Bridge"
+          },
+          {
+            "name": "525 Lexington Avenue",
+            "text": "Al llegar, cruzando la calle 48, el ex Shelton Hotel (1924), citado entonces como el hotel más alto del mundo; ahí vivieron Alfred Stieglitz y Georgia O'Keeffe.",
+            "lat": 40.755556,
+            "lng": -73.972778,
+            "source": "https://en.wikipedia.org/wiki/525_Lexington_Avenue"
+          }
+        ]
+      }
+    },
+    "2026-10-29#2": {
+      "note": "Turno de las 10:00 para los dos en el dashboard de NYRR: cada uno lleva pasaporte y formulario de confirmación. Retiramos dorsal y remera, recorremos los stands sin apuro y calculamos salir a las 11:30.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "A pie por Lexington Ave hasta la calle 43 y entramos a Grand Central por el Graybar Passage (600 m, 8 min). [7] de Grand Central–42 St a 34 St–Hudson Yards, 3 paradas (5 Av, Times Sq–42 St y 34 St–Hudson Yards), unos 10 min. Salimos por Hudson Blvd y caminamos 440 m hasta la entrada del Javits sobre 11th Ave.",
+        "minutes": 30,
+        "km": 1.0,
+        "sights": [
+          {
+            "name": "Graybar Rats",
+            "text": "En la entrada del Graybar Passage (420 Lexington Ave), los tensores de la marquesina imitan las amarras de un barco y tienen ratas de metal trepando, frenadas por conos como los que se ponen en los barcos. En las rosetas de arriba hay cabezas de ratas que sí llegaron.",
+            "lat": 40.752684,
+            "lng": -73.975902,
+            "source": "https://www.atlasobscura.com/places/graybar-rats"
+          },
+          {
+            "name": "El techo de Grand Central",
+            "text": "En el Main Concourse, las constelaciones están al revés del cielo real. En la esquina noroeste, junto al cangrejo (Cáncer), quedó sin limpiar un rectángulo oscuro para mostrar cómo estaba el techo antes de 1998: la mugre era sobre todo humo de cigarrillo.",
+            "lat": 40.752751,
+            "lng": -73.977219,
+            "source": "https://www.atlasobscura.com/places/grand-central-ceiling-dark-patch"
+          },
+          {
+            "name": "Whispering Gallery",
+            "text": "Si sobran 5 minutos: en el nivel inferior, en el cruce abovedado junto al Oyster Bar, las bóvedas de azulejo Guastavino llevan un susurro de una esquina a la opuesta.",
+            "lat": 40.752726,
+            "lng": -73.977229,
+            "source": "https://www.atlasobscura.com/places/grand-central-terminal-whispering-gallery"
+          },
+          {
+            "name": "I dreamed a world and called it Love",
+            "text": "Sobre la escalera y el entrepiso de la entrada de la calle 42, el mosaico de vidrio espejado de Jim Hodges (2020), con más de 5,000 piezas en más de 70 colores.",
+            "lat": 40.7521,
+            "lng": -73.977,
+            "source": "https://new.mta.info/agency/arts-design/collection/I-dreamed-a-world-and-called-it-Love"
+          },
+          {
+            "name": "Funktional Vibrations",
+            "text": "En 34 St–Hudson Yards, el mosaico de Xenobia Bailey (2015) cuelga sobre la entrada principal y sigue en la cúpula del entrepiso: mandalas sobre fondo azul cobalto, una de las obras más grandes de la colección del subte.",
+            "lat": 40.755839,
+            "lng": -74.001961,
+            "source": "https://new.mta.info/agency/arts-design/collection/funktional-vibrations"
+          },
+          {
+            "name": "Vessel",
+            "text": "A una cuadra de la salida, la escultura de escaleras de Thomas Heatherwick (2019): 154 tramos y 2,500 escalones revestidos de cobre.",
+            "lat": 40.7538,
+            "lng": -74.0022,
+            "source": "https://en.wikipedia.org/wiki/Vessel_(structure)"
+          }
+        ]
+      }
+    },
+    "2026-10-29#3": {
+      "note": "Entramos a la High Line por la calle 34, a 400 m de la Expo, y la caminamos entera hacia el sur hasta la calle 16. A tres días de la maratón es caminata suave: 25–30 minutos sin paradas.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Del Javits por 11th Ave hasta W 34th St y la entrada norte de la High Line, entre 11th y 12th Ave: 420 m.",
+        "minutes": 6,
+        "km": 0.4,
+        "sights": [
+          {
+            "name": "West Side Yard",
+            "text": "La High Line arranca bordeando las 30 vías donde el LIRR guarda trenes desde 1987; Hudson Yards está construido encima de su mitad este.",
+            "lat": 40.754444,
+            "lng": -74.003056,
+            "source": "https://en.wikipedia.org/wiki/West_Side_Yard"
+          }
+        ]
+      }
+    },
+    "2026-10-29#4": {
+      "note": "Almuerzo en la vieja fábrica de Nabisco: tacos de adobada en Los Tacos No. 1 y dan dan noodles en Very Fresh Noodles, uno hace fila y el otro pide. Postre en Fat Witch Bakery y a las 13:50 salimos hacia el subte.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Toda la High Line hacia el sur, de la calle 34 a la 16: 1.9 km por el viaducto (Rail Yards, The Spur en la calle 30 y Tenth Avenue Square en la 17). Bajamos por la escalera o el ascensor de la calle 16, cruzamos 10th Ave y entramos a Chelsea Market por esa puerta: 180 m más.",
+        "minutes": 30,
+        "km": 2.1,
+        "sights": [
+          {
+            "name": "Rail Yards",
+            "text": "El último tramo en abrir (2014) conserva los rieles entre la vegetación. Por acá pasó el último tren en 1980: tres vagones de pavos congelados.",
+            "lat": 40.755,
+            "lng": -74.0043,
+            "source": "https://en.wikipedia.org/wiki/High_Line"
+          },
+          {
+            "name": "The Spur y el Plinth",
+            "text": "El ramal de la calle 30 y 10th Ave (2019) llegaba al correo Morgan; su plaza, el Plinth, exhibe una obra de arte contemporáneo que cambia cada 18 meses.",
+            "lat": 40.7524,
+            "lng": -74.0021,
+            "source": "https://en.wikipedia.org/wiki/High_Line"
+          },
+          {
+            "name": "Placa de Death Avenue",
+            "text": "A una cuadra del Spur, en la pared de 315 10th Ave (calle 29), una placa con foto de época recuerda a los cientos de muertos por los trenes que corrían por la avenida. Se ve desde la vereda.",
+            "lat": 40.751103,
+            "lng": -74.002048,
+            "source": "https://www.atlasobscura.com/places/death-avenue-plaque"
+          },
+          {
+            "name": "Starrett–Lehigh Building",
+            "text": "Hacia el oeste, entre las calles 26 y 27, el depósito de 1931 con franjas de ventanas: tenía un patio ferroviario en planta baja y montacargas que subían camiones enteros a los pisos.",
+            "lat": 40.751667,
+            "lng": -74.006667,
+            "source": "https://en.wikipedia.org/wiki/Starrett%E2%80%93Lehigh_Building"
+          },
+          {
+            "name": "7000 Oaks",
+            "text": "Al cruzar la calle 22, a los lados de la vereda hay 23 árboles, cada uno con una piedra de basalto: la extensión neoyorquina (1988 y 1996) del proyecto de Joseph Beuys en Kassel.",
+            "lat": 40.747231,
+            "lng": -74.00573,
+            "source": "https://www.atlasobscura.com/places/7000-oaks"
+          },
+          {
+            "name": "El ramal de Nabisco",
+            "text": "En la calle 16 se abre un desvío cerrado al público que entraba a la fábrica de Nabisco; los rieles quedaron en su lugar, con plantas entre los durmientes.",
+            "lat": 40.7428,
+            "lng": -74.0072,
+            "source": "https://en.wikipedia.org/wiki/High_Line"
+          }
+        ]
+      }
+    },
+    "2026-10-29#5": {
+      "note": "Entrada con horario para las 14:15 (los jueves el museo abre 10:30–17:30). Lista cerrada: piso 5 (Van Gogh, Picasso, Monet, Frida) y piso 4 (Warhol), y el jardín de esculturas al final. Salimos 15:30 como máximo para llegar a los botes antes de las 16:20.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "Salimos del mercado por 9th Ave y caminamos 330 m hasta 14 St–8 Av. [E] de 14 St–8 Av a 5 Av/53 St, 6 paradas (23 St, 34 St–Penn Station, 42 St–Port Authority, 50 St, 7 Av y 5 Av/53 St), unos 15 min. Salimos por 5th Ave y caminamos 280 m por la calle 53 hasta 11 W 53rd St.",
+        "minutes": 25,
+        "km": 0.6,
+        "sights": [
+          {
+            "name": "Oreo Way",
+            "text": "La cuadra de 9th Ave frente a la puerta del mercado se bautizó así en 2002: en esta fábrica se desarrolló la Oreo en 1912.",
+            "lat": 40.7422,
+            "lng": -74.0046,
+            "source": "https://en.wikipedia.org/wiki/Oreo"
+          },
+          {
+            "name": "111 Eighth Avenue",
+            "text": "La manzana de enfrente es la vieja terminal del Port Authority (1932), con más superficie que el Empire State; hoy es de Google.",
+            "lat": 40.741389,
+            "lng": -74.003056,
+            "source": "https://en.wikipedia.org/wiki/111_Eighth_Avenue"
+          },
+          {
+            "name": "Life Underground",
+            "text": "En los andenes de 14 St–8 Av hay más de 100 figuritas de bronce de Tom Otterness (2001): un cocodrilo que sale de una alcantarilla para morder a un hombre con cabeza de bolsa de plata, obreros con herramientas gigantes, gente que barre monedas.",
+            "lat": 40.739753,
+            "lng": -74.002523,
+            "source": "https://www.atlasobscura.com/places/life-underground"
+          },
+          {
+            "name": "53rd Street Art Stop",
+            "text": "La estación 5 Av/53 St tiene el 53rd Street Art Stop del MoMA (2019) y Subway Riders, de Ralph Fasanella: pasajeros sentados uno al lado del otro, volviendo de noche del trabajo.",
+            "lat": 40.76028,
+            "lng": -73.97556,
+            "source": "https://new.mta.info/agency/arts-design/collection/subway-riders-fasanella"
+          },
+          {
+            "name": "Saint Thomas Church",
+            "text": "En la esquina de 5th Ave y la 53, la iglesia neogótica de Cram y Goodhue (1914). Su coro de hombres y niños sale de la única escuela coral residencial ligada a una iglesia en Estados Unidos.",
+            "lat": 40.760833,
+            "lng": -73.976111,
+            "source": "https://en.wikipedia.org/wiki/Saint_Thomas_Church_(Manhattan)"
+          },
+          {
+            "name": "Paley Park",
+            "text": "A media cuadra al este de 5th Ave, un parquecito de 390 m² con una cascada de 6 m que tapa el ruido de la ciudad, donde antes estaba el Stork Club.",
+            "lat": 40.760345,
+            "lng": -73.975073,
+            "source": "https://www.atlasobscura.com/places/paley-park"
+          }
+        ]
+      }
+    },
+    "2026-10-29#6": {
+      "note": "Una hora de remo (USD 25 el jueves, sin reserva) pasando por debajo del Bow Bridge. El último bote sale cerca de las 17:00: si el MoMA se estira, vamos en taxi para llegar antes de las 16:30.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Por la calle 53 hasta Fifth Ave y por Fifth hacia el norte hasta la calle 59 (620 m). Entramos al parque por Grand Army Plaza, bordeamos el Pond y el Gapstow Bridge y pasamos junto a Wollman Rink hasta el Mall. Recorremos el Literary Walk hasta la Bethesda Terrace, bajamos por la arcada y seguimos por la orilla del lago hasta el Boathouse: 2.8 km, 40 min sin paradas. Taxi: por Madison Ave (Fifth es solo hacia el sur) hasta la calle 72 y 5th Ave, 10–15 min según el tránsito, y 420 m a pie por el camino de la calle 72 hasta el Boathouse.",
+        "minutes": 40,
+        "km": 2.8,
+        "sights": [
+          {
+            "name": "Tiffany & Co.",
+            "text": "En 727 Fifth Avenue, esquina 57, la casa central de Tiffany desde 1940, en un edificio de Cross & Cross. La empresa compró en 1879 el Tiffany Diamond, un diamante amarillo que solo usaron cuatro personas; una fue Audrey Hepburn para promocionar Breakfast at Tiffany's.",
+            "lat": 40.7626,
+            "lng": -73.9738,
+            "source": "https://en.wikipedia.org/wiki/Tiffany_%26_Co."
+          },
+          {
+            "name": "Grand Army Plaza",
+            "text": "El Sherman dorado de Augustus Saint-Gaudens (1903), guiado por una Victoria para la que posó Hettie Anderson, y la fuente Pulitzer con Pomona, frente al Plaza Hotel (1907).",
+            "lat": 40.7645,
+            "lng": -73.9732,
+            "source": "https://www.centralparknyc.org/locations/william-tecumseh-sherman"
+          },
+          {
+            "name": "The Pond y Hallett Nature Sanctuary",
+            "text": "El estanque en U rodea el promontorio que Robert Moses cerró en 1934 como santuario de aves; estuvo vedado al público hasta que en 2016 empezó a abrir con horario. El Gapstow Bridge de piedra es de 1896.",
+            "lat": 40.766509,
+            "lng": -73.974959,
+            "source": "https://www.atlasobscura.com/places/hallett-nature-sanctuary"
+          },
+          {
+            "name": "The Mall y Literary Walk",
+            "text": "El único paseo recto del parque, bajo dos filas de olmos americanos: Olmsted y Vaux lo llamaron un salón de recepción al aire libre. El tramo sur tiene estatuas de escritores y, desde 2020, el Women's Rights Pioneers Monument.",
+            "lat": 40.769799,
+            "lng": -73.97237,
+            "source": "https://www.centralparknyc.org/locations/the-mall-literary-walk"
+          },
+          {
+            "name": "Arcada de Bethesda",
+            "text": "Al bajar por la escalera del Mall pasamos bajo un techo de casi 16,000 azulejos encáusticos de Minton en 49 paneles, restaurados entre 2002 y 2007.",
+            "lat": 40.773746,
+            "lng": -73.971049,
+            "source": "https://www.centralparknyc.org/locations/bethesda-terrace"
+          },
+          {
+            "name": "Angel of the Waters",
+            "text": "La estatua de Emma Stebbins (1873) celebra el agua limpia del acueducto del Croton. La fuente está apagada por una restauración de alrededor de un año que empezó en agosto.",
+            "lat": 40.774326,
+            "lng": -73.970833,
+            "source": "https://www.centralparknyc.org/locations/bethesda-fountain"
+          }
+        ]
+      }
+    },
+    "2026-10-29#7": {
+      "note": "Mesa a las 17:15 junto a la ventana: la ventana se pide en la nota y no está garantizada, y conviene pasar la reserva original de las 16:30 a esta hora. Pedimos burrata con pan rústico grillado (USD 26), Parker House rolls y una copa cada uno mientras se pone el sol a las 17:57.",
+      "from_prev": {
+        "mode": "a pie",
+        "detail": "Del muelle de botes al restaurante, en el mismo edificio.",
+        "minutes": 2,
+        "sights": []
+      }
+    },
+    "2026-10-29#8": {
+      "note": "Solo si quedan piernas: Edge cierra a las 22:00 y la última entrada es a las 21:00. Antes pasamos por el hotel a buscar abrigo; si no hay energía, Summit One Vanderbilt queda a 7 minutos a pie del hotel y abre hasta la medianoche.",
+      "from_prev": {
+        "mode": "subte",
+        "detail": "Del Boathouse salimos del parque hacia 5th Ave y caminamos hasta Lexington Ave y 68th St (1.2 km). [6] de 68 St–Hunter College a 51 St, 2 paradas, y 270 m al hotel. A las 19:30 salimos a pie a Grand Central (600 m), [7] hasta 34 St–Hudson Yards (3 paradas, unos 10 min) y 240 m a pie hasta la entrada de Edge en el nivel 4 de The Shops. Los minutos son desde el hotel.",
+        "minutes": 25,
+        "km": 2.3,
+        "sights": [
+          {
+            "name": "Alice in Wonderland",
+            "text": "A 200 m del Boathouse, en el extremo norte del estanque de los barquitos (Conservatory Water), está Alicia sentada en un hongo gigante. La rodean el Conejo Blanco, el Lirón, el Gato de Cheshire y un Sombrerero que caricaturiza al donante, George Delacorte (1959); está hecha para que los chicos se trepen.",
+            "lat": 40.775051,
+            "lng": -73.96654,
+            "source": "https://www.atlasobscura.com/places/alice-in-wonderland-statue"
+          },
+          {
+            "name": "68 St–Hunter College",
+            "text": "La estación tiene desde 2024 dos obras de Lisa Corinne Davis: Tempestuous Terrain y Liminal Location.",
+            "lat": 40.767878,
+            "lng": -73.964119,
+            "source": "https://new.mta.info/agency/arts-design/permanent-art/nyct-manhattan"
+          },
+          {
+            "name": "La rejilla de Marilyn",
+            "text": "Al salir de 51 St, a una cuadra: en la esquina suroeste de Lexington y 52nd St se filmó en 1954 la escena del vestido blanco de The Seven Year Itch. La rejilla sigue ahí, sin ninguna placa.",
+            "lat": 40.757749,
+            "lng": -73.971466,
+            "source": "https://www.atlasobscura.com/places/marilyn-monroe-s-subway-grate"
+          },
+          {
+            "name": "The Shed",
+            "text": "Junto al Vessel, el centro cultural de Diller Scofidio + Renfro con Rockwell Group (2019), con una cáscara retráctil que se corre para cubrir la plaza.",
+            "lat": 40.753328,
+            "lng": -74.002898,
+            "source": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)"
+          }
+        ]
+      }
+    }
+  },
+  "days": {
+    "2026-10-28": {
+      "context": "Un día de Brooklyn de punta a punta. Dormimos en Williamsburg, la vieja costa industrial del norte: refinerías de azúcar, cervecerías y astilleros que la rezonificación de 2005 convirtió en torres y hoteles. Al mediodía bajamos unos 13 km en línea recta hasta Dyker Heights y Bay Ridge, en la punta donde el Verrazzano cruza a Staten Island (el domingo largamos la maratón sobre ese puente): un barrio primero holandés, después noruego y hoy la mayor comunidad árabe de la ciudad.\n\nA la tarde la [R] nos sube por debajo de 4th Ave hasta Downtown Brooklyn y volvemos al agua: el Brooklyn Bridge al atardecer, los depósitos de DUMBO y el muelle de Fulton Ferry, desde donde se cruza a Manhattan desde 1642. El ferry del East River nos devuelve a Williamsburg pasando bajo dos puentes y frente al Navy Yard. Son unos 7.1 km a pie sin contar los 9 hoyos, y 7.6 km si seguimos hasta la mitad del puente.",
+      "km_walk": 7.1
+    },
+    "2026-10-29": {
+      "context": "Nos mudamos a Manhattan y el día cruza la isla de oeste a este. La Expo y Hudson Yards están en el borde del Hudson, sobre el viejo patio ferroviario del West Side; la High Line baja por el mismo corredor de carga que alimentaba las fábricas de Chelsea hasta la de Nabisco, hoy Chelsea Market. Después el [E] nos lleva por debajo de 8th Ave y de la calle 53 hasta el MoMA. De ahí caminamos por Fifth Avenue, residencial hasta principios del siglo XX y hoy una de las calles comerciales más caras del mundo, hasta Grand Army Plaza, la puerta sureste de Central Park.\n\nEl parque del plan Greensward de Olmsted y Vaux (1858) hace el resto: el Pond, el Mall y la Bethesda Terrace nos dejan en el lago. El hotel queda en Midtown East, en la Terminal City que creció alrededor de Grand Central, y Edge nos devuelve de noche al Hudson Yards de la mañana. Son unos 8.4 km a pie sin contar la Expo ni el museo; con Edge, unos 10 km.",
+      "km_walk": 8.4
+    }
+  }
+}

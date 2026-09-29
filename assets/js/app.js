@@ -282,8 +282,12 @@
     let nowIdx = -1;
     if (today.date === d.date) d.blocks.forEach((b, i) => { if (toMin(b.time) <= today.minutes) nowIdx = i; });
 
+    const seen = {};
     const blocksHtml = d.blocks.map((b, i) => {
       const p = P[b.place];
+      // A place that repeats in the day (the hotel) shows a different curiosity each time.
+      const nth = seen[b.place] = (seen[b.place] ?? -1) + 1;
+      const curio = (p.curiosities || [])[nth];
       const prev = i > 0 ? P[d.blocks[i - 1].place] : null;
       let leg = '';
       if (b.from_prev) {
@@ -310,7 +314,7 @@
             <p class="placeline"><a href="#/lugar/${attr(p.id)}">${esc(p.name)}</a>${rating ? ratingHtml(rating) : ''}${p.price ? `<span class="muted">${esc(p.price)}</span>` : ''}</p>
             ${thumb ? `<img class="thumb" loading="lazy" src="${attr(thumb)}" alt="${attr(p.name)}">` : ''}
             ${b.note ? `<p class="note">${rich(b.note)}</p>` : ''}
-            ${(p.curiosities || []).length ? `<p class="teaser"><span>Curiosidad</span> <strong>${esc(p.curiosities[0].title)}.</strong> ${rich(p.curiosities[0].text)}</p>` : ''}
+            ${curio ? `<p class="teaser"><span>Curiosidad</span> <strong>${esc(curio.title)}.</strong> ${rich(curio.text)}</p>` : ''}
             <div class="actions"><a class="btn primary" href="#/lugar/${attr(p.id)}">Ficha completa</a><a class="btn" href="${attr(gmapsDir(null, p, 'subte'))}" target="_blank" rel="noopener">Cómo llegar desde acá</a></div>
             ${alts ? `<details class="planb"><summary>Plan B · ${(b.alternatives || []).length} ${(b.alternatives || []).length === 1 ? 'opción' : 'opciones'}</summary><ul class="alts">${alts}</ul></details>` : ''}
           </div>
@@ -327,7 +331,7 @@
           <p class="kicker">${esc(weekdayCap(d.date))} ${esc(dateShort(d.date))} · Día ${idx + 1} de ${t.days.length}</p>
           <h1>${esc(d.title)}</h1>
           ${d.lede ? `<p class="lede">${rich(d.lede)}</p>` : ''}
-          ${d.km_walk ? `<p class="daystats"><span>A pie, unos ${esc(d.km_walk)} km en el día</span></p>` : ''}
+          ${d.km_walk ? `<p class="daystats"><span>A pie, unos ${esc(d.km_walk)} km ${d.marathon ? 'además de la carrera' : 'en el día'}</span></p>` : ''}
           ${d.context ? `<div class="context">${String(d.context).split(/\n\n+/).map((x) => `<p>${rich(x)}</p>`).join('')}</div>` : ''}
           ${ph ? `<div class="photo" role="img" aria-label="Foto del día" style="background-image:url('${attr(ph.src)}')"></div><p class="photo-credit">${creditHtml(ph)}</p>` : ''}
         </header>
@@ -646,7 +650,7 @@
     if (p.duration_min) facts.push(['Tiempo', `${p.duration_min >= 60 ? `${Math.floor(p.duration_min / 60)} h${p.duration_min % 60 ? ` ${p.duration_min % 60} min` : ''}` : `${p.duration_min} min`}`]);
     if (p.booking && p.booking.needed) {
       const b = p.booking;
-      facts.push(['Reserva', `${esc(b.needed === 'sí' ? 'Sí' : b.needed === 'no' ? 'No hace falta' : 'Recomendada')}${b.lead ? `, ${esc(b.lead)}` : ''}${b.url ? ` · <a href="${attr(b.url)}" target="_blank" rel="noopener">reservar</a>` : ''}${b.notes ? `<br><span class="small muted">${rich(b.notes)}</span>` : ''}`]);
+      facts.push(['Reserva', `${esc(b.needed === 'sí' ? 'Sí' : b.needed === 'no' ? 'No hace falta' : 'Recomendada')}${b.lead ? `. ${esc(b.lead.charAt(0).toUpperCase() + b.lead.slice(1))}` : ''}${b.url ? ` · <a href="${attr(b.url)}" target="_blank" rel="noopener">reservar</a>` : ''}${b.notes ? `<br><span class="small muted">${rich(b.notes)}</span>` : ''}`]);
     }
     if (p.transit && (p.transit.station || (p.transit.lines || []).length)) {
       const tr = p.transit;
