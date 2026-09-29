@@ -50,6 +50,19 @@ DAYS = {
     },
 }
 
+# The same place under different ids across slices: alias → canonical id.
+ALIASES = {
+    "the-lexington-hotel": "hotel-lexington",
+    "lexington-hotel": "hotel-lexington",
+}
+
+# Commons files reviewed and rejected (hazy, off-topic or under construction).
+PHOTO_BLOCKLIST = {
+    "File:Verrazano Narrows Bridge from Staten Island to Brooklyn, New York (2896539552).jpg",
+    "File:William Vale Hotel Brooklyn NY 2015 06 10 01.jpg",
+    "File:New York High Line West 30th Street (8675159802).jpg",
+}
+
 LINE = r"(?:[1-7ABCDEFGJLMNQRSWZ]|SIR)"
 
 
@@ -80,7 +93,7 @@ def main():
             continue
         data = json.loads(path.read_text())
         for p in data.get("places", []):
-            pid = p["id"]
+            pid = p["id"] = ALIASES.get(p["id"], p["id"])
             if pid in places:
                 # Keep the richer entry, but never lose a photo list.
                 keep, other = (p, places[pid]) if richness(p) > richness(places[pid]) else (places[pid], p)
@@ -89,6 +102,13 @@ def main():
             else:
                 places[pid] = p
         for d in data.get("days", []):
+            for b in d.get("blocks", []):
+                b["place"] = ALIASES.get(b["place"], b["place"])
+                for a in b.get("alternatives") or []:
+                    a["place"] = ALIASES.get(a["place"], a["place"])
+            for r in d.get("reservations", []):
+                if r.get("place"):
+                    r["place"] = ALIASES.get(r["place"], r["place"])
             if d["date"] in days:
                 days[d["date"]]["blocks"] += d.get("blocks", [])
                 days[d["date"]]["tips"] += d.get("tips", [])
@@ -101,6 +121,7 @@ def main():
             marathon.update(data["marathon"])
 
     for p in places.values():
+        p["commons_files"] = [f for f in p.get("commons_files") or [] if f not in PHOTO_BLOCKLIST]
         if p.get("transit", {}).get("notes"):
             p["transit"]["notes"] = bulletize(p["transit"]["notes"])
         for k in ("why", "tip"):

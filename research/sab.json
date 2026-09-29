@@ -1,0 +1,1559 @@
+{
+  "places": [
+    {
+      "id": "trote-suave-central-park",
+      "name": "Central Park, entrada Scholars' Gate (trote suave de la víspera)",
+      "category": "maraton",
+      "neighborhood": "Central Park, Manhattan",
+      "address": "Grand Army Plaza, 5th Ave y E 60th St, New York, NY",
+      "lat": 40.764117,
+      "lng": -73.973608,
+      "coords_source": "https://www.openstreetmap.org/relation/16711715",
+      "hours": "sáb 31-oct: trote sugerido 7:30–8:15, antes de la largada del Dash 5K (8:45)",
+      "hours_source": "https://events.nyrr.org/abbott-dash-to-the-finish-line-5k",
+      "price": "Gratis",
+      "duration_min": 35,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "El Abbott Dash to the Finish Line 5K del mismo sábado está agotado: el shakeout va por nuestra cuenta."
+      },
+      "transit": {
+        "station": "5 Av/59 St",
+        "lines": [
+          "N",
+          "R",
+          "W"
+        ],
+        "walk_min": 2,
+        "notes": "Desde el hotel (Lexington y 48th) son 1.3 km: los hacemos trotando suave por Madison Ave como entrada en calor."
+      },
+      "why": "El trote corto de la víspera suelta las piernas después del viaje. Entramos a Central Park por la esquina sureste, lejos de la llegada del maratón, que está sobre West Drive a la altura de la W 67th St. Salimos temprano para no cruzarnos con el Dash 5K, que termina en esa misma llegada.",
+      "what": [
+        "Ida trotando del hotel a 5th Ave y 60th St (1.3 km).",
+        "Adentro, East Drive hacia el norte unos 5 minutos y vuelta por el mismo camino.",
+        "Cuatro aceleraciones cortas de 15–20 segundos antes de volver.",
+        "Total sugerido: unos 25 minutos muy suaves, alrededor de 4 km contando ida y vuelta desde el hotel."
+      ],
+      "tip": "Salimos 7:30 y a las 8:15 estamos de vuelta: así no nos cruzamos con los corredores del Dash 5K ni con la gente que va a la llegada. Si las piernas piden descanso, lo salteamos sin culpa.",
+      "warnings": [
+        "La zona de llegada del maratón (West Drive y W 67th St, junto a Tavern on the Green) está en armado esa semana: no la usamos para trotar.",
+        "No encontramos el aviso 2026 de cierres del loop del parque: revisar en el lugar."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.centralpark.com/events/nyc-marathon/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Central_Park"
+      },
+      "commons_files": [
+        "File:Central Park td (2019-07-11) 007 - Scholar's Gate.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "grand-central-terminal",
+      "name": "Grand Central Terminal",
+      "category": "paseo",
+      "neighborhood": "Midtown East, Manhattan",
+      "address": "89 E 42nd St, New York, NY 10017",
+      "lat": 40.7526944,
+      "lng": -73.977253,
+      "coords_source": "https://www.openstreetmap.org/way/265947358",
+      "hours": "sáb 31-oct: terminal abierta 5:15–2:00; el Oyster Bar cierra sábados y domingos",
+      "hours_source": "https://www.grandcentralterminal.com/visit/",
+      "price": "Entrada libre. Tour guiado oficial (Walks, 90 min, en inglés) desde USD 35",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.grandcentralterminal.com/guided-tour/",
+        "lead": "",
+        "notes": "El tour de 90 minutos es opcional; con la carrera al día siguiente alcanza con un recorrido propio de 30–45 minutos."
+      },
+      "transit": {
+        "station": "Grand Central–42 St",
+        "lines": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "S"
+        ],
+        "walk_min": 7,
+        "notes": "Desde el hotel son 600 m bajando por Lexington Ave. Entrar por el Graybar Passage (Lexington Ave entre 43rd y 44th St) evita la calle 42."
+      },
+      "why": "La terminal de trenes de Midtown, a 600 m del hotel, con el Main Concourse y su techo celeste: 12 constelaciones en hoja de oro y 2,500 estrellas, 59 de ellas con LED. Entrar es gratis y el recorrido propio entra en 45 minutos, así que es el arranque natural del día.",
+      "what": [
+        "El techo del Main Concourse: el zodíaco está pintado al revés; según la terminal, para dar la perspectiva divina. Buscá el rectángulo oscuro que quedó sin limpiar en la restauración de los años 90.",
+        "El reloj de ópalo sobre el Information Booth, el punto de encuentro clásico; la terminal lo valúa en USD 20 millones o más.",
+        "La Whispering Gallery, frente al Oyster Bar: bajo las bóvedas de azulejo Guastavino, cada uno en una esquina opuesta habla contra la pared y el otro lo escucha.",
+        "La rampa del Oyster Bar, que baja al Dining Concourse; desde ahí sale el ascensor a la cancha de tenis del Annex.",
+        "Bellotas y hojas de roble en lámparas y en el reloj: el símbolo de los Vanderbilt."
+      ],
+      "tip": "Llegamos por Lexington Ave y entramos por el Graybar Passage: el Dash 5K larga a las 8:45 y en 2025 pasó por la calle 42 frente a la terminal. La Whispering Gallery funciona mejor temprano, con poca gente.",
+      "warnings": [
+        "El Grand Central Oyster Bar abre solo de lunes a viernes: el sábado el restaurante está cerrado, pero la rampa y la Whispering Gallery se visitan igual.",
+        "El sábado a la mañana el Dash 5K usa la calle 42 (recorrido 2025): esperá cortes y gente desde las 8:45."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.grandcentralterminal.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.grandcentralterminal.com/guided-tour/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
+      },
+      "commons_files": [
+        "File:Grand Central Terminal main concourse looking west Jan 2025.jpg",
+        "File:Grand Central Terminal ceiling and spot.jpg",
+        "File:Whispering Gallery.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "moma",
+      "name": "The Museum of Modern Art (MoMA)",
+      "category": "museo",
+      "neighborhood": "Midtown, Manhattan",
+      "address": "11 W 53rd St, New York, NY 10019",
+      "lat": 40.761612,
+      "lng": -73.977499,
+      "coords_source": "https://www.openstreetmap.org/way/278346578",
+      "hours": "sáb 31-oct: 10:30–17:30 (9:30–10:30 solo socios y sus invitados)",
+      "hours_source": "https://visit.moma.org/select",
+      "price": "Adultos USD 30; mayores de 65 USD 22; estudiantes USD 17; menores de 16 gratis",
+      "duration_min": 150,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://visit.moma.org/select",
+        "lead": "Comprar online una semana antes, con horario 10:30.",
+        "notes": "El 25 de octubre abre la muestra de Brancusi: el sábado siguiente se espera más público."
+      },
+      "transit": {
+        "station": "5 Av/53 St",
+        "lines": [
+          "E"
+        ],
+        "walk_min": 2,
+        "notes": "Desde Grand Central caminamos 1.3 km por Madison Ave (unos 17 minutos)."
+      },
+      "why": "La colección de arte moderno de la ciudad, con la pintura de 1880–1940 concentrada en el piso 5. El día antes de la carrera conviene ir con una lista cerrada y no recorrer los seis pisos. Desde el 25 de octubre de 2026 exhibe Brancusi: The Artist and His Studio, con préstamos del Centre Pompidou.",
+      "what": [
+        "The Starry Night, Van Gogh (1889): piso 5, sala 501.",
+        "Les Demoiselles d'Avignon, Picasso (1907): piso 5, sala 502.",
+        "Water Lilies, Monet (1914–26), el tríptico de pared entera: sala 515.",
+        "Campbell's Soup Cans, Warhol (1962), 32 lienzos: piso 4, sala 412.",
+        "Self-Portrait with Cropped Hair, Frida Kahlo (1940): figuraba en el piso 5, sala 517; confirmá en la app si sigue colgado."
+      ],
+      "tip": "Entramos 10:30 con la entrada comprada, subimos en ascensor al piso 5, después bajamos al 4 y cerramos en el jardín de esculturas de la planta baja. Brancusi solo si sobran piernas: 2 horas de pie alcanzan.",
+      "warnings": [
+        "Desde el 25 de octubre corre la muestra de Brancusi: esperá salas más llenas que un sábado normal.",
+        "Las salas de colección rotan. La muestra Frida and Diego: The Last Dream terminó el 12 de septiembre de 2026 y el autorretrato de Frida puede estar en otra sala.",
+        "Sábados y domingos de 9:30 a 10:30 el museo es solo para socios."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.4,
+            "scale": 5,
+            "count": 18705,
+            "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d105126-Reviews-The_Museum_of_Modern_Art_MoMA-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "La colección (Van Gogh, Picasso, Warhol) justifica la visita para casi todos.",
+          "La queja más repetida: salas llenas los fines de semana y gente posando para fotos frente a los cuadros más famosos.",
+          "Recomiendan reservar entre 2 y 3 horas."
+        ],
+        "press": [
+          {
+            "outlet": "Time Out New York",
+            "quote": "rarely loaned works from the Centre Pompidou's collection in Paris",
+            "url": "https://www.timeout.com/newyork/news/all-of-the-must-see-art-exhibitions-coming-to-moma-this-fall-090326"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.moma.org/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://visit.moma.org/select",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art"
+      },
+      "commons_files": [
+        "File:NY Moma jardin.JPG",
+        "File:MoMa NY USA 1.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "mei-lai-wah",
+      "name": "Mei Lai Wah Bakery",
+      "category": "comida",
+      "neighborhood": "Chinatown, Manhattan",
+      "address": "41 Mott St, New York, NY 10013",
+      "lat": 40.715135,
+      "lng": -73.998912,
+      "coords_source": "https://www.openstreetmap.org/node/3991220675",
+      "hours": "sáb 31-oct: 8:30–20:00",
+      "hours_source": "https://mlwbakery.com/",
+      "price": "Sin precios publicados online",
+      "duration_min": 15,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Se compra en el mostrador; hay fila en horas pico."
+      },
+      "transit": {
+        "station": "Canal St",
+        "lines": [
+          "6",
+          "J",
+          "Z",
+          "N",
+          "Q",
+          "R",
+          "W"
+        ],
+        "walk_min": 7,
+        "notes": "Salimos a Canal St y bajamos por Mott St."
+      },
+      "why": "Panadería cantonesa abierta en 1968 en Bayard St, que se mudó a 41 Mott St. Es la primera parada del almuerzo: un bollo para probar y seguimos caminando.",
+      "what": [
+        "Pineapple bun relleno de cerdo asado (char siu), el que más se nombra.",
+        "Bollo de cerdo asado al horno, la versión clásica.",
+        "Uno de cada tipo para compartir: quedan tres paradas más."
+      ],
+      "tip": "Pedimos para llevar y comemos en la vereda: la idea es probar, no llenarse. Si la fila da la vuelta, seguimos a Xi'an, que queda a 130 m.",
+      "warnings": [
+        "Se mudó: la dirección correcta es 41 Mott St. Tripadvisor y otras guías todavía muestran 62-64 Bayard St.",
+        "Precios no publicados: tené algo de efectivo a mano."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://mlwbakery.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "xian-famous-foods-chinatown",
+      "name": "Xi'an Famous Foods (Chinatown)",
+      "category": "comida",
+      "neighborhood": "Chinatown, Manhattan",
+      "address": "45 Bayard St, New York, NY 10013",
+      "lat": 40.715127,
+      "lng": -73.997325,
+      "coords_source": "https://www.openstreetmap.org/node/6582979194",
+      "hours": "sáb 31-oct: 11:00–21:00",
+      "hours_source": "https://www.xianfoods.com/locations",
+      "price": "Rango $ según Tripadvisor; la web no publica precios",
+      "duration_min": 30,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Pedido en pantallas táctiles, sin reservas."
+      },
+      "transit": {
+        "station": "Canal St",
+        "lines": [
+          "6",
+          "J",
+          "Z",
+          "N",
+          "Q",
+          "R",
+          "W"
+        ],
+        "walk_min": 8,
+        "notes": "A 130 m de Mei Lai Wah por Bayard St."
+      },
+      "why": "Cadena neoyorquina de cocina de Xi'an, conocida por los fideos cortados a mano. Para la víspera es carbohidrato puro, pero casi todo sale picante por defecto; la web permite pedir cada plato not spicy o least spicy.",
+      "what": [
+        "Fideos cortados a mano con cerdo guisado (N4) o con cerdo zha jiang (N9), pedidos not spicy.",
+        "El plato famoso es el de cordero al comino (N1), picante: mejor dejarlo para después de la carrera.",
+        "Un plato para los dos alcanza como degustación."
+      ],
+      "tip": "Marcamos not spicy en la pantalla: la noche antes de 42 km no queremos sorpresas en el estómago. Es el carbohidrato fuerte del mediodía.",
+      "warnings": [
+        "Casi no hay mesas: está pensado para llevar.",
+        "El picante por defecto es alto; hay que pedir explícitamente sin picante."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.3,
+            "scale": 5,
+            "count": 83,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d10397120-Reviews-Xi_an_Famous_Foods-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Lo más elogiado son los fideos anchos y elásticos hechos a mano.",
+          "El cordero al comino es el plato que más se recomienda.",
+          "Quejas: casi no hay lugar para sentarse y algunos notan cambios en las recetas."
+        ],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "The Chinatown outpost of quick and spicy Chinese spot Xi’an Famous Foods.",
+            "url": "https://www.theinfatuation.com/new-york/reviews/xian-famous-foods-chinatown"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.xianfoods.com/locations",
+        "menu": "https://www.xianfoods.com/menu",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Xi%27an_Famous_Foods"
+      },
+      "commons_files": [
+        "File:Xi'an Famous Foods (11599366755).jpg",
+        "File:06 Pork Hand-pulled Noodles - Xi'an Famous Foods East Village.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "joes-shanghai-chinatown",
+      "name": "Joe's Shanghai (Chinatown)",
+      "category": "comida",
+      "neighborhood": "Chinatown, Manhattan",
+      "address": "46 Bowery, New York, NY 10013",
+      "lat": 40.715682,
+      "lng": -73.996655,
+      "coords_source": "https://www.openstreetmap.org/node/8333736486",
+      "hours": "sáb 31-oct: 11:00–23:00 (dato de un sitio no oficial; el oficial no publica horario)",
+      "hours_source": "https://www.joesshanghainyc.com/",
+      "price": "Sin precios verificados online",
+      "duration_min": 40,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "No encontramos reservas online; se hace fila."
+      },
+      "transit": {
+        "station": "Canal St",
+        "lines": [
+          "6",
+          "J",
+          "Z",
+          "N",
+          "Q",
+          "R",
+          "W"
+        ],
+        "walk_min": 9,
+        "notes": "Sobre el Bowery, a media cuadra de Bayard St."
+      },
+      "why": "Abrió en Flushing en 1994 y en Chinatown en 1995; en diciembre de 2019 dejó Pell St y se mudó a 46 Bowery. Su plato es el xiao long bao (soup dumpling), en dos versiones: cerdo, y cangrejo con cerdo.",
+      "what": [
+        "Soup dumplings de cerdo: se piden apenas uno se sienta, porque se arman al momento.",
+        "La versión de cangrejo con cerdo, para comparar.",
+        "Técnica: morder una punta, pasar el caldo a la cuchara, sorberlo y comer el resto."
+      ],
+      "tip": "Es la parada más pesada del circuito: una canasta para los dos alcanza. Si la espera pasa de 20 minutos, la salteamos y vamos directo a Nom Wah.",
+      "warnings": [
+        "La dirección vieja de Pell St no corresponde: está en 46 Bowery desde diciembre de 2019.",
+        "El horario sale de un sitio no oficial: confirmalo por teléfono (212-233-8888)."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Infatuation",
+            "rating": 7.4,
+            "scale": 10,
+            "url": "https://www.theinfatuation.com/new-york/reviews/joes-shanghai",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "An NYC classic for soup dumplings.",
+            "url": "https://www.theinfatuation.com/new-york/reviews/joes-shanghai"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.joeshanghairestaurants.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "https://www.instagram.com/joesshanghai/",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:Xiao Long Bao at Joe's Shanghai Restaurant in NYC.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "nom-wah-tea-parlor",
+      "name": "Nom Wah Tea Parlor",
+      "category": "comida",
+      "neighborhood": "Chinatown, Manhattan",
+      "address": "13 Doyers St, New York, NY 10013",
+      "lat": 40.714459,
+      "lng": -73.998197,
+      "coords_source": "https://www.openstreetmap.org/node/4284811306",
+      "hours": "sáb 31-oct: 11:00–21:00",
+      "hours_source": "https://www.nomwah.com/chinatown",
+      "price": "Rango $$ según NYC Tourism",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.nomwah.com/chinatown",
+        "lead": "",
+        "notes": "Solo toma reservas por Resy de lunes a jueves, para grupos de 3 a 5: el sábado es por orden de llegada."
+      },
+      "transit": {
+        "station": "Canal St",
+        "lines": [
+          "6",
+          "J",
+          "Z",
+          "N",
+          "Q",
+          "R",
+          "W"
+        ],
+        "walk_min": 9,
+        "notes": "Doyers St es una callecita en codo entre Pell St y el Bowery."
+      },
+      "why": "Casa de dim sum abierta en 1920 en Doyers St. Es la parada sentada del circuito, con té y platos al vapor. La comida recibe notas medias; la sala de diner antiguo es parte del motivo para ir.",
+      "what": [
+        "Ha gow: empanaditas de camarón al vapor.",
+        "The Original egg roll: crepe de huevo rellena de vegetales y pollo.",
+        "Fideos de trigo salteados (pan-fried noodles): buen carbohidrato para la víspera.",
+        "Bollos de cerdo asado al vapor."
+      ],
+      "tip": "Llegamos pasadas las 15:00, cuando baja el pico del almuerzo, y nos anotamos en la puerta. Desde acá la entrada del puente queda a 800 m por Park Row.",
+      "warnings": [
+        "Esperas largas los fines de semana, según las reseñas.",
+        "Reseñas de Tripadvisor y The Infatuation dicen que aceptan efectivo o American Express como única tarjeta: llevá efectivo."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.0,
+            "scale": 5,
+            "count": 1041,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d424363-Reviews-Nom_Wah_Tea_Parlor-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          },
+          {
+            "source": "Infatuation",
+            "rating": 7.5,
+            "scale": 10,
+            "url": "https://www.theinfatuation.com/new-york/reviews/nom-wah-tea-parlor",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Elogian los dumplings al vapor, los fritos crocantes y el precio para ser Manhattan.",
+          "La sala de 1920 con aire de diner es lo que más se destaca.",
+          "Quejas repetidas: esperas largas el fin de semana y atención despareja."
+        ],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "The food is just ok, but it's worth a visit to eat dumplings in a room that feels like a retro diner.",
+            "url": "https://www.theinfatuation.com/new-york/reviews/nom-wah-tea-parlor"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.nomwah.com/chinatown",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nom_Wah_Tea_Parlor"
+      },
+      "commons_files": [
+        "File:Nom Wah Tea Parlor in New York City Chinatown.jpg",
+        "File:Doyers Street Chinatown.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "brooklyn-bridge",
+      "name": "Brooklyn Bridge (paseo peatonal)",
+      "category": "paseo",
+      "neighborhood": "Civic Center, Manhattan, a DUMBO, Brooklyn",
+      "address": "Entrada peatonal en Centre St y Park Row, frente a City Hall Park, New York, NY 10007",
+      "lat": 40.7124569,
+      "lng": -74.0047634,
+      "coords_source": "https://www.openstreetmap.org/way/32922945",
+      "hours": "sáb 31-oct: pasarela abierta las 24 horas",
+      "hours_source": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml",
+      "price": "Gratis",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "Brooklyn Bridge–City Hall",
+        "lines": [
+          "4",
+          "5",
+          "6"
+        ],
+        "walk_min": 2,
+        "notes": "También Chambers St (J, Z). Desde Nom Wah son 800 m por Chatham Square y Park Row."
+      },
+      "why": "Puente colgante inaugurado en 1883, con la pasarela peatonal por encima del tránsito. Desde la entrada de Centre St hasta la escalera de Washington St en DUMBO son 1.8 km (medido sobre OpenStreetMap): 30–45 minutos con fotos. En 2026 la ciudad separó las entradas de peatones y de bicicletas del lado de Manhattan.",
+      "what": [
+        "Las dos torres de piedra con arcos góticos; la del lado de Manhattan es la primera parada para fotos.",
+        "Hacia el sur, Lower Manhattan; hacia el norte, el Manhattan Bridge.",
+        "La bajada por la escalera de Washington St y Prospect St, que deja directo en DUMBO.",
+        "La bicisenda va por la calzada desde 2021: la pasarela queda para peatones."
+      ],
+      "tip": "Cruzamos hacia Brooklyn a eso de las 16:00, con luz de tarde y antes del pico del atardecer. Bajamos por la escalera de Washington St en lugar de seguir hasta Tillary St: ahorra unos 450 m.",
+      "warnings": [
+        "Muy lleno los sábados a la tarde y al atardecer: se camina lento.",
+        "Viento fuerte a mitad del cruce y sin reparo: llevar una capa extra."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.7,
+            "scale": 5,
+            "count": 26396,
+            "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d102741-Reviews-Brooklyn_Bridge-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Las vistas del skyline, sobre todo al atardecer, son lo más elogiado.",
+          "La queja casi universal es la multitud al mediodía y al atardecer.",
+          "Avisan del viento a mitad del cruce y de la falta de sombra; el cruce lleva 30–45 minutos."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+      },
+      "commons_files": [
+        "File:Brooklyn Bridge as viewed from pedestrian walkway.jpg",
+        "File:Brooklyn Bridge Manhattan.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "dumbo-washington-street-view",
+      "name": "Washington St y Water St (vista al Manhattan Bridge)",
+      "category": "mirador",
+      "neighborhood": "DUMBO, Brooklyn",
+      "address": "Washington St y Water St, Brooklyn, NY 11201",
+      "lat": 40.7032012,
+      "lng": -73.98958,
+      "coords_source": "https://www.openstreetmap.org/node/42469336",
+      "hours": "Calle pública, sin horario",
+      "hours_source": "",
+      "price": "Gratis",
+      "duration_min": 15,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "York St",
+        "lines": [
+          "F"
+        ],
+        "walk_min": 5,
+        "notes": "Desde la escalera del Brooklyn Bridge (Washington St y Prospect St) son 350 m bajando por Washington St."
+      },
+      "why": "La foto clásica de DUMBO: la calle adoquinada entre depósitos de ladrillo encuadra una torre del Manhattan Bridge, y bajo el arco aparece el Empire State Building. Queda de paso entre la escalera del puente y el parque.",
+      "what": [
+        "Pararse sobre Washington St, a media cuadra de Water St, mirando al norte.",
+        "El Empire State Building dentro del arco de la torre del Manhattan Bridge.",
+        "Empire Stores, el depósito restaurado sobre Water St donde está Cecconi's."
+      ],
+      "tip": "Llegamos antes de las 17:00, con luz, y sacamos la foto desde la vereda o la esquina: en el medio de la calle se juntan grupos y pasan autos.",
+      "warnings": [
+        "Es una calle con tránsito: mucha gente se para en la calzada para la foto."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dumbo,_Brooklyn"
+      },
+      "commons_files": [
+        "File:Manhattan Bridge and Empire State Building from Washington Street, Dumbo, Brooklyn, New York.jpg",
+        "File:Manhattan Bridge view from Washington Street DUMBO Brooklyn Morning 2022.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "pebble-beach-dumbo",
+      "name": "Pebble Beach (Brooklyn Bridge Park, sección Main Street)",
+      "category": "mirador",
+      "neighborhood": "DUMBO, Brooklyn",
+      "address": "Main Street, Brooklyn Bridge Park, Brooklyn, NY 11201",
+      "lat": 40.704383,
+      "lng": -73.990549,
+      "coords_source": "https://www.openstreetmap.org/way/328253995",
+      "hours": "sáb 31-oct: parque abierto 6:00–1:00",
+      "hours_source": "https://brooklynbridgepark.org/places-to-see/main-street/",
+      "price": "Gratis",
+      "duration_min": 15,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "York St",
+        "lines": [
+          "F"
+        ],
+        "walk_min": 8,
+        "notes": "Al pie de Main St, a 200 m de Washington St y Water St."
+      },
+      "why": "Orilla de canto rodado entre los dos puentes, en la sección Main Street del parque (3.5 acres). Desde el borde entran en un solo cuadro el Manhattan Bridge, el Brooklyn Bridge y Lower Manhattan.",
+      "what": [
+        "El Manhattan Bridge visto desde abajo, casi encima.",
+        "El Brooklyn Bridge con Lower Manhattan detrás, hacia el suroeste.",
+        "El pabellón de vidrio de Jane's Carousel, a pocos metros."
+      ],
+      "tip": "Es la parada corta entre Washington St y el carrusel: 10–15 minutos y seguimos hacia Pier 1 para el atardecer.",
+      "warnings": [
+        "Piedras sueltas en la orilla: la víspera de la carrera miramos desde el borde, sin caminar sobre ellas."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://brooklynbridgepark.org/places-to-see/main-street/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Brooklyn_Bridge_Park"
+      },
+      "commons_files": [
+        "File:Brooklyn Bridge and the Lower Manhattan skyline from Pebble Beach, New York.jpg",
+        "File:View of Pebble Beach from Empire Fulton Ferry Park.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "janes-carousel",
+      "name": "Jane's Carousel",
+      "category": "paseo",
+      "neighborhood": "DUMBO, Brooklyn",
+      "address": "Empire Fulton Ferry, Brooklyn Bridge Park (Old Dock St), Brooklyn, NY 11201",
+      "lat": 40.704434,
+      "lng": -73.992385,
+      "coords_source": "https://www.openstreetmap.org/way/223183095",
+      "hours": "sáb 31-oct: 11:00–17:50 (horario de otoño; cerrado lunes y martes)",
+      "hours_source": "https://janescarousel.com/hours/",
+      "price": "USD 4 por vuelta",
+      "duration_min": 15,
+      "booking": {
+        "needed": "no",
+        "url": "https://janescarousel.com/hours/",
+        "lead": "",
+        "notes": "Boleto en el lugar."
+      },
+      "transit": {
+        "station": "York St",
+        "lines": [
+          "F"
+        ],
+        "walk_min": 9,
+        "notes": "También High St (A, C), a 10 minutos."
+      },
+      "why": "Calesita de madera de 1922 con 48 caballos, hecha para un parque de diversiones de Youngstown, Ohio, y restaurada en Brooklyn. Gira dentro de un pabellón de vidrio de Jean Nouvel, abierto en 2011 frente al río.",
+      "what": [
+        "Los caballos tallados por John Zalar y Frank Carretta.",
+        "El órgano Gebrüder Bruder que pone la música.",
+        "El pabellón de vidrio con el Brooklyn Bridge de fondo."
+      ],
+      "tip": "Cierra 17:50: si queremos la vuelta, entramos antes de las 17:25 y después caminamos 650 m hasta Pier 1 para el atardecer de las 17:55.",
+      "warnings": [
+        "La última vuelta es antes de las 17:50, cinco minutos antes de la puesta del sol: no se combina con la luz final."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://janescarousel.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://janescarousel.com/hours/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jane%27s_Carousel"
+      },
+      "commons_files": [
+        "File:Jane's Carousel 2019 (Manhattan Bridge in background).jpg",
+        "File:Janes Carousel glass house BB jeh.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "brooklyn-bridge-park-pier-1",
+      "name": "Brooklyn Bridge Park, Pier 1 (Granite Prospect)",
+      "category": "mirador",
+      "neighborhood": "DUMBO y Brooklyn Heights, Brooklyn",
+      "address": "Pier 1, Brooklyn Bridge Park (entrada por Old Fulton St), Brooklyn, NY 11201",
+      "lat": 40.701995,
+      "lng": -73.997408,
+      "coords_source": "https://www.openstreetmap.org/node/3351167989",
+      "hours": "sáb 31-oct: parque abierto 6:00–1:00; puesta del sol 17:55",
+      "hours_source": "https://brooklynbridgepark.org/places-to-see/pier-1/",
+      "price": "Gratis",
+      "duration_min": 60,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "High St",
+        "lines": [
+          "A",
+          "C"
+        ],
+        "walk_min": 10,
+        "notes": "El muelle del ferry DUMBO/Fulton Ferry queda a 300 m, al pie de Old Fulton St."
+      },
+      "why": "El muelle más grande del parque (9.5 acres) y su punto más alto. El Granite Prospect, una gradería de granito, mira de frente a Lower Manhattan y al puerto: el sol cae detrás del Financial District y después se prenden las luces. Desde 2025 tiene a la entrada un pabellón con baños y agua.",
+      "what": [
+        "Granite Prospect: escalones hechos con más de 300 piezas de granito recuperado del puente de Roosevelt Island; sirven de asiento.",
+        "Puesta del sol a las 17:55; el crepúsculo civil sigue hasta las 18:22.",
+        "Lower Manhattan iluminado de frente y el Brooklyn Bridge a la derecha.",
+        "Pabellón de Pier 1 con baños antes de seguir."
+      ],
+      "tip": "Llegamos 17:25 y nos sentamos en los escalones: es el mejor rato de descanso de piernas del día. A las 18:25 ya está oscuro y caminamos a cenar o al ferry.",
+      "warnings": [
+        "Al atardecer los escalones se llenan: conviene llegar 30 minutos antes.",
+        "De noche sopla viento del río: una capa más."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://brooklynbridgepark.org/places-to-see/pier-1/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Brooklyn_Bridge_Park"
+      },
+      "commons_files": [
+        "File:Brooklyn Bridge Park td (2019-08-23) 063 - Pier 1, Granite Prospect.jpg",
+        "File:Brooklyn Bridge Park td (2019-08-23) 051 - Pier 1, Granite Prospect.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "nyc-ferry-dumbo-fulton-ferry",
+      "name": "NYC Ferry, parada DUMBO/Fulton Ferry (ruta East River)",
+      "category": "transporte",
+      "neighborhood": "DUMBO, Brooklyn",
+      "address": "Fulton Ferry Landing, al pie de Old Fulton St, Brooklyn, NY 11201",
+      "lat": 40.703734,
+      "lng": -73.995836,
+      "coords_source": "https://www.openstreetmap.org/node/1437051166",
+      "hours": "sáb 31-oct (horario de fin de semana de otoño): salidas hacia East 34th St cada 13–15 min; 18:31, 18:44, 18:59, 19:12, 19:27, 19:40, 19:55; última 20:51",
+      "hours_source": "https://www.ferry.nyc/routes-and-schedules/east-river/",
+      "price": "USD 4.00 el viaje (pase de 10 viajes USD 27.50)",
+      "duration_min": 27,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.ferry.nyc/routes-and-schedules/east-river/",
+        "lead": "",
+        "notes": "Comprar el pasaje en la app NYC Ferry antes de llegar al muelle."
+      },
+      "transit": {
+        "station": "High St",
+        "lines": [
+          "A",
+          "C"
+        ],
+        "walk_min": 10,
+        "notes": "En Manhattan baja en East 34th St, junto al FDR Drive: al hotel quedan 1.6 km, mejor en taxi."
+      },
+      "why": "El ferry público de la ciudad. En la ruta East River, de DUMBO a East 34th St se tarda 26–27 minutos, con escalas alternadas por South Williamsburg y Greenpoint o por North Williamsburg y Hunters Point South. Evita volver caminando el puente y muestra Manhattan iluminado desde el agua.",
+      "what": [
+        "Sentarse del lado izquierdo o salir a la cubierta: al subir por el East River, Manhattan queda a la izquierda.",
+        "Pasa por debajo del Manhattan Bridge y del Williamsburg Bridge.",
+        "Cerca del atardecer: el de 18:31 (vía South Williamsburg y Greenpoint) llega 18:57; el de 18:44 (vía North Williamsburg y Hunters Point South) llega 19:11."
+      ],
+      "tip": "Tomamos el de 18:31 o el de 18:44, con el crepúsculo terminado (18:22) y la ciudad ya prendida. En East 34th St pedimos taxi o Uber al hotel: son 1.6 km que no queremos caminar.",
+      "warnings": [
+        "El PDF del horario de otoño lista el 31 de octubre como modified weekend schedule, sin detalle: revisar la app esa semana.",
+        "Última salida hacia East 34th St desde DUMBO: 20:51 en el horario de fin de semana de otoño.",
+        "El muelle de East 34th St queda lejos del subte."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.ferry.nyc/routes-and-schedules/east-river/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/List_of_NYC_Ferry_stops"
+      },
+      "commons_files": [
+        "File:NYC Ferry DUMBO.jpg",
+        "File:East 34th Street Ferry Landing.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "village-halloween-parade",
+      "name": "Village Halloween Parade (53.ª edición)",
+      "category": "show",
+      "neighborhood": "SoHo, Greenwich Village y Chelsea, Manhattan",
+      "address": "6th Ave, de King St a W 15th St, New York, NY",
+      "lat": 40.7281435,
+      "lng": -74.0029583,
+      "coords_source": "https://www.openstreetmap.org/node/3891963915",
+      "hours": "sáb 31-oct: 19:00 a 23:00 aprox.; formación en Canal St y 6th Ave desde 18:30",
+      "hours_source": "https://halloween-nyc.com/watch/",
+      "price": "Gratis para mirar; hay entradas pagas para zonas VIP",
+      "duration_min": 40,
+      "booking": {
+        "needed": "no",
+        "url": "https://halloween-nyc.com/watch/",
+        "lead": "",
+        "notes": "Sin entrada. Los disfrazados pueden sumarse a marchar desde Canal St entre 18:30 y 21:00."
+      },
+      "transit": {
+        "station": "Houston St",
+        "lines": [
+          "1"
+        ],
+        "walk_min": 4,
+        "notes": "Lado oeste del tramo sur. Lado este: Spring St (6) y 800 m por Prince St. Tramo norte: 14 St–Union Sq (4, 5, 6, L, N, Q, R, W) y 750 m a pie. En 2025 la C y la E no pararon en Spring St hacia el sur de 17:00 a 22:00."
+      },
+      "why": "Desfile nocturno de disfraces por la 6th Ave, de King St a la calle 15, desde las 19:00 hasta cerca de las 23:00. El tema 2026 es Body & Soul, con marionetas gigantes Firehorse de Basil Twist. CBS calcula unos 2 millones de espectadores y 80,000 participantes.",
+      "what": [
+        "La cabecera, con marionetas gigantes y bandas, que pasa primero por el tramo sur.",
+        "Más de 50 bandas, bailarines y artistas, según Time Out.",
+        "El público también va disfrazado: la vereda es parte del espectáculo."
+      ],
+      "tip": "Elegimos el lado de la 6th Ave según la estación de vuelta y no cruzamos más: con el desfile en marcha, cruzar es lentísimo. Según organizadores y reseñas, los tramos menos llenos son King St–Houston y 14th–15th; el peor, Bleecker–14th.",
+      "warnings": [
+        "Salir de la multitud puede llevar 25 minutos o más aunque sea poca distancia, según reseñas de Tripadvisor.",
+        "En 2025 hubo escaleras solo de salida y cierres intermitentes en 14 St/6 Av, W 4 St y Spring St; la MTA publica el esquema 2026 esa semana.",
+        "Se hace con lluvia o viento."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.3,
+            "scale": 5,
+            "count": 57,
+            "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d8820381-Reviews-The_Village_Halloween_Parade-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Todos hablan de multitudes enormes y de llegar temprano para ver algo.",
+          "Recomiendan pararse entre Spring y Houston o entre 14th y 16th, y evitar Bleecker–14th.",
+          "Aconsejan tener pensada la salida: varias bocas de subte cierran durante el desfile."
+        ],
+        "press": [
+          {
+            "outlet": "CBS New York",
+            "quote": "around 2 million spectators and around 80,000 participants",
+            "url": "https://www.cbsnews.com/newyork/news/nyc-halloween-parade-2025-route-map-theme/"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://halloween-nyc.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://halloween-nyc.com/watch/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/New_York%27s_Village_Halloween_Parade"
+      },
+      "commons_files": [
+        "File:Crowd at Manhattan's Village 2025 Halloween Parade on 6th Ave.jpg",
+        "File:2019 Village Halloween Parade - 49376052626.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "rosemarys-midtown",
+      "name": "Rosemary's Midtown",
+      "category": "comida",
+      "neighborhood": "Midtown East, Manhattan",
+      "address": "825 3rd Ave (esquina E 50th St), New York, NY 10022",
+      "lat": 40.755855,
+      "lng": -73.970447,
+      "coords_source": "https://www.openstreetmap.org/node/2613888352",
+      "hours": "sáb 31-oct: brunch 10:00–15:30; cena 16:00–22:00",
+      "hours_source": "https://www.rosemarysnyc.com/location/rosemarys-midtown/",
+      "price": "Pastas USD 19–28 (aglio e olio USD 19, pappardelle bolognesa USD 28); principales USD 19–42",
+      "duration_min": 75,
+      "booking": {
+        "needed": "sí",
+        "url": "https://resy.com/cities/new-york-ny/venues/rosemarys-midtown",
+        "lead": "Reservar ya: es sábado de maratón y de Halloween.",
+        "notes": "También por OpenTable. Mesa a las 19:15 si volvemos en el ferry de 18:31."
+      },
+      "transit": {
+        "station": "51 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 3,
+        "notes": "A 300 m del hotel: de Lexington y 48th a 3rd Ave y 50th."
+      },
+      "why": "Sucursal de Midtown de la trattoria del West Village, con pastas hechas en casa. Queda a 300 m del hotel, sirve la cena desde las 16:00 y toma reservas: es la forma más simple de cenar pasta temprano y estar en la cama rápido.",
+      "what": [
+        "Spaghetti aglio e olio (USD 19): la pasta más simple de la carta, buena para la víspera.",
+        "Pappardelle con ragú bolognesa (USD 28).",
+        "Cavatelli al pesto con papas y chauchas (USD 24): doble carbohidrato.",
+        "Rigatoni arrabbiata con burrata (USD 24), solo si el picante no preocupa."
+      ],
+      "tip": "Pedimos pasta simple, pan y agua; nada de fritos ni picante. Si volvemos en el ferry de 18:31, la reserva de las 19:15 da justo.",
+      "warnings": [
+        "Sábado de Halloween y maratón: sin reserva puede no haber mesa.",
+        "Tripadvisor tiene solo 8 reseñas: poca base para juzgar."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.8,
+            "scale": 5,
+            "count": 8,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d33161131-Reviews-Rosemary_s_Midtown-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Las pocas reseñas destacan la atención y el ambiente cálido."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.rosemarysnyc.com/location/rosemarys-midtown/",
+        "menu": "https://www.rosemarysnyc.com/midtown-menu/",
+        "reserve": "https://resy.com/cities/new-york-ny/venues/rosemarys-midtown",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "cecconis-dumbo",
+      "name": "Cecconi's Dumbo",
+      "category": "comida",
+      "neighborhood": "DUMBO, Brooklyn",
+      "address": "55 Water St (Empire Stores), Brooklyn, NY 11201",
+      "lat": 40.703618,
+      "lng": -73.991654,
+      "coords_source": "https://www.openstreetmap.org/node/6423386492",
+      "hours": "sáb 31-oct: 11:00–23:00",
+      "hours_source": "https://www.cecconisrestaurants.com/dumbo/",
+      "price": "Pastas USD 32–60 según la carta online (rigatoni bolognesa USD 36, cavatelli con ragú de cordero USD 40); principales USD 26–95",
+      "duration_min": 75,
+      "booking": {
+        "needed": "sí",
+        "url": "https://www.cecconisrestaurants.com/dumbo/",
+        "lead": "Reservar ya para las 18:30.",
+        "notes": "Desde la web (Tock) o al +1 718-650-3900. Pedir mesa con vista a los puentes."
+      },
+      "transit": {
+        "station": "York St",
+        "lines": [
+          "F"
+        ],
+        "walk_min": 7,
+        "notes": "Desde el Granite Prospect de Pier 1 son 670 m; al muelle del ferry, 460 m."
+      },
+      "why": "Italiano del norte dentro de Empire Stores, un depósito restaurado entre los dos puentes, con terraza y vista al skyline. Queda a 670 m del mirador del atardecer: cenamos pasta a las 18:30 sin tomar ningún transporte. Es caro; lo que se paga es la ubicación.",
+      "what": [
+        "Rigatoni bolognesa (USD 36): la pasta más directa de la carta.",
+        "Cavatelli con ragú de cordero (USD 40).",
+        "Ravioles de espinaca y ricota al pomodoro (USD 32).",
+        "Mesa junto a la ventana o en la terraza, mirando los puentes."
+      ],
+      "tip": "Reservamos 18:30 y salimos de Pier 1 a las 18:20, con el cielo todavía azul. A la salida: ferry de 19:55 (llega 20:21 a East 34th St) o cruce del puente a pie.",
+      "warnings": [
+        "The Infatuation lo recomienda más para tragos y vista que por la comida.",
+        "Dos pastas y agua superan USD 70 antes de impuestos y propina."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "The newest location of the international Cecconi’s takeover is in Dumbo, and it’s best used for drinks and views on the patio.",
+            "url": "https://www.theinfatuation.com/new-york/reviews/cecconis-dumbo"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.cecconisrestaurants.com/dumbo/",
+        "menu": "https://www.cecconisrestaurants.com/dumbo/menus/",
+        "reserve": "https://www.exploretock.com/cecconisdumbo",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:Empire Stores March 2023.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "summit-one-vanderbilt",
+      "name": "SUMMIT One Vanderbilt",
+      "category": "mirador",
+      "neighborhood": "Midtown East, Manhattan",
+      "address": "One Vanderbilt Ave, New York, NY 10017",
+      "lat": 40.752837,
+      "lng": -73.978522,
+      "coords_source": "https://www.openstreetmap.org/node/10202468617",
+      "hours": "sáb 31-oct: 8:00–24:00; última entrada 22:30",
+      "hours_source": "https://summitov.com/tickets/",
+      "price": "SUMMIT Experience desde USD 44 online, más USD 3 de cargo por pedido; el precio sube en los turnos del atardecer",
+      "duration_min": 75,
+      "booking": {
+        "needed": "sí",
+        "url": "https://summitov.com/tickets/",
+        "lead": "Los turnos del atardecer se agotan: comprar con varios días si se decide el plan de lluvia.",
+        "notes": "Turno sugerido 17:00 para el atardecer de las 17:55."
+      },
+      "transit": {
+        "station": "Grand Central–42 St",
+        "lines": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "S"
+        ],
+        "walk_min": 2,
+        "notes": "A 700 m del hotel."
+      },
+      "why": "Mirador en lo alto del rascacielos pegado a Grand Central, con salas de espejos y terrazas. Es el plan de lluvia para ver prenderse la ciudad sin cruzar el río, a 700 m del hotel y de Rosemary's.",
+      "what": [
+        "La sala Affinity, con globos plateados.",
+        "Las terrazas exteriores a la hora del atardecer (17:55).",
+        "El Chrysler Building y el Empire State a corta distancia."
+      ],
+      "tip": "Si llueve, cambiamos DUMBO por Summit: turno 17:00, atardecer 17:55 y a las 19:15 estamos cenando en Rosemary's.",
+      "warnings": [
+        "Precio variable: el turno del atardecer cuesta más que el de la mañana.",
+        "Suma una hora de pie: con buen tiempo no lo agregamos al plan."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://summitov.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://summitov.com/tickets/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Vanderbilt"
+      },
+      "commons_files": [
+        "File:SUMMIT One Vanderbilt - Affinity - NYC.jpg",
+        "File:One Vanderbilt 42 Street.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "whitney-museum",
+      "name": "Whitney Museum of American Art",
+      "category": "museo",
+      "neighborhood": "Meatpacking District, Manhattan",
+      "address": "99 Gansevoort St, New York, NY 10014",
+      "lat": 40.739645,
+      "lng": -74.008921,
+      "coords_source": "https://www.openstreetmap.org/way/288749896",
+      "hours": "sáb 31-oct: 10:30–18:00",
+      "hours_source": "https://whitney.org/visit",
+      "price": "Adultos USD 30; la planta baja es gratis",
+      "duration_min": 120,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://whitney.org/visit",
+        "lead": "",
+        "notes": "El museo recomienda comprar online para entrar más rápido."
+      },
+      "transit": {
+        "station": "14 St",
+        "lines": [
+          "A",
+          "C",
+          "E"
+        ],
+        "walk_min": 10,
+        "notes": "También 8 Av (L). Desde MoMA: línea E de 5 Av/53 St a 14 St."
+      },
+      "why": "Museo de arte estadounidense de los siglos XX y XXI, junto al extremo sur de la High Line. Es la alternativa si MoMA no tiene entradas: abre el sábado hasta las 18:00 y se llega en una sola línea de subte desde la puerta de MoMA.",
+      "what": [
+        "Las terrazas exteriores escalonadas, con vista al Hudson y a la High Line.",
+        "La planta baja gratuita: lobby, galería del piso 1, tienda y Frenchette Bakery.",
+        "Las muestras de otoño de los pisos altos (revisar la cartelera antes de ir)."
+      ],
+      "tip": "Si lo cambiamos por MoMA, a Chinatown seguimos con la A, C o E de 14 St a Canal St y 1 km a pie hacia el este.",
+      "warnings": [
+        "La entrada gratis es los viernes a la noche y el segundo domingo del mes: el sábado se paga completa."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://whitney.org/visit",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://whitney.org/visit",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art"
+      },
+      "commons_files": [
+        "File:Whitney Museum of American Art April 2022.jpg",
+        "File:Whitney Museum from west.jpg"
+      ],
+      "checked": "2026-09-28"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-10-31",
+      "blocks": [
+        {
+          "time": "07:30",
+          "place": "trote-suave-central-park",
+          "title": "Trote suave de la víspera (opcional)",
+          "note": "Unos 25 minutos muy suaves y cuatro aceleraciones cortas. Salimos del hotel por Madison Ave, entramos por 5th Ave y 60th St y usamos el lado este del parque. A las 8:15 estamos de vuelta, antes del Dash 5K.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Trotando desde el hotel por Madison Ave hasta 5th Ave y 60th St (1.3 km)",
+            "minutes": 8
+          },
+          "alternatives": []
+        },
+        {
+          "time": "09:15",
+          "place": "grand-central-terminal",
+          "title": "Grand Central: techo, reloj y Whispering Gallery",
+          "note": "Entramos por el Graybar Passage desde Lexington Ave. Main Concourse y reloj, y bajamos por la rampa del Oyster Bar a la Whispering Gallery. El restaurante está cerrado el sábado, pero la galería se visita igual.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Del hotel por Lexington Ave hasta la 43rd St y entrada por el Graybar Passage (600 m)",
+            "minutes": 8
+          },
+          "alternatives": [
+            {
+              "place": "summit-one-vanderbilt",
+              "reason": "otra-opción",
+              "note": "Summit está pegado a la terminal, pero suma una hora de pie. Lo guardamos como plan de lluvia para el atardecer."
+            }
+          ]
+        },
+        {
+          "time": "10:25",
+          "place": "moma",
+          "title": "MoMA con lista cerrada",
+          "note": "Entrada comprada para las 10:30. Piso 5 (Van Gogh, Picasso, Monet, Frida) y piso 4 (Warhol); jardín de esculturas al final y Brancusi solo si sobran piernas. Salimos 12:45 como máximo.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por Madison Ave de la 42nd a la 53rd St y al oeste hasta la puerta (1.3 km)",
+            "minutes": 18
+          },
+          "alternatives": [
+            {
+              "place": "whitney-museum",
+              "reason": "sin-entradas",
+              "note": "Si no hay entradas o la fila es enorme: línea E de 5 Av/53 St a 14 St y 10 minutos a pie. Abre 10:30–18:00, USD 30. La Neue Galerie no sirve: está cerrada hasta el 12 de noviembre."
+            }
+          ]
+        },
+        {
+          "time": "13:20",
+          "place": "mei-lai-wah",
+          "title": "Chinatown 1: bollos de Mei Lai Wah",
+          "note": "Primera parada del almuerzo de carbohidratos: un bollo de cerdo por cabeza. Ojo, está en 41 Mott St, no en Bayard St.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "A pie 900 m hasta la estación 51 St (Lexington Ave), línea 6 hasta Canal St (9 paradas) y 550 m por Mott St",
+            "minutes": 35
+          },
+          "alternatives": []
+        },
+        {
+          "time": "13:40",
+          "place": "xian-famous-foods-chinatown",
+          "title": "Chinatown 2: fideos de Xi'an Famous Foods",
+          "note": "Un plato de fideos cortados a mano para compartir, pedido not spicy. Es la carga de carbohidratos fuerte del mediodía.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por Mott St hasta Bayard St y al este",
+            "minutes": 2
+          },
+          "alternatives": []
+        },
+        {
+          "time": "14:15",
+          "place": "joes-shanghai-chinatown",
+          "title": "Chinatown 3: soup dumplings en Joe's Shanghai",
+          "note": "Una canasta de xiao long bao de cerdo para los dos. Si la espera pasa de 20 minutos, la salteamos.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por Bayard St hasta el Bowery",
+            "minutes": 2
+          },
+          "alternatives": [
+            {
+              "place": "nom-wah-tea-parlor",
+              "reason": "piernas",
+              "note": "Saltear Joe's y sentarse directo en Nom Wah, 250 m al sur: una parada y una fila menos."
+            }
+          ]
+        },
+        {
+          "time": "15:00",
+          "place": "nom-wah-tea-parlor",
+          "title": "Chinatown 4: dim sum sentados en Nom Wah",
+          "note": "Parada sentada: ha gow, egg roll y fideos salteados. Nos anotamos en la puerta al llegar; llevamos efectivo.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por el Bowery hasta Doyers St",
+            "minutes": 4
+          },
+          "alternatives": [
+            {
+              "place": "joes-shanghai-chinatown",
+              "reason": "otra-opción",
+              "note": "Si la fila de Nom Wah es muy larga y en Joe's hay mesa, el almuerzo sentado se hace ahí."
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "place": "brooklyn-bridge",
+          "title": "Cruce del Brooklyn Bridge hacia DUMBO",
+          "note": "Entramos por Centre St y Park Row, frente a City Hall Park. Son 1.8 km hasta la escalera de Washington St; paramos en la primera torre para fotos. Arriba sopla: capa extra.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Chatham Square y Park Row hasta la entrada peatonal (800 m)",
+            "minutes": 10
+          },
+          "alternatives": [
+            {
+              "place": "dumbo-washington-street-view",
+              "reason": "piernas",
+              "note": "Para ahorrar piernas: línea F de East Broadway a York St (1 parada; 900 m a pie hasta la estación desde Nom Wah) y 600 m hasta Washington St. Ahorra unos 1.4 km y el puente se ve igual desde abajo."
+            },
+            {
+              "place": "summit-one-vanderbilt",
+              "reason": "lluvia",
+              "note": "Con lluvia fuerte el cruce pierde la vista: volvemos a Midtown en la línea 6 y vemos prenderse la ciudad desde Summit, turno 17:00."
+            }
+          ]
+        },
+        {
+          "time": "16:45",
+          "place": "dumbo-washington-street-view",
+          "title": "La foto de Washington St",
+          "note": "Bajamos la escalera en Washington St y Prospect St y caminamos 350 m hasta Water St. Foto con el Empire State dentro del arco del Manhattan Bridge, desde la vereda.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Escalera del puente y bajada por Washington St hasta Water St",
+            "minutes": 5
+          },
+          "alternatives": []
+        },
+        {
+          "time": "16:55",
+          "place": "pebble-beach-dumbo",
+          "title": "Pebble Beach entre los dos puentes",
+          "note": "Diez minutos en la orilla: los dos puentes y Lower Manhattan en un solo cuadro. Miramos desde el borde, sin caminar sobre las piedras.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por Water St hasta Main St y al río",
+            "minutes": 3
+          },
+          "alternatives": []
+        },
+        {
+          "time": "17:05",
+          "place": "janes-carousel",
+          "title": "Jane's Carousel (vuelta opcional)",
+          "note": "Calesita de 1922 en el pabellón de vidrio de Jean Nouvel. USD 4 la vuelta; cierra 17:50.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la costanera del parque",
+            "minutes": 3
+          },
+          "alternatives": [
+            {
+              "place": "pebble-beach-dumbo",
+              "reason": "cerrado",
+              "note": "Si hay fila o ya cerró, alcanza con verlo desde afuera y seguir hacia Pier 1."
+            }
+          ]
+        },
+        {
+          "time": "17:25",
+          "place": "brooklyn-bridge-park-pier-1",
+          "title": "Atardecer en el Granite Prospect de Pier 1",
+          "note": "Nos sentamos en los escalones de granito: sol a las 17:55 y crepúsculo hasta las 18:22, con Lower Manhattan prendiéndose de frente. Es el rato de descanso de piernas del día.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Costanera hacia el sur, pasando Fulton Ferry Landing (650 m)",
+            "minutes": 9
+          },
+          "alternatives": [
+            {
+              "place": "summit-one-vanderbilt",
+              "reason": "lluvia",
+              "note": "Si llueve, el atardecer se ve desde Summit (turno 17:00), a 700 m del hotel."
+            }
+          ]
+        },
+        {
+          "time": "18:30",
+          "place": "cecconis-dumbo",
+          "title": "Cena de pasta temprana en Cecconi's",
+          "note": "Reserva 18:30. Pasta simple (rigatoni bolognesa), pan y agua. Pedimos la cuenta a las 19:40.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "De Pier 1 por Old Fulton St y Water St hasta Empire Stores (670 m)",
+            "minutes": 9
+          },
+          "alternatives": [
+            {
+              "place": "rosemarys-midtown",
+              "reason": "piernas",
+              "note": "Versión piernas frescas: ferry de 18:31 a East 34th St, taxi al hotel y cena 19:15 en Rosemary's, a 300 m. Pasta más barata (USD 19–28) y la cama cerca."
+            }
+          ]
+        },
+        {
+          "time": "19:45",
+          "place": "brooklyn-bridge",
+          "title": "Vuelta a Manhattan por el puente iluminado",
+          "note": "El plan original: 1.8 km de puente de noche, con el skyline prendido, más 500 m desde Water St hasta la escalera. Del lado de Manhattan tomamos la línea 6 en Brooklyn Bridge–City Hall.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "De Water St subiendo por Washington St hasta la escalera de Prospect St",
+            "minutes": 7
+          },
+          "alternatives": [
+            {
+              "place": "nyc-ferry-dumbo-fulton-ferry",
+              "reason": "piernas",
+              "note": "Ferry de 19:55 desde el muelle de Old Fulton St: llega 20:21 a East 34th St y de ahí taxi al hotel. Ahorra unos 2.3 km. El desfile queda para la parada corta desde Union Square o para la transmisión de NY1."
+            }
+          ]
+        },
+        {
+          "time": "20:45",
+          "place": "village-halloween-parade",
+          "title": "Desfile de Halloween, tramo sur",
+          "note": "Bajamos en Spring St (línea 6) y caminamos 800 m por Prince St hasta la 6th Ave, lado este, frente a King St. Miramos 30–40 minutos y volvemos por el mismo camino a Spring St: la 6 va directo a 51 St, a tres cuadras del hotel.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "Línea 6 de Brooklyn Bridge–City Hall a Spring St (2 paradas) y 800 m a pie por Prince St",
+            "minutes": 20
+          },
+          "alternatives": []
+        }
+      ],
+      "tips": [
+        "Kilómetros honestos: el plan como está escrito suma unos 16 km a pie (puente ida y vuelta, desfile, subte solo de MoMA a Chinatown y de City Hall a Spring St), más 2.5 horas de pie en MoMA. Si del puente caminamos hasta el desfile son unos 18 km, y si además vamos a pie de MoMA a Chinatown, unos 22 km.",
+        "Versión piernas frescas (unos 12 km): trote de 20 minutos o nada; Grand Central 30 minutos; MoMA 2 horas con la lista; línea 6 a Chinatown y solo tres paradas (Mei Lai Wah, Xi'an y Nom Wah sentados); puente solo de ida; en DUMBO, foto de Washington St y directo a los escalones de Pier 1; ferry de 18:31 o 18:44 a East 34th St y taxi; cena 19:15 en Rosemary's; desfile 30 minutos en la 6th Ave y la calle 15 (línea 6 hasta 14 St–Union Sq y 750 m a pie) o por NY1 desde el hotel.",
+        "Versión mínima (unos 9 km): la de piernas frescas, pero con la línea F de East Broadway a York St en lugar del puente y el desfile por televisión (NY1 lo transmite desde las 20:00).",
+        "El almuerzo en Chinatown es la carga de carbohidratos fuerte: fideos, dumplings y bollos. Pedimos todo sin picante y evitamos lo frito; la cena de pasta completa el día.",
+        "Esa noche se atrasa el reloj: el domingo 1 de noviembre a las 2:00 vuelve a ser la 1:00. Ganamos una hora de sueño; los celulares se ajustan solos, el despertador y el reloj de carrera hay que revisarlos.",
+        "Si el número no está retirado: la Expo del Javits cierra el sábado a las 17:00 y el turno de retiro se elige hasta las 16:00. En ese caso la tarde en DUMBO no entra.",
+        "Pasaje del ferry: comprarlo en la app NYC Ferry antes de llegar al muelle. Efectivo para Nom Wah y Mei Lai Wah.",
+        "Para el río y la noche del desfile, una capa extra en la mochila."
+      ],
+      "reservations": [
+        {
+          "what": "Entradas MoMA, sábado 10:30",
+          "place": "moma",
+          "deadline": "2026-10-24",
+          "url": "https://visit.moma.org/select",
+          "note": "La muestra de Brancusi abre el 25 de octubre: el sábado siguiente va a haber gente."
+        },
+        {
+          "what": "Cena Cecconi's 18:30 (plan original)",
+          "place": "cecconis-dumbo",
+          "deadline": "2026-10-10",
+          "url": "https://www.cecconisrestaurants.com/dumbo/",
+          "note": "Pedir mesa con vista a los puentes."
+        },
+        {
+          "what": "Cena Rosemary's 19:15 (versión piernas frescas)",
+          "place": "rosemarys-midtown",
+          "deadline": "2026-10-10",
+          "url": "https://resy.com/cities/new-york-ny/venues/rosemarys-midtown",
+          "note": "Si reservamos las dos cenas, revisar la política de cancelación y liberar una el mismo sábado según cómo estén las piernas."
+        },
+        {
+          "what": "Summit One Vanderbilt 17:00 (solo si hay pronóstico de lluvia)",
+          "place": "summit-one-vanderbilt",
+          "deadline": "2026-10-29",
+          "url": "https://summitov.com/tickets/",
+          "note": "Decidir con el pronóstico del jueves; los turnos del atardecer se agotan."
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "topic": "Village Halloween Parade 2026",
+      "status": "riesgo",
+      "detail": "Confirmado: sábado 31 de octubre, de 19:00 a 23:00 aprox., tema Body & Soul. Recorrido por la 6th Ave de King St a W 15th St; formación en Canal St y 6th Ave entre 18:30 y 21:00. Tramo más lleno: Bleecker–14th; menos lleno: King St–Houston y 14th–15th. CBS calcula unos 2 millones de espectadores. En 2025 la MTA dejó escaleras solo de salida en 14 St/6 Av, W 4 St y Spring St, y la C y la E no pararon en Spring St hacia el sur de 17:00 a 22:00 (andén norte solo de salida); el esquema 2026 sale la semana del desfile. Para irse temprano: lado este y línea 6 (Spring St o Union Sq), o lado oeste y línea 1 (Houston St).",
+      "source": "https://halloween-nyc.com/watch/"
+    },
+    {
+      "topic": "MoMA el sábado",
+      "status": "ok",
+      "detail": "Abre 10:30–17:30 (viernes hasta 20:30); sábados y domingos de 9:30 a 10:30 solo socios y sus invitados. Adultos USD 30, mayores de 65 USD 22, estudiantes USD 17. Conviene comprar online con horario. El 25 de octubre abre Brancusi: The Artist and His Studio, así que el 31 habrá más público. La muestra Frida and Diego terminó el 12 de septiembre: confirmar en qué sala está el autorretrato de Frida.",
+      "source": "https://visit.moma.org/select"
+    },
+    {
+      "topic": "Atardecer del 31 de octubre",
+      "status": "ok",
+      "detail": "Puesta del sol a las 17:55 (hora de verano, EDT); crepúsculo civil hasta las 18:22 y náutico hasta las 18:54. El horario de verano termina el domingo 1 de noviembre a las 2:00. Recomendación: estar sentados en Pier 1 entre 17:15 y 17:25 y quedarse hasta 18:25 para ver prenderse Lower Manhattan.",
+      "source": "https://api.sunrise-sunset.org/json?lat=40.7033&lng=-73.9967&date=2026-10-31&tzid=America/New_York"
+    },
+    {
+      "topic": "Abbott Dash to the Finish Line 5K",
+      "status": "cambia-plan",
+      "detail": "Es el sábado 31 de octubre a las 8:45 y termina en la llegada del maratón en Central Park, pero está agotado: la inscripción 2026 cerró. Según NYRR, en 2025 largó junto a la ONU (1st Ave y 44th St) y pasó por la calle 42 frente a Grand Central antes de subir por la 6th Ave; por eso entramos a Grand Central por Lexington. El shakeout lo hacemos por nuestra cuenta.",
+      "source": "https://events.nyrr.org/abbott-dash-to-the-finish-line-5k"
+    },
+    {
+      "topic": "Central Park y shakeout",
+      "status": "riesgo",
+      "detail": "La llegada del maratón está sobre West Drive a la altura de la W 67th St (Tavern on the Green) y esa semana está en armado; no encontramos el aviso 2026 de cierres del loop. Sugerencia para los dos: unos 25 minutos muy suaves (4 km) entre 7:30 y 8:15, entrando por 5th Ave y 60th St y usando el lado este, lejos de la llegada y antes del Dash 5K. En 2025 hubo shakeouts gratuitos de clubes y marcas (por ejemplo, Central Park Run Club en Loeb Boathouse a las 9:00, según marathon-weekend.com); los de 2026 se anuncian la semana previa.",
+      "source": "https://www.centralpark.com/events/nyc-marathon/"
+    },
+    {
+      "topic": "NYC Ferry desde DUMBO",
+      "status": "riesgo",
+      "detail": "Ruta East River: DUMBO/Fulton Ferry (al pie de Old Fulton St) a East 34th St en 26–27 minutos, con escalas alternadas por South Williamsburg y Greenpoint o por North Williamsburg y Hunters Point South. Sábados de otoño: salidas cada 13–15 minutos; cerca del atardecer 18:31, 18:44 y 18:59; última 20:51. Pasaje USD 4.00. East 34th St queda a 1.6 km del hotel: taxi. Riesgo: el PDF de otoño marca el 31 de octubre como modified weekend schedule, sin detalle; revisar la app esa semana.",
+      "source": "https://www.ferry.nyc/routes-and-schedules/east-river/"
+    },
+    {
+      "topic": "Kilómetros a pie del día",
+      "status": "riesgo",
+      "detail": "Estimación con distancias de OpenStreetMap, factor 1.3 por la grilla y 2.5 km dentro de MoMA. Plan como está escrito (puente ida y vuelta, desfile, subte solo MoMA–Chinatown y City Hall–Spring St): unos 16 km, más el trote. Caminando del puente al desfile: unos 18 km; y yendo también a pie de MoMA a Chinatown: unos 22 km. Versión piernas frescas (ferry, cena cerca del hotel, desfile corto): unos 12 km. Versión mínima (línea F en vez del puente, desfile por TV): unos 9 km.",
+      "source": "https://www.openstreetmap.org/way/32922945"
+    },
+    {
+      "topic": "Neue Galerie como alternativa a MoMA",
+      "status": "cambia-plan",
+      "detail": "Las salas están cerradas por obras hasta el 12 de noviembre de 2026, cuando reabren con la muestra del 25 aniversario (el Café Sabarsky, la librería y la tienda reabren el 1 de octubre). No sirve el 31 de octubre: la alternativa es el Whitney (10:30–18:00, USD 30).",
+      "source": "https://www.neuegalerie.org/visit"
+    },
+    {
+      "topic": "Oyster Bar de Grand Central",
+      "status": "riesgo",
+      "detail": "El restaurante abre de lunes a viernes, 11:30–21:30: el sábado está cerrado. La rampa y la Whispering Gallery son espacios públicos de la terminal (abierta 5:15–2:00) y se visitan igual.",
+      "source": "https://www.oysterbarny.com/"
+    },
+    {
+      "topic": "Direcciones nuevas en Chinatown",
+      "status": "cambia-plan",
+      "detail": "Mei Lai Wah dejó 62 Bayard St y está en 41 Mott St (todos los días 8:30–20:00); Tripadvisor todavía muestra la dirección vieja. Joe's Shanghai tampoco está en Pell St: desde diciembre de 2019 está en 46 Bowery.",
+      "source": "https://mlwbakery.com/"
+    },
+    {
+      "topic": "Expo del maratón, último día",
+      "status": "riesgo",
+      "detail": "La Expo en el Javits Center funciona el sábado 31 de 9:00 a 17:00 y el turno de retiro se elige en el dashboard de NYRR hasta las 16:00 de ese día. Si el número no está retirado antes del sábado, el plan de la tarde no entra.",
+      "source": "https://www.nyrr.org/tcsnycmarathon/raceweek/expo"
+    },
+    {
+      "topic": "Entrada del Brooklyn Bridge en Manhattan",
+      "status": "ok",
+      "detail": "En 2026 la ciudad separó las entradas de peatones y bicicletas desde Centre St y Park Row y duplicó el ancho del cruce peatonal sur hacia City Hall Park. La pasarela está abierta a toda hora. Del lado de Brooklyn, la escalera de Washington St y Prospect St baja directo a DUMBO.",
+      "source": "https://nyc.gov/mayors-office/news/2026/03/mayor-mamdani-announces-redesigned-bike-and-pedestrian-connectio"
+    }
+  ],
+  "practical": []
+}

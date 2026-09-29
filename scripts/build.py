@@ -129,6 +129,9 @@ def validate_places(places, photos):
         for r in (p.get("reviews") or {}).get("ratings", []):
             if not r.get("url") or not r.get("checked"):
                 errors.append(f"{pid}: rating from {r.get('source')} lacks url or checked date")
+        for c in p.get("curiosities") or []:
+            if not c.get("source"):
+                errors.append(f"{pid}: curiosity {c.get('title')!r} lacks a source")
         for q in (p.get("reviews") or {}).get("press", []):
             if not q.get("url"):
                 errors.append(f"{pid}: press quote from {q.get('outlet')} lacks url")
@@ -151,6 +154,9 @@ def validate_days(days, by_id):
                 errors.append(f"{where}: unknown place {pid!r}")
                 continue
             used.add(pid)
+            for sg in (b.get("from_prev") or {}).get("sights") or []:
+                if sg.get("lat") is not None and not in_bbox(sg["lat"], sg["lng"]):
+                    errors.append(f"{where}: sight {sg.get('name')!r} outside NYC")
             alts = b.get("alternatives", [])
             if not alts and by_id[pid]["category"] not in NO_ALT_CATEGORIES and not b.get("no_alt"):
                 (warnings if DRAFT else errors).append(f"{where}: no Plan B")

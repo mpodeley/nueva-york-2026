@@ -89,7 +89,7 @@ def fetch(pid, titles, photos):
         ii = info.get(t)
         if not ii or not ii.get("mime", "").startswith("image/"):
             continue
-        n = len(entries) + 1
+        n = 1 + max((int(Path(e["src"]).stem) for e in entries), default=0)
         raw = folder / f"_raw{n}"
         try:
             download(ii.get("thumburl") or ii["url"], raw)
@@ -143,6 +143,14 @@ def main():
         elif pid in photos:
             del photos[pid]
     photos_path.write_text(json.dumps(photos, ensure_ascii=False, indent=1))
+    # Drop image files no longer referenced (rejected or replaced photos).
+    keep = {e[k] for v in photos.values() for e in v for k in ("src", "thumb")}
+    for img in IMG.glob("*/*.webp"):
+        if str(img.relative_to(ROOT)) not in keep:
+            img.unlink()
+    for d in IMG.iterdir():
+        if d.is_dir() and not any(d.iterdir()):
+            d.rmdir()
     total = sum(len(v) for v in photos.values())
     print(f"ok  {total} photos for {len(photos)} places")
 

@@ -1,1 +1,92 @@
-[]
+[
+ {
+  "topic": "visa",
+  "title": "Entrada a EE.UU. con pasaporte argentino",
+  "body": "Argentina no forma parte del Visa Waiver Program, así que no aplica el ESTA: entramos con la visa de turista B1/B2. La visa tiene que estar vigente el día que entramos. En julio de 2025 se firmó una declaración de intención para el reingreso al programa y el gobierno estima que podría funcionar en 2027, pero en septiembre de 2026 la visa sigue siendo obligatoria.",
+  "source": "https://www.lanacion.com.ar/politica/visa-waiver-peter-lamelas-aseguro-que-trabaja-para-que-los-argentinos-puedan-ingresar-a-estados-nid16092026/"
+ },
+ {
+  "topic": "omny",
+  "title": "Subte y bus: OMNY y tarifas 2026",
+  "body": "El viaje en subte o bus local cuesta USD 3 y se paga apoyando la tarjeta contactless, el celular o el reloj en el molinete (OMNY). Hay un transbordo gratis dentro de las 2 horas. Después de pagar USD 35 en 7 días con el mismo medio de pago, el resto de los viajes de esa semana es gratis. Cada uno usa su propia tarjeta o celular para que el tope cuente por persona. Desde el 1 de enero de 2026 no se venden MetroCards.",
+  "source": "https://www.mta.info/fares-tolls/subway-bus"
+ },
+ {
+  "topic": "propinas",
+  "title": "Propinas",
+  "body": "En restaurantes con servicio de mesa se deja 18–20% del total. En bares, al menos USD 1 por trago, o 18–20% si pagamos la cuenta con tarjeta. En taxi y Uber, 15–20%. En el hotel, USD 1–2 por valija al botones y USD 3–5 por día a la mucama. Antes de dejar propina, revisar si la cuenta ya trae un cargo por servicio.",
+  "source": "https://www.nyctourism.com/tipping-sales-tax/"
+ },
+ {
+  "topic": "impuestos",
+  "title": "Impuesto a las ventas",
+  "body": "Los precios se muestran sin impuesto: en la caja se suma 8.875% (4.5% de la ciudad, 4% del estado y 0.375% de transporte). La ropa y el calzado de menos de USD 110 por prenda están exentos.",
+  "source": "https://www.nyc.gov/site/finance/business/business-nys-sales-tax.page"
+ },
+ {
+  "topic": "clima",
+  "title": "Clima a fines de octubre y principios de noviembre",
+  "body": "Normales 1991–2020 en Central Park: octubre máxima 18 °C y mínima 11 °C; noviembre máxima 12 °C y mínima 6 °C. Llueve unos 9 días por mes en ambos meses. Conviene ropa en capas y una campera liviana impermeable.",
+  "source": "https://en.wikipedia.org/wiki/Climate_of_New_York_City"
+ },
+ {
+  "topic": "luz",
+  "title": "Horas de luz",
+  "body": "El 28 de octubre amanece a las 7:20 y el sol se pone a las 17:58. Con el cambio de hora del 1 de noviembre todo se adelanta una hora: el lunes 2 amanece a las 6:26 y oscurece a las 16:52; el martes 3, a las 6:27 y 16:51. Los paseos al aire libre van de mañana o a primera hora de la tarde.",
+  "source": "https://api.sunrise-sunset.org/json?lat=40.7829&lng=-73.9654&date=2026-11-02&tzid=America/New_York"
+ },
+ {
+  "topic": "hora",
+  "title": "Fin del horario de verano: domingo 1 de noviembre",
+  "body": "A las 2:00 del domingo 1 de noviembre, el día de la maratón, los relojes vuelven a la 1:00. Nueva York pasa de UTC−4 a UTC−5: desde ese día estamos 2 horas atrás de Buenos Aires (antes, 1 hora). Los celulares se ajustan solos; revisar relojes de GPS y alarmas la noche del sábado.",
+  "source": "https://www.timeanddate.com/time/change/usa/new-york"
+ },
+ {
+  "topic": "enchufes",
+  "title": "Enchufes y voltaje",
+  "body": "En EE.UU. se usan enchufes tipo A y B, a 120 V y 60 Hz. En Argentina son tipo I, a 230 V y 50 Hz: hace falta adaptador. Cargadores de celular y notebook suelen aceptar 100–240 V (mirar la etiqueta); secadores y planchitas de pelo argentinos pueden no funcionar bien.",
+  "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/"
+ },
+ {
+  "topic": "sim",
+  "title": "Datos en el celular: eSIM o roaming",
+  "body": "T-Mobile vende desde mayo de 2026 el U.S. Pass para visitantes: eSIM con llamadas, SMS y datos, 7 días USD 25 o 10 días USD 30, con 50 GB de alta velocidad, sin papeles. Airalo ofrece eSIM solo de datos ilimitados: 7 días USD 25 o 10 días USD 34. Otra opción es el paquete de roaming de la compañía argentina. El celular tiene que ser compatible con eSIM y estar liberado.",
+  "source": "https://tmo.report/2026/05/t-mobile-unveils-short-term-prepaid-plans-for-visitors-to-the-us/"
+ },
+ {
+  "topic": "apps",
+  "title": "Apps útiles",
+  "body": "Google Maps o Citymapper para rutas de subte y bus en tiempo real. La app oficial MTA para horarios, alertas y buses. Resy y OpenTable para reservas de restaurantes. TodayTix para entradas de teatro. La app New York Road Runners es la app oficial de la TCS NYC Marathon, con seguimiento de corredores en vivo. Para OMNY no hace falta app: alcanza con la tarjeta o el celular.",
+  "source": "https://apps.apple.com/us/app/new-york-road-runners/id6742177802"
+ },
+ {
+  "topic": "emergencias",
+  "title": "Emergencias",
+  "body": "El número de emergencias es 911 (policía, bomberos, ambulancia). Para consultas no urgentes de la ciudad se usa 311. Llevamos siempre una foto del pasaporte y de la visa en el celular.",
+  "source": "https://portal.311.nyc.gov/"
+ },
+ {
+  "topic": "consulado",
+  "title": "Consulado General de la República Argentina en Nueva York",
+  "body": "Dirección: 12 West 56th Street, New York, NY 10019. Teléfono +1 212 603 0400, con atención telefónica de 9:00 a 13:00. Horario de atención: lunes a viernes de 9:00 a 17:00. Guardia para emergencias (detención, riesgo de vida): +1 646 283 5892. Mail: cnyor@mrecic.gov.ar.",
+  "source": "https://cnyor.cancilleria.gob.ar/es/contacto-sede"
+ },
+ {
+  "topic": "moverse",
+  "title": "Cómo moverse en subte",
+  "body": "Uptown es hacia el norte y downtown hacia el sur. En muchas estaciones locales hay bocas distintas para cada sentido: leer el cartel de la entrada antes de pagar. Los trenes express paran solo en algunas estaciones (punto blanco en el mapa) y los locales en todas (punto negro). El frente del tren muestra la línea y el destino final. Los fines de semana y de noche hay cambios de servicio por obras: chequear alertas en la app MTA o en Google Maps antes de salir.",
+  "source": "https://pix11.com/news/transit/nyc-subways-whats-the-difference-between-a-local-and-express-train/"
+ },
+ {
+  "topic": "taxis",
+  "title": "Taxis y Uber",
+  "body": "El taxi amarillo arranca en USD 3 y suma USD 0.70 cada 1/5 de milla o cada minuto parado. Se agregan recargos: USD 1 de mejora, USD 0.50 del estado, USD 2.50 de congestión al sur de la calle 96, USD 0.75 del peaje de congestión al sur de la 60, y USD 2.50 de hora pico de lunes a viernes de 16:00 a 20:00. Los peajes de puentes van aparte. Se paga con tarjeta sin recargo.",
+  "source": "https://www.nyc.gov/site/tlc/passengers/taxi-fare.page"
+ },
+ {
+  "topic": "laguardia",
+  "title": "Llegar a LaGuardia sin taxi",
+  "body": "El bus Q70 LaGuardia Link es gratis y va de Jackson Heights–Roosevelt Av (subte 7, E, F, M, R) a las terminales B y C en unos 10 minutos, las 24 horas. Si venimos en subte, el pasaje se paga al entrar al subte y el Q70 no cobra. Entre terminales circula el All Terminals Shuttle, gratis y las 24 horas.",
+  "source": "https://www.mta.info/guides/airports/laguardia"
+ }
+]

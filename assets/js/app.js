@@ -289,7 +289,10 @@
       if (b.from_prev) {
         const f = b.from_prev;
         const link = gmapsDir(prev, p, f.mode);
-        leg = `<div class="leg"><span class="mode">${esc(MODE_LABELS[f.mode] || f.mode || '')}</span>${f.minutes ? `<span>${esc(f.minutes)} min</span>` : ''}<span>${rich(f.detail || '')}</span><a href="${attr(link)}" target="_blank" rel="noopener">Ruta en Google Maps</a></div>`;
+        const sights = (f.sights || []).map((sg, k) => `<li><strong>${esc(sg.name)}</strong> ${rich(sg.text || '')}${sg.lat ? ` <button type="button" class="linkbtn" data-sight="${i}-${k}">ver en el mapa</button>` : ''}${sg.source ? ` <a href="${attr(sg.source)}" target="_blank" rel="noopener">fuente</a>` : ''}</li>`).join('');
+        leg = `<div class="leg"><div class="legline"><span class="mode">${esc(MODE_LABELS[f.mode] || f.mode || '')}</span>${f.minutes ? `<span>${esc(f.minutes)} min</span>` : ''}${f.km ? `<span>${esc(f.km)} km</span>` : ''}<a href="${attr(link)}" target="_blank" rel="noopener">Ruta en Google Maps</a></div>
+          ${f.detail ? `<p class="legdetail">${rich(f.detail)}</p>` : ''}
+          ${sights ? `<details class="sights"><summary>En el camino · ${(f.sights || []).length}</summary><ul>${sights}</ul></details>` : ''}</div>`;
       }
       const alts = (b.alternatives || []).map((a) => {
         const ap = P[a.place];
@@ -307,6 +310,7 @@
             <p class="placeline"><a href="#/lugar/${attr(p.id)}">${esc(p.name)}</a>${rating ? ratingHtml(rating) : ''}${p.price ? `<span class="muted">${esc(p.price)}</span>` : ''}</p>
             ${thumb ? `<img class="thumb" loading="lazy" src="${attr(thumb)}" alt="${attr(p.name)}">` : ''}
             ${b.note ? `<p class="note">${rich(b.note)}</p>` : ''}
+            ${(p.curiosities || []).length ? `<p class="teaser"><span>Curiosidad</span> <strong>${esc(p.curiosities[0].title)}.</strong> ${rich(p.curiosities[0].text)}</p>` : ''}
             <div class="actions"><a class="btn primary" href="#/lugar/${attr(p.id)}">Ficha completa</a><a class="btn" href="${attr(gmapsDir(null, p, 'subte'))}" target="_blank" rel="noopener">Cómo llegar desde acá</a></div>
             ${alts ? `<details class="planb"><summary>Plan B · ${(b.alternatives || []).length} ${(b.alternatives || []).length === 1 ? 'opción' : 'opciones'}</summary><ul class="alts">${alts}</ul></details>` : ''}
           </div>
@@ -323,6 +327,8 @@
           <p class="kicker">${esc(weekdayCap(d.date))} ${esc(dateShort(d.date))} · Día ${idx + 1} de ${t.days.length}</p>
           <h1>${esc(d.title)}</h1>
           ${d.lede ? `<p class="lede">${rich(d.lede)}</p>` : ''}
+          ${d.km_walk ? `<p class="daystats"><span>A pie, unos ${esc(d.km_walk)} km en el día</span></p>` : ''}
+          ${d.context ? `<div class="context">${String(d.context).split(/\n\n+/).map((x) => `<p>${rich(x)}</p>`).join('')}</div>` : ''}
           ${ph ? `<div class="photo" role="img" aria-label="Foto del día" style="background-image:url('${attr(ph.src)}')"></div><p class="photo-credit">${creditHtml(ph)}</p>` : ''}
         </header>
         <div class="daygrid">
@@ -353,6 +359,17 @@
       pts.push([p.lat, p.lng]);
     });
     if (pts.length > 1) L.polyline(pts, { color: '#888', weight: 2, dashArray: '4 6', opacity: 0.8 }).addTo(map);
+    const sightMarkers = {};
+    d.blocks.forEach((b, i) => ((b.from_prev || {}).sights || []).forEach((sg, k) => {
+      if (!sg.lat || !sg.lng) return;
+      sightMarkers[`${i}-${k}`] = L.marker([sg.lat, sg.lng], { icon: L.divIcon({ className: '', html: '<div class="pin sight"></div>', iconSize: [12, 12], iconAnchor: [6, 6] }) })
+        .bindPopup(`<strong>${esc(sg.name)}</strong><br>${esc(sg.text || '')}`).addTo(map);
+    }));
+    view.querySelectorAll('[data-sight]').forEach((btn) => btn.addEventListener('click', () => {
+      const m = sightMarkers[btn.dataset.sight]; if (!m) return;
+      map.flyTo(m.getLatLng(), 17, { duration: 0.6 }); m.openPopup();
+      document.getElementById('daymap').scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    }));
     const altLayer = L.layerGroup();
     d.blocks.forEach((b) => (b.alternatives || []).forEach((a) => {
       const ap = P[a.place]; if (!ap) return;
@@ -442,10 +459,7 @@
       </div>`).join('');
     const course = M.course || { landmarks: [] };
     const notes = M.course_notes || [];
-    const rows = (course.landmarks.length ? course.landmarks : notes).map((h) => {
-      const extra = notes.find((n) => Math.abs(Number(n.km) - Number(h.km)) < 0.8);
-      return { km: Number(h.km), name: h.name, note: extra ? extra.note : h.note };
-    });
+    const rows = (notes.length ? notes : course.landmarks).map((h) => ({ km: Number(h.km), name: h.name, note: h.note }));
     function parseTarget(s) { const m = /^(\d):([0-5]\d)$/.exec(String(s).trim()); return m ? Number(m[1]) * 60 + Number(m[2]) : null; }
     function update() {
       const vals = runners.map((r, i) => {
@@ -659,6 +673,8 @@
         ${facts.length ? `<h4>Datos</h4><dl class="facts">${facts.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>` : ''}
         ${(p.what || []).length ? `<h4>${food ? 'Qué pedir' : 'Qué mirar'}</h4><ul class="what">${p.what.map((x) => `<li>${rich(x)}</li>`).join('')}</ul>` : ''}
         ${p.tip ? `<h4>El dato</h4><p class="tip">${rich(p.tip)}</p>` : ''}
+        ${p.history ? `<h4>Historia</h4>${String(p.history).split(/\n\n+/).map((x) => `<p>${rich(x)}</p>`).join('')}` : ''}
+        ${(p.curiosities || []).length ? `<h4>Curiosidades</h4><ul class="curios">${p.curiosities.map((c) => `<li><strong>${esc(c.title)}.</strong> ${rich(c.text)}${c.source ? ` <a href="${attr(c.source)}" target="_blank" rel="noopener">${esc(c.source_name || 'fuente')}</a>` : ''}</li>`).join('')}</ul>` : ''}
         ${(p.warnings || []).length ? `<h4>Ojo</h4><div class="warn"><ul>${p.warnings.map((x) => `<li>${rich(x)}</li>`).join('')}</ul></div>` : ''}
         ${(rv.consensus || []).length || (rv.press || []).length ? `<h4>Lo que dicen</h4>
           ${(rv.consensus || []).length ? `<ul class="what">${rv.consensus.map((x) => `<li>${rich(x)}</li>`).join('')}</ul>` : ''}

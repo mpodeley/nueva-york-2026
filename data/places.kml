@@ -2,53 +2,106 @@
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document>
 <name>Nueva York 2026</name>
 <Folder><name>bar</name>
-<Placemark><name>Westlight</name><description>Williamsburg, Brooklyn · 2026-10-28</description><Point><coordinates>-73.95692,40.72241,0</coordinates></Point></Placemark>
-</Folder>
-<Folder><name>barrio</name>
-<Placemark><name>Chinatown</name><description>Chinatown, Manhattan · 2026-10-31</description><Point><coordinates>-73.9981,40.71435,0</coordinates></Point></Placemark>
-<Placemark><name>Harlem</name><description>Harlem, Manhattan · 2026-11-02</description><Point><coordinates>-73.94999,40.81009,0</coordinates></Point></Placemark>
-<Placemark><name>Jackson Heights</name><description>Jackson Heights, Queens · 2026-11-02</description><Point><coordinates>-73.89075,40.74659,0</coordinates></Point></Placemark>
+<Placemark><name>Bar Blondeau (Wythe Hotel)</name><description>Williamsburg, Brooklyn · alternativa</description><Point><coordinates>-73.9580608,40.7219036,0</coordinates></Point></Placemark>
+<Placemark><name>Bemelmans Bar (The Carlyle)</name><description>Upper East Side, Manhattan · alternativa</description><Point><coordinates>-73.96299,40.774381,0</coordinates></Point></Placemark>
+<Placemark><name>Westlight</name><description>Williamsburg, Brooklyn · 2026-10-28</description><Point><coordinates>-73.9569215,40.7224118,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>comida</name>
-<Placemark><name>Yemen Café</name><description>Bay Ridge, Brooklyn · 2026-10-28</description><Point><coordinates>-74.02206,40.63048,0</coordinates></Point></Placemark>
-<Placemark><name>Chelsea Market</name><description>Chelsea, Manhattan · 2026-10-29</description><Point><coordinates>-74.0049,40.74205,0</coordinates></Point></Placemark>
-<Placemark><name>Pastrami Queen</name><description>Upper East Side, Manhattan · 2026-10-30</description><Point><coordinates>-73.95917,40.77435,0</coordinates></Point></Placemark>
-<Placemark><name>Harry Cipriani</name><description>Midtown, Manhattan · 2026-11-02</description><Point><coordinates>-73.9727,40.7643,0</coordinates></Point></Placemark>
+<Placemark><name>2nd Ave Deli (Upper East Side)</name><description>Lenox Hill (Upper East Side), Manhattan · alternativa</description><Point><coordinates>-73.9544914,40.7695617,0</coordinates></Point></Placemark>
+<Placemark><name>Arepa Lady</name><description>Jackson Heights, Queens · 2026-11-02</description><Point><coordinates>-73.888253,40.749454,0</coordinates></Point></Placemark>
+<Placemark><name>Becco</name><description>Restaurant Row (Theater District), Manhattan · alternativa</description><Point><coordinates>-73.9900277,40.7605173,0</coordinates></Point></Placemark>
+<Placemark><name>Birria-Landia (Jackson Heights)</name><description>Jackson Heights, Queens · 2026-11-02</description><Point><coordinates>-73.888552,40.747231,0</coordinates></Point></Placemark>
+<Placemark><name>Café Sabarsky (Neue Galerie)</name><description>Upper East Side, Manhattan · alternativa</description><Point><coordinates>-73.9602374,40.7812237,0</coordinates></Point></Placemark>
+<Placemark><name>Cecconi's Dumbo</name><description>DUMBO, Brooklyn · alternativa</description><Point><coordinates>-73.991654,40.703618,0</coordinates></Point></Placemark>
+<Placemark><name>The Central Park Boathouse (restaurante)</name><description>Central Park, Manhattan · 2026-10-29</description><Point><coordinates>-73.9687424,40.7753301,0</coordinates></Point></Placemark>
+<Placemark><name>Chelsea Market</name><description>Chelsea / Meatpacking, Manhattan · 2026-10-29</description><Point><coordinates>-74.0048973,40.7420513,0</coordinates></Point></Placemark>
+<Placemark><name>Cositas Ricas</name><description>Jackson Heights, Queens · alternativa</description><Point><coordinates>-73.885945,40.747554,0</coordinates></Point></Placemark>
+<Placemark><name>Harry Cipriani</name><description>Upper East Side (Sherry-Netherland), Manhattan · 2026-11-02</description><Point><coordinates>-73.972705,40.764387,0</coordinates></Point></Placemark>
+<Placemark><name>Joe Allen</name><description>Theater District / Hell's Kitchen, Manhattan · 2026-10-30</description><Point><coordinates>-73.9890604,40.7601328,0</coordinates></Point></Placemark>
+<Placemark><name>Joe's Shanghai (Chinatown)</name><description>Chinatown, Manhattan · alternativa</description><Point><coordinates>-73.996655,40.715682,0</coordinates></Point></Placemark>
+<Placemark><name>Laser Wolf Brooklyn</name><description>Williamsburg, Brooklyn · alternativa</description><Point><coordinates>-73.9587821,40.7208284,0</coordinates></Point></Placemark>
+<Placemark><name>Los Chuzos y Algo Más</name><description>Jackson Heights, Queens · 2026-11-02</description><Point><coordinates>-73.886591,40.747489,0</coordinates></Point></Placemark>
+<Placemark><name>Marseille</name><description>Hell's Kitchen, Manhattan · alternativa</description><Point><coordinates>-73.991404,40.7597501,0</coordinates></Point></Placemark>
+<Placemark><name>Mei Lai Wah Bakery</name><description>Chinatown, Manhattan · alternativa</description><Point><coordinates>-73.998912,40.715135,0</coordinates></Point></Placemark>
+<Placemark><name>Nepali Bhanchha Ghar</name><description>Jackson Heights, Queens · 2026-11-02</description><Point><coordinates>-73.890824,40.747029,0</coordinates></Point></Placemark>
+<Placemark><name>Nom Wah Tea Parlor</name><description>Chinatown, Manhattan · 2026-10-31</description><Point><coordinates>-73.998197,40.714459,0</coordinates></Point></Placemark>
+<Placemark><name>Pastrami Queen</name><description>Upper East Side, Manhattan · 2026-10-30</description><Point><coordinates>-73.9591659,40.7743516,0</coordinates></Point></Placemark>
+<Placemark><name>Phayul</name><description>Jackson Heights, Queens · alternativa</description><Point><coordinates>-73.891342,40.747162,0</coordinates></Point></Placemark>
+<Placemark><name>P.J. Clarke's (Third Avenue)</name><description>Midtown East · alternativa</description><Point><coordinates>-73.9682301,40.7589826,0</coordinates></Point></Placemark>
+<Placemark><name>Red Rooster Harlem</name><description>Harlem, Manhattan · alternativa</description><Point><coordinates>-73.944911,40.807966,0</coordinates></Point></Placemark>
+<Placemark><name>Rosa Mexicano (Second Avenue)</name><description>Midtown East (Turtle Bay) · 2026-11-01</description><Point><coordinates>-73.9678566,40.7563383,0</coordinates></Point></Placemark>
+<Placemark><name>Rosemary's Midtown</name><description>Midtown East, Manhattan · 2026-10-31</description><Point><coordinates>-73.970447,40.755855,0</coordinates></Point></Placemark>
+<Placemark><name>Sant Ambroeus Madison Avenue</name><description>Upper East Side, Manhattan · alternativa</description><Point><coordinates>-73.962992,40.775404,0</coordinates></Point></Placemark>
+<Placemark><name>Sylvia's Restaurant</name><description>Harlem, Manhattan · alternativa</description><Point><coordinates>-73.944519,40.808628,0</coordinates></Point></Placemark>
+<Placemark><name>Tanoreen</name><description>Bay Ridge, Brooklyn · alternativa</description><Point><coordinates>-74.0278883,40.6308149,0</coordinates></Point></Placemark>
+<Placemark><name>Tavern on the Green</name><description>Central Park (Upper West Side), Manhattan · alternativa</description><Point><coordinates>-73.9775964,40.7721961,0</coordinates></Point></Placemark>
+<Placemark><name>The Smith (Midtown)</name><description>Midtown East (Turtle Bay) · alternativa</description><Point><coordinates>-73.968022,40.7552632,0</coordinates></Point></Placemark>
+<Placemark><name>Xi'an Famous Foods (Chinatown)</name><description>Chinatown, Manhattan · alternativa</description><Point><coordinates>-73.997325,40.715127,0</coordinates></Point></Placemark>
+<Placemark><name>Yemen Café &amp; Restaurant (Bay Ridge)</name><description>Bay Ridge, Brooklyn · 2026-10-28</description><Point><coordinates>-74.0220573,40.6304791,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>golf</name>
-<Placemark><name>Dyker Beach Golf Course</name><description>Dyker Heights, Brooklyn · 2026-10-28</description><Point><coordinates>-74.01912,40.61293,0</coordinates></Point></Placemark>
+<Placemark><name>The Golf Club at Chelsea Piers</name><description>Chelsea, Manhattan · alternativa</description><Point><coordinates>-74.0096235,40.7454454,0</coordinates></Point></Placemark>
+<Placemark><name>Dyker Beach Golf Course</name><description>Dyker Heights, Brooklyn · 2026-10-28</description><Point><coordinates>-74.0203555,40.6169228,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>hotel</name>
-<Placemark><name>The Hoxton Williamsburg</name><description>Williamsburg, Brooklyn · 2026-10-28</description><Point><coordinates>-73.96573,40.71321,0</coordinates></Point></Placemark>
-<Placemark><name>The Lexington Hotel</name><description>Midtown East, Manhattan · 2026-10-29, 2026-11-01, 2026-11-02</description><Point><coordinates>-73.97304,40.75491,0</coordinates></Point></Placemark>
-<Placemark><name>DoubleTree by Hilton New York LaGuardia Airport</name><description>East Elmhurst, Queens · 2026-11-02, 2026-11-03</description><Point><coordinates>-73.8683,40.76935,0</coordinates></Point></Placemark>
+<Placemark><name>DoubleTree by Hilton New York LaGuardia Airport</name><description>East Elmhurst, Queens · 2026-11-02, 2026-11-03</description><Point><coordinates>-73.8668515,40.7670304,0</coordinates></Point></Placemark>
+<Placemark><name>The Lexington Hotel, Autograph Collection</name><description>Midtown East (Turtle Bay), Manhattan · 2026-10-29, 2026-10-30, 2026-10-31, 2026-11-01, 2026-11-02</description><Point><coordinates>-73.9730357,40.7549063,0</coordinates></Point></Placemark>
+<Placemark><name>The Hoxton, Williamsburg</name><description>Williamsburg, Brooklyn · 2026-10-28, 2026-10-29</description><Point><coordinates>-73.9587821,40.7208284,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>maraton</name>
-<Placemark><name>Expo de la maratón</name><description>Hudson Yards, Manhattan · 2026-10-29</description><Point><coordinates>-74.00221,40.75836,0</coordinates></Point></Placemark>
-<Placemark><name>Largada · Fort Wadsworth</name><description>Staten Island · 2026-11-01</description><Point><coordinates>-74.06264,40.60899,0</coordinates></Point></Placemark>
-<Placemark><name>Llegada · Central Park</name><description>Central Park · 2026-11-01</description><Point><coordinates>-73.9778,40.7723,0</coordinates></Point></Placemark>
+<Placemark><name>Elite Healers Sports Massage</name><description>Midtown East · alternativa</description><Point><coordinates>-73.970652,40.7604267,0</coordinates></Point></Placemark>
+<Placemark><name>Family Reunion (W 69th–71st St, entre Central Park West y Columbus Ave)</name><description>Upper West Side (Lincoln Square) · 2026-11-01</description><Point><coordinates>-73.977459,40.774413,0</coordinates></Point></Placemark>
+<Placemark><name>Villas de largada en Fort Wadsworth (Staten Island)</name><description>Fort Wadsworth, Staten Island · 2026-11-01</description><Point><coordinates>-74.0576716,40.6008725,0</coordinates></Point></Placemark>
+<Placemark><name>TCS New York City Marathon Expo (Javits Center)</name><description>Hudson Yards, Manhattan · 2026-10-29</description><Point><coordinates>-74.0022114,40.7583595,0</coordinates></Point></Placemark>
+<Placemark><name>Llegada del TCS New York City Marathon (West Drive y W 67th St)</name><description>Central Park, Upper West Side · 2026-11-01</description><Point><coordinates>-73.9775964,40.7721961,0</coordinates></Point></Placemark>
+<Placemark><name>TCS New York City Marathon Opening Ceremony (Parade of Nations)</name><description>Central Park (lado oeste), Manhattan · alternativa</description><Point><coordinates>-73.9775964,40.7721961,0</coordinates></Point></Placemark>
+<Placemark><name>NYRR RUNCENTER featuring the New Balance Run Hub</name><description>Midtown West (Columbus Circle) · alternativa</description><Point><coordinates>-73.983828,40.767023,0</coordinates></Point></Placemark>
+<Placemark><name>Salida de corredores (Central Park West y W 77th St) y retiro de bolsas pre-chequeadas</name><description>Upper West Side · 2026-11-01</description><Point><coordinates>-73.9743038,40.7792489,0</coordinates></Point></Placemark>
+<Placemark><name>Central Park, entrada Scholars' Gate (trote suave de la víspera)</name><description>Central Park, Manhattan · 2026-10-31</description><Point><coordinates>-73.973608,40.764117,0</coordinates></Point></Placemark>
+<Placemark><name>Pre-check de bolsos (Central Park West, calles 73 a 75)</name><description>Upper West Side, Manhattan · 2026-10-31</description><Point><coordinates>-73.97524,40.77739,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>mirador</name>
-<Placemark><name>Edge</name><description>Hudson Yards, Manhattan · 2026-10-29</description><Point><coordinates>-74.0006,40.75398,0</coordinates></Point></Placemark>
-<Placemark><name>DUMBO</name><description>DUMBO, Brooklyn · 2026-10-31</description><Point><coordinates>-73.98985,40.70325,0</coordinates></Point></Placemark>
+<Placemark><name>Brooklyn Bridge Park, Pier 1 (Granite Prospect)</name><description>DUMBO y Brooklyn Heights, Brooklyn · alternativa</description><Point><coordinates>-73.997408,40.701995,0</coordinates></Point></Placemark>
+<Placemark><name>Washington St y Water St (vista al Manhattan Bridge)</name><description>DUMBO, Brooklyn · 2026-10-28</description><Point><coordinates>-73.98958,40.7032012,0</coordinates></Point></Placemark>
+<Placemark><name>Edge (30 Hudson Yards)</name><description>Hudson Yards, Manhattan · 2026-10-29</description><Point><coordinates>-74.0006028,40.753983,0</coordinates></Point></Placemark>
+<Placemark><name>Pebble Beach (Brooklyn Bridge Park, sección Main Street)</name><description>DUMBO, Brooklyn · alternativa</description><Point><coordinates>-73.990549,40.704383,0</coordinates></Point></Placemark>
+<Placemark><name>SUMMIT One Vanderbilt</name><description>Midtown East, Manhattan · alternativa</description><Point><coordinates>-73.9785218,40.7528374,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>museo</name>
-<Placemark><name>The Frick Collection</name><description>Upper East Side, Manhattan · 2026-10-30</description><Point><coordinates>-73.9672,40.7711,0</coordinates></Point></Placemark>
-<Placemark><name>The Metropolitan Museum of Art</name><description>Upper East Side, Manhattan · 2026-10-30</description><Point><coordinates>-73.96338,40.77944,0</coordinates></Point></Placemark>
-<Placemark><name>MoMA</name><description>Midtown, Manhattan · 2026-10-31</description><Point><coordinates>-73.9775,40.76161,0</coordinates></Point></Placemark>
+<Placemark><name>The Frick Collection</name><description>Upper East Side (Lenox Hill), Manhattan · 2026-10-30</description><Point><coordinates>-73.9671675,40.7712589,0</coordinates></Point></Placemark>
+<Placemark><name>Solomon R. Guggenheim Museum</name><description>Carnegie Hill (Upper East Side), Manhattan · alternativa</description><Point><coordinates>-73.958925,40.7829932,0</coordinates></Point></Placemark>
+<Placemark><name>The Metropolitan Museum of Art (The Met Fifth Avenue)</name><description>Upper East Side, Manhattan · 2026-10-30</description><Point><coordinates>-73.9633825,40.7794396,0</coordinates></Point></Placemark>
+<Placemark><name>The Museum of Modern Art (MoMA)</name><description>Midtown, Manhattan · 2026-10-29</description><Point><coordinates>-73.977499,40.761612,0</coordinates></Point></Placemark>
+<Placemark><name>Schomburg Center for Research in Black Culture</name><description>Harlem, Manhattan · alternativa</description><Point><coordinates>-73.940987,40.814648,0</coordinates></Point></Placemark>
+<Placemark><name>Studio Museum in Harlem</name><description>Harlem, Manhattan · 2026-11-02</description><Point><coordinates>-73.947616,40.808418,0</coordinates></Point></Placemark>
+<Placemark><name>Whitney Museum of American Art</name><description>Meatpacking District, Manhattan · alternativa</description><Point><coordinates>-74.008921,40.739645,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>paseo</name>
-<Placemark><name>High Line</name><description>Chelsea, Manhattan · 2026-10-29</description><Point><coordinates>-74.0077,40.743,0</coordinates></Point></Placemark>
-<Placemark><name>Loeb Boathouse</name><description>Central Park · 2026-10-29</description><Point><coordinates>-73.96875,40.77545,0</coordinates></Point></Placemark>
-<Placemark><name>Grand Central Terminal</name><description>Midtown, Manhattan · 2026-10-31</description><Point><coordinates>-73.97725,40.75269,0</coordinates></Point></Placemark>
-<Placemark><name>Brooklyn Bridge</name><description>Lower Manhattan · 2026-10-31</description><Point><coordinates>-73.99702,40.70622,0</coordinates></Point></Placemark>
-<Placemark><name>Village Halloween Parade</name><description>Greenwich Village, Manhattan · 2026-10-31</description><Point><coordinates>-73.99845,40.73495,0</coordinates></Point></Placemark>
+<Placemark><name>Bethesda Terrace</name><description>Central Park, Manhattan · alternativa</description><Point><coordinates>-73.9710525,40.7742185,0</coordinates></Point></Placemark>
+<Placemark><name>Brooklyn Bridge (paseo peatonal)</name><description>Civic Center, Manhattan, a DUMBO, Brooklyn · 2026-10-28</description><Point><coordinates>-74.0047634,40.7124569,0</coordinates></Point></Placemark>
+<Placemark><name>Botes a remo del Central Park Boathouse (The Lake)</name><description>Central Park, Manhattan · 2026-10-29</description><Point><coordinates>-73.9687424,40.7753301,0</coordinates></Point></Placemark>
+<Placemark><name>Grand Central Terminal</name><description>Midtown East, Manhattan · 2026-10-30</description><Point><coordinates>-73.977253,40.7526944,0</coordinates></Point></Placemark>
+<Placemark><name>The High Line</name><description>Hudson Yards / Chelsea, Manhattan · 2026-10-29</description><Point><coordinates>-74.0038362,40.7563728,0</coordinates></Point></Placemark>
+<Placemark><name>Jane's Carousel</name><description>DUMBO, Brooklyn · alternativa</description><Point><coordinates>-73.992385,40.704434,0</coordinates></Point></Placemark>
+<Placemark><name>Little Island</name><description>Meatpacking / Hudson River Park, Manhattan · alternativa</description><Point><coordinates>-74.0106105,40.7420041,0</coordinates></Point></Placemark>
+<Placemark><name>Marcus Garvey Park y Harlem Fire Watchtower</name><description>Harlem, Manhattan · 2026-11-02</description><Point><coordinates>-73.94359,40.804114,0</coordinates></Point></Placemark>
+<Placemark><name>Strivers' Row (St. Nicholas Historic District)</name><description>Harlem, Manhattan · 2026-11-02</description><Point><coordinates>-73.943611,40.818056,0</coordinates></Point></Placemark>
+<Placemark><name>Unisphere (Flushing Meadows Corona Park)</name><description>Flushing Meadows Corona Park, Queens · 2026-11-03</description><Point><coordinates>-73.845075,40.746384,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>show</name>
-<Placemark><name>Hadestown · Walter Kerr Theatre</name><description>Theater District, Manhattan · 2026-10-30</description><Point><coordinates>-73.98558,40.76068,0</coordinates></Point></Placemark>
+<Placemark><name>The Apollo (Apollo Theater)</name><description>Harlem, Manhattan · 2026-11-02</description><Point><coordinates>-73.9499948,40.8100895,0</coordinates></Point></Placemark>
+<Placemark><name>Buena Vista Social Club (Gerald Schoenfeld Theatre)</name><description>Times Square, Manhattan · alternativa</description><Point><coordinates>-73.9874377,40.7584859,0</coordinates></Point></Placemark>
+<Placemark><name>Hadestown (Walter Kerr Theatre)</name><description>Theater District, Manhattan · 2026-10-30</description><Point><coordinates>-73.9855847,40.760681,0</coordinates></Point></Placemark>
+<Placemark><name>Maybe Happy Ending (Belasco Theatre)</name><description>Times Square, Manhattan · alternativa</description><Point><coordinates>-73.9838007,40.756644,0</coordinates></Point></Placemark>
+<Placemark><name>The Lion King (Minskoff Theatre)</name><description>Times Square, Manhattan · alternativa</description><Point><coordinates>-73.9862053,40.758063,0</coordinates></Point></Placemark>
+<Placemark><name>TKTS Times Square</name><description>Times Square (Duffy Square), Manhattan · alternativa</description><Point><coordinates>-73.9849357,40.7591435,0</coordinates></Point></Placemark>
+<Placemark><name>Village Halloween Parade (53.ª edición)</name><description>SoHo, Greenwich Village y Chelsea, Manhattan · 2026-10-31</description><Point><coordinates>-74.0029583,40.7281435,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>transporte</name>
-<Placemark><name>Aeropuerto JFK</name><description>Queens · 2026-10-28</description><Point><coordinates>-73.77937,40.64295,0</coordinates></Point></Placemark>
-<Placemark><name>Aeropuerto LaGuardia</name><description>Queens · 2026-11-03</description><Point><coordinates>-73.87336,40.77571,0</coordinates></Point></Placemark>
+<Placemark><name>Aeropuerto LaGuardia (LGA)</name><description>East Elmhurst, Queens · 2026-11-03</description><Point><coordinates>-73.872075,40.772898,0</coordinates></Point></Placemark>
+<Placemark><name>John F. Kennedy International Airport (JFK)</name><description>Jamaica, Queens · 2026-10-28</description><Point><coordinates>-73.7793734,40.6429479,0</coordinates></Point></Placemark>
+<Placemark><name>NYC Ferry, parada DUMBO/Fulton Ferry (ruta East River)</name><description>DUMBO, Brooklyn · 2026-10-28</description><Point><coordinates>-73.995836,40.703734,0</coordinates></Point></Placemark>
+<Placemark><name>Micros oficiales a la largada (New York Public Library, Fifth Ave y 40th St)</name><description>Midtown, Manhattan · 2026-11-01</description><Point><coordinates>-73.9821524,40.7533445,0</coordinates></Point></Placemark>
+<Placemark><name>Staten Island Ferry Whitehall Terminal</name><description>Lower Manhattan · 2026-10-31, 2026-11-01</description><Point><coordinates>-74.0130554,40.7009643,0</coordinates></Point></Placemark>
 </Folder>
 </Document></kml>

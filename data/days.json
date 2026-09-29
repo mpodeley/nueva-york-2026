@@ -1,231 +1,1329 @@
 [
  {
-  "date": "2026-10-28",
-  "title": "Brooklyn y golf",
-  "lede": "Llegamos a JFK a las 9:30, dejamos las valijas en The Hoxton de Williamsburg y nos vamos a jugar 9 hoyos en Dyker Beach, un campo histórico de Brooklyn con vista al puente Verrazzano. Después comemos comida yemení en Bay Ridge (lamb haneeth y pan recién hecho en Yemen Café) y cerramos con un trago en Westlight, un rooftop con Manhattan iluminado enfrente.",
   "blocks": [
    {
     "time": "09:30",
-    "place": "jfk",
-    "title": "Llegamos a JFK"
+    "place": "jfk-airport",
+    "title": "Llegamos a JFK",
+    "note": "Aterrizamos a las 09:30. Entre migraciones y valijas calculamos salir de la terminal cerca de las 11:00; el sitio de JFK avisa que por obras todo tarda más.",
+    "from_prev": null,
+    "alternatives": [],
+    "_rewrite": false
    },
    {
-    "time": "mediodía",
+    "time": "11:45",
     "place": "hoxton-williamsburg",
-    "title": "Dejamos las valijas"
+    "title": "Dejamos las valijas en The Hoxton",
+    "note": "Dejamos las valijas (guardado gratis) o hacemos check-in si reservamos Flexy Time. Nos cambiamos a ropa de golf y comemos algo en K'Far, el café del lobby.",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Taxi amarillo de la fila oficial, con taxímetro: USD 55–75 antes de propina más USD 2 de acceso al aeropuerto (a Brooklyn no rige la tarifa fija de USD 70). Opción en transporte público: AirTrain a Jamaica (USD 8.75), subte [J] desde Sutphin Blvd–Archer Av hasta Broadway Junction y L hasta Bedford Av (USD 3.00), 70–80 min y 8 min a pie. El LIRR no conviene: no llega a Williamsburg.",
+     "minutes": 50
+    },
+    "alternatives": [],
+    "_rewrite": false
    },
    {
-    "time": "tarde",
+    "time": "13:30",
     "place": "dyker-beach-golf",
-    "title": "9 hoyos con vista al Verrazzano"
+    "title": "9 hoyos en Dyker Beach",
+    "note": "Salida reservada entre 14:00 y 14:30 con tarifa twilight de 18 hoyos (USD 43 caminando, USD 65 con carrito) y cortamos en el hoyo 9. Llegamos 13:30 para alquilar palos. El sol se pone a las 17:58.",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Taxi o Uber por la BQE hasta 86th St y 7th Ave, 35–45 min. En subte: L de Bedford Av a Lorimer St, G de Metropolitan Av a 4 Av–9 St, R hasta 86 St y 12 min a pie; 65–75 min.",
+     "minutes": 40
+    },
+    "alternatives": [
+     {
+      "place": "chelsea-piers-golf",
+      "reason": "lluvia",
+      "note": "Si llueve, cambiamos la cancha por el driving range techado y con calefacción de Chelsea Piers (bahía para 2 a USD 57 entre 13:00 y 15:59) y después bajamos a Bay Ridge en subte."
+     }
+    ],
+    "_rewrite": false
    },
    {
-    "time": "tarde",
+    "time": "16:15",
     "place": "yemen-cafe-bay-ridge",
-    "title": "Lamb haneeth y pan recién hecho"
+    "title": "Cordero yemení en Bay Ridge",
+    "note": "Comida fuerte del día: un lamb haneeth para compartir, pan yemení recién horneado y una entrada. A esta hora evitamos el pico de la cena.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Del clubhouse (86th St y 7th Ave) por 5th Ave hacia el norte hasta la calle 73, unos 2 km. Si no hay piernas: bus B63 por 5th Ave o taxi de 8 min.",
+     "minutes": 25
+    },
+    "alternatives": [
+     {
+      "place": "tanoreen",
+      "reason": "otra-opción",
+      "note": "Cocina palestina a pocas cuadras, si Yemen Café está lleno."
+     },
+     {
+      "place": "cecconis-dumbo",
+      "reason": "cansados",
+      "note": "Si el golf se estira, salteamos Bay Ridge y comemos en DUMBO, al lado del puente."
+     }
+    ],
+    "_rewrite": false
    },
    {
-    "time": "noche",
+    "time": "17:40",
+    "place": "brooklyn-bridge",
+    "title": "Brooklyn Bridge al atardecer",
+    "alternatives": [
+     {
+      "place": "pebble-beach-dumbo",
+      "reason": "piernas",
+      "note": "Si no hay ganas de subir al puente, lo miramos desde la orilla."
+     }
+    ],
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Línea R de Bay Ridge a Jay St–MetroTech",
+     "minutes": null
+    },
+    "_rewrite": true
+   },
+   {
+    "time": "18:25",
+    "place": "dumbo-washington-street-view",
+    "title": "DUMBO: Manhattan se enciende",
+    "alternatives": [
+     {
+      "place": "brooklyn-bridge-park-pier-1",
+      "reason": "otra-opción",
+      "note": "Los escalones de granito de Pier 1, sentados frente al skyline."
+     }
+    ],
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Bajamos del puente por la escalera de Washington St",
+     "minutes": null
+    },
+    "_rewrite": true
+   },
+   {
+    "time": "19:05",
+    "place": "nyc-ferry-dumbo-fulton-ferry",
+    "title": "Ferry por el East River hasta Williamsburg",
+    "alternatives": [],
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Hasta el muelle de Fulton Ferry",
+     "minutes": null
+    },
+    "_rewrite": true
+   },
+   {
+    "time": "19:45",
     "place": "westlight",
-    "title": "Un trago con Manhattan enfrente"
+    "title": "Un trago en Westlight",
+    "note": "Pasamos antes por la Hoxton a bañarnos y cambiarnos: el código es smart casual. Terraza del piso 22 con Manhattan iluminado y vuelta caminando al hotel.",
+    "from_prev": {
+     "mode": "ferry",
+     "detail": "NYC Ferry, ruta East River, de DUMBO a North Williamsburg",
+     "minutes": null
+    },
+    "alternatives": [
+     {
+      "place": "laser-wolf-brooklyn",
+      "reason": "cansados",
+      "note": "Si llegamos muertos, subimos a la terraza de nuestro propio hotel: Laser Wolf cena hasta las 23:00."
+     },
+     {
+      "place": "bar-blondeau",
+      "reason": "otra-opción",
+      "note": "The Ides (Wythe Hotel) cerró; su terraza es hoy Bar Blondeau, a una cuadra, abierto hasta las 00:00."
+     }
+    ],
+    "_rewrite": true
    }
   ],
-  "tips": [],
-  "reservations": []
+  "tips": [
+   "El transporte público se paga tocando el molinete con la misma tarjeta contactless o el celular (OMNY): USD 3.00 por viaje y, después de 12 viajes en 7 días, el resto es gratis (tope de USD 35). La MetroCard ya no se vende.",
+   "Llevamos la ropa de golf en el equipaje de mano para cambiarnos en la Hoxton sin abrir las valijas.",
+   "No hay tiempo para almorzar entre el vuelo y el golf: comemos algo en K'Far, el café del lobby de la Hoxton, o en el clubhouse de Dyker Beach.",
+   "El sol se pone a las 17:58 y el crepúsculo termina a las 18:25: con salida a las 14:00, los 9 hoyos entran con margen.",
+   "Westlight es solo para mayores de 21 desde las 18:00: llevamos el pasaporte."
+  ],
+  "reservations": [
+   {
+    "what": "Salida de golf (18 hoyos twilight, 2 jugadores, jugamos 9)",
+    "place": "dyker-beach-golf",
+    "deadline": "2026-10-18",
+    "url": "https://dyker-beach-golf-course.book.teeitup.com/",
+    "note": "La reserva online abre 10 días antes. Elegir entre 14:00 y 14:30. Cargo de USD 6 por reserva; se paga en el club."
+   },
+   {
+    "what": "Flexy Time (check-in 12:00) en la Hoxton",
+    "place": "hoxton-williamsburg",
+    "deadline": "2026-10-25",
+    "url": "https://thehoxton.com/williamsburg/",
+    "note": "Solo reservando directo con al menos 72 h de anticipación. Si la reserva es por otro canal, pedir early check-in por mail."
+   },
+   {
+    "what": "Mesa en Westlight (opcional)",
+    "place": "westlight",
+    "deadline": "2026-10-21",
+    "url": "https://www.westlightnyc.com/reservations/",
+    "note": "Fecha sugerida: la ventana de reserva no está publicada. Sin reserva entran según disponibilidad."
+   }
+  ],
+  "date": "2026-10-28",
+  "title": "Brooklyn, golf y el puente",
+  "lede": "Llegamos a JFK a las 9:30, dejamos las valijas en The Hoxton de Williamsburg y nos vamos a jugar 9 hoyos en Dyker Beach, un campo histórico de Brooklyn con vista al puente Verrazzano. Después comemos comida yemení en Bay Ridge (lamb haneeth y pan recién hecho en Yemen Café), subimos al Brooklyn Bridge a ver cómo se enciende Manhattan y volvemos a Williamsburg en ferry por el East River, para cerrar con un trago en Westlight.",
+  "hero": "dumbo-washington-street-view"
  },
  {
-  "date": "2026-10-29",
-  "title": "Expo, bote, queso y vino",
-  "lede": "Vamos a la Expo apenas abre, a las 10, para retirar el kit y sacarnos eso de encima. Almorzamos en Chelsea Market, caminamos un rato por la High Line y dejamos las cosas en el hotel de Lexington. A media tarde, barquito de remos en Central Park. Después nos sentamos frente al lago en el Boathouse a comer burrata, pan y tomar vino. Si nos queda energía, vamos a Edge a ver la ciudad de noche.",
   "blocks": [
+   {
+    "time": "08:30",
+    "place": "hoxton-williamsburg",
+    "title": "Check-out y taxi con las valijas",
+    "alternatives": [],
+    "note": "Salimos de la Hoxton a las 8:30 con todo el equipaje; el taxi nos deja en la puerta del Lexington.",
+    "_rewrite": true
+   },
+   {
+    "time": "09:10",
+    "place": "hotel-lexington",
+    "title": "Valijas al Lexington antes de la Expo",
+    "note": "Check-out de la Hoxton a las 08:30 y taxi directo al Lexington con las valijas. Pedimos que las guarden y dejamos anotado el pedido de early check-in (el estándar es a las 16:00).",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Williamsburg → Midtown East",
+     "minutes": null
+    },
+    "alternatives": [],
+    "_rewrite": true
+   },
    {
     "time": "10:00",
-    "place": "javits",
-    "title": "Retiramos el kit en la Expo"
+    "place": "javits-expo",
+    "title": "Retiro de dorsales en la Expo",
+    "note": "Turno de las 10:00 reservado para los dos en el dashboard de NYRR. Cada uno lleva su pasaporte y su formulario de confirmación. Retiramos dorsal y remera y recorremos los stands sin apuro.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Línea 7 de Grand Central a 34 St–Hudson Yards",
+     "minutes": null
+    },
+    "alternatives": [],
+    "_rewrite": true
    },
    {
-    "time": "mediodía",
-    "place": "chelsea-market",
-    "title": "Almuerzo en Chelsea Market"
-   },
-   {
-    "time": "mediodía",
+    "time": "11:30",
     "place": "high-line",
-    "title": "Un rato por la High Line"
+    "title": "High Line de la calle 34 a la 16",
+    "note": "Entramos por la calle 34, a una cuadra de la Expo, y caminamos hacia el sur unos 1.9 km: Rail Yards, The Spur en la calle 30 y Tenth Avenue Square. Bajamos en la calle 16, al lado de Chelsea Market.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Del Javits por 11th Ave hasta W 34th St y la entrada norte de la High Line, entre 11th y 12th Ave.",
+     "minutes": 5
+    },
+    "alternatives": [
+     {
+      "place": "little-island",
+      "reason": "otra-opción",
+      "note": "Si la High Line está llena, la cortamos en la calle 23 y, después de comer, cruzamos 8 minutos hasta Little Island a ver el río."
+     }
+    ],
+    "_rewrite": false
    },
    {
-    "time": "tarde",
-    "place": "lexington-hotel",
-    "title": "Dejamos las cosas en el hotel"
+    "time": "12:30",
+    "place": "chelsea-market",
+    "title": "Almuerzo en Chelsea Market",
+    "note": "Tacos de adobada en Los Tacos No. 1 y dan dan noodles en Very Fresh Noodles; uno hace fila y el otro pide. Postre en Fat Witch Bakery. Si algún puesto tiene mucha fila, adentro hay otros treinta.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Bajamos de la High Line en la calle 16 y entramos a Chelsea Market por el lado de 10th Ave.",
+     "minutes": 3
+    },
+    "alternatives": [],
+    "no_alt": true,
+    "_rewrite": false
    },
    {
-    "time": "tarde",
-    "place": "loeb-boathouse",
-    "title": "Bote de remos en el lago"
-   },
-   {
-    "time": "tarde",
-    "place": "loeb-boathouse",
-    "title": "Burrata, pan y vino frente al lago"
-   },
-   {
-    "time": "noche",
-    "place": "edge",
-    "title": "Edge de noche, si queda energía"
-   }
-  ],
-  "tips": [],
-  "reservations": []
- },
- {
-  "date": "2026-10-30",
-  "title": "Arte y Broadway",
-  "lede": "A la mañana, Frick Collection; almuerzo de pastrami en Pastrami Queen, por Lexington; y a la tarde, el Met. A la noche, Broadway: el voto es Hadestown, que tiene música, mitología y una puesta tremenda. Cenamos después de la función.",
-  "blocks": [
-   {
-    "time": "mañana",
-    "place": "frick",
-    "title": "Frick Collection"
-   },
-   {
-    "time": "mediodía",
-    "place": "pastrami-queen",
-    "title": "Pastrami en Pastrami Queen"
-   },
-   {
-    "time": "tarde",
-    "place": "met",
-    "title": "El Met"
-   },
-   {
-    "time": "noche",
-    "place": "walter-kerr",
-    "title": "Broadway: Hadestown"
-   }
-  ],
-  "tips": [],
-  "reservations": []
- },
- {
-  "date": "2026-10-31",
-  "title": "Manhattan a pleno y Halloween",
-  "lede": "Arrancamos por Grand Central, vamos al MoMA, bajamos a picar cosas por Chinatown y a la tarde cruzamos caminando el Brooklyn Bridge hacia DUMBO. Nos quedamos a ver cómo se enciende Manhattan desde el río. Esa noche es Halloween: podemos asomarnos un rato al desfile del Village y después volver cuando tengamos ganas.",
-  "blocks": [
-   {
-    "time": "mañana",
-    "place": "grand-central",
-    "title": "Grand Central"
-   },
-   {
-    "time": "mañana",
+    "time": "14:15",
     "place": "moma",
-    "title": "MoMA"
+    "title": "MoMA con lista cerrada",
+    "note": "Entrada comprada para las 10:30. Piso 5 (Van Gogh, Picasso, Monet, Frida) y piso 4 (Warhol); jardín de esculturas al final y Brancusi solo si sobran piernas. Salimos 12:45 como máximo.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Línea E de 14 St–8 Av a 5 Av/53 St",
+     "minutes": null
+    },
+    "alternatives": [
+     {
+      "place": "whitney-museum",
+      "reason": "sin-entradas",
+      "note": "A tres cuadras de Chelsea Market: si el MoMA está desbordado, lo cambiamos y ahorramos el viaje."
+     }
+    ],
+    "_rewrite": true
    },
    {
-    "time": "mediodía",
-    "place": "chinatown",
-    "title": "Picar cosas por Chinatown"
+    "time": "16:15",
+    "place": "central-park-rowboats",
+    "title": "Bote a remo en el lago",
+    "note": "Una hora de remo (USD 25, jueves) pasando por debajo del Bow Bridge. El último bote sale cerca de las 17:00 y no hay reservas, así que no llegamos más tarde de las 15:30.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por Fifth Avenue hasta Grand Army Plaza y el parque",
+     "minutes": null
+    },
+    "alternatives": [
+     {
+      "place": "bethesda-terrace",
+      "reason": "lluvia",
+      "note": "Si por lluvia o viento no alquilan botes, caminamos 5 minutos hasta la Bethesda Terrace y su arcada cubierta. La fuente está apagada por restauración."
+     }
+    ],
+    "_rewrite": true
    },
    {
-    "time": "tarde",
-    "place": "brooklyn-bridge",
-    "title": "Cruzamos el Brooklyn Bridge a pie"
+    "time": "17:15",
+    "place": "central-park-boathouse",
+    "title": "Burrata y vino frente al lago",
+    "note": "Mesa reservada a las 16:30 junto a la ventana (pedida, no garantizada). Burrata con pan rústico grillado (USD 26), Parker House rolls y una copa cada uno mientras se pone el sol a las 17:57.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Del muelle de botes al restaurante, en el mismo edificio.",
+     "minutes": 2
+    },
+    "alternatives": [
+     {
+      "place": "tavern-on-the-green",
+      "reason": "sin-entradas",
+      "note": "Si no conseguimos mesa en el Boathouse, reservamos en Tavern on the Green (abre hasta las 22:00) y cruzamos el parque caminando, 18 min."
+     }
+    ],
+    "_rewrite": false
    },
    {
-    "time": "tarde",
-    "place": "dumbo",
-    "title": "Manhattan se enciende desde el río"
-   },
-   {
-    "time": "noche",
-    "place": "halloween-parade",
-    "title": "Un rato del desfile del Village"
+    "time": "20:00",
+    "place": "edge-hudson-yards",
+    "title": "Edge de noche (si hay energía)",
+    "note": "Solo si nos quedan ganas: la última entrada es a las 21:00. Antes pasamos por el hotel a buscar abrigo.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Del Boathouse al hotel: línea [6] de 68 St–Hunter College a 51 St. A las 19:30 salimos a pie a Grand Central (7 min), línea [7] hasta 34 St–Hudson Yards y 5 min a pie hasta el nivel 4 de The Shops. Los minutos son desde el hotel.",
+     "minutes": 25
+    },
+    "alternatives": [
+     {
+      "place": "summit-one-vanderbilt",
+      "reason": "cansados",
+      "note": "Pegado al hotel: vista de noche sin cruzar la ciudad."
+     }
+    ],
+    "_rewrite": false
    }
   ],
-  "tips": [],
-  "reservations": []
+  "tips": [
+   "Cada uno lleva su pasaporte y su formulario de confirmación de NYRR (en el celular o impreso): nadie puede retirar el dorsal del otro.",
+   "El último bote sale cerca de las 17:00: si el almuerzo se estira, salteamos el paso por el hotel y vamos directo de Chelsea Market al parque (línea [E] hasta Lexington Av/53 St, combinación con el 6 hasta 68 St–Hunter College, o taxi).",
+   "El Boathouse no acepta efectivo: pagamos con tarjeta o con el celular.",
+   "Es jueves y la maratón es el domingo: el remo es trabajo de brazos y la caminata del día es suave, pero Edge queda solo si las piernas están bien."
+  ],
+  "reservations": [
+   {
+    "what": "Turno de retiro de dorsales, jueves 10:00 (cada corredor)",
+    "place": "javits-expo",
+    "deadline": "2026-10-01",
+    "url": "https://www.nyrr.org/tcsnycmarathon/raceweek/expo",
+    "note": "La selección está abierta en el dashboard de NYRR desde el 25-ago y cierra el 31-oct a las 16:00. Conviene hacerlo ya para asegurar el primer turno del jueves."
+   },
+   {
+    "what": "Mesa en el Boathouse para las 16:30",
+    "place": "central-park-boathouse",
+    "deadline": "2026-10-08",
+    "url": "https://www.opentable.com/r/central-park-boathouse-new-york-2",
+    "note": "OpenTable abre 21 días antes. Pedir ventana en la nota."
+   },
+   {
+    "what": "Entradas a Edge para las 20:00 (Advance Saver)",
+    "place": "edge-hudson-yards",
+    "deadline": "2026-10-15",
+    "url": "https://www.edgenyc.com/get-tickets/",
+    "note": "Desde USD 34 comprando con 14 días o más. Ventas finales: si dudamos de la energía, comprar el mismo día."
+   },
+   {
+    "what": "Pedido de early check-in y guardado de valijas en el Lexington",
+    "place": "hotel-lexington",
+    "deadline": "2026-10-22",
+    "url": "https://www.lexingtonhotelnyc.com/",
+    "note": "Por mail a info@lexingtonnyc.com: llegamos 09:15 con valijas."
+   }
+  ],
+  "date": "2026-10-29",
+  "title": "Expo, MoMA, bote, queso y vino",
+  "lede": "Dejamos las valijas en el Lexington y vamos a la Expo apenas abre, a las 10, para retirar el kit y sacarnos eso de encima. Bajamos por la High Line hasta Chelsea Market para almorzar y a la tarde vamos al MoMA. Después, barquito de remos en Central Park y burrata, pan y vino frente al lago en el Boathouse. Si nos queda energía, Edge de noche.",
+  "hero": "central-park-rowboats"
  },
  {
+  "blocks": [
+   {
+    "time": "09:00",
+    "place": "grand-central-terminal",
+    "title": "Grand Central antes de que se llene",
+    "note": "Entramos por el Graybar Passage desde Lexington Ave. Main Concourse y reloj, y bajamos por la rampa del Oyster Bar a la Whispering Gallery. El restaurante está cerrado el sábado, pero la galería se visita igual.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Seis cuadras por Lexington Ave",
+     "minutes": null
+    },
+    "alternatives": [
+     {
+      "place": "summit-one-vanderbilt",
+      "reason": "otra-opción",
+      "note": "Si amanece despejado: la ciudad desde arriba, en el edificio de al lado."
+     }
+    ],
+    "_rewrite": true
+   },
+   {
+    "time": "10:30",
+    "place": "frick-collection",
+    "title": "Frick Collection",
+    "note": "Entrada con horario de 10:30. Recorremos la planta baja (Holbein, Vermeer, sala Fragonard), subimos a las salas nuevas y, si hay energía, la muestra de bronces de Siena. Salimos a las 12:15.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Línea 6 de Grand Central a 68 St–Hunter College",
+     "minutes": null
+    },
+    "alternatives": [
+     {
+      "place": "guggenheim",
+      "reason": "sin-entradas",
+      "note": "Si no conseguimos franja en la Frick. Abre 10:30–17:30 y queda a 8 min del Met, así que la tarde se acorta en caminata."
+     }
+    ],
+    "_rewrite": true
+   },
+   {
+    "time": "12:15",
+    "place": "pastrami-queen-ues",
+    "title": "Pastrami en Pastrami Queen",
+    "note": "Un sándwich de pastrami para los dos, sopa de matzo ball y un knish. Si no hay mesa, pedimos para llevar y comemos en un banco del parque camino al Met.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la calle 70 hacia el este hasta Lexington y 8 cuadras al norte hasta la 78 (1 km).",
+     "minutes": 13
+    },
+    "alternatives": [
+     {
+      "place": "2nd-ave-deli-ues",
+      "reason": "otra-opción",
+      "note": "Si Pastrami Queen está lleno y queremos comer sentados con más espacio: 17 min a pie desde la Frick, abre 11:00–21:00."
+     },
+     {
+      "place": "cafe-sabarsky",
+      "reason": "piernas",
+      "note": "Almuerzo sentado en un café vienés a 5 min del Met; conviene llegar antes de las 12:30 por la fila."
+     }
+    ],
+    "_rewrite": false
+   },
+   {
+    "time": "13:20",
+    "place": "met-fifth-avenue",
+    "title": "Tarde en el Met",
+    "note": "Ruta de 6 paradas: Great Hall, Templo de Dendur, Vermeer y pintura europea, Washington Crossing the Delaware, Krasner y Pollock. Usamos ascensores y cortamos a las 16:15 aunque falte algo.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por Lexington hasta la 82 y hacia el oeste hasta Fifth Ave (0.9 km).",
+     "minutes": 11
+    },
+    "alternatives": [
+     {
+      "place": "guggenheim",
+      "reason": "cansados",
+      "note": "Si las piernas piden algo más corto: 90 min en bajada por la rampa, a 8 min del Met."
+     }
+    ],
+    "_rewrite": false
+   },
+   {
+    "time": "16:30",
+    "place": "hotel-lexington",
+    "title": "Descanso en el hotel",
+    "note": "Ducha, piernas en alto y algo liviano para comer antes del teatro. Salimos a las 18:10.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "12 min a pie hasta 77 St (Lexington); línea [6] hacia el sur (downtown), 3 paradas hasta 51 St; 4 min a pie al hotel.",
+     "minutes": 25
+    },
+    "alternatives": [
+     {
+      "place": "nycm-opening-ceremony",
+      "reason": "otra-opción",
+      "note": "Si queremos ver el Desfile de las Naciones, salimos del Met a las 16:00 y cruzamos el parque hasta la llegada (24 min). Miramos desde la tribuna hasta las 18:00 y vamos a pie al teatro (18 min). Suma unos 3.5 km y se pierde el descanso."
+     }
+    ],
+    "_rewrite": false
+   },
+   {
+    "time": "18:30",
+    "place": "hadestown-walter-kerr",
+    "title": "Hadestown en Broadway",
+    "note": "Función de las 19:00, 2 h 30 min con intervalo; termina cerca de las 21:30. Llegamos 30 min antes para entrar sin apuro y pasar por el baño.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la calle 48 hacia el oeste, de Lexington hasta entre Broadway y 8th Ave (1.3 km). Con piernas cansadas, taxi: 10–15 min con el tránsito del viernes.",
+     "minutes": 17
+    },
+    "alternatives": [
+     {
+      "place": "maybe-happy-ending-belasco",
+      "reason": "piernas",
+      "note": "1 h 40 min sin intervalo y 6 Tony 2025; desde USD 61.03 el 30-oct. Terminamos a las 20:40 y cenamos antes."
+     },
+     {
+      "place": "buena-vista-social-club-schoenfeld",
+      "reason": "sin-entradas",
+      "note": "Música cubana en vivo cantada en español; 19:00, 2 h 10 min, desde USD 64.29. A 4 min de Joe Allen."
+     },
+     {
+      "place": "the-lion-king-minskoff",
+      "reason": "sin-entradas",
+      "note": "Títeres y máscaras de Julie Taymor, 6 premios Tony; 19:00, 2 h 30 min, desde USD 175."
+     },
+     {
+      "place": "tkts-times-square",
+      "reason": "sin-entradas",
+      "note": "Si todo está caro o agotado: el viernes abre 15:00–20:00 con hasta 50% de descuento; mirar TKTS Live antes para no hacer fila en vano."
+     }
+    ],
+    "_rewrite": false
+   },
+   {
+    "time": "21:45",
+    "place": "joe-allen",
+    "title": "Cena en Joe Allen",
+    "note": "Reserva a las 21:45. Abre hasta las 23:30, así que no corremos. Pedimos algo con carbohidratos (pappardelle o meatloaf con puré) y banana cream pie.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por 8th Ave dos cuadras al sur hasta la 46 y media cuadra al oeste (0.4 km).",
+     "minutes": 5
+    },
+    "alternatives": [
+     {
+      "place": "becco",
+      "reason": "otra-opción",
+      "note": "Carga de pasta sin límite a USD 36.95; cierra a las 23:00, hay que llegar antes de las 22:15."
+     },
+     {
+      "place": "marseille",
+      "reason": "otra-opción",
+      "note": "Brasserie francesa en 9th Ave y 44th, abierta hasta las 23:00; más tranquila si Joe Allen está lleno."
+     }
+    ],
+    "_rewrite": false
+   },
+   {
+    "time": "23:10",
+    "place": "hotel-lexington",
+    "title": "Vuelta al hotel",
+    "note": "Nada de caminar de más: subte [E] o taxi y a dormir. El sábado es día de piernas quietas.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "6 min a pie hasta 50 St (8th Ave); línea [E] hacia Queens, 3 paradas hasta Lexington Av/53 St; 7 min a pie hasta la 48. En taxi son unos 10 min.",
+     "minutes": 20
+    },
+    "alternatives": [],
+    "_rewrite": false
+   }
+  ],
+  "tips": [
+   "Caminata estimada del plan completo: unos 7 km en la calle más 3–4 km dentro de los museos, con 5 horas de pie. Dos días antes de la maratón es mucho.",
+   "Variante liviana: subte o taxi en todos los tramos, Frick en 90 min, Met en 90 min (solo Dendur, Vermeer y Washington), y Maybe Happy Ending en lugar de Hadestown. Queda en unos 5 km en total.",
+   "Si hay que elegir un solo museo, nos quedamos con la Frick: se recorre entera en menos de 2 horas.",
+   "La lotería de Hadestown (Lucky Seat) es solo para residentes de EE.UU.: la única vía segura es comprar ya.",
+   "Cenar a las 22:00 atrasa el sueño. Si preferimos dormir temprano, comemos en Becco o Joe Allen a las 17:30 y después del teatro solo postre.",
+   "La terraza del Met está cerrada hasta 2030: no la busquemos.",
+   "Si el retiro del dorsal no se hizo el jueves, la Expo en el Javits abre el viernes 10:00–20:00 con turno elegido en el panel de NYRR; eso reemplaza la mañana de la Frick."
+  ],
+  "reservations": [
+   {
+    "what": "Entradas para Hadestown, viernes 30 a las 19:00",
+    "place": "hadestown-walter-kerr",
+    "deadline": "2026-10-04",
+    "url": "https://us.atgtickets.com/events/hadestown/walter-kerr-theatre/",
+    "note": "Hasta el 4 de octubre, código FALLSALE con hasta 20% en funciones seleccionadas. Después, comprar igual cuanto antes."
+   },
+   {
+    "what": "Entrada con horario para la Frick, 10:30",
+    "place": "frick-collection",
+    "deadline": "2026-10-23",
+    "url": "https://www.frick.org/tickets",
+    "note": "USD 30 por persona. No permite cambiar la fecha."
+   },
+   {
+    "what": "Mesa en Joe Allen, 21:45 para 2",
+    "place": "joe-allen",
+    "deadline": "2026-10-23",
+    "url": "https://www.opentable.com/joe-allen-reservations-new-york?restref=107137",
+    "note": "Las reservas abren una semana antes a las 11:00 de Nueva York (12:00 en Buenos Aires)."
+   },
+   {
+    "what": "Entradas del Met para el 30 de octubre",
+    "place": "met-fifth-avenue",
+    "deadline": "2026-10-30",
+    "url": "https://engage.metmuseum.org/admission",
+    "note": "USD 30 por persona, sin horario; comprarlas antes evita la fila de boletería."
+   }
+  ],
+  "date": "2026-10-30",
+  "title": "Grand Central, arte y Broadway",
+  "lede": "Arrancamos por Grand Central, a seis cuadras del hotel, y tomamos la 6 hasta la Frick Collection. Almorzamos pastrami en Pastrami Queen, por Lexington, y a la tarde vamos al Met. A la noche, Broadway: Hadestown, que tiene música, mitología y una puesta tremenda. Cenamos después de la función.",
+  "hero": "grand-central-terminal"
+ },
+ {
+  "blocks": [
+   {
+    "time": "07:30",
+    "place": "trote-suave-central-park",
+    "title": "Trote suave de la víspera (opcional)",
+    "note": "Unos 25 minutos muy suaves y cuatro aceleraciones cortas. Salimos del hotel por Madison Ave, entramos por 5th Ave y 60th St y usamos el lado este del parque. A las 8:15 estamos de vuelta, antes del Dash 5K.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Trotando desde el hotel por Madison Ave hasta 5th Ave y 60th St (1.3 km)",
+     "minutes": 8
+    },
+    "alternatives": [],
+    "_rewrite": false
+   },
+   {
+    "time": "09:45",
+    "place": "bag-precheck-cpw",
+    "title": "Bolso pre-chequeado (si lo elegimos)",
+    "alternatives": [],
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Del hotel a Central Park West y la calle 74",
+     "minutes": null
+    },
+    "_rewrite": true
+   },
+   {
+    "time": "10:45",
+    "place": "whitehall-ferry-terminal",
+    "title": "Ferry a Staten Island, ida y vuelta",
+    "alternatives": [
+     {
+      "place": "moma",
+      "reason": "otra-opción",
+      "note": "Si el jueves no entró el MoMA, es el plan bajo techo del sábado."
+     }
+    ],
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Línea 1 de 72 St a South Ferry",
+     "minutes": null
+    },
+    "_rewrite": true
+   },
+   {
+    "time": "12:45",
+    "place": "nom-wah-tea-parlor",
+    "title": "Dim sum sentados en Nom Wah",
+    "note": "Parada sentada: ha gow, egg roll y fideos salteados. Nos anotamos en la puerta al llegar; llevamos efectivo.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Líneas R o W de Whitehall a Canal St",
+     "minutes": null
+    },
+    "alternatives": [
+     {
+      "place": "joes-shanghai-chinatown",
+      "reason": "otra-opción",
+      "note": "Soup dumplings a dos cuadras, si en Nom Wah hay mucha espera."
+     },
+     {
+      "place": "mei-lai-wah",
+      "reason": "otra-opción",
+      "note": "Bollos de cerdo para llevar, a una cuadra: la merienda del hotel."
+     }
+    ],
+    "_rewrite": true
+   },
+   {
+    "time": "14:15",
+    "place": "hotel-lexington",
+    "title": "Piernas arriba y armado del kit",
+    "alternatives": [],
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Línea 6 de Canal St a 51 St",
+     "minutes": null
+    },
+    "_rewrite": true
+   },
+   {
+    "time": "17:30",
+    "place": "rosemarys-midtown",
+    "title": "Pasta temprano",
+    "alternatives": [
+     {
+      "place": "pj-clarkes-third-avenue",
+      "reason": "otra-opción",
+      "note": "Clásico de 1884 a cinco cuadras del hotel, si Rosemary's no tiene mesa."
+     }
+    ],
+    "_rewrite": true
+   },
+   {
+    "time": "19:15",
+    "place": "village-halloween-parade",
+    "title": "Un rato del desfile del Village (opcional)",
+    "note": "Bajamos en Spring St (línea [6]) y caminamos 800 m por Prince St hasta la 6th Ave, lado este, frente a King St. Miramos 30–40 minutos y volvemos por el mismo camino a Spring St: la 6 va directo a 51 St, a tres cuadras del hotel.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Línea 6 hasta 14 St–Union Sq",
+     "minutes": null
+    },
+    "alternatives": [
+     {
+      "place": "hotel-lexington",
+      "reason": "cansados",
+      "note": "El desfile lo transmite NY1 desde las 20:00: lo vemos desde la cama."
+     }
+    ],
+    "_rewrite": true
+   },
+   {
+    "time": "21:00",
+    "place": "hotel-lexington",
+    "title": "A dormir temprano",
+    "alternatives": [],
+    "note": "Dejamos todo listo sobre una silla: dorsal prendido, geles, ropa descartable para la largada. Esta noche se atrasa el reloj una hora.",
+    "_rewrite": true
+   }
+  ],
+  "tips": [
+   "Kilómetros honestos: el plan como está escrito suma unos 16 km a pie (puente ida y vuelta, desfile, subte solo de MoMA a Chinatown y de City Hall a Spring St), más 2.5 horas de pie en MoMA. Si del puente caminamos hasta el desfile son unos 18 km, y si además vamos a pie de MoMA a Chinatown, unos 22 km.",
+   "Versión piernas frescas (unos 12 km): trote de 20 minutos o nada; Grand Central 30 minutos; MoMA 2 horas con la lista; línea [6] a Chinatown y solo tres paradas (Mei Lai Wah, Xi'an y Nom Wah sentados); puente solo de ida; en DUMBO, foto de Washington St y directo a los escalones de Pier 1; ferry de 18:31 o 18:44 a East 34th St y taxi; cena 19:15 en Rosemary's; desfile 30 minutos en la 6th Ave y la calle 15 (línea [6] hasta 14 St–Union Sq y 750 m a pie) o por NY1 desde el hotel.",
+   "Versión mínima (unos 9 km): la de piernas frescas, pero con la línea [F] de East Broadway a York St en lugar del puente y el desfile por televisión (NY1 lo transmite desde las 20:00).",
+   "El almuerzo en Chinatown es la carga de carbohidratos fuerte: fideos, dumplings y bollos. Pedimos todo sin picante y evitamos lo frito; la cena de pasta completa el día.",
+   "Esa noche se atrasa el reloj: el domingo 1 de noviembre a las 2:00 vuelve a ser la 1:00. Ganamos una hora de sueño; los celulares se ajustan solos, el despertador y el reloj de carrera hay que revisarlos.",
+   "Si el número no está retirado: la Expo del Javits cierra el sábado a las 17:00 y el turno de retiro se elige hasta las 16:00. En ese caso la tarde en DUMBO no entra.",
+   "Pasaje del ferry: comprarlo en la app NYC Ferry antes de llegar al muelle. Efectivo para Nom Wah y Mei Lai Wah.",
+   "Para el río y la noche del desfile, una capa extra en la mochila."
+  ],
+  "reservations": [
+   {
+    "what": "Entradas MoMA, sábado 10:30",
+    "place": "moma",
+    "deadline": "2026-10-24",
+    "url": "https://visit.moma.org/select",
+    "note": "La muestra de Brancusi abre el 25 de octubre: el sábado siguiente va a haber gente."
+   },
+   {
+    "what": "Cena Cecconi's 18:30 (plan original)",
+    "place": "cecconis-dumbo",
+    "deadline": "2026-10-10",
+    "url": "https://www.cecconisrestaurants.com/dumbo/",
+    "note": "Pedir mesa con vista a los puentes."
+   },
+   {
+    "what": "Cena Rosemary's 19:15 (versión piernas frescas)",
+    "place": "rosemarys-midtown",
+    "deadline": "2026-10-10",
+    "url": "https://resy.com/cities/new-york-ny/venues/rosemarys-midtown",
+    "note": "Si reservamos las dos cenas, revisar la política de cancelación y liberar una el mismo sábado según cómo estén las piernas."
+   },
+   {
+    "what": "Summit One Vanderbilt 17:00 (solo si hay pronóstico de lluvia)",
+    "place": "summit-one-vanderbilt",
+    "deadline": "2026-10-29",
+    "url": "https://summitov.com/tickets/",
+    "note": "Decidir con el pronóstico del jueves; los turnos del atardecer se agotan."
+   }
+  ],
+  "date": "2026-10-31",
+  "title": "Sábado liviano y Halloween",
+  "lede": "La víspera de la maratón caminamos poco. Ida y vuelta en el ferry de Staten Island, sentados y con la Estatua de la Libertad a un costado; dim sum en Chinatown; tarde de piernas arriba en el hotel y pasta temprano. Esa noche es Halloween: si hay ganas, nos asomamos un rato al desfile del Village y volvemos a dormir.",
+  "hero": "village-halloween-parade"
+ },
+ {
+  "blocks": [
+   {
+    "time": "04:30",
+    "place": "hotel-lexington",
+    "title": "Despertador de Daniela (hora nueva)",
+    "note": "A las 2:00 los relojes volvieron a la 1:00, así que dormimos una hora más. Desayuno liviano comprado el sábado, dorsal en el pecho y ropa descartable encima. Horarios de ejemplo con micro a las 06:00: ajustar al horario impreso en su dorsal.",
+    "from_prev": null,
+    "alternatives": []
+   },
+   {
+    "time": "05:30",
+    "place": "nypl-marathon-buses",
+    "title": "Daniela: micro oficial en la Biblioteca",
+    "note": "NYRR pide llegar 15 min antes de la salida asignada. Hay baños en la zona de carga y no en los micros. Todavía es de noche: amanece a las 06:25.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la 48th al oeste hasta Fifth Ave y al sur hasta la 41st.",
+     "minutes": 13
+    },
+    "alternatives": [
+     {
+      "place": "whitehall-ferry-terminal",
+      "reason": "otra-opción",
+      "note": "Si su asignación es ferry: salir del hotel 55 min antes del horario del dorsal, línea 4 o 5 desde Grand Central hasta Bowling Green."
+     }
+    ]
+   },
+   {
+    "time": "06:30",
+    "place": "hotel-lexington",
+    "title": "Despertador de Matías",
+    "note": "Ejemplo con ferry a las 08:15 para la ola 4: salir del hotel a las 07:20. Mismo ritual: desayuno, dorsal, bolsa transparente oficial y abrigo descartable. Seguir a Daniela en la app NYRR desde que larga.",
+    "from_prev": null,
+    "alternatives": []
+   },
+   {
+    "time": "07:30",
+    "place": "fort-wadsworth-start-village",
+    "title": "Daniela llega a la villa de largada",
+    "note": "Control con detector de metales, baño y café. La ola 1 abre corrales a las 08:10 y los cierra a las 08:45. Dejar el abrigo en los contenedores de donación justo antes de entrar al corral.",
+    "from_prev": {
+     "mode": "bus",
+     "detail": "Daniela: micro oficial desde la Biblioteca directo a Fort Wadsworth (NYRR estima 90 min con esperas).",
+     "minutes": 90
+    },
+    "alternatives": []
+   },
+   {
+    "time": "08:00",
+    "place": "whitehall-ferry-terminal",
+    "title": "Matías: ferry de corredores a Staten Island",
+    "note": "Llegar 15 min antes del horario asignado. El ferry cruza a St. George y ahí siguen micros oficiales a Fort Wadsworth; NYRR calcula 90 min en total.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "A pie a Grand Central–42 St (7 min), línea [4] o [5] downtown hasta Bowling Green y 5 min a pie hasta la terminal.",
+     "minutes": 40
+    },
+    "alternatives": [
+     {
+      "place": "nypl-marathon-buses",
+      "reason": "otra-opción",
+      "note": "Si le asignaron micro de la Biblioteca: sale más temprano y espera más en la villa, así que conviene más abrigo y algo para sentarse."
+     }
+    ]
+   },
+   {
+    "time": "09:10",
+    "place": "fort-wadsworth-start-village",
+    "title": "Largada ola 1: Daniela cruza el Verrazzano",
+    "note": "Si le tocó la ola 2, larga a las 09:45 (corral 09:05–09:25). Pasar la línea puede llevar unos minutos según el corral; el tiempo oficial es neto. Hora argentina: 11:10.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Del corral a la línea de largada al pie del puente.",
+     "minutes": 10
+    },
+    "alternatives": []
+   },
+   {
+    "time": "09:45",
+    "place": "fort-wadsworth-start-village",
+    "title": "Matías llega a la villa de largada",
+    "note": "Con ola 4 el corral abre a las 10:25 y cierra a las 10:40. Hay tiempo para baño, café y mirar en la app por dónde va Daniela.",
+    "from_prev": {
+     "mode": "ferry",
+     "detail": "Matías: ferry a St. George y micro oficial a Fort Wadsworth.",
+     "minutes": 90
+    },
+    "alternatives": []
+   },
+   {
+    "time": "10:55",
+    "place": "fort-wadsworth-start-village",
+    "title": "Largada ola 4: Matías",
+    "note": "Con ola 3 larga a las 10:20; con ola 5, a las 11:30 (corral 11:00–11:15). Los relojes del recorrido marcan el tiempo de la ola 1: para el ritmo, usar el reloj propio.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Del corral a la línea de largada.",
+     "minutes": 10
+    },
+    "alternatives": []
+   },
+   {
+    "time": "12:45",
+    "place": "marathon-finish-line",
+    "title": "Llegada estimada de Daniela",
+    "note": "Con ola 1 (09:10) y 3:30–4:00 de carrera, cruza entre 12:40 y 13:25 según cuánto tarde en pasar la largada. Con ola 2 (09:45), entre 13:15 y 14:00. Medalla, poncho y bolsa de recuperación.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Daniela: los 42.195 km por Staten Island, Brooklyn, Queens, el Bronx y Manhattan.",
+     "minutes": 225
+    },
+    "alternatives": []
+   },
+   {
+    "time": "13:15",
+    "place": "post-finish-exit-w77",
+    "title": "Daniela sale del parque por W 77th St",
+    "note": "Seguir por Central Park West y dejar la zona exclusiva por W 74th St. Mandar un mensaje apenas haya señal: adentro de la zona suele no haber.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Caminata por dentro del parque desde la meta hasta la salida de W 77th St.",
+     "minutes": 25
+    },
+    "alternatives": [
+     {
+      "place": "family-reunion",
+      "reason": "cansados",
+      "note": "Si no quiere ir y volver al hotel: esperar a Matías en Family Reunion (abre a las 11:00), bien abrigada; son casi tres horas."
+     }
+    ]
+   },
+   {
+    "time": "14:00",
+    "place": "hotel-lexington",
+    "title": "Daniela: ducha, comida y abrigo para Matías",
+    "note": "Queda cerca de una hora y media en el hotel. Seguir a Matías en la app NYRR: su tiempo estimado de llegada marca cuándo salir. Preparar una bolsa chica con buzo, campera y zapatillas secas para él.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "A pie a 72 St (Broadway), línea [2] o [3] una parada hasta Times Sq–42 St, shuttle S a Grand Central y 5 cuadras por Lexington.",
+     "minutes": 35
+    },
+    "alternatives": [
+     {
+      "place": "elite-healers-sports-massage",
+      "reason": "piernas",
+      "note": "Si Matías largó en la ola 5 y hay margen: masaje suave de 60 min antes de las 17:00, a 11 min del hotel."
+     }
+    ]
+   },
+   {
+    "time": "15:45",
+    "place": "marathon-finish-line",
+    "title": "Llegada estimada de Matías",
+    "note": "Con ola 4 (10:55) y 4:30–5:00 de carrera, cruza entre 15:25 y 16:10. Con ola 3, entre 14:50 y 15:35; con ola 5, entre 16:00 y 16:45. El sol se pone a las 16:53.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Matías: los 42.195 km por los cinco distritos.",
+     "minutes": 285
+    },
+    "alternatives": []
+   },
+   {
+    "time": "16:15",
+    "place": "family-reunion",
+    "title": "Encuentro en el cartel O–Z (W 69th St)",
+    "note": "Plan A: los dos en el cartel O–Z sobre W 69th St. Daniela llega 20–30 min después de la llegada de Matías que marque la app; él sale por W 77th St y baja por Central Park West. Ropa seca para Matías ahí mismo.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "Daniela: el mismo camino al revés (Grand Central, shuttle S, línea [2] o [3] a 72 St). Matías: a pie desde la meta, unos 30 min.",
+     "minutes": 35
+    },
+    "alternatives": [
+     {
+      "place": "hotel-lexington",
+      "reason": "otra-opción",
+      "note": "Plan B sin teléfonos: si a las 17:30 no nos encontramos, cada uno vuelve al hotel por su cuenta (Family Reunion cierra a las 18:00)."
+     },
+     {
+      "place": "post-finish-exit-w77",
+      "reason": "otra-opción",
+      "note": "Si Family Reunion está desbordada: esquina de Columbus Ave y W 74th St, frente a la salida de corredores de esa calle."
+     }
+    ]
+   },
+   {
+    "time": "17:15",
+    "place": "hotel-lexington",
+    "title": "Vuelta al hotel y ducha de Matías",
+    "note": "Con las piernas duras conviene ir despacio en las escaleras y pasillos de Times Sq. Si pasa un taxi libre por Broadway y el tránsito fluye, es opción.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "A pie a 72 St (Broadway), línea [2] o [3] a Times Sq–42 St, shuttle S a Grand Central y a pie por Lexington.",
+     "minutes": 40
+    },
+    "alternatives": []
+   },
+   {
+    "time": "19:30",
+    "place": "rosa-mexicano-second-avenue",
+    "title": "Cena de festejo con medalla",
+    "note": "Medallas puestas: margarita de regalo con plato principal, solo el 1 de noviembre. Guacamole en la mesa para empezar. Cierra a las 22:00.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la 49th al este hasta Second Ave y tres cuadras al norte.",
+     "minutes": 8
+    },
+    "alternatives": [
+     {
+      "place": "the-smith-midtown",
+      "reason": "otra-opción",
+      "note": "Más grande y abierto hasta las 23:00; el plato del domingo es chicken parm (USD 29)."
+     },
+     {
+      "place": "pj-clarkes-third-avenue",
+      "reason": "cansados",
+      "note": "Hamburguesa Cadillac y a dormir temprano; cierra a las 23:00."
+     }
+    ]
+   }
+  ],
+  "tips": [
+   "Revisar ya en el dashboard de NYRR qué modo de transporte quedó cargado para cada uno. El horario asignado llega en octubre y viene impreso en el dorsal.",
+   "Cambio de hora: esa madrugada los relojes vuelven de 2:00 a 1:00. Las alarmas del celular suenan en la hora nueva; poner dos alarmas y no usar el reloj de la habitación.",
+   "Para Argentina: ese domingo Nueva York queda 2 h atrás. La ola 1 larga a las 11:10 hora argentina. Amigos y familia siguen por la app New York Road Runners o por ESPN Internacional (10:00–13:30 hora argentina).",
+   "Seguirnos mutuamente en la app NYRR (función Follow) antes del domingo, con nombre o número de dorsal.",
+   "Ropa descartable: buzo, pantalón, guantes y gorro que no nos importe perder; se donan en la villa. Manta térmica y lona transparente chica, permitidas. Bolsas de residuos opacas, prohibidas.",
+   "Si quieren largar juntos, Daniela puede pasar a la ola y corral de Matías (solo se permite ir a uno más tardío), pero cada uno viaja en el transporte y horario que tiene asignado.",
+   "Victory Lap, la fiesta oficial, es en Terminal 5 (610 W 56th St) de 19:00 a 23:00: USD 35 por persona para no socios más cargo, solo mayores de 21. Queda como plan si sobra energía después de cenar."
+  ],
+  "reservations": [
+   {
+    "what": "Cena de festejo para 2 a las 19:30",
+    "place": "rosa-mexicano-second-avenue",
+    "deadline": "2026-10-15",
+    "url": "https://www.opentable.com/r/rosa-mexicano-second-avenue-new-york",
+    "note": "Fecha sugerida: la noche de la maratón los restaurantes de Midtown se llenan de corredores."
+   },
+   {
+    "what": "Masaje suave del lunes a las 10:00 (opcional)",
+    "place": "elite-healers-sports-massage",
+    "deadline": "2026-10-30",
+    "url": "https://elitehealerssportsmassage.clinicsense.com/book/",
+    "note": "Antes del check-out del lunes 2."
+   }
+  ],
   "date": "2026-11-01",
   "title": "Maratón de Nueva York",
   "lede": "Los dos tenemos la misma misión: atravesar los cinco boroughs y encontrarnos al final. Después, ducha, medalla y cena sin horario rígido.",
   "marathon": true,
-  "blocks": [
-   {
-    "time": "temprano",
-    "place": "lexington-hotel",
-    "title": "Salimos hacia la largada"
-   },
-   {
-    "time": "mañana",
-    "place": "fort-wadsworth",
-    "title": "Largada en Staten Island"
-   },
-   {
-    "time": "tarde",
-    "place": "finish",
-    "title": "Llegada y reencuentro"
-   },
-   {
-    "time": "tarde",
-    "place": "lexington-hotel",
-    "title": "Ducha y medalla"
-   }
-  ],
-  "tips": [],
-  "reservations": []
+  "hero": "fort-wadsworth-start-village"
  },
  {
-  "date": "2026-11-02",
-  "title": "Harlem y festejo",
-  "lede": "Paseamos por Harlem sin apuro y almorzamos para festejar en Harry Cipriani, junto a Central Park. Después buscamos las valijas y vamos al hotel de Queens. Si nos quedan piernas y hambre, cerramos el viaje comiendo tacos de birria y otras cosas ricas por Jackson Heights.",
   "blocks": [
    {
-    "time": "mañana",
-    "place": "harlem",
-    "title": "Harlem sin apuro"
+    "time": "09:30",
+    "place": "hotel-lexington",
+    "title": "Check-out y valijas en custodia",
+    "note": "Hacemos el check-out y dejamos las valijas en la custodia del hotel (USD 3 por valija en efectivo, según reseñas). Salimos livianos, con la medalla en la mochila.",
+    "alternatives": []
    },
    {
-    "time": "mediodía",
+    "time": "10:15",
+    "place": "parque-marcus-garvey",
+    "title": "Marcus Garvey Park y la torre vigía",
+    "note": "Primer contacto con Harlem, sin apuro. Miramos la torre de hierro fundido desde abajo o subimos a la plaza si las piernas acompañan.",
+    "from_prev": {
+     "mode": "subte",
+     "detail": "A pie 6 min hasta Grand Central–42 St. Línea [4] o [5] (express) uptown hasta 125 St: 3 paradas. Salimos por la 125 y caminamos 5 min al oeste hasta Madison Av.",
+     "minutes": 25
+    },
+    "alternatives": [
+     {
+      "place": "schomburg-center",
+      "reason": "lluvia",
+      "note": "Si llueve, vamos directo al Schomburg Center (gratis, abre a las 10:00): taxi corto desde la 125 hasta Lenox Av y la 135."
+     }
+    ]
+   },
+   {
+    "time": "10:40",
+    "place": "studio-museum-harlem",
+    "title": "La 125: Red Rooster y el nuevo Studio Museum",
+    "note": "Caminamos la 125 hacia el oeste. Pasamos Red Rooster en Lenox Av y la fachada nueva del Studio Museum, que los lunes está cerrado.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la 125 hacia el oeste, cruzando Lenox Av (Malcolm X Blvd).",
+     "minutes": 12
+    },
+    "alternatives": [
+     {
+      "place": "sylvias",
+      "reason": "otra-opción",
+      "note": "Si queremos una parada de café o algo dulce, Sylvia's abre a las 11:00 a una cuadra de Lenox y la 126."
+     }
+    ]
+   },
+   {
+    "time": "11:00",
+    "place": "apollo-theater",
+    "title": "Apollo Theater",
+    "note": "Si reservamos la visita guiada de los lunes a las 11:00 (USD 17), entramos al teatro. Si no, fotos de la marquesina y del Walk of Fame en la vereda.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la 125 hacia el oeste, cruzando Adam Clayton Powell Jr. Blvd.",
+     "minutes": 5
+    },
+    "alternatives": [
+     {
+      "place": "schomburg-center",
+      "reason": "sin-entradas",
+      "note": "Sin visita del Apollo, sumamos las muestras del centenario del Schomburg (gratis)."
+     }
+    ]
+   },
+   {
+    "time": "12:15",
+    "place": "strivers-row",
+    "title": "Strivers' Row (opcional)",
+    "note": "Dos cuadras de casas de 1891–1893, con fachadas de Stanford White sobre la 139. Buscamos los carteles \"Walk Your Horses\" en los portones.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por Frederick Douglass Blvd al norte, de la 125 a la 138: unos 1 km.",
+     "minutes": 15
+    },
+    "alternatives": [
+     {
+      "place": "sylvias",
+      "reason": "piernas",
+      "note": "Si las piernas no dan para subir 13 cuadras, cortamos acá y almorzamos soul food en Sylvia's, a 6 min del Apollo."
+     }
+    ]
+   },
+   {
+    "time": "13:00",
     "place": "harry-cipriani",
-    "title": "Almuerzo de festejo"
-   },
-   {
-    "time": "tarde",
-    "place": "lexington-hotel",
-    "title": "Buscamos las valijas"
-   },
-   {
-    "time": "tarde",
-    "place": "doubletree-lga",
-    "title": "Hotel de Queens"
-   },
-   {
-    "time": "noche",
-    "place": "jackson-heights",
-    "title": "Tacos de birria en Jackson Heights"
-   }
-  ],
-  "tips": [],
-  "reservations": []
- },
- {
-  "date": "2026-11-03",
-  "title": "Vuelta",
-  "lede": "Salimos tranquilos hacia LaGuardia para el vuelo de las 15.",
-  "blocks": [
-   {
-    "time": "mañana",
-    "place": "doubletree-lga",
-    "title": "Salida tranquila"
+    "title": "Almuerzo de festejo en Harry Cipriani",
+    "note": "Brindis con Bellini por la maratón terminada. Carpaccio, tagliolini gratinados y torta de merengue. Business casual.",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Taxi o Uber desde la 138 y Frederick Douglass Blvd hasta 5th Av y la 59, unos 25 min según el tránsito. En subte: B o C desde 135 St hasta 59 St–Columbus Circle y 12 min a pie por Central Park South.",
+     "minutes": 25
+    },
+    "alternatives": [
+     {
+      "place": "sant-ambroeus-madison",
+      "reason": "otra-opción",
+      "note": "Si Cipriani no tiene mesa: cocina milanesa en Madison y la 77, almuerzo de 12:00 a 16:00."
+     },
+     {
+      "place": "bemelmans-bar",
+      "reason": "otra-opción",
+      "note": "Para un brindis más corto con algo de comer bajo los murales de Bemelmans; antes de las 17:30 no hay cargo por música."
+     },
+     {
+      "place": "red-rooster",
+      "reason": "piernas",
+      "note": "Si preferimos no movernos de Harlem: Red Rooster abre a las 12:00 y tiene prix fixe de USD 35."
+     }
+    ]
    },
    {
     "time": "15:00",
-    "place": "lga",
-    "title": "Vuelo desde LaGuardia"
+    "place": "hotel-lexington",
+    "title": "Retiramos las valijas",
+    "note": "Pasamos a buscar las valijas. Si pedimos late check-out, podemos usar el baño de la habitación antes del taxi.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por Madison o Park Av hacia el sur hasta la 48 y Lexington: unos 1.6 km. Con las piernas cansadas: taxi de unos 10 min, o la línea [6] desde 59 St hasta 51 St (1 parada).",
+     "minutes": 20
+    },
+    "alternatives": []
+   },
+   {
+    "time": "15:30",
+    "place": "doubletree-lga",
+    "title": "Taxi con valijas al DoubleTree LaGuardia",
+    "note": "Check-in desde las 15:00. Al llegar pedimos late check-out para el martes y el horario del shuttle.",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Taxi amarillo o Uber desde la puerta del hotel, por el Queensboro Bridge (sin peaje) o el RFK Bridge (con peaje): 30–50 min. Desde las 16:00 el taxi suma USD 2.50 de hora pico. Referencia UberX Midtown–LGA: USD 40–65 fuera de hora pico. Opción barata con valijas: línea [E] desde Lexington Av/53 St hasta Jackson Hts–Roosevelt Av, bus Q70 gratis hasta la Terminal B y llamar al shuttle del hotel (unos 75 min).",
+     "minutes": 45
+    },
+    "alternatives": []
+   },
+   {
+    "time": "17:45",
+    "place": "nepali-bhanchha-ghar",
+    "title": "Jackson Heights: arrancamos con momos",
+    "note": "Primera parada al lado de la estación: un plato de momos (USD 10–11) y un sel roti para compartir.",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Taxi o Uber del hotel a Roosevelt Av y la 74: unos 4 km, 10–15 min. Gratis: shuttle del hotel a la Terminal B y bus Q70 hasta Jackson Hts–Roosevelt Av (10 min de viaje; pasa cada 7–10 min a la tarde).",
+     "minutes": 15
+    },
+    "alternatives": [
+     {
+      "place": "phayul",
+      "reason": "otra-opción",
+      "note": "Si está lleno, los momos tibetanos de Phayul están a una cuadra, en un primer piso sobre la 74."
+     },
+     {
+      "place": "doubletree-lga",
+      "reason": "cansados",
+      "note": "Si no quedan piernas ni hambre, cenamos en el Elements Lounge del hotel y armamos las valijas temprano."
+     }
+    ]
+   },
+   {
+    "time": "18:20",
+    "place": "arepa-lady",
+    "title": "Arepa Lady",
+    "note": "Una arepa de queso con carne, o la de choclo, para compartir.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la 77 St hacia el norte hasta la 37th Av.",
+     "minutes": 6
+    },
+    "alternatives": [
+     {
+      "place": "cositas-ricas",
+      "reason": "cerrado",
+      "note": "Si Arepa Lady está cerrado (una fuente dice que abre seis días por semana), las arepas van en Cositas Ricas."
+     }
+    ]
+   },
+   {
+    "time": "18:50",
+    "place": "birria-landia-jackson-heights",
+    "title": "Birria-Landia: tacos y consomé",
+    "note": "El plato fuerte de la noche. Tacos, una mulita y un vaso de consomé para mojar. Se come parado junto al camión.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Por la 78 St hacia el sur hasta Roosevelt Av.",
+     "minutes": 4
+    },
+    "alternatives": [
+     {
+      "place": "cositas-ricas",
+      "reason": "lluvia",
+      "note": "Con lluvia o frío, mesa bajo techo en Cositas Ricas, a una cuadra y abierto las 24 h."
+     }
+    ]
+   },
+   {
+    "time": "19:30",
+    "place": "los-chuzos-y-algo-mas",
+    "title": "Chorizo colombiano de cierre",
+    "note": "Un chorizo crocante para compartir y damos por cerrado el viaje.",
+    "from_prev": {
+     "mode": "a pie",
+     "detail": "Una cuadra por Roosevelt Av hasta la 79.",
+     "minutes": 2
+    },
+    "alternatives": [
+     {
+      "place": "cositas-ricas",
+      "reason": "otra-opción",
+      "note": "Si queremos sentarnos para el cierre, Cositas Ricas está al lado."
+     }
+    ]
+   },
+   {
+    "time": "20:00",
+    "place": "doubletree-lga",
+    "title": "Vuelta al hotel",
+    "note": "Volvemos a armar las valijas. El martes no hay apuro hasta las 12:00.",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Taxi o Uber, 10–15 min. Gratis: Q70 desde la parada junto a Jackson Hts–Roosevelt Av hasta la Terminal B o C y llamar al hotel para el shuttle (corre hasta la 1:00).",
+     "minutes": 20
+    },
+    "alternatives": []
    }
   ],
-  "tips": [],
-  "reservations": []
+  "tips": [
+   "El sol se pone a las 16:52: Harlem va de mañana y Jackson Heights ya es de noche.",
+   "El Studio Museum in Harlem está cerrado los lunes: solo vemos la fachada.",
+   "Cipriani pide business casual: ropa de salir, nada de ropa deportiva.",
+   "Llevamos billetes chicos para la custodia de valijas y para los puestos de Jackson Heights.",
+   "El subte se paga con la tarjeta o el celular (OMNY); el bus Q70 a LaGuardia es gratis."
+  ],
+  "reservations": [
+   {
+    "what": "Almuerzo en Harry Cipriani, lunes 13:00 para 2",
+    "place": "harry-cipriani",
+    "deadline": "2026-10-19",
+    "url": "https://resy.com/cities/ny/harry-cipriani",
+    "note": "Alternativa: mail a harrycipriani@cipriani.com."
+   },
+   {
+    "what": "Visita guiada al Apollo, lunes 11:00",
+    "place": "apollo-theater",
+    "deadline": "2026-10-19",
+    "url": "https://www.apollotheater.org/tours",
+    "note": "Formulario online; USD 17 por persona, sin reembolso."
+   },
+   {
+    "what": "Late check-out en The Lexington (gratis hasta 14:00)",
+    "place": "hotel-lexington",
+    "deadline": "2026-10-29",
+    "url": "https://www.lexingtonhotelnyc.com/faq",
+    "note": "Pedirlo al hacer el check-in."
+   },
+   {
+    "what": "Late check-out en el DoubleTree LGA para el martes",
+    "place": "doubletree-lga",
+    "deadline": "2026-11-02",
+    "url": "https://www.hilton.com/en/hotels/nyclgdt-doubletree-new-york-laguardia-airport/",
+    "note": "Teléfono +1 718-457-6300."
+   }
+  ],
+  "date": "2026-11-02",
+  "title": "Harlem y festejo",
+  "lede": "Paseamos por Harlem sin apuro y almorzamos para festejar en Harry Cipriani, junto a Central Park. Después buscamos las valijas y vamos al hotel de Queens. Si nos quedan piernas y hambre, cerramos el viaje comiendo tacos de birria y otras cosas ricas por Jackson Heights.",
+  "hero": "apollo-theater"
+ },
+ {
+  "blocks": [
+   {
+    "time": "08:30",
+    "place": "doubletree-lga",
+    "title": "Desayuno y valijas listas",
+    "note": "Desayuno buffet en Pavilion Grille (6:00–11:00, con cargo) o algo liviano. Valijas cerradas antes de salir.",
+    "alternatives": []
+   },
+   {
+    "time": "09:45",
+    "place": "unisphere",
+    "title": "Unisphere, si hay ganas",
+    "note": "Paseo corto por el globo de la Feria Mundial de 1964–65. Nada más abre por la mañana: Queens Museum y la casa de Louis Armstrong están cerrados los martes.",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Taxi o Uber por la Grand Central Pkwy, 10–15 min. Taxímetro TLC: USD 3 de bajada más USD 0.70 cada 1/5 de milla.",
+     "minutes": 15
+    },
+    "alternatives": [
+     {
+      "place": "doubletree-lga",
+      "reason": "piernas",
+      "note": "Si llueve o las piernas piden descanso, mañana tranquila en el hotel."
+     }
+    ]
+   },
+   {
+    "time": "11:00",
+    "place": "doubletree-lga",
+    "title": "Vuelta y check-out",
+    "note": "Check-out a las 11:00, o más tarde si nos dieron late check-out. Si no, dejamos las valijas en recepción.",
+    "from_prev": {
+     "mode": "taxi",
+     "detail": "Taxi o Uber de vuelta, 10–15 min.",
+     "minutes": 15
+    },
+    "alternatives": []
+   },
+   {
+    "time": "12:00",
+    "place": "aeropuerto-laguardia",
+    "title": "Shuttle a LaGuardia",
+    "note": "Vuelo a las 15:00 con conexión internacional: en la terminal a las 12:15–12:30, 2.5 h antes. Terminal B si volamos American, United o JetBlue; C si es Delta.",
+    "from_prev": {
+     "mode": "bus",
+     "detail": "Shuttle gratis del hotel, unos 10 min; sale cada 20–30 min, así que bajamos al lobby 11:45.",
+     "minutes": 15
+    },
+    "alternatives": []
+   }
+  ],
+  "tips": [
+   "Queens Museum (mié–dom) y Louis Armstrong House Museum (jue–sáb) están cerrados los martes.",
+   "Si el shuttle tarda, un taxi o Uber al aeropuerto son unos 5–10 min.",
+   "Chequear la terminal en la app de la aerolínea la noche anterior."
+  ],
+  "reservations": [],
+  "date": "2026-11-03",
+  "title": "Vuelta",
+  "lede": "Salimos tranquilos hacia LaGuardia para el vuelo de las 15.",
+  "hero": "unisphere"
  }
 ]

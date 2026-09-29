@@ -1,1 +1,415 @@
-[]
+[
+ {
+  "topic": "Expo TCS NYC Marathon 2026: sede, horario y retiro de dorsales",
+  "status": "riesgo",
+  "detail": "La Expo es del 29 al 31 de octubre en el Javits Center (11th Ave entre W 35th y W 36th St). Jueves y viernes 10:00–20:00, sábado 09:00–17:00; el retiro de dorsales cierra 30 min antes. Hay que reservar turno en el dashboard de NYRR (abierto desde el 25-ago hasta el 31-oct a las 16:00): cada uno elige el suyo, así que marcamos los dos el jueves a las 10:00. Cada corredor retira en persona con documento con foto (pasaporte) y su formulario de confirmación; nadie puede retirar por otro, pero pueden ir juntos. Se entrega dorsal y remera; no hay retiro el día de la carrera. El riesgo es no tener el turno reservado: hacerlo ya.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/raceweek/expo",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "Botes a remo en Central Park a fin de octubre",
+  "status": "ok",
+  "detail": "El alquiler funciona todos los días de 10:00 al anochecer, con el último bote una hora antes del anochecer. El 29 de octubre el sol se pone a las 17:57 (crepúsculo hasta 18:24): el último bote sale cerca de las 17:00. Cuesta USD 25 por hora de lunes a jueves (USD 30 de viernes a domingo), sin reservas y por orden de llegada. La temporada va de abril a noviembre según el clima. El sitio oficial dice que el Boathouse es cashless (tarjeta o contactless); guías viejas decían solo efectivo, así que llevamos las dos cosas.",
+  "source": "https://centralparkboathouse.com/boat/",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "The Boathouse: cena del jueves frente al lago",
+  "status": "ok",
+  "detail": "Hay cena de lunes a sábado de 16:00 a 21:00 (almuerzo 11:00–16:00), así que el plan de las 16:30 funciona. Reservas por OpenTable 21 días antes: para el 29-oct, desde el 8-oct. Las mesas junto a la ventana no se garantizan. La burrata con pan rústico grillado cuesta USD 26 y el vino por copa USD 17–25. La barra exterior Dockside (lunes a sábado 11:00–20:00, sin reserva) es estacional y puede estar cerrada a fin de octubre. El café abre 08:00–19:00. Es cashless.",
+  "source": "https://centralparkboathouse.com/dining/",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "Dyker Beach: 9 hoyos un miércoles por la tarde",
+  "status": "riesgo",
+  "detail": "Consultamos el sistema de reservas (TeeItUp) para un miércoles de octubre: las salidas de 9 hoyos online solo existen entre 06:30 y 08:15 (USD 27 caminando, USD 39 con carrito). A la tarde hay que reservar una salida de 18 hoyos twilight y cortar en el hoyo 9: desde las 14:00 cuesta USD 43 caminando o USD 65 con carrito (tarifa de no residente), más USD 6 de cargo por reserva; se paga en el club. La ventana online abre 10 días antes: para el 28-oct, desde el 18-oct. GolfNow lista alquiler de palos (precio no verificado); no hay driving range. Desde Williamsburg: taxi 35–45 min o subte L + G + R en 65–75 min hasta 86 St y 12 min a pie. El riesgo es el horario: si el vuelo se atrasa, conviene la salida de 14:30.",
+  "source": "https://dyker-beach-golf-course.book.teeitup.com/",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "Yemen Café en Bay Ridge: dirección, horario y haneeth",
+  "status": "ok",
+  "detail": "El local existe y se mudó en 2021 de 7130 a 7317 5th Ave (Brooklyn, NY 11209); el pin de OpenStreetMap confirma la dirección nueva. Abre todos los días 09:00–22:30 según su sitio (Visit Brooklyn publica 10:00–23:00). El lamb haneeth es el plato insignia y The Infatuation lo recomienda; no hay dato oficial de si se agota. Ojo: The Infatuation y Tripadvisor todavía muestran la dirección vieja.",
+  "source": "https://yemencafe.com/yemencafrestaurant5th",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "Westlight: horario, reservas y dress code",
+  "status": "ok",
+  "detail": "Miércoles 16:00–00:00, en el piso 22 de The William Vale (111 N 12th St). Reserva recomendada, sobre todo al atardecer; los walk-ins entran según disponibilidad y las mesas reservadas tienen consumo mínimo. Desde las 18:00 es solo para mayores de 21. Código smart casual. Cócteles USD 22–25.",
+  "source": "https://www.westlightnyc.com/location/westlight-/",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "Edge: horario del jueves y precio",
+  "status": "ok",
+  "detail": "Horario publicado 09:00–22:00, con última entrada una hora antes (21:00); el sitio aclara que puede cambiar en ciertas fechas. Entrada general desde USD 42, Advance Saver desde USD 34 comprando con 14 días o más (hasta el 15-oct), Flex desde USD 73. Todas las ventas son finales. Entrada por el nivel 4 de The Shops at Hudson Yards.",
+  "source": "https://www.edgenyc.com/visit/getting-here/",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "The Hoxton Williamsburg: llegada temprana",
+  "status": "ok",
+  "detail": "97 Wythe Ave, Brooklyn, NY 11249. Check-in 14:00 y check-out 12:00 (late check-out USD 10 por hora hasta las 16:00). Guardan valijas gratis el día de llegada y el de salida. Con Flexy Time, reservando directo con al menos 72 h de anticipación, se elige gratis la hora de check-in; si no, el early check-in depende de la disponibilidad.",
+  "source": "https://thehoxton.com/williamsburg/faqs/",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "The Lexington Hotel: dirección, check-in y subte",
+  "status": "ok",
+  "detail": "511 Lexington Ave, esquina E 48th St, New York, NY 10017. Check-in 16:00, check-out 11:00. Subte más cercano: 51 St (6) a 4 min; Lexington Av/53 St (E, M) a 6 min; Grand Central–42 St (4, 5, 6, 7, S) a 7 min, de donde sale el 7 a la Expo y a Hudson Yards. El sitio no menciona guardado de valijas: confirmarlo por mail.",
+  "source": "https://www.lexingtonhotelnyc.com/about",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "JFK a la Hoxton Williamsburg: opciones y precios 2026",
+  "status": "ok",
+  "detail": "Taxi amarillo: a Brooklyn va con taxímetro (la tarifa fija de USD 70 es solo a Manhattan); a Williamsburg suele costar USD 55–75 antes de propina, más USD 2 de acceso al aeropuerto; 40–60 min. Transporte público: AirTrain a Jamaica USD 8.75 más subte USD 3.00 (J hasta Broadway Junction y L hasta Bedford Av), 70–80 min, USD 11.75 por persona; se paga con tarjeta contactless o celular. El LIRR no conviene porque no llega a Williamsburg. Uber o Lyft: precio dinámico, comparar en la app. El sitio de JFK avisa demoras por obras.",
+  "source": "https://www.jfkairport.com/to-from-airport/air-train",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "Jueves: mudanza de hotel con valijas",
+  "status": "riesgo",
+  "detail": "El plan original deja las cosas en el Lexington después del almuerzo, pero salimos de la Hoxton a la mañana con todas las valijas. Proponemos taxi directo de la Hoxton al Lexington a las 08:30 (30–45 min), dejar las valijas y seguir en el 7 desde Grand Central a la Expo. El check-in del Lexington es a las 16:00 y su sitio no menciona guardado de valijas: pedirlo por mail antes del viaje.",
+  "source": "https://www.lexingtonhotelnyc.com/about",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "The Ides (Wythe Hotel) ya no existe",
+  "status": "cambia-plan",
+  "detail": "The Ides figura cerrado; la terraza del sexto piso del Wythe Hotel pasó a ser Lemon's y desde 2021 es Bar Blondeau (80 Wythe Ave, miércoles 17:00–00:00, reservas en Resy 28 días antes). Como alternativa a Westlight usamos Bar Blondeau o Laser Wolf, en la terraza de la Hoxton.",
+  "source": "https://www.barblondeau.com/",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "Bethesda Fountain apagada por restauración",
+  "status": "riesgo",
+  "detail": "El Central Park Conservancy informa que la fuente se apagó a principios de agosto para una restauración de alrededor de un año. La terraza sigue abierta, pero puede haber vallas. Como alternativa de lluvia sigue sirviendo: la arcada inferior está cubierta.",
+  "source": "https://www.centralparknyc.org/locations/bethesda-fountain",
+  "slice": "mie-jue"
+ },
+ {
+  "topic": "Hadestown en cartel el viernes 30 de octubre",
+  "status": "ok",
+  "detail": "Sigue en el Walter Kerr Theatre (219 W 48th St) sin fecha de cierre y con funciones a la venta hasta marzo de 2027. El viernes 30 hay función a las 19:00; dura 2 h 30 min con intervalo de 15 min. Precios en Broadway.com para esa función: platea USD 75.52–276.11, pullman USD 123.49–248.36. Elenco nuevo desde el 1 de septiembre de 2026.",
+  "source": "https://www.broadway.com/shows/hadestown/event/21759296/10-30-2026/1900/",
+  "slice": "vie"
+ },
+ {
+  "topic": "Hadestown: vías de descuento",
+  "status": "riesgo",
+  "detail": "La lotería digital de Lucky Seat (USD 47.50 más USD 5 de cargo, máximo 2) es solo para residentes de EE.UU. y mayores de 18. El standing room cuesta USD 39 solo si la función se agota, y son 2 h 30 min de pie. TKTS lo tiene seguido, pero el viernes abre 15:00–20:00 con fila y USD 8 de cargo por entrada. Recomendación: comprar ya por ATG; hasta el 4 de octubre el código FALLSALE da hasta 20% en funciones seleccionadas.",
+  "source": "https://terms.luckyseat.com/hadestown-newyork.pdf",
+  "slice": "vie"
+ },
+ {
+  "topic": "Frick Collection después de la reapertura",
+  "status": "ok",
+  "detail": "Abre el viernes 10:30–17:30 (martes cerrado); última entrada a salas 17:00. Adultos USD 30; entradas con horario recomendadas y sin cambio de fecha. Solo mayores de 10 años; fotos solo en el Garden Court. Los cierres parciales de East Gallery y Oval Room terminan el 12 de octubre. Desde el 15 de octubre está la muestra Siena: The Art of Bronze, 1450–1500.",
+  "source": "https://www.frick.org/visit",
+  "slice": "vie"
+ },
+ {
+  "topic": "Met: horario del viernes y entrada",
+  "status": "ok",
+  "detail": "Viernes y sábados abre 10:00–21:00; miércoles cerrado. Adultos no residentes USD 30, compra online en engage.metmuseum.org para el día elegido, sin horario fijo; incluye exposiciones y el Met Cloisters ese mismo día. Del 4 de octubre al 31 de enero está Krasner and Pollock: Past Continuous (galería 899).",
+  "source": "https://engage.metmuseum.org/admission",
+  "slice": "vie"
+ },
+ {
+  "topic": "Met: terraza de la azotea",
+  "status": "cambia-plan",
+  "detail": "El Cantor Roof Garden cerró el 19 de octubre de 2025 y no reabre hasta 2030 por la obra del ala Tang. Sacamos la terraza de la ruta; el resto de la visita sigue igual.",
+  "source": "https://www.nbcnewyork.com/news/local/met-roof-garden-closes-sunday/6406777/",
+  "slice": "vie"
+ },
+ {
+  "topic": "Pastrami Queen",
+  "status": "ok",
+  "detail": "1125 Lexington Ave #2, en la esquina de la 78 (frente a la estación 77 St de la línea 6). Abre todos los días 10:00–21:00, viernes incluido. Es chico: pocas mesas de metal, mejor para llevar si está lleno. Sándwich de pastrami USD 29.95 en el menú online; sopa de matzo ball desde USD 11.95. La sucursal de W 72nd St está cerrada por renovación.",
+  "source": "https://www.pastramiqueen.com/locations",
+  "slice": "vie"
+ },
+ {
+  "topic": "Neue Galerie como alternativa a la Frick",
+  "status": "cambia-plan",
+  "detail": "Las galerías de la Neue Galerie están cerradas por obras y reabren el 12 de noviembre de 2026, así que el 30 de octubre no sirve como museo. Solo funciona el Café Sabarsky (9:00–21:00), que queda como opción de almuerzo sentado. La alternativa de museo es el Guggenheim: 10:30–17:30, USD 30.",
+  "source": "https://www.neuegalerie.org/visit",
+  "slice": "vie"
+ },
+ {
+  "topic": "Otros musicales el viernes 30 de octubre",
+  "status": "ok",
+  "detail": "Tres musicales tienen función a las 19:00 ese día. The Lion King: Minskoff, 2 h 30 min, desde USD 175. Buena Vista Social Club: Schoenfeld, 2 h 10 min, desde USD 64.29. Maybe Happy Ending: Belasco, 1 h 40 min sin intervalo, desde USD 61.03. Ninguno tiene cierre anunciado antes de 2027. Moulin Rouge! no figura en la lista de Playbill de musicales en cartel al 25 de septiembre.",
+  "source": "https://playbill.com/article/whats-currently-playing-on-broadway",
+  "slice": "vie"
+ },
+ {
+  "topic": "Cenas después del teatro",
+  "status": "ok",
+  "detail": "Con la función terminando cerca de las 21:30: Joe Allen sirve hasta las 23:30 los viernes (5 min a pie); Becco hasta las 23:00 (6 min); Marseille hasta las 23:00 (9 min). Joe Allen toma reservas desde una semana antes, a las 11:00 de Nueva York.",
+  "source": "https://joeallenrestaurant.com/hours-location/",
+  "slice": "vie"
+ },
+ {
+  "topic": "Tramos a pie y en transporte",
+  "status": "ok",
+  "detail": "Hotel a Frick: línea 6 de 51 St a 68 St y 7 min a pie (25 min en total). Frick a Pastrami Queen: 1 km a pie (13 min). Pastrami Queen al Met: 0.9 km (11 min). Met al hotel: 12 min a pie a 77 St y línea 6 hasta 51 St (25 min). Hotel al Walter Kerr: 1.3 km por la calle 48 (17 min) o taxi. Joe Allen al hotel: línea E de 50 St a Lexington Av/53 St (20 min) o taxi de 10 min. Distancias medidas sobre coordenadas de OpenStreetMap.",
+  "source": "https://www.frick.org/visit",
+  "slice": "vie"
+ },
+ {
+  "topic": "Ceremonia de apertura el mismo viernes",
+  "status": "riesgo",
+  "detail": "La Opening Ceremony, con el Desfile de las Naciones, es el viernes 30 en la línea de llegada de Central Park, frente a Tavern on the Green. Tribunas desde las 16:00, show desde las 16:30 y cierre cerca de las 18:30. Choca con la tarde del Met y deja poco margen para la función de las 19:00. Para desfilar había que postularse (cerrado, con lista de espera). Como público es gratis y por orden de llegada. La Expo del Javits abre ese día 10:00–20:00.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/opening-ceremony",
+  "slice": "vie"
+ },
+ {
+  "topic": "Piernas dos días antes de la maratón",
+  "status": "riesgo",
+  "detail": "El plan completo suma unos 7 km de calle y 3–4 km dentro de museos, con unas 5 horas de pie (cálculo propio sobre coordenadas de OpenStreetMap). Como referencia, la guía de semana de carrera de CEP considera que en un día de descanso una caminata de 20 minutos alcanza. Variante liviana: transporte en todos los tramos y Frick y Met de 90 min cada uno. Suma descanso largo en el hotel y Maybe Happy Ending (1 h 40 min sentados). Queda en unos 5 km.",
+  "source": "https://ceprunning.com/blogs/news/marathon-taper-week-guide",
+  "slice": "vie"
+ },
+ {
+  "topic": "Village Halloween Parade 2026",
+  "status": "riesgo",
+  "detail": "Confirmado: sábado 31 de octubre, de 19:00 a 23:00 aprox., tema Body & Soul. Recorrido por la 6th Ave de King St a W 15th St; formación en Canal St y 6th Ave entre 18:30 y 21:00. Tramo más lleno: Bleecker–14th; menos lleno: King St–Houston y 14th–15th. CBS calcula unos 2 millones de espectadores. En 2025 la MTA dejó escaleras solo de salida en 14 St/6 Av, W 4 St y Spring St, y la C y la E no pararon en Spring St hacia el sur de 17:00 a 22:00 (andén norte solo de salida); el esquema 2026 sale la semana del desfile. Para irse temprano: lado este y línea 6 (Spring St o Union Sq), o lado oeste y línea 1 (Houston St).",
+  "source": "https://halloween-nyc.com/watch/",
+  "slice": "sab"
+ },
+ {
+  "topic": "MoMA el sábado",
+  "status": "ok",
+  "detail": "Abre 10:30–17:30 (viernes hasta 20:30); sábados y domingos de 9:30 a 10:30 solo socios y sus invitados. Adultos USD 30, mayores de 65 USD 22, estudiantes USD 17. Conviene comprar online con horario. El 25 de octubre abre Brancusi: The Artist and His Studio, así que el 31 habrá más público. La muestra Frida and Diego terminó el 12 de septiembre: confirmar en qué sala está el autorretrato de Frida.",
+  "source": "https://visit.moma.org/select",
+  "slice": "sab"
+ },
+ {
+  "topic": "Atardecer del 31 de octubre",
+  "status": "ok",
+  "detail": "Puesta del sol a las 17:55 (hora de verano, EDT); crepúsculo civil hasta las 18:22 y náutico hasta las 18:54. El horario de verano termina el domingo 1 de noviembre a las 2:00. Recomendación: estar sentados en Pier 1 entre 17:15 y 17:25 y quedarse hasta 18:25 para ver prenderse Lower Manhattan.",
+  "source": "https://api.sunrise-sunset.org/json?lat=40.7033&lng=-73.9967&date=2026-10-31&tzid=America/New_York",
+  "slice": "sab"
+ },
+ {
+  "topic": "Abbott Dash to the Finish Line 5K",
+  "status": "cambia-plan",
+  "detail": "Es el sábado 31 de octubre a las 8:45 y termina en la llegada del maratón en Central Park, pero está agotado: la inscripción 2026 cerró. Según NYRR, en 2025 largó junto a la ONU (1st Ave y 44th St) y pasó por la calle 42 frente a Grand Central antes de subir por la 6th Ave; por eso entramos a Grand Central por Lexington. El shakeout lo hacemos por nuestra cuenta.",
+  "source": "https://events.nyrr.org/abbott-dash-to-the-finish-line-5k",
+  "slice": "sab"
+ },
+ {
+  "topic": "Central Park y shakeout",
+  "status": "riesgo",
+  "detail": "La llegada del maratón está sobre West Drive a la altura de la W 67th St (Tavern on the Green) y esa semana está en armado; no encontramos el aviso 2026 de cierres del loop. Sugerencia para los dos: unos 25 minutos muy suaves (4 km) entre 7:30 y 8:15, entrando por 5th Ave y 60th St y usando el lado este, lejos de la llegada y antes del Dash 5K. En 2025 hubo shakeouts gratuitos de clubes y marcas (por ejemplo, Central Park Run Club en Loeb Boathouse a las 9:00, según marathon-weekend.com); los de 2026 se anuncian la semana previa.",
+  "source": "https://www.centralpark.com/events/nyc-marathon/",
+  "slice": "sab"
+ },
+ {
+  "topic": "NYC Ferry desde DUMBO",
+  "status": "riesgo",
+  "detail": "Ruta East River: DUMBO/Fulton Ferry (al pie de Old Fulton St) a East 34th St en 26–27 minutos, con escalas alternadas por South Williamsburg y Greenpoint o por North Williamsburg y Hunters Point South. Sábados de otoño: salidas cada 13–15 minutos; cerca del atardecer 18:31, 18:44 y 18:59; última 20:51. Pasaje USD 4.00. East 34th St queda a 1.6 km del hotel: taxi. Riesgo: el PDF de otoño marca el 31 de octubre como modified weekend schedule, sin detalle; revisar la app esa semana.",
+  "source": "https://www.ferry.nyc/routes-and-schedules/east-river/",
+  "slice": "sab"
+ },
+ {
+  "topic": "Kilómetros a pie del día",
+  "status": "riesgo",
+  "detail": "Estimación con distancias de OpenStreetMap, factor 1.3 por la grilla y 2.5 km dentro de MoMA. Plan como está escrito (puente ida y vuelta, desfile, subte solo MoMA–Chinatown y City Hall–Spring St): unos 16 km, más el trote. Caminando del puente al desfile: unos 18 km; y yendo también a pie de MoMA a Chinatown: unos 22 km. Versión piernas frescas (ferry, cena cerca del hotel, desfile corto): unos 12 km. Versión mínima (línea F en vez del puente, desfile por TV): unos 9 km.",
+  "source": "https://www.openstreetmap.org/way/32922945",
+  "slice": "sab"
+ },
+ {
+  "topic": "Neue Galerie como alternativa a MoMA",
+  "status": "cambia-plan",
+  "detail": "Las salas están cerradas por obras hasta el 12 de noviembre de 2026, cuando reabren con la muestra del 25 aniversario (el Café Sabarsky, la librería y la tienda reabren el 1 de octubre). No sirve el 31 de octubre: la alternativa es el Whitney (10:30–18:00, USD 30).",
+  "source": "https://www.neuegalerie.org/visit",
+  "slice": "sab"
+ },
+ {
+  "topic": "Oyster Bar de Grand Central",
+  "status": "riesgo",
+  "detail": "El restaurante abre de lunes a viernes, 11:30–21:30: el sábado está cerrado. La rampa y la Whispering Gallery son espacios públicos de la terminal (abierta 5:15–2:00) y se visitan igual.",
+  "source": "https://www.oysterbarny.com/",
+  "slice": "sab"
+ },
+ {
+  "topic": "Direcciones nuevas en Chinatown",
+  "status": "cambia-plan",
+  "detail": "Mei Lai Wah dejó 62 Bayard St y está en 41 Mott St (todos los días 8:30–20:00); Tripadvisor todavía muestra la dirección vieja. Joe's Shanghai tampoco está en Pell St: desde diciembre de 2019 está en 46 Bowery.",
+  "source": "https://mlwbakery.com/",
+  "slice": "sab"
+ },
+ {
+  "topic": "Expo del maratón, último día",
+  "status": "riesgo",
+  "detail": "La Expo en el Javits Center funciona el sábado 31 de 9:00 a 17:00 y el turno de retiro se elige en el dashboard de NYRR hasta las 16:00 de ese día. Si el número no está retirado antes del sábado, el plan de la tarde no entra.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/raceweek/expo",
+  "slice": "sab"
+ },
+ {
+  "topic": "Entrada del Brooklyn Bridge en Manhattan",
+  "status": "ok",
+  "detail": "En 2026 la ciudad separó las entradas de peatones y bicicletas desde Centre St y Park Row y duplicó el ancho del cruce peatonal sur hacia City Hall Park. La pasarela está abierta a toda hora. Del lado de Brooklyn, la escalera de Washington St y Prospect St baja directo a DUMBO.",
+  "source": "https://nyc.gov/mayors-office/news/2026/03/mayor-mamdani-announces-redesigned-bike-and-pedestrian-connectio",
+  "slice": "sab"
+ },
+ {
+  "topic": "Fecha y horarios de largada 2026",
+  "status": "ok",
+  "detail": "NYRR confirma la carrera el domingo 1 de noviembre de 2026. Hay cinco olas: 09:10, 09:45, 10:20, 10:55 y 11:30. Los corrales cierran 25 min antes de cada una (08:45, 09:25, 10:00, 10:40 y 11:15). Hay tres colores de largada (azul, naranja y rosa) y seis corrales por ola. NYRR aclara que los horarios pueden cambiar y todavía no publicó el cronograma de profesionales.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/the-start",
+  "slice": "dom"
+ },
+ {
+  "topic": "Transporte a la largada: cómo se asigna",
+  "status": "riesgo",
+  "detail": "Desde 2026 cada corredor elige el modo y NYRR asigna el horario según su ritmo. Los modos son ferry desde Whitehall, micro desde la Biblioteca (Fifth Ave y 40th St) y micro desde MetLife, en Nueva Jersey. La elección cerró el 8 de septiembre a las 23:59 ET. Quien no eligió recibe asignación en la Expo, con opciones limitadas y sin cambios. Hay que usar el modo y el horario asignados. NYRR recomienda el ferry a quien espera terminar en 4 h o más: Matías debería ir en ferry. Revisar ya en el dashboard qué quedó cargado para cada uno; los detalles finales llegan en octubre y el horario viene impreso en el dorsal.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+  "slice": "dom"
+ },
+ {
+  "topic": "Fin del horario de verano el día de la carrera",
+  "status": "ok",
+  "detail": "NYC311 confirma que el horario de verano termina el domingo 1 de noviembre de 2026 a las 2:00: los relojes vuelven a la 1:00 y dormimos una hora más. Celulares y relojes GPS sincronizados se ajustan solos y sus alarmas suenan en la hora nueva; un reloj de mesa puede quedar desfasado. Ese día amanece a las 06:25 y el sol se pone a las 16:53. Argentina (UTC−3) pasa a estar 2 h adelante de Nueva York: la ola 1 larga a las 11:10 hora argentina.",
+  "source": "https://portal.311.nyc.gov/article/?kanumber=KA-02673",
+  "slice": "dom"
+ },
+ {
+  "topic": "Salida con poncho o con bolsa y punto de encuentro",
+  "status": "cambia-plan",
+  "detail": "En 2026 todos los corredores reciben poncho y salen del parque por W 77th St, con o sin bolsa. Después se deja la zona exclusiva por W 76th, 75th o 74th St, o se sigue al sur hasta Family Reunion. La única bolsa posible es la pre-entregada el viernes 30 o el sábado 31 en Central Park West, entre W 73rd y W 75th St. Esa opción se eligió hasta el 8 de septiembre y la bolsa se retira ahí hasta las 19:00. No hay guardarropa en la largada. Para dos corredores, lo más simple es Family Reunion (11:00–18:00): Podeley y Tkach van al cartel O–Z sobre W 69th St. Si Daniela no pre-chequeó bolsa, conviene que vuelva al hotel a ducharse y traiga abrigo para Matías.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+  "slice": "dom"
+ },
+ {
+  "topic": "App oficial y seguimiento desde Argentina",
+  "status": "ok",
+  "detail": "La app es New York Road Runners (NYRR App, desarrollada por TCS), gratis en App Store y Google Play. Ofrece seguimiento en vivo, una guía interactiva para espectadores con itinerario, cámaras en la largada, la llegada y puntos del recorrido, y la función Follow. También hay seguimiento web en liveresults.nyrr.org (el enlace de la página todavía apunta a la edición 2025). La guía para espectadores está en nyrr.org/tcsnycmarathon/watch-the-race. En Sudamérica transmite ESPN Internacional de 08:00 a 11:30 ET (10:00–13:30 en Argentina).",
+  "source": "https://www.nyrr.org/tcsnycmarathon/mobile-app",
+  "slice": "dom"
+ },
+ {
+  "topic": "Clima normal y ropa para la largada",
+  "status": "ok",
+  "detail": "Normales 1991–2020 de Central Park para el 1 de noviembre: máxima 59 °F (15 °C) y mínima 46 °F (8 °C). Entre las 9 y las 14 cabe esperar 8–15 °C, con más frío en la espera junto al agua en Staten Island. NYRR aconseja capas extra que se dejan en contenedores de donación para All of Us. La lista 2025 permite mantas térmicas, frazadas chicas sin enrollar y lonas transparentes chicas, y prohíbe bolsas de residuos opacas, mochilas y bolsas de dormir. El pronóstico real se publica recién en la semana de la carrera.",
+  "source": "https://www.weather.gov/media/okx/Climate/CentralPark/DailyMaxTNormals.pdf",
+  "slice": "dom"
+ },
+ {
+  "topic": "Grabado de medalla y actividades del lunes",
+  "status": "riesgo",
+  "detail": "NYRR todavía no publicó el Marathon Monday 2026. En 2025 fue el lunes siguiente en el TCS New York City Marathon Pavilion, junto a la llegada. Abrió hasta las 18:00, desde las 07:00 según el comunicado o las 09:00 según la guía del corredor. Hubo grabado de medalla con nombre y tiempo por Fond Memories (USD 28 según la guía 2025) y tienda de finisher de New Balance. También se vendía la sección especial de resultados del New York Times y había una zona de recuperación de HSS con botas Normatec. Martes y miércoles se grababa en el NYRR RUNCENTER. Nosotros dejamos el hotel el lunes 2 y volamos el martes a las 15:00: si NYRR repite el formato, pasar el lunes a la mañana.",
+  "source": "https://webassets.nyrr.org/nyrrwebsiteassets/TCSNYCM25_RunnerGuide_Mobile_M.pdf",
+  "slice": "dom"
+ },
+ {
+  "topic": "Cambio de recorrido en el Bronx",
+  "status": "ok",
+  "detail": "Es el primer cambio en 15 años: después del Willis Avenue Bridge se dobla por E 135th St y Alexander Ave hasta E 141st St, Third Ave y E 138th St antes del Madison Avenue Bridge. En 2026 se celebran 50 años del recorrido por los cinco distritos. Hay agua y Gatorade en cada milla de la 3 a la 25 salvo la 5, 7 y 9, geles Maurten en las millas 12 y 18 y bananas en la 21.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/the-course",
+  "slice": "dom"
+ },
+ {
+  "topic": "Señal celular en la llegada",
+  "status": "riesgo",
+  "detail": "NYRR advierte que la saturación puede dejar sin teléfono en la zona de post-llegada y en Family Reunion, y aconseja acordar un punto de encuentro fuera de la zona exclusiva. Plan B sin celulares: cartel O–Z de W 69th St hasta las 17:30; si no hay encuentro, cada uno vuelve al hotel.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+  "slice": "dom"
+ },
+ {
+  "topic": "Beneficios y fiesta del domingo",
+  "status": "ok",
+  "detail": "Rosa Mexicano invita una Frozen Pomegranate Margarita o un Cucumber Mint Refresco con la compra de un plato principal al mostrar la medalla, solo el 1 de noviembre, en sus locales de Nueva York; el de Second Avenue queda a 8 min del hotel. Victory Lap, la fiesta oficial, es en Terminal 5 de 19:00 a 23:00: USD 30 para socios y USD 35 para no socios, más cargo, solo mayores de 21. El AMNH da entrada gratis del 1 al 8 de noviembre mostrando la medalla.",
+  "source": "https://www.nyrr.org/tcsnycmarathon/2026-tcs-new-york-city-marathon-beyond-the-finish-line",
+  "slice": "dom"
+ },
+ {
+  "topic": "Harry Cipriani: lunes y dress code",
+  "status": "ok",
+  "detail": "Abre todos los días: almuerzo y cena de 12:00 a 22:45. Dress code business casual según la web oficial y GAYOT. Reservas por Resy. Reseñas en Tripadvisor dicen que la cuenta incluye 20% de servicio: revisar antes de dejar propina.",
+  "source": "https://www.cipriani.com/harry-cipriani",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Birria-Landia Jackson Heights: lunes",
+  "status": "ok",
+  "detail": "El camión de 77-99 Roosevelt Ave abre lunes a jueves de 17:00 a 01:00. Jackson Heights tiene que ser después de las 17:00, como está en el plan.",
+  "source": "https://birria-landia.com/",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Shuttle del DoubleTree LaGuardia",
+  "status": "ok",
+  "detail": "Shuttle gratis a LGA de 4:00 a 1:00, cada 20–30 min (Trip.com); desde el aeropuerto hay que llamar al hotel (+1 718-457-6300). La web de Hilton devolvió error 403: confirmar el horario en recepción.",
+  "source": "https://us.trip.com/hotels/new-york-hotel-detail-2098858/doubletree-by-hilton-new-york-laguardia-airport/",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Check-out del DoubleTree vs. salida al aeropuerto",
+  "status": "riesgo",
+  "detail": "El check-out es a las 11:00 y salimos hacia LGA a las 12:00. Pedir late check-out al llegar el lunes; si no, dejar las valijas en recepción.",
+  "source": "https://us.trip.com/hotels/new-york-hotel-detail-2098858/doubletree-by-hilton-new-york-laguardia-airport/",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Studio Museum in Harlem",
+  "status": "cambia-plan",
+  "detail": "Reabrió el 15 de noviembre de 2025 en su edificio nuevo de la 125, pero cierra lunes y martes. En el plan queda solo la fachada.",
+  "source": "https://www.studiomuseum.org/visit",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Visa para argentinos",
+  "status": "ok",
+  "detail": "Argentina no está en el Visa Waiver Program: hace falta visa B1/B2 vigente. El proceso de reingreso sigue abierto y el gobierno estima que podría funcionar en 2027 (La Nación, 16 de septiembre de 2026).",
+  "source": "https://www.lanacion.com.ar/politica/visa-waiver-peter-lamelas-aseguro-que-trabaja-para-que-los-argentinos-puedan-ingresar-a-estados-nid16092026/",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Tarifa OMNY 2026",
+  "status": "ok",
+  "detail": "Subte y bus local USD 3 por viaje desde enero de 2026. Tope de USD 35 cada 7 días por tarjeta o celular. Desde el 1 de enero de 2026 no se venden ni recargan MetroCards.",
+  "source": "https://www.mta.info/fares-tolls/subway-bus",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Opciones del martes a la mañana",
+  "status": "cambia-plan",
+  "detail": "Queens Museum (y su Panorama) cierra lunes y martes; Louis Armstrong House Museum abre solo jueves a sábado. El martes queda solo el Unisphere, al aire libre.",
+  "source": "https://www.louisarmstronghouse.org/visit/",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Apollo Theater: visita del lunes",
+  "status": "ok",
+  "detail": "Hay visitas guiadas los lunes a las 11:00 y 13:00, USD 17, solo con reserva previa por formulario y sujetas al calendario del teatro.",
+  "source": "https://www.apollotheater.org/tours",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Arepa Lady: horario del lunes",
+  "status": "riesgo",
+  "detail": "Yelp indica lunes 12:00–22:00, pero NYC Tourism dice que abre seis días por semana. Confirmar por teléfono ((917) 745-1111); si está cerrado, Cositas Ricas cubre las arepas.",
+  "source": "https://www.nyctourism.com/restaurants/arepa-lady/",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Terminal del vuelo en LGA",
+  "status": "riesgo",
+  "detail": "LGA no tiene aduana y aplica una regla de perímetro de 1,500 millas: el vuelo de las 15:00 es un tramo con conexión. Terminal B para American, United, JetBlue, Southwest, Air Canada y otras; Terminal C solo Delta.",
+  "source": "https://www.laguardiaairport.com/explore-lga/terminals",
+  "slice": "lun-mar-info"
+ },
+ {
+  "topic": "Cambio de hora el día de la maratón",
+  "status": "riesgo",
+  "detail": "El horario de verano termina el domingo 1 de noviembre a las 2:00: los relojes vuelven a la 1:00. Los celulares se ajustan solos; los relojes de GPS y despertadores manuales, revisarlos la noche anterior.",
+  "source": "https://portal.311.nyc.gov/article/?kanumber=KA-02673",
+  "slice": "lun-mar-info"
+ }
+]

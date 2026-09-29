@@ -1,0 +1,1806 @@
+{
+  "places": [
+    {
+      "id": "hotel-lexington",
+      "name": "The Lexington Hotel, Autograph Collection",
+      "category": "hotel",
+      "neighborhood": "Midtown East, Manhattan",
+      "address": "511 Lexington Avenue (esq. 48th St), New York, NY 10017",
+      "lat": 40.754906,
+      "lng": -73.973036,
+      "coords_source": "https://www.openstreetmap.org/way/265884394",
+      "hours": "lun 2-nov: check-out 11:00; late check-out gratis hasta 14:00 a pedido y según disponibilidad; de 14:00 a 18:00 cuesta 50% de la tarifa diaria",
+      "hours_source": "https://www.lexingtonhotelnyc.com/faq",
+      "price": "Custodia de valijas USD 3 por valija, en efectivo (según reseñas en Tripadvisor)",
+      "duration_min": 15,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.lexingtonhotelnyc.com/faq",
+        "lead": "",
+        "notes": "Pedir el late check-out hasta las 14:00 al hacer el check-in el jueves 29 si queremos volver a la habitación antes de irnos."
+      },
+      "transit": {
+        "station": "51 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 4,
+        "notes": "Grand Central–42 St (4, 5, 6, 7, S) queda a 6 min a pie; Lexington Av/53 St (E, M) a 5 min."
+      },
+      "why": "Es nuestra base de jueves a lunes. El lunes hacemos el check-out a la mañana, dejamos las valijas en custodia y las retiramos después del almuerzo para ir al DoubleTree de LaGuardia.",
+      "what": [
+        "Dejar las valijas cerradas y con candado antes de salir a Harlem.",
+        "Pedir el ticket de custodia y sacarle una foto.",
+        "Llevar billetes chicos: la custodia se cobra en efectivo según las reseñas."
+      ],
+      "tip": "El check-out es a las 11:00, pero el late check-out hasta las 14:00 es gratis si lo pedimos y hay lugar: sirve para ducharnos y cambiarnos antes del taxi.",
+      "warnings": [
+        "Check-out 11:00.",
+        "Custodia de valijas paga (USD 3 por valija, efectivo) según reseñas: confirmar en recepción."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.0,
+            "scale": 5,
+            "count": 6782,
+            "url": "https://www.tripadvisor.com/Hotel_Review-g60763-d93526-Reviews-The_Lexington_Hotel_Autograph_Collection-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "La ubicación, a pasos de Grand Central, es lo más elogiado.",
+          "Varias reseñas marcan habitaciones chicas y con mantenimiento flojo (aire acondicionado, baños).",
+          "Hay quejas por cargos extra, entre ellos la custodia de valijas."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.lexingtonhotelnyc.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:The Lexington Hotel in New York City.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "doubletree-lga",
+      "name": "DoubleTree by Hilton New York LaGuardia Airport",
+      "category": "hotel",
+      "neighborhood": "East Elmhurst, Queens",
+      "address": "104-04 Ditmars Blvd, East Elmhurst, NY 11369",
+      "lat": 40.7670304,
+      "lng": -73.8668515,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=104-04+Ditmars+Boulevard+Queens&format=json&limit=3",
+      "hours": "lun 2-nov: check-in desde 15:00. mar 3-nov: check-out hasta 11:00. Shuttle gratis al aeropuerto de 4:00 a 1:00, cada 20–30 min",
+      "hours_source": "https://us.trip.com/hotels/new-york-hotel-detail-2098858/doubletree-by-hilton-new-york-laguardia-airport/",
+      "price": "Shuttle a LGA gratis; desayuno buffet en Pavilion Grille con cargo",
+      "duration_min": 60,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.hilton.com/en/hotels/nyclgdt-doubletree-new-york-laguardia-airport/",
+        "lead": "",
+        "notes": "Ya reservado. Pedir late check-out hasta las 12:00 para el martes (teléfono +1 718-457-6300)."
+      },
+      "transit": {
+        "station": "LGA Terminal B o C (shuttle del hotel)",
+        "lines": [],
+        "walk_min": 0,
+        "notes": "Desde el aeropuerto hay que llamar al hotel para que mande el shuttle. El bus Q70 (gratis) une las terminales B y C con Jackson Heights."
+      },
+      "why": "Hotel del otro lado de la autopista, frente a la Terminal C de LGA, con shuttle gratis a las terminales. Dormimos acá la última noche para que el martes el traslado al vuelo de las 15:00 sea de 10 minutos.",
+      "what": [
+        "Pavilion Grille: desayuno buffet de 6:00 a 11:00 (con cargo).",
+        "Elements Lounge: bar con carta de almuerzo y cena, para la noche si no vamos a Jackson Heights.",
+        "Shuttle gratis a LGA: preguntar en recepción el horario de salida más cercano a las 12:00."
+      ],
+      "tip": "Al llegar pedimos el late check-out para el martes. Si no lo dan, dejamos las valijas en recepción a las 11:00 y salimos con el shuttle del mediodía.",
+      "warnings": [
+        "Check-out 11:00 y salida al aeropuerto hacia las 12:00: pedir late check-out o dejar las valijas en recepción.",
+        "El horario del shuttle (4:00–1:00) sale de Trip.com; la web de Hilton no se pudo leer: confirmarlo en recepción.",
+        "Algunas reseñas cuentan esperas del shuttle en horas pico."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 3.6,
+            "scale": 5,
+            "count": 1283,
+            "url": "https://www.tripadvisor.com/Hotel_Review-g47626-d93644-Reviews-DoubleTree_By_Hilton_New_York_LaGuardia_Airport-East_Elmhurst_Queens_New_York.html",
+            "checked": "2026-09-28"
+          },
+          {
+            "source": "Trip.com",
+            "rating": 9.1,
+            "scale": 10,
+            "count": 155,
+            "url": "https://us.trip.com/hotels/new-york-hotel-detail-2098858/doubletree-by-hilton-new-york-laguardia-airport/",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "El shuttle gratis y la cercanía a LGA son lo más valorado.",
+          "Las habitaciones reciben opiniones mixtas: algunas renovadas y amplias, otras con detalles de mantenimiento.",
+          "El desayuno se considera caro para lo que ofrece."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.hilton.com/en/hotels/nyclgdt-doubletree-new-york-laguardia-airport/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "parque-marcus-garvey",
+      "name": "Marcus Garvey Park y Harlem Fire Watchtower",
+      "category": "paseo",
+      "neighborhood": "Harlem, Manhattan",
+      "address": "Madison Ave entre E 120th St y E 124th St, New York, NY 10027",
+      "lat": 40.804114,
+      "lng": -73.94359,
+      "coords_source": "https://www.openstreetmap.org/way/296038615",
+      "hours": "lun 2-nov: parque abierto 6:00–22:00; la torre vigía se mira desde la plaza (no se sube)",
+      "hours_source": "https://www.nycgovparks.org/parks/marcus-garvey-park/highlights/6497",
+      "price": "Gratis",
+      "duration_min": 25,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "125 St",
+        "lines": [
+          "4",
+          "5",
+          "6"
+        ],
+        "walk_min": 5,
+        "notes": "Salir por la 125 y caminar al oeste hasta Madison Av."
+      },
+      "why": "Parque en una loma de roca, rodeado por las casas del distrito histórico Mount Morris Park. En la cima está la torre vigía de hierro fundido de 47 pies (14 m), la única que queda de las 11 que tuvo la ciudad; la restauraron en 2019.",
+      "what": [
+        "La torre vigía de hierro fundido, con su campana, desde la plaza de arriba.",
+        "Las casas de piedra rojiza de Mount Morris Park West, sobre el lado oeste del parque.",
+        "El anfiteatro Richard Rodgers, al pie de la loma."
+      ],
+      "tip": "Para subir a la plaza de la torre hay escaleras: si las piernas post-maratón no quieren, la miramos desde Madison Av y seguimos por la 125.",
+      "warnings": [
+        "Hay que subir escalones para llegar a la torre."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nycgovparks.org/parks/marcus-garvey-park",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Harlem_Fire_Watchtower"
+      },
+      "commons_files": [
+        "File:Watch Tower restored 2020 jeh.jpg",
+        "File:Harlem-firetower.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "studio-museum-harlem",
+      "name": "Studio Museum in Harlem",
+      "category": "museo",
+      "neighborhood": "Harlem, Manhattan",
+      "address": "144 West 125th Street, New York, NY 10027",
+      "lat": 40.808418,
+      "lng": -73.947616,
+      "coords_source": "https://www.openstreetmap.org/node/5420936939",
+      "hours": "lun 2-nov: CERRADO (abre mié–dom 11:00–18:00; viernes hasta 21:00). Solo vemos la fachada",
+      "hours_source": "https://www.studiomuseum.org/visit",
+      "price": "Adultos USD 16 (pagá lo que puedas); domingos gratis",
+      "duration_min": 5,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.studiomuseum.org/visit",
+        "lead": "",
+        "notes": "Cerrado lunes y martes."
+      },
+      "transit": {
+        "station": "125 St",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "walk_min": 3,
+        "notes": ""
+      },
+      "why": "Museo de arte afroamericano fundado en 1968. Reabrió el 15 de noviembre de 2025 en un edificio nuevo de siete pisos que costó USD 160 millones. Tiene 82,000 pies cuadrados (7,600 m²) de salas y una terraza en la azotea.",
+      "what": [
+        "La fachada de vidrio y hormigón con aberturas de distintos tamaños.",
+        "La escalinata invertida que cita a los stoops de las casas del barrio.",
+        "Si algún día volvemos un fin de semana: la colección en seis pisos."
+      ],
+      "tip": "El lunes está cerrado: lo miramos de pasada entre Red Rooster y el Apollo, sin desviarnos.",
+      "warnings": [
+        "Cerrado lunes y martes: no se puede visitar en este viaje de lunes/martes."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "Hell Gate",
+            "quote": "the cavernous new space is frankly magnificent.",
+            "url": "https://hellgatenyc.com/studio-museum-harlem-opening/"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.studiomuseum.org/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.studiomuseum.org/visit",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Studio_Museum_in_Harlem"
+      },
+      "commons_files": [
+        "File:Studio Museum in Harlem, Nov 2025.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "apollo-theater",
+      "name": "The Apollo (Apollo Theater)",
+      "category": "show",
+      "neighborhood": "Harlem, Manhattan",
+      "address": "253 West 125th Street, New York, NY 10027",
+      "lat": 40.8100895,
+      "lng": -73.9499948,
+      "coords_source": "https://www.openstreetmap.org/way/271798914",
+      "hours": "lun 2-nov: visitas guiadas a las 11:00 y 13:00, solo con reserva previa; la fachada se ve a cualquier hora",
+      "hours_source": "https://www.apollotheater.org/tours",
+      "price": "Visita guiada USD 17 por persona",
+      "duration_min": 30,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.apollotheater.org/tours",
+        "lead": "Se pide por formulario online; la fecha depende del calendario del teatro",
+        "notes": "Venta final, sin reembolsos ni cambios. Solo en inglés."
+      },
+      "transit": {
+        "station": "125 St",
+        "lines": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "walk_min": 3,
+        "notes": "La estación 125 St de las líneas 2 y 3 (Lenox Av) queda a 6 min."
+      },
+      "why": "Teatro de 1914 diseñado por George Keister. Desde el 26 de enero de 1934 recibe al público negro de Harlem y su Amateur Night lanzó a generaciones de artistas. Fachada e interior son landmark de la ciudad desde 1983.",
+      "what": [
+        "La marquesina sobre la 125.",
+        "El Walk of Fame en la vereda, inaugurado en mayo de 2010.",
+        "Con la visita guiada: el tronco del Tree of Hope, que los artistas tocaban para tener suerte, hoy en el lobby."
+      ],
+      "tip": "Los lunes hay visita guiada a las 11:00: si la reservamos, encaja justo en el paseo y nos deja a las 12:15 listos para ir a almorzar.",
+      "warnings": [
+        "La visita requiere reserva previa y puede no estar disponible si hay producción en el teatro."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.apollotheater.org/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.apollotheater.org/tours",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Apollo_Theater"
+      },
+      "commons_files": [
+        "File:Apollo Theater, Harlem (2011).jpg",
+        "File:Harlem - Apollo Theater.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "strivers-row",
+      "name": "Strivers' Row (St. Nicholas Historic District)",
+      "category": "paseo",
+      "neighborhood": "Harlem, Manhattan",
+      "address": "W 138th St y W 139th St, entre Adam Clayton Powell Jr. Blvd y Frederick Douglass Blvd, New York, NY 10030",
+      "lat": 40.818056,
+      "lng": -73.943611,
+      "coords_source": "https://en.wikipedia.org/wiki/St._Nicholas_Historic_District",
+      "hours": "lun 2-nov: calles públicas, siempre abiertas",
+      "hours_source": "https://www.nyctourism.com/attractions-tours/strivers-row/",
+      "price": "Gratis",
+      "duration_min": 25,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "135 St",
+        "lines": [
+          "B",
+          "C"
+        ],
+        "walk_min": 6,
+        "notes": "La estación 135 St de las líneas 2 y 3 (Lenox Av) queda a 8 min."
+      },
+      "why": "Dos cuadras de casas en hilera construidas en 1891–1893 por tres estudios: James Brown Lord, Bruce Price con Clarence S. Luce, y Stanford White de McKim, Mead & White. Vivieron acá Eubie Blake, W. C. Handy, Bill \"Bojangles\" Robinson y Adam Clayton Powell Jr. Es landmark de la ciudad desde 1967.",
+      "what": [
+        "Los carteles \"Walk Your Horses\" en los portones de los pasajes traseros.",
+        "Las fachadas de Stanford White sobre el lado norte de la 139.",
+        "La diferencia de estilos entre las tres hileras, cuadra por cuadra."
+      ],
+      "tip": "Es un barrio residencial tranquilo: caminamos por la vereda y sacamos fotos sin subir a las escalinatas de las casas.",
+      "warnings": [
+        "Suma unos 15 min de caminata desde el Apollo: opcional según las piernas."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.striversrownyc.org/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/St._Nicholas_Historic_District"
+      },
+      "commons_files": [
+        "File:Strivers' Row-2023 01.jpg",
+        "File:2014 Striver's Row Gate No. 12 W 139 southeast.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "schomburg-center",
+      "name": "Schomburg Center for Research in Black Culture",
+      "category": "museo",
+      "neighborhood": "Harlem, Manhattan",
+      "address": "515 Malcolm X Boulevard (esq. 135th St), New York, NY",
+      "lat": 40.814648,
+      "lng": -73.940987,
+      "coords_source": "https://www.openstreetmap.org/way/271825823",
+      "hours": "lun 2-nov: 10:00–18:00",
+      "hours_source": "https://www.nypl.org/locations/schomburg",
+      "price": "Gratis",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "135 St",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "walk_min": 1,
+        "notes": ""
+      },
+      "why": "Centro de investigación de la New York Public Library dedicado a la experiencia negra en el mundo, con salas de exposición abiertas al público. Celebra su centenario con muestras sobre sus colecciones, como \"100: A Century of Collections, Community and Creativity\".",
+      "what": [
+        "Las exposiciones del centenario (confirmar cuál está en sala en noviembre).",
+        "El vestíbulo y las salas de lectura, de acceso libre."
+      ],
+      "tip": "Es el plan B techado del lunes: abre a las 10:00, es gratis y queda a 8 min de Strivers' Row.",
+      "warnings": [
+        "Confirmar en nypl.org qué muestras siguen en sala en noviembre."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nypl.org/locations/schomburg",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Schomburg_Center_for_Research_in_Black_Culture"
+      },
+      "commons_files": [
+        "File:Schomburg Center for Research in Black Culture 135 St 2023 jeh.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "sylvias",
+      "name": "Sylvia's Restaurant",
+      "category": "comida",
+      "neighborhood": "Harlem, Manhattan",
+      "address": "328 Malcolm X Boulevard (entre 126th y 127th St), New York, NY 10027",
+      "lat": 40.808628,
+      "lng": -73.944519,
+      "coords_source": "https://www.openstreetmap.org/node/4231923696",
+      "hours": "lun 2-nov: 11:00–20:00",
+      "hours_source": "https://sylviasrestaurant.com/",
+      "price": "Rango $$–$$$ en Tripadvisor; la web no publica precios",
+      "duration_min": 60,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://resy.com/cities/new-york-ny/venues/sylvias-restaurant",
+        "lead": "",
+        "notes": "Las reseñas cuentan esperas largas aun con reserva."
+      },
+      "transit": {
+        "station": "125 St",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "walk_min": 3,
+        "notes": ""
+      },
+      "why": "Restaurante de soul food fundado en 1962 por Sylvia Woods y todavía en manos de su familia. Pasaron por sus mesas Nelson Mandela, Bill Clinton y Barack Obama.",
+      "what": [
+        "Pollo frito con waffles.",
+        "Smothered chicken con collard greens.",
+        "Mac and cheese.",
+        "Cornbread."
+      ],
+      "tip": "Abre a las 11:00: si queremos un almuerzo en Harlem en lugar de Cipriani, llegar a la apertura evita la espera.",
+      "warnings": [
+        "Esperas largas en horas pico según reseñas."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.1,
+            "scale": 5,
+            "count": 2198,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d426044-Reviews-Sylvia_s_Restaurant-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Se valora el peso histórico del lugar, las porciones grandes y el cornbread.",
+          "El servicio es irregular y las esperas pueden pasar la hora.",
+          "Algunos platos resultan salados y el pollo frito divide opiniones."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://sylviasrestaurant.com/",
+        "menu": "",
+        "reserve": "https://resy.com/cities/new-york-ny/venues/sylvias-restaurant",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sylvia%27s_Restaurant_of_Harlem"
+      },
+      "commons_files": [
+        "File:Harlem - Sylvia's Restaurant (48555310372).jpg",
+        "File:Juneteenth, Sylvia's Restaurant, 328 Malcolm X Blvd., Harlem.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "red-rooster",
+      "name": "Red Rooster Harlem",
+      "category": "comida",
+      "neighborhood": "Harlem, Manhattan",
+      "address": "310 Lenox Avenue (entre 125th y 126th St), New York, NY 10027",
+      "lat": 40.807966,
+      "lng": -73.944911,
+      "coords_source": "https://www.openstreetmap.org/way/271798850",
+      "hours": "lun 2-nov: salón 12:00–21:30; bar 12:00–23:00",
+      "hours_source": "https://www.redroosterharlem.com/menus/",
+      "price": "Almuerzo prix fixe de 2 pasos USD 35 (lunes a viernes)",
+      "duration_min": 75,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.redroosterharlem.com/",
+        "lead": "",
+        "notes": "Reservas desde la web oficial."
+      },
+      "transit": {
+        "station": "125 St",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "walk_min": 2,
+        "notes": ""
+      },
+      "why": "Restaurante del chef Marcus Samuelsson, abierto en diciembre de 2010, con cocina soul y música en vivo. En marzo de 2011 fue sede de una cena de recaudación con Barack Obama.",
+      "what": [
+        "Bagre frito (fried catfish).",
+        "Shrimp and grits.",
+        "Cornbread.",
+        "El prix fixe de almuerzo de USD 35."
+      ],
+      "tip": "Los lunes abre a las 12:00: es la alternativa si preferimos festejar en Harlem y no bajar a la 59.",
+      "warnings": [
+        "Abre recién a las 12:00 los lunes."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.2,
+            "scale": 5,
+            "count": 2668,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d2005333-Reviews-Red_Rooster_Harlem-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Se destacan el ambiente, la música en vivo y platos como el bagre frito y los shrimp and grits.",
+          "Hay reseñas de sazón despareja y pollo seco.",
+          "El servicio es irregular en horas de mucha gente."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.redroosterharlem.com/",
+        "menu": "https://www.redroosterharlem.com/menus/",
+        "reserve": "https://www.redroosterharlem.com/",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:Red Rooster, Harlem - Corn Bread.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "harry-cipriani",
+      "name": "Harry Cipriani",
+      "category": "comida",
+      "neighborhood": "Upper East Side (Sherry-Netherland), Manhattan",
+      "address": "781 Fifth Avenue (entre 59th y 60th St), New York, NY 10022",
+      "lat": 40.764387,
+      "lng": -73.972705,
+      "coords_source": "https://www.openstreetmap.org/node/2710091465",
+      "hours": "lun 2-nov: almuerzo y cena 12:00–22:45 (desayuno 7:00–9:45)",
+      "hours_source": "https://www.cipriani.com/harry-cipriani",
+      "price": "Pastas por encima de USD 30 (Airmail); rango $$$$ en Google y Tripadvisor",
+      "duration_min": 105,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://resy.com/cities/ny/harry-cipriani",
+        "lead": "Reservar apenas tengamos confirmado el horario; alternativa por mail a harrycipriani@cipriani.com",
+        "notes": "Mesa para 2 a las 13:00 del lunes 2 de noviembre."
+      },
+      "transit": {
+        "station": "5 Av/59 St",
+        "lines": [
+          "N",
+          "R",
+          "W"
+        ],
+        "walk_min": 2,
+        "notes": "Desde 59 St (4, 5, 6) en Lexington Av son 8 min a pie."
+      },
+      "why": "Abrió en 1985 en el hotel Sherry-Netherland como copia del Harry's Bar de Venecia, fundado en 1931 por Giuseppe Cipriani, la casa del Bellini y del carpaccio. Salón de manteles blancos y mozos de saco blanco frente a Central Park.",
+      "what": [
+        "Bellini, el cóctel de durazno y espumante de la casa.",
+        "Carpaccio alla Cipriani.",
+        "Tagliolini gratinados con jamón (en la carta actual, blancos con jamón de Praga).",
+        "Vitello tonnato de entrada o hígado a la veneciana de principal.",
+        "Torta de merengue de vainilla Cipriani de postre."
+      ],
+      "tip": "Dress code business casual: dejamos la campera y la remera de la maratón en el hotel. La medalla puede ir en el bolsillo para la foto del brindis.",
+      "warnings": [
+        "Dress code business casual (web oficial y GAYOT).",
+        "Varias reseñas en Tripadvisor dicen que la cuenta ya incluye 20% de servicio: revisar antes de dejar propina.",
+        "Precios altos; hay quejas por errores en la cuenta."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Google",
+            "rating": 4.0,
+            "scale": 5,
+            "count": 823,
+            "url": "https://wanderlog.com/place/details/392588/harry-cipriani",
+            "checked": "2026-09-28"
+          },
+          {
+            "source": "Tripadvisor",
+            "rating": 3.9,
+            "scale": 5,
+            "count": 707,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d494864-Reviews-Harry_Cipriani-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          },
+          {
+            "source": "GAYOT",
+            "rating": 15,
+            "scale": 20,
+            "count": null,
+            "url": "https://www.gayot.com/restaurants/harry-cipriani-new-york-ny-10022_1ny99440-01.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "El Bellini, el carpaccio y los tagliolini gratinados son lo que todos recomiendan.",
+          "El salón y el servicio de la vieja escuela son parte del atractivo.",
+          "La relación precio-calidad es la queja más repetida, junto con errores en la cuenta."
+        ],
+        "press": [
+          {
+            "outlet": "GAYOT",
+            "quote": "It's hard to recommend such an extraordinarily overpriced restaurant, but to devotees",
+            "url": "https://www.gayot.com/restaurants/harry-cipriani-new-york-ny-10022_1ny99440-01.html"
+          },
+          {
+            "outlet": "Airmail",
+            "quote": "the uptown spot, tucked in the Sherry Netherlands on Fifth Avenue, feels timeless.",
+            "url": "https://airmail.news/arts-intel/venues/harry-cipriani"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.cipriani.com/harry-cipriani",
+        "menu": "https://www.cipriani.com/_files/ugd/a187ac_4900d5ebbed54d40b71c3aa55135f4c5.pdf",
+        "reserve": "https://resy.com/cities/ny/harry-cipriani",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cipriani_S.A."
+      },
+      "commons_files": [
+        "File:Sherry Netherland 781 Fifth Avenue.jpg",
+        "File:Carpaccio Cipriani.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "sant-ambroeus-madison",
+      "name": "Sant Ambroeus Madison Avenue",
+      "category": "comida",
+      "neighborhood": "Upper East Side, Manhattan",
+      "address": "1000 Madison Avenue (entre 77th y 78th St), New York, NY 10075",
+      "lat": 40.775404,
+      "lng": -73.962992,
+      "coords_source": "https://www.openstreetmap.org/node/7134303426",
+      "hours": "lun 2-nov: 8:00–22:00; almuerzo 12:00–16:00",
+      "hours_source": "https://www.santambroeus.com/pages/location-madison-avenue",
+      "price": "Sin precios verificados en la web",
+      "duration_min": 90,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://resy.com/cities/new-york-ny/venues/sant-ambroeus-madison-ave",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "77 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 5,
+        "notes": ""
+      },
+      "why": "Restaurante y pastelería de cocina milanesa, con barra de café donde hacen en el día cornetti, tortas y gelato. Es la alternativa italiana más tranquila a Cipriani, 18 cuadras al norte.",
+      "what": [
+        "Un almuerzo milanés en el salón.",
+        "Espresso o cappuccino en la barra.",
+        "Gelato o una torta de la casa de postre."
+      ],
+      "tip": "Si Cipriani no tiene mesa, este es el plan: abre todo el día y el almuerzo va de 12:00 a 16:00.",
+      "warnings": [],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.santambroeus.com/pages/location-madison-avenue",
+        "menu": "https://www.santambroeus.com/pages/madison-avenue-menu",
+        "reserve": "https://resy.com/cities/new-york-ny/venues/sant-ambroeus-madison-ave",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "bemelmans-bar",
+      "name": "Bemelmans Bar (The Carlyle)",
+      "category": "bar",
+      "neighborhood": "Upper East Side, Manhattan",
+      "address": "35 East 76th Street, New York, NY 10021",
+      "lat": 40.774381,
+      "lng": -73.96299,
+      "coords_source": "https://www.openstreetmap.org/way/266898264",
+      "hours": "lun 2-nov: 12:00–24:00; música en vivo desde las 17:30",
+      "hours_source": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/bemelmans-bar",
+      "price": "Cargo por música desde las 17:30: USD 25–35 por persona en mesa, USD 20–25 en la barra, según el artista",
+      "duration_min": 75,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/bemelmans-bar",
+        "lead": "",
+        "notes": "Consultas y reservas por teléfono (+1 212-570-7120) o mail (bemelmansbar@rosewoodhotels.com)."
+      },
+      "transit": {
+        "station": "77 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 4,
+        "notes": ""
+      },
+      "why": "Bar del hotel Carlyle con los murales de Ludwig Bemelmans, el autor de Madeline. Abre al mediodía y tiene carta de comida: sirve para un brindis de festejo sin el cargo de la música, que arranca a las 17:30.",
+      "what": [
+        "Los murales de Bemelmans en las paredes.",
+        "Un martini o un cóctel clásico en la barra.",
+        "Algo liviano de la carta del bar."
+      ],
+      "tip": "Ir antes de las 17:30 evita el cargo por música y la fila de la noche.",
+      "warnings": [
+        "La ropa deportiva y el athleisure no van, según el propio hotel.",
+        "Desde las 17:30 se cobra cargo por música."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/bemelmans-bar",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:Bemelmans Bar.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "nepali-bhanchha-ghar",
+      "name": "Nepali Bhanchha Ghar",
+      "category": "comida",
+      "neighborhood": "Jackson Heights, Queens",
+      "address": "74-15 Roosevelt Avenue, Jackson Heights, NY 11372",
+      "lat": 40.747029,
+      "lng": -73.890824,
+      "coords_source": "https://www.openstreetmap.org/node/5658796960",
+      "hours": "lun 2-nov: 11:00–23:00",
+      "hours_source": "https://www.bhanchhagharny.com/",
+      "price": "Momos USD 10–11 el plato (vapor, fritos o jhol); sel roti USD 2",
+      "duration_min": 30,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "74 St–Broadway / Jackson Hts–Roosevelt Av",
+        "lines": [
+          "7",
+          "E",
+          "F",
+          "M",
+          "R"
+        ],
+        "walk_min": 1,
+        "notes": ""
+      },
+      "why": "Restaurante nepalí pegado a la estación de Roosevelt Av, con cocina a la vista donde fríen sel roti, un aro dulce de harina de arroz. The Infatuation le pone 8.7 y destaca sus momos.",
+      "what": [
+        "Un plato de momos al vapor de pollo o de chivo para compartir.",
+        "Jhol momo: los mismos momos en caldo especiado.",
+        "Un sel roti de USD 2 recién frito."
+      ],
+      "tip": "Pedimos un solo plato para dos: es la primera de cuatro paradas.",
+      "warnings": [
+        "The Infatuation lista la dirección como 74-06 37th Rd; la web oficial dice 74-15 Roosevelt Ave. Es la misma manzana, junto a la estación."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Infatuation",
+            "rating": 8.7,
+            "scale": 10,
+            "count": null,
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "right by the Roosevelt Avenue subway station, and also makes some excellent momos and thali plates.",
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.bhanchhagharny.com/",
+        "menu": "https://www.bhanchhagharny.com/",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "https://www.instagram.com/bhanchhaghar/",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "phayul",
+      "name": "Phayul",
+      "category": "comida",
+      "neighborhood": "Jackson Heights, Queens",
+      "address": "37-65 74th Street, 2do piso, Jackson Heights, NY 11372",
+      "lat": 40.747162,
+      "lng": -73.891342,
+      "coords_source": "https://www.openstreetmap.org/node/12760709334",
+      "hours": "lun 2-nov: 11:00–22:30",
+      "hours_source": "https://www.yelp.com/biz/phayul-jackson-heights",
+      "price": "Sin precios verificados",
+      "duration_min": 40,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "74 St–Broadway / Jackson Hts–Roosevelt Av",
+        "lines": [
+          "7",
+          "E",
+          "F",
+          "M",
+          "R"
+        ],
+        "walk_min": 2,
+        "notes": ""
+      },
+      "why": "Restaurante tibetano en un primer piso por escalera, frente a Lhasa Fast Food. The Infatuation le pone 8.3 y lo prefiere entre los tibetanos de la zona.",
+      "what": [
+        "Momos al vapor o fritos.",
+        "Tsak sha la kor hot: caldo con carne y rabanito, con pimienta de Sichuan.",
+        "Fideos fritos estilo Lhasa."
+      ],
+      "tip": "Plan B de los momos si Nepali Bhanchha Ghar está lleno: queda a una cuadra.",
+      "warnings": [
+        "Se sube por escalera."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Infatuation",
+            "rating": 8.3,
+            "scale": 10,
+            "count": null,
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "Start off with some steamed or fried momos, then try the tsak sha la kor hot.",
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants"
+          }
+        ]
+      },
+      "links": {
+        "official": "",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "arepa-lady",
+      "name": "Arepa Lady",
+      "category": "comida",
+      "neighborhood": "Jackson Heights, Queens",
+      "address": "77-17 37th Avenue, Jackson Heights, NY 11372",
+      "lat": 40.749454,
+      "lng": -73.888253,
+      "coords_source": "https://www.openstreetmap.org/node/2569998650",
+      "hours": "lun 2-nov: 12:00–22:00 según Yelp (NYC Tourism dice que abre seis días por semana: confirmar)",
+      "hours_source": "https://www.yelp.com/biz/arepa-lady-jackson-heights-4",
+      "price": "Rango $ (NYC Tourism)",
+      "duration_min": 25,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Teléfono (917) 745-1111."
+      },
+      "transit": {
+        "station": "74 St–Broadway / Jackson Hts–Roosevelt Av",
+        "lines": [
+          "7",
+          "E",
+          "F",
+          "M",
+          "R"
+        ],
+        "walk_min": 6,
+        "notes": "82 St–Jackson Hts (7) queda a 6 min."
+      },
+      "why": "María Piedad Cano, colombiana, empezó hace décadas con un carrito nocturno de fin de semana en Roosevelt Av. Desde 2018 tiene local propio sobre la 37th Av.",
+      "what": [
+        "Arepa de queso: gruesa, con mozzarella derretida y la carne que elijamos.",
+        "Arepa de choclo, dulce y doblada sobre el queso.",
+        "Guacamole extra por un par de dólares."
+      ],
+      "tip": "Una arepa para compartir alcanza: después viene la birria.",
+      "warnings": [
+        "Horario del lunes con fuentes en conflicto: confirmar por teléfono ese día."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "be sure to get at least one arepa de queso. These are thick, fluffy, and filled with melted mozzarella, plus a meat of your choice.",
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.nyctourism.com/restaurants/arepa-lady/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "birria-landia-jackson-heights",
+      "name": "Birria-Landia (Jackson Heights)",
+      "category": "comida",
+      "neighborhood": "Jackson Heights, Queens",
+      "address": "77-99 Roosevelt Avenue (esq. 78th St), Jackson Heights, NY 11372",
+      "lat": 40.747231,
+      "lng": -73.888552,
+      "coords_source": "https://www.openstreetmap.org/node/10782100909",
+      "hours": "lun 2-nov: 17:00–01:00",
+      "hours_source": "https://birria-landia.com/",
+      "price": "The Infatuation sugiere llevar al menos USD 20 para probar los cuatro ítems del menú",
+      "duration_min": 30,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Camión en la calle, bajo las vías del 7: se come parado."
+      },
+      "transit": {
+        "station": "82 St–Jackson Hts",
+        "lines": [
+          "7"
+        ],
+        "walk_min": 5,
+        "notes": "Desde 74 St–Broadway son 7 min por Roosevelt Av."
+      },
+      "why": "Camión de birria estilo Tijuana que empezó en Jackson Heights y hoy tiene varias sedes. The Infatuation le pone 9.0 y dice que hace la mejor birria de la ciudad. El menú tiene cuatro cosas, todas con consomé.",
+      "what": [
+        "Tacos de birria con la tortilla mojada en consomé y tostada en la plancha.",
+        "Mulita: crocante, con carne y mucha mozzarella.",
+        "Tostada de birria.",
+        "Un vaso de consomé para mojar todo."
+      ],
+      "tip": "Abre a las 17:00: llegar antes de las 19:00 ayuda a esquivar la fila de la noche. Pedimos servilletas de más.",
+      "warnings": [
+        "Recién abre a las 17:00 los lunes.",
+        "Es al aire libre: con lluvia o frío conviene Cositas Ricas, a una cuadra."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Infatuation",
+            "rating": 9.0,
+            "scale": 10,
+            "count": null,
+            "url": "https://www.theinfatuation.com/new-york/reviews/birria-landia",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "Birria-Landia makes the city’s best birria, full stop.",
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants"
+          },
+          {
+            "outlet": "The Infatuation",
+            "quote": "The orange tortillas dipped in consome should be standard-issue at all other taco spots, and the juicy beef leaks broth over your hands.",
+            "url": "https://www.theinfatuation.com/new-york/reviews/birria-landia"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://birria-landia.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "los-chuzos-y-algo-mas",
+      "name": "Los Chuzos y Algo Más",
+      "category": "comida",
+      "neighborhood": "Jackson Heights, Queens",
+      "address": "79-01 Roosevelt Avenue, Jackson Heights, NY 11372",
+      "lat": 40.747489,
+      "lng": -73.886591,
+      "coords_source": "https://www.openstreetmap.org/node/7916963801",
+      "hours": "lun 2-nov: 8:00–01:00",
+      "hours_source": "https://local.yahoo.com/info-169108478-los-chuzos-y-algo-mas-jackson-heights/",
+      "price": "Sin precios verificados",
+      "duration_min": 20,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Teléfono (718) 651-7709."
+      },
+      "transit": {
+        "station": "82 St–Jackson Hts",
+        "lines": [
+          "7"
+        ],
+        "walk_min": 4,
+        "notes": ""
+      },
+      "why": "Local colombiano chico que abre hasta tarde, con un menú corto de chuzos (brochetas de carne) y arepas. The Infatuation le pone 7.8 y recomienda el chorizo.",
+      "what": [
+        "Chorizo colombiano grande y crocante.",
+        "Un chuzo de carne si queda hambre.",
+        "Una arepa chica si queda lugar."
+      ],
+      "tip": "Es la última parada: un chorizo para compartir y listo.",
+      "warnings": [],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Infatuation",
+            "rating": 7.8,
+            "scale": 10,
+            "count": null,
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "our go-to order is the big, crispy chorizo.",
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants"
+          }
+        ]
+      },
+      "links": {
+        "official": "",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "cositas-ricas",
+      "name": "Cositas Ricas",
+      "category": "comida",
+      "neighborhood": "Jackson Heights, Queens",
+      "address": "79-19 Roosevelt Avenue, Jackson Heights, NY 11372",
+      "lat": 40.747554,
+      "lng": -73.885945,
+      "coords_source": "https://www.openstreetmap.org/node/12412618918",
+      "hours": "lun 2-nov: abierto las 24 horas",
+      "hours_source": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants",
+      "price": "Sin precios verificados",
+      "duration_min": 60,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "82 St–Jackson Hts",
+        "lines": [
+          "7"
+        ],
+        "walk_min": 3,
+        "notes": ""
+      },
+      "why": "Diner colombiano abierto las 24 horas desde 2000, bajo una vaca de colores colgada sobre Roosevelt Av. The Infatuation le pone 8.2 y recomienda el bife.",
+      "what": [
+        "Un bife bien sellado, lo que recomienda The Infatuation.",
+        "La vaca de colores colgada sobre Roosevelt Av.",
+        "Mesas bajo techo si el clima no acompaña."
+      ],
+      "tip": "Es el refugio techado de la noche: si llueve o hace frío, cambiamos el camión de birria y los chorizos por una mesa acá.",
+      "warnings": [],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Infatuation",
+            "rating": 8.2,
+            "scale": 10,
+            "count": null,
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "It’s hard not to be in a good mood at this neon-lit, 24-hour Colombian diner in Jackson Heights, open since 2000.",
+            "url": "https://www.theinfatuation.com/new-york/guides/jackson-heights-restaurants"
+          }
+        ]
+      },
+      "links": {
+        "official": "",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "unisphere",
+      "name": "Unisphere (Flushing Meadows Corona Park)",
+      "category": "paseo",
+      "neighborhood": "Flushing Meadows Corona Park, Queens",
+      "address": "Flushing Meadows Corona Park, Queens, NY 11368",
+      "lat": 40.746384,
+      "lng": -73.845075,
+      "coords_source": "https://www.openstreetmap.org/way/596273458",
+      "hours": "mar 3-nov: acceso libre; el parque abre de 6:00 a 21:00",
+      "hours_source": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park",
+      "price": "Gratis",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "Mets–Willets Point",
+        "lines": [
+          "7"
+        ],
+        "walk_min": 12,
+        "notes": "Desde el DoubleTree conviene taxi o Uber (10–15 min)."
+      },
+      "why": "Globo de acero de 120 pies (37 m) de diámetro y 140 pies (43 m) de alto, centro de la Feria Mundial de 1964–65. Lo diseñó Gilmore D. Clarke y es landmark de la ciudad desde 1995.",
+      "what": [
+        "El globo inclinado 23.5 grados, como el eje de la Tierra.",
+        "La explanada con vista a las torres del Pabellón del Estado de Nueva York de la feria.",
+        "Por fuera, el edificio del Queens Museum (cerrado los martes)."
+      ],
+      "tip": "Es una salida corta: 45 min en el parque y volvemos al hotel antes de las 11:00.",
+      "warnings": [
+        "Las fuentes del Unisphere figuran fuera de servicio desde 2025 (Wikipedia).",
+        "Queens Museum y Louis Armstrong House Museum están cerrados los martes."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nycgovparks.org/parks/flushing-meadows-corona-park",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unisphere"
+      },
+      "commons_files": [
+        "File:Unisphere Flushing Meadows Queens.jpg",
+        "File:Flushing Meadows Corona Park Unisphere 001.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "aeropuerto-laguardia",
+      "name": "Aeropuerto LaGuardia (LGA)",
+      "category": "transporte",
+      "neighborhood": "East Elmhurst, Queens",
+      "address": "LaGuardia Airport, Terminal B y Terminal C, Queens, NY 11371",
+      "lat": 40.772898,
+      "lng": -73.872075,
+      "coords_source": "https://www.openstreetmap.org/way/644536343",
+      "hours": "mar 3-nov: vuelo 15:00; llegar a la terminal 12:30",
+      "hours_source": "https://www.laguardiaairport.com/explore-lga/terminals",
+      "price": "Shuttle del hotel gratis; All Terminals Shuttle gratis; bus Q70 gratis",
+      "duration_min": 150,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Hacer el check-in online 24 h antes y confirmar la terminal en la app de la aerolínea."
+      },
+      "transit": {
+        "station": "Terminal B / Terminal C",
+        "lines": [
+          "Q70"
+        ],
+        "walk_min": 0,
+        "notes": "Shuttle gratis del DoubleTree. El All Terminals Shuttle une terminales las 24 h, cada 15–20 min."
+      },
+      "why": "LGA no tiene aduana y tiene regla de perímetro de 1,500 millas, así que el vuelo de las 15:00 es un tramo dentro de EE.UU. o a Canadá con conexión al vuelo a Buenos Aires. La terminal depende de la aerolínea.",
+      "what": [
+        "Terminal B: Air Canada, American, Frontier, JetBlue, Porter, Southwest y United.",
+        "Terminal C: Delta (exclusiva).",
+        "Terminal A: sin aerolíneas regulares en 2026, según Wikipedia."
+      ],
+      "tip": "Con conexión internacional llegamos 2.5 h antes: shuttle del hotel a las 12:00 y en la terminal a las 12:15–12:30.",
+      "warnings": [
+        "Confirmar la terminal (B o C) según la aerolínea del primer tramo.",
+        "Si el primer tramo es corto, verificar que las valijas vayan despachadas hasta Buenos Aires."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.laguardiaairport.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/LaGuardia_Airport"
+      },
+      "commons_files": [
+        "File:Terminal B at LaGuardia Airport (1).jpg",
+        "File:LaGuardia Airport Terminal C (October 2023) 01.jpg"
+      ],
+      "checked": "2026-09-28"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-11-02",
+      "blocks": [
+        {
+          "time": "09:30",
+          "place": "hotel-lexington",
+          "title": "Check-out y valijas en custodia",
+          "note": "Hacemos el check-out y dejamos las valijas en la custodia del hotel (USD 3 por valija en efectivo, según reseñas). Salimos livianos, con la medalla en la mochila.",
+          "alternatives": []
+        },
+        {
+          "time": "10:15",
+          "place": "parque-marcus-garvey",
+          "title": "Marcus Garvey Park y la torre vigía",
+          "note": "Primer contacto con Harlem, sin apuro. Miramos la torre de hierro fundido desde abajo o subimos a la plaza si las piernas acompañan.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "A pie 6 min hasta Grand Central–42 St. Línea 4 o 5 (express) uptown hasta 125 St: 3 paradas. Salimos por la 125 y caminamos 5 min al oeste hasta Madison Av.",
+            "minutes": 25
+          },
+          "alternatives": [
+            {
+              "place": "schomburg-center",
+              "reason": "lluvia",
+              "note": "Si llueve, vamos directo al Schomburg Center (gratis, abre a las 10:00): taxi corto desde la 125 hasta Lenox Av y la 135."
+            }
+          ]
+        },
+        {
+          "time": "10:40",
+          "place": "studio-museum-harlem",
+          "title": "La 125: Red Rooster y el nuevo Studio Museum",
+          "note": "Caminamos la 125 hacia el oeste. Pasamos Red Rooster en Lenox Av y la fachada nueva del Studio Museum, que los lunes está cerrado.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la 125 hacia el oeste, cruzando Lenox Av (Malcolm X Blvd).",
+            "minutes": 12
+          },
+          "alternatives": [
+            {
+              "place": "sylvias",
+              "reason": "otra-opción",
+              "note": "Si queremos una parada de café o algo dulce, Sylvia's abre a las 11:00 a una cuadra de Lenox y la 126."
+            }
+          ]
+        },
+        {
+          "time": "11:00",
+          "place": "apollo-theater",
+          "title": "Apollo Theater",
+          "note": "Si reservamos la visita guiada de los lunes a las 11:00 (USD 17), entramos al teatro. Si no, fotos de la marquesina y del Walk of Fame en la vereda.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la 125 hacia el oeste, cruzando Adam Clayton Powell Jr. Blvd.",
+            "minutes": 5
+          },
+          "alternatives": [
+            {
+              "place": "schomburg-center",
+              "reason": "sin-entradas",
+              "note": "Sin visita del Apollo, sumamos las muestras del centenario del Schomburg (gratis)."
+            }
+          ]
+        },
+        {
+          "time": "12:15",
+          "place": "strivers-row",
+          "title": "Strivers' Row (opcional)",
+          "note": "Dos cuadras de casas de 1891–1893, con fachadas de Stanford White sobre la 139. Buscamos los carteles \"Walk Your Horses\" en los portones.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por Frederick Douglass Blvd al norte, de la 125 a la 138: unos 1 km.",
+            "minutes": 15
+          },
+          "alternatives": [
+            {
+              "place": "sylvias",
+              "reason": "piernas",
+              "note": "Si las piernas no dan para subir 13 cuadras, cortamos acá y almorzamos soul food en Sylvia's, a 6 min del Apollo."
+            }
+          ]
+        },
+        {
+          "time": "13:00",
+          "place": "harry-cipriani",
+          "title": "Almuerzo de festejo en Harry Cipriani",
+          "note": "Brindis con Bellini por la maratón terminada. Carpaccio, tagliolini gratinados y torta de merengue. Business casual.",
+          "from_prev": {
+            "mode": "taxi",
+            "detail": "Taxi o Uber desde la 138 y Frederick Douglass Blvd hasta 5th Av y la 59, unos 25 min según el tránsito. En subte: B o C desde 135 St hasta 59 St–Columbus Circle y 12 min a pie por Central Park South.",
+            "minutes": 25
+          },
+          "alternatives": [
+            {
+              "place": "sant-ambroeus-madison",
+              "reason": "otra-opción",
+              "note": "Si Cipriani no tiene mesa: cocina milanesa en Madison y la 77, almuerzo de 12:00 a 16:00."
+            },
+            {
+              "place": "bemelmans-bar",
+              "reason": "otra-opción",
+              "note": "Para un brindis más corto con algo de comer bajo los murales de Bemelmans; antes de las 17:30 no hay cargo por música."
+            },
+            {
+              "place": "red-rooster",
+              "reason": "piernas",
+              "note": "Si preferimos no movernos de Harlem: Red Rooster abre a las 12:00 y tiene prix fixe de USD 35."
+            }
+          ]
+        },
+        {
+          "time": "15:00",
+          "place": "hotel-lexington",
+          "title": "Retiramos las valijas",
+          "note": "Pasamos a buscar las valijas. Si pedimos late check-out, podemos usar el baño de la habitación antes del taxi.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por Madison o Park Av hacia el sur hasta la 48 y Lexington: unos 1.6 km. Con las piernas cansadas: taxi de unos 10 min, o la línea 6 desde 59 St hasta 51 St (1 parada).",
+            "minutes": 20
+          },
+          "alternatives": []
+        },
+        {
+          "time": "15:30",
+          "place": "doubletree-lga",
+          "title": "Taxi con valijas al DoubleTree LaGuardia",
+          "note": "Check-in desde las 15:00. Al llegar pedimos late check-out para el martes y el horario del shuttle.",
+          "from_prev": {
+            "mode": "taxi",
+            "detail": "Taxi amarillo o Uber desde la puerta del hotel, por el Queensboro Bridge (sin peaje) o el RFK Bridge (con peaje): 30–50 min. Desde las 16:00 el taxi suma USD 2.50 de hora pico. Referencia UberX Midtown–LGA: USD 40–65 fuera de hora pico. Opción barata con valijas: línea E desde Lexington Av/53 St hasta Jackson Hts–Roosevelt Av, bus Q70 gratis hasta la Terminal B y llamar al shuttle del hotel (unos 75 min).",
+            "minutes": 45
+          },
+          "alternatives": []
+        },
+        {
+          "time": "17:45",
+          "place": "nepali-bhanchha-ghar",
+          "title": "Jackson Heights: arrancamos con momos",
+          "note": "Primera parada al lado de la estación: un plato de momos (USD 10–11) y un sel roti para compartir.",
+          "from_prev": {
+            "mode": "taxi",
+            "detail": "Taxi o Uber del hotel a Roosevelt Av y la 74: unos 4 km, 10–15 min. Gratis: shuttle del hotel a la Terminal B y bus Q70 hasta Jackson Hts–Roosevelt Av (10 min de viaje; pasa cada 7–10 min a la tarde).",
+            "minutes": 15
+          },
+          "alternatives": [
+            {
+              "place": "phayul",
+              "reason": "otra-opción",
+              "note": "Si está lleno, los momos tibetanos de Phayul están a una cuadra, en un primer piso sobre la 74."
+            },
+            {
+              "place": "doubletree-lga",
+              "reason": "cansados",
+              "note": "Si no quedan piernas ni hambre, cenamos en el Elements Lounge del hotel y armamos las valijas temprano."
+            }
+          ]
+        },
+        {
+          "time": "18:20",
+          "place": "arepa-lady",
+          "title": "Arepa Lady",
+          "note": "Una arepa de queso con carne, o la de choclo, para compartir.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la 77 St hacia el norte hasta la 37th Av.",
+            "minutes": 6
+          },
+          "alternatives": [
+            {
+              "place": "cositas-ricas",
+              "reason": "cerrado",
+              "note": "Si Arepa Lady está cerrado (una fuente dice que abre seis días por semana), las arepas van en Cositas Ricas."
+            }
+          ]
+        },
+        {
+          "time": "18:50",
+          "place": "birria-landia-jackson-heights",
+          "title": "Birria-Landia: tacos y consomé",
+          "note": "El plato fuerte de la noche. Tacos, una mulita y un vaso de consomé para mojar. Se come parado junto al camión.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la 78 St hacia el sur hasta Roosevelt Av.",
+            "minutes": 4
+          },
+          "alternatives": [
+            {
+              "place": "cositas-ricas",
+              "reason": "lluvia",
+              "note": "Con lluvia o frío, mesa bajo techo en Cositas Ricas, a una cuadra y abierto las 24 h."
+            }
+          ]
+        },
+        {
+          "time": "19:30",
+          "place": "los-chuzos-y-algo-mas",
+          "title": "Chorizo colombiano de cierre",
+          "note": "Un chorizo crocante para compartir y damos por cerrado el viaje.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Una cuadra por Roosevelt Av hasta la 79.",
+            "minutes": 2
+          },
+          "alternatives": [
+            {
+              "place": "cositas-ricas",
+              "reason": "otra-opción",
+              "note": "Si queremos sentarnos para el cierre, Cositas Ricas está al lado."
+            }
+          ]
+        },
+        {
+          "time": "20:00",
+          "place": "doubletree-lga",
+          "title": "Vuelta al hotel",
+          "note": "Volvemos a armar las valijas. El martes no hay apuro hasta las 12:00.",
+          "from_prev": {
+            "mode": "taxi",
+            "detail": "Taxi o Uber, 10–15 min. Gratis: Q70 desde la parada junto a Jackson Hts–Roosevelt Av hasta la Terminal B o C y llamar al hotel para el shuttle (corre hasta la 1:00).",
+            "minutes": 20
+          },
+          "alternatives": []
+        }
+      ],
+      "tips": [
+        "El sol se pone a las 16:52: Harlem va de mañana y Jackson Heights ya es de noche.",
+        "El Studio Museum in Harlem está cerrado los lunes: solo vemos la fachada.",
+        "Cipriani pide business casual: ropa de salir, nada de ropa deportiva.",
+        "Llevamos billetes chicos para la custodia de valijas y para los puestos de Jackson Heights.",
+        "El subte se paga con la tarjeta o el celular (OMNY); el bus Q70 a LaGuardia es gratis."
+      ],
+      "reservations": [
+        {
+          "what": "Almuerzo en Harry Cipriani, lunes 13:00 para 2",
+          "place": "harry-cipriani",
+          "deadline": "2026-10-19",
+          "url": "https://resy.com/cities/ny/harry-cipriani",
+          "note": "Alternativa: mail a harrycipriani@cipriani.com."
+        },
+        {
+          "what": "Visita guiada al Apollo, lunes 11:00",
+          "place": "apollo-theater",
+          "deadline": "2026-10-19",
+          "url": "https://www.apollotheater.org/tours",
+          "note": "Formulario online; USD 17 por persona, sin reembolso."
+        },
+        {
+          "what": "Late check-out en The Lexington (gratis hasta 14:00)",
+          "place": "hotel-lexington",
+          "deadline": "2026-10-29",
+          "url": "https://www.lexingtonhotelnyc.com/faq",
+          "note": "Pedirlo al hacer el check-in."
+        },
+        {
+          "what": "Late check-out en el DoubleTree LGA para el martes",
+          "place": "doubletree-lga",
+          "deadline": "2026-11-02",
+          "url": "https://www.hilton.com/en/hotels/nyclgdt-doubletree-new-york-laguardia-airport/",
+          "note": "Teléfono +1 718-457-6300."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "blocks": [
+        {
+          "time": "08:30",
+          "place": "doubletree-lga",
+          "title": "Desayuno y valijas listas",
+          "note": "Desayuno buffet en Pavilion Grille (6:00–11:00, con cargo) o algo liviano. Valijas cerradas antes de salir.",
+          "alternatives": []
+        },
+        {
+          "time": "09:45",
+          "place": "unisphere",
+          "title": "Unisphere, si hay ganas",
+          "note": "Paseo corto por el globo de la Feria Mundial de 1964–65. Nada más abre por la mañana: Queens Museum y la casa de Louis Armstrong están cerrados los martes.",
+          "from_prev": {
+            "mode": "taxi",
+            "detail": "Taxi o Uber por la Grand Central Pkwy, 10–15 min. Taxímetro TLC: USD 3 de bajada más USD 0.70 cada 1/5 de milla.",
+            "minutes": 15
+          },
+          "alternatives": [
+            {
+              "place": "doubletree-lga",
+              "reason": "piernas",
+              "note": "Si llueve o las piernas piden descanso, mañana tranquila en el hotel."
+            }
+          ]
+        },
+        {
+          "time": "11:00",
+          "place": "doubletree-lga",
+          "title": "Vuelta y check-out",
+          "note": "Check-out a las 11:00, o más tarde si nos dieron late check-out. Si no, dejamos las valijas en recepción.",
+          "from_prev": {
+            "mode": "taxi",
+            "detail": "Taxi o Uber de vuelta, 10–15 min.",
+            "minutes": 15
+          },
+          "alternatives": []
+        },
+        {
+          "time": "12:00",
+          "place": "aeropuerto-laguardia",
+          "title": "Shuttle a LaGuardia",
+          "note": "Vuelo a las 15:00 con conexión internacional: en la terminal a las 12:15–12:30, 2.5 h antes. Terminal B si volamos American, United o JetBlue; C si es Delta.",
+          "from_prev": {
+            "mode": "bus",
+            "detail": "Shuttle gratis del hotel, unos 10 min; sale cada 20–30 min, así que bajamos al lobby 11:45.",
+            "minutes": 15
+          },
+          "alternatives": []
+        }
+      ],
+      "tips": [
+        "Queens Museum (mié–dom) y Louis Armstrong House Museum (jue–sáb) están cerrados los martes.",
+        "Si el shuttle tarda, un taxi o Uber al aeropuerto son unos 5–10 min.",
+        "Chequear la terminal en la app de la aerolínea la noche anterior."
+      ],
+      "reservations": []
+    }
+  ],
+  "findings": [
+    {
+      "topic": "Harry Cipriani: lunes y dress code",
+      "status": "ok",
+      "detail": "Abre todos los días: almuerzo y cena de 12:00 a 22:45. Dress code business casual según la web oficial y GAYOT. Reservas por Resy. Reseñas en Tripadvisor dicen que la cuenta incluye 20% de servicio: revisar antes de dejar propina.",
+      "source": "https://www.cipriani.com/harry-cipriani"
+    },
+    {
+      "topic": "Birria-Landia Jackson Heights: lunes",
+      "status": "ok",
+      "detail": "El camión de 77-99 Roosevelt Ave abre lunes a jueves de 17:00 a 01:00. Jackson Heights tiene que ser después de las 17:00, como está en el plan.",
+      "source": "https://birria-landia.com/"
+    },
+    {
+      "topic": "Shuttle del DoubleTree LaGuardia",
+      "status": "ok",
+      "detail": "Shuttle gratis a LGA de 4:00 a 1:00, cada 20–30 min (Trip.com); desde el aeropuerto hay que llamar al hotel (+1 718-457-6300). La web de Hilton devolvió error 403: confirmar el horario en recepción.",
+      "source": "https://us.trip.com/hotels/new-york-hotel-detail-2098858/doubletree-by-hilton-new-york-laguardia-airport/"
+    },
+    {
+      "topic": "Check-out del DoubleTree vs. salida al aeropuerto",
+      "status": "riesgo",
+      "detail": "El check-out es a las 11:00 y salimos hacia LGA a las 12:00. Pedir late check-out al llegar el lunes; si no, dejar las valijas en recepción.",
+      "source": "https://us.trip.com/hotels/new-york-hotel-detail-2098858/doubletree-by-hilton-new-york-laguardia-airport/"
+    },
+    {
+      "topic": "Studio Museum in Harlem",
+      "status": "cambia-plan",
+      "detail": "Reabrió el 15 de noviembre de 2025 en su edificio nuevo de la 125, pero cierra lunes y martes. En el plan queda solo la fachada.",
+      "source": "https://www.studiomuseum.org/visit"
+    },
+    {
+      "topic": "Visa para argentinos",
+      "status": "ok",
+      "detail": "Argentina no está en el Visa Waiver Program: hace falta visa B1/B2 vigente. El proceso de reingreso sigue abierto y el gobierno estima que podría funcionar en 2027 (La Nación, 16 de septiembre de 2026).",
+      "source": "https://www.lanacion.com.ar/politica/visa-waiver-peter-lamelas-aseguro-que-trabaja-para-que-los-argentinos-puedan-ingresar-a-estados-nid16092026/"
+    },
+    {
+      "topic": "Tarifa OMNY 2026",
+      "status": "ok",
+      "detail": "Subte y bus local USD 3 por viaje desde enero de 2026. Tope de USD 35 cada 7 días por tarjeta o celular. Desde el 1 de enero de 2026 no se venden ni recargan MetroCards.",
+      "source": "https://www.mta.info/fares-tolls/subway-bus"
+    },
+    {
+      "topic": "Opciones del martes a la mañana",
+      "status": "cambia-plan",
+      "detail": "Queens Museum (y su Panorama) cierra lunes y martes; Louis Armstrong House Museum abre solo jueves a sábado. El martes queda solo el Unisphere, al aire libre.",
+      "source": "https://www.louisarmstronghouse.org/visit/"
+    },
+    {
+      "topic": "Apollo Theater: visita del lunes",
+      "status": "ok",
+      "detail": "Hay visitas guiadas los lunes a las 11:00 y 13:00, USD 17, solo con reserva previa por formulario y sujetas al calendario del teatro.",
+      "source": "https://www.apollotheater.org/tours"
+    },
+    {
+      "topic": "Arepa Lady: horario del lunes",
+      "status": "riesgo",
+      "detail": "Yelp indica lunes 12:00–22:00, pero NYC Tourism dice que abre seis días por semana. Confirmar por teléfono ((917) 745-1111); si está cerrado, Cositas Ricas cubre las arepas.",
+      "source": "https://www.nyctourism.com/restaurants/arepa-lady/"
+    },
+    {
+      "topic": "Terminal del vuelo en LGA",
+      "status": "riesgo",
+      "detail": "LGA no tiene aduana y aplica una regla de perímetro de 1,500 millas: el vuelo de las 15:00 es un tramo con conexión. Terminal B para American, United, JetBlue, Southwest, Air Canada y otras; Terminal C solo Delta.",
+      "source": "https://www.laguardiaairport.com/explore-lga/terminals"
+    },
+    {
+      "topic": "Cambio de hora el día de la maratón",
+      "status": "riesgo",
+      "detail": "El horario de verano termina el domingo 1 de noviembre a las 2:00: los relojes vuelven a la 1:00. Los celulares se ajustan solos; los relojes de GPS y despertadores manuales, revisarlos la noche anterior.",
+      "source": "https://portal.311.nyc.gov/article/?kanumber=KA-02673"
+    }
+  ],
+  "practical": [
+    {
+      "topic": "visa",
+      "title": "Entrada a EE.UU. con pasaporte argentino",
+      "body": "Argentina no forma parte del Visa Waiver Program, así que no aplica el ESTA: entramos con la visa de turista B1/B2. La visa tiene que estar vigente el día que entramos. En julio de 2025 se firmó una declaración de intención para el reingreso al programa y el gobierno estima que podría funcionar en 2027, pero en septiembre de 2026 la visa sigue siendo obligatoria.",
+      "source": "https://www.lanacion.com.ar/politica/visa-waiver-peter-lamelas-aseguro-que-trabaja-para-que-los-argentinos-puedan-ingresar-a-estados-nid16092026/"
+    },
+    {
+      "topic": "omny",
+      "title": "Subte y bus: OMNY y tarifas 2026",
+      "body": "El viaje en subte o bus local cuesta USD 3 y se paga apoyando la tarjeta contactless, el celular o el reloj en el molinete (OMNY). Hay un transbordo gratis dentro de las 2 horas. Después de pagar USD 35 en 7 días con el mismo medio de pago, el resto de los viajes de esa semana es gratis. Cada uno usa su propia tarjeta o celular para que el tope cuente por persona. Desde el 1 de enero de 2026 no se venden MetroCards.",
+      "source": "https://www.mta.info/fares-tolls/subway-bus"
+    },
+    {
+      "topic": "propinas",
+      "title": "Propinas",
+      "body": "En restaurantes con servicio de mesa se deja 18–20% del total. En bares, al menos USD 1 por trago, o 18–20% si pagamos la cuenta con tarjeta. En taxi y Uber, 15–20%. En el hotel, USD 1–2 por valija al botones y USD 3–5 por día a la mucama. Antes de dejar propina, revisar si la cuenta ya trae un cargo por servicio.",
+      "source": "https://www.nyctourism.com/tipping-sales-tax/"
+    },
+    {
+      "topic": "impuestos",
+      "title": "Impuesto a las ventas",
+      "body": "Los precios se muestran sin impuesto: en la caja se suma 8.875% (4.5% de la ciudad, 4% del estado y 0.375% de transporte). La ropa y el calzado de menos de USD 110 por prenda están exentos.",
+      "source": "https://www.nyc.gov/site/finance/business/business-nys-sales-tax.page"
+    },
+    {
+      "topic": "clima",
+      "title": "Clima a fines de octubre y principios de noviembre",
+      "body": "Normales 1991–2020 en Central Park: octubre máxima 18 °C y mínima 11 °C; noviembre máxima 12 °C y mínima 6 °C. Llueve unos 9 días por mes en ambos meses. Conviene ropa en capas y una campera liviana impermeable.",
+      "source": "https://en.wikipedia.org/wiki/Climate_of_New_York_City"
+    },
+    {
+      "topic": "luz",
+      "title": "Horas de luz",
+      "body": "El 28 de octubre amanece a las 7:20 y el sol se pone a las 17:58. Con el cambio de hora del 1 de noviembre todo se adelanta una hora: el lunes 2 amanece a las 6:26 y oscurece a las 16:52; el martes 3, a las 6:27 y 16:51. Los paseos al aire libre van de mañana o a primera hora de la tarde.",
+      "source": "https://api.sunrise-sunset.org/json?lat=40.7829&lng=-73.9654&date=2026-11-02&tzid=America/New_York"
+    },
+    {
+      "topic": "hora",
+      "title": "Fin del horario de verano: domingo 1 de noviembre",
+      "body": "A las 2:00 del domingo 1 de noviembre, el día de la maratón, los relojes vuelven a la 1:00. Nueva York pasa de UTC−4 a UTC−5: desde ese día estamos 2 horas atrás de Buenos Aires (antes, 1 hora). Los celulares se ajustan solos; revisar relojes de GPS y alarmas la noche del sábado.",
+      "source": "https://www.timeanddate.com/time/change/usa/new-york"
+    },
+    {
+      "topic": "enchufes",
+      "title": "Enchufes y voltaje",
+      "body": "En EE.UU. se usan enchufes tipo A y B, a 120 V y 60 Hz. En Argentina son tipo I, a 230 V y 50 Hz: hace falta adaptador. Cargadores de celular y notebook suelen aceptar 100–240 V (mirar la etiqueta); secadores y planchitas de pelo argentinos pueden no funcionar bien.",
+      "source": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/"
+    },
+    {
+      "topic": "sim",
+      "title": "Datos en el celular: eSIM o roaming",
+      "body": "T-Mobile vende desde mayo de 2026 el U.S. Pass para visitantes: eSIM con llamadas, SMS y datos, 7 días USD 25 o 10 días USD 30, con 50 GB de alta velocidad, sin papeles. Airalo ofrece eSIM solo de datos ilimitados: 7 días USD 25 o 10 días USD 34. Otra opción es el paquete de roaming de la compañía argentina. El celular tiene que ser compatible con eSIM y estar liberado.",
+      "source": "https://tmo.report/2026/05/t-mobile-unveils-short-term-prepaid-plans-for-visitors-to-the-us/"
+    },
+    {
+      "topic": "apps",
+      "title": "Apps útiles",
+      "body": "Google Maps o Citymapper para rutas de subte y bus en tiempo real. La app oficial MTA para horarios, alertas y buses. Resy y OpenTable para reservas de restaurantes. TodayTix para entradas de teatro. La app New York Road Runners es la app oficial de la TCS NYC Marathon, con seguimiento de corredores en vivo. Para OMNY no hace falta app: alcanza con la tarjeta o el celular.",
+      "source": "https://apps.apple.com/us/app/new-york-road-runners/id6742177802"
+    },
+    {
+      "topic": "emergencias",
+      "title": "Emergencias",
+      "body": "El número de emergencias es 911 (policía, bomberos, ambulancia). Para consultas no urgentes de la ciudad se usa 311. Llevamos siempre una foto del pasaporte y de la visa en el celular.",
+      "source": "https://portal.311.nyc.gov/"
+    },
+    {
+      "topic": "consulado",
+      "title": "Consulado General de la República Argentina en Nueva York",
+      "body": "Dirección: 12 West 56th Street, New York, NY 10019. Teléfono +1 212 603 0400, con atención telefónica de 9:00 a 13:00. Horario de atención: lunes a viernes de 9:00 a 17:00. Guardia para emergencias (detención, riesgo de vida): +1 646 283 5892. Mail: cnyor@mrecic.gov.ar.",
+      "source": "https://cnyor.cancilleria.gob.ar/es/contacto-sede"
+    },
+    {
+      "topic": "moverse",
+      "title": "Cómo moverse en subte",
+      "body": "Uptown es hacia el norte y downtown hacia el sur. En muchas estaciones locales hay bocas distintas para cada sentido: leer el cartel de la entrada antes de pagar. Los trenes express paran solo en algunas estaciones (punto blanco en el mapa) y los locales en todas (punto negro). El frente del tren muestra la línea y el destino final. Los fines de semana y de noche hay cambios de servicio por obras: chequear alertas en la app MTA o en Google Maps antes de salir.",
+      "source": "https://pix11.com/news/transit/nyc-subways-whats-the-difference-between-a-local-and-express-train/"
+    },
+    {
+      "topic": "taxis",
+      "title": "Taxis y Uber",
+      "body": "El taxi amarillo arranca en USD 3 y suma USD 0.70 cada 1/5 de milla o cada minuto parado. Se agregan recargos: USD 1 de mejora, USD 0.50 del estado, USD 2.50 de congestión al sur de la calle 96, USD 0.75 del peaje de congestión al sur de la 60, y USD 2.50 de hora pico de lunes a viernes de 16:00 a 20:00. Los peajes de puentes van aparte. Se paga con tarjeta sin recargo.",
+      "source": "https://www.nyc.gov/site/tlc/passengers/taxi-fare.page"
+    },
+    {
+      "topic": "laguardia",
+      "title": "Llegar a LaGuardia sin taxi",
+      "body": "El bus Q70 LaGuardia Link es gratis y va de Jackson Heights–Roosevelt Av (subte 7, E, F, M, R) a las terminales B y C en unos 10 minutos, las 24 horas. Si venimos en subte, el pasaje se paga al entrar al subte y el Q70 no cobra. Entre terminales circula el All Terminals Shuttle, gratis y las 24 horas.",
+      "source": "https://www.mta.info/guides/airports/laguardia"
+    }
+  ]
+}

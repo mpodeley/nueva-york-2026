@@ -1,7 +1,245 @@
 {
+ "waves": [
+  {
+   "wave": "1",
+   "start": "09:10",
+   "corrals_open": "08:10",
+   "corrals_close": "08:45",
+   "note": "Escenario de ejemplo para Daniela (3:30–4:00); la ola la define NYRR por best pace. Antes largan sillas de ruedas y élite (cronograma 2026 sin publicar; en 2025 desde las 08:00)."
+  },
+  {
+   "wave": "2",
+   "start": "09:45",
+   "corrals_open": "09:05",
+   "corrals_close": "09:25",
+   "note": "Si Daniela cae en la ola 2, llega entre 13:15 y 14:00."
+  },
+  {
+   "wave": "3",
+   "start": "10:20",
+   "corrals_open": "09:45",
+   "corrals_close": "10:00",
+   "note": "Si Matías cae en la ola 3, llega entre 14:50 y 15:35."
+  },
+  {
+   "wave": "4",
+   "start": "10:55",
+   "corrals_open": "10:25",
+   "corrals_close": "10:40",
+   "note": "Escenario de ejemplo para Matías (4:30–5:00): llega entre 15:25 y 16:10."
+  },
+  {
+   "wave": "5",
+   "start": "11:30",
+   "corrals_open": "11:00",
+   "corrals_close": "11:15",
+   "note": "Si Matías cae en la ola 5, llega entre 16:00 y 16:45; Family Reunion cierra a las 18:00."
+  }
+ ],
+ "finish_estimates": [
+  {
+   "runner": "Daniela",
+   "target": "3:30–4:00",
+   "wave": "1",
+   "finish": "12:40–13:25",
+   "exit_w77": "13:05–13:55",
+   "note": "Estimación propia: hora de ola más tiempo objetivo más 0–15 min para cruzar la largada. Salida de W 77th St 20–30 min después de la meta (guía 2025)."
+  },
+  {
+   "runner": "Daniela",
+   "target": "3:30–4:00",
+   "wave": "2",
+   "finish": "13:15–14:00",
+   "exit_w77": "13:40–14:30",
+   "note": "Misma estimación con ola 2."
+  },
+  {
+   "runner": "Matías",
+   "target": "4:30–5:00",
+   "wave": "4",
+   "finish": "15:25–16:10",
+   "exit_w77": "15:50–16:40",
+   "note": "Misma estimación con ola 4."
+  },
+  {
+   "runner": "Matías",
+   "target": "4:30–5:00",
+   "wave": "5",
+   "finish": "16:00–16:45",
+   "exit_w77": "16:25–17:15",
+   "note": "Misma estimación con ola 5."
+  }
+ ],
+ "course_notes": [
+  {
+   "km": 0,
+   "name": "Verrazzano-Narrows Bridge",
+   "note": "Largada al pie del puente y 1.6 km de subida, unos 45 m, hasta el punto más alto de la carrera. No hay público y suele soplar viento de la bahía. Marathon Handbook aconseja ir 30–45 s por milla más lento que el ritmo objetivo (unos 20–30 s por km). La bajada a Brooklyn invita a acelerar: conviene contenerse."
+  },
+  {
+   "km": 5,
+   "name": "Fourth Avenue, Bay Ridge",
+   "note": "Primer público grande del día, desde la milla 3. Son unos 8 km casi planos y rectos por Fourth Avenue, con carteles caseros y bandas. El ruido empuja a correr más rápido de lo planeado: fijar el ritmo y correr las tangentes."
+  },
+  {
+   "km": 13,
+   "name": "Atlantic Avenue y Lafayette Avenue",
+   "note": "En la milla 8, a la altura del Barclays Center, se juntan los recorridos de los tres colores. Lafayette Avenue, en Fort Greene y Clinton Hill, sube suave unos 15 m en 800 m. En Clinton Hill hay una zona de aliento de socios de NYRR."
+  },
+  {
+   "km": 17,
+   "name": "Williamsburg, zona jasídica (Bedford Avenue)",
+   "note": "Entre las millas 10 y 11 la comunidad jasídica casi no sale a alentar. Es el tramo más silencioso de Brooklyn: buen momento para revisar sensaciones, tomar agua y comer. El primer puesto de geles Maurten está en la milla 12 (km 19.3)."
+  },
+  {
+   "km": 21.1,
+   "name": "Pulaski Bridge (media maratón)",
+   "note": "Subida corta y empinada, unos 15 m en 400 m, que cruza de Brooklyn a Queens. La alfombra de mitad de carrera está sobre el puente; el público espera del lado de Queens."
+  },
+  {
+   "km": 24.1,
+   "name": "Queensboro Bridge",
+   "note": "Entre las millas 15 y 16 (km 24–25.7) se corre por el tablero inferior: 31 m de subida y ningún espectador. Después de 20 km de Brooklyn ruidoso solo se oyen pasos y respiraciones. Subir por esfuerzo, sin mirar el ritmo."
+  },
+  {
+   "km": 26,
+   "name": "First Avenue",
+   "note": "Al bajar del puente aparece el muro de sonido: público de varias filas en una avenida ancha y levemente en bajada durante unos 5 km hasta el Bronx. Es donde más corredores se pasan de ritmo. Segundo puesto de geles en la milla 18 (km 29)."
+  },
+  {
+   "km": 32.2,
+   "name": "Willis Avenue Bridge, entrada al Bronx",
+   "note": "Milla 20: puente corto, unos 15 m, y la zona donde suele aparecer el muro. En 2026 cambia el recorrido del Bronx por primera vez en 15 años (E 135th St, Alexander Ave, E 141st St, Third Ave y E 138th St). Hay más giros: correr las esquinas por dentro."
+  },
+  {
+   "km": 33.8,
+   "name": "Madison Avenue Bridge",
+   "note": "Milla 21: último puente y vuelta a Manhattan por Harlem, con bananas en el puesto de esta milla. Quedan 8.4 km."
+  },
+  {
+   "km": 37,
+   "name": "Fifth Avenue, la subida",
+   "note": "Desde la calle 110 hacia el sur hasta la 90, entre las millas 23 y 24, hay un ascenso casi continuo de 20–30 m según la fuente, con Central Park a la derecha. A esta altura pesa mucho: acortar el paso y pensar solo en la entrada al parque."
+  },
+  {
+   "km": 38.6,
+   "name": "Entrada a Central Park (E 90th St)",
+   "note": "Milla 24. Se entra por la East Drive, con lomas cortas y el público otra vez en masa. Quedan 3.6 km."
+  },
+  {
+   "km": 41,
+   "name": "Central Park South",
+   "note": "Se sale del parque en la calle 59 y se corre al oeste por Central Park South unos 800 m, plano, con público de varias filas."
+  },
+  {
+   "km": 41.8,
+   "name": "Columbus Circle",
+   "note": "Milla 26: se vuelve a entrar al parque con una subida corta. Quedan unos 400 m."
+  },
+  {
+   "km": 42.195,
+   "name": "Llegada frente a Tavern on the Green",
+   "note": "Meta sobre West Drive a la altura de W 67th St, con tribunas a los costados. Después vienen medalla, poncho y 20–30 min de caminata hasta la salida de W 77th St."
+  }
+ ],
+ "sources": [
+  "https://www.nyrr.org/tcsnycmarathon/the-start",
+  "https://www.nyrr.org/tcsnycmarathon/the-course",
+  "https://cms.prod.nyrr.org/api/document-files/file/TCSNYCM26_Map_Course_090226_RD3.pdf?prefix=documents",
+  "https://www.nyrr.org/tcsnycmarathon/the-finish",
+  "https://cms.prod.nyrr.org/api/document-files/file/TCSNYCM26_Map_Finish_090826_RD19.pdf?prefix=documents",
+  "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+  "https://webassets.nyrr.org/nyrrwebsiteassets/TCSNYCM25_RunnerGuide_Mobile_M.pdf",
+  "https://en.wikipedia.org/wiki/New_York_City_Marathon",
+  "https://marathonhandbook.com/new-york-city-marathon-course-breakdown/"
+ ],
  "date": "2026-11-01",
  "notice": {
   "title": "El domingo cambia la hora",
-  "body": "A las 2:00 del domingo 1 de noviembre termina el horario de verano y los relojes vuelven a la 1:00: es una hora más de sueño. El celular se ajusta solo; conviene revisar el reloj de correr y la alarma."
- }
+  "body": "A las 2:00 del domingo 1 de noviembre termina el horario de verano y los relojes vuelven a la 1:00: dormimos una hora más. Celulares y relojes GPS se ajustan solos; el despertador de mesa, no. Desde ese momento Argentina queda 2 horas adelante: la ola 1 larga a las 11:10 hora argentina."
+ },
+ "runners": [
+  {
+   "name": "Dani",
+   "start": "09:10",
+   "target": "3:45",
+   "color": "#ff6319"
+  },
+  {
+   "name": "Matías",
+   "start": "10:55",
+   "target": "4:45",
+   "color": "#0039a6"
+  }
+ ],
+ "sections": [
+  {
+   "title": "Cómo llegamos a la largada",
+   "body": [
+    "El modo lo eligió cada uno hasta el 8 de septiembre: ferry desde Whitehall, micro desde la biblioteca pública (Fifth Ave y 40th St) o micro desde MetLife. NYRR asigna el horario según el ritmo, llega en octubre y viene impreso en el dorsal. Hay que usar el modo y el horario asignados.",
+    "NYRR recomienda el ferry a quien espera terminar en 4 horas o más. Antes de viajar, cada uno revisa en su panel de NYRR qué le quedó."
+   ],
+   "source": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start"
+  },
+  {
+   "title": "Olas y corrales",
+   "body": [
+    "Cinco olas: 09:10, 09:45, 10:20, 10:55 y 11:30. Los corrales cierran 25 minutos antes de cada una. Hay tres colores de largada (azul, naranja y rosa) y seis corrales por ola; las tres columnas se juntan en Brooklyn, cerca del km 13."
+   ],
+   "source": "https://www.nyrr.org/tcsnycmarathon/the-start"
+  },
+  {
+   "title": "Ropa para la espera en Staten Island",
+   "body": [
+    "Lo normal para el 1 de noviembre es una mínima de 8 °C y una máxima de 15 °C, con más frío al lado del agua. La ropa vieja que usamos para esperar se deja en los contenedores de donación antes de largar."
+   ],
+   "items": [
+    "Se puede: manta térmica, frazada chica sin enrollar, lona transparente chica.",
+    "No se puede: bolsas de residuos opacas, mochilas, bolsas de dormir.",
+    "El pronóstico real sale recién la semana de la carrera."
+   ],
+   "source": "https://www.weather.gov/media/okx/Climate/CentralPark/DailyMaxTNormals.pdf"
+  },
+  {
+   "title": "Bolso y salida del parque",
+   "body": [
+    "En 2026 no hay guardarropa en la largada. Todos reciben poncho al terminar y salen de la zona de corredores por la calle 77 y Central Park West.",
+    "La única forma de tener ropa seca es el bolso pre-chequeado: se elegía hasta el 8 de septiembre, se deja el viernes 30 o el sábado 31 en Central Park West entre las calles 73 y 75, y se retira ahí mismo hasta las 19:00."
+   ],
+   "source": "https://www.nyrr.org/tcsnycmarathon/the-finish"
+  },
+  {
+   "title": "Dónde nos encontramos",
+   "body": [
+    "Family Reunion, de 11:00 a 18:00, en las calles 69 a 71 sobre Central Park West. Podeley y Tkach van al mismo cartel: O–Z, sobre la calle 69.",
+    "NYRR avisa que la red celular se satura en la llegada. Plan B sin teléfono: esperamos en el cartel O–Z hasta las 17:30; si no nos encontramos, cada uno vuelve al hotel."
+   ],
+   "source": "https://www.nyrr.org/tcsnycmarathon/the-finish"
+  },
+  {
+   "title": "Para seguirnos desde Argentina",
+   "body": [
+    "La app oficial es New York Road Runners, gratis para iPhone y Android: seguimiento en vivo con la función Follow, cámaras en la largada y la llegada. También está la web liveresults.nyrr.org. ESPN Internacional transmite de 10:00 a 13:30, hora argentina."
+   ],
+   "source": "https://www.nyrr.org/tcsnycmarathon/mobile-app"
+  },
+  {
+   "title": "El recorrido 2026",
+   "body": [
+    "Es el primer cambio en 15 años: después del puente Willis Avenue, la carrera dobla por la calle 135 Este y Alexander Ave hasta la 141, sigue por Third Ave y la 138 y vuelve a Manhattan por el puente Madison Avenue. La línea del mapa es la traza de 2024, así que el tramo del Bronx difiere.",
+    "Hay agua y Gatorade en cada milla de la 3 a la 25, salvo la 5, la 7 y la 9; geles Maurten en las millas 12 y 18, y bananas en la 21."
+   ],
+   "source": "https://www.nyrr.org/tcsnycmarathon/the-course"
+  },
+  {
+   "title": "Con la medalla puesta",
+   "items": [
+    "Rosa Mexicano (Second Ave, a 8 minutos del hotel) invita una margarita de granada o un refresco de pepino y menta con la compra de un plato principal, solo el 1 de noviembre.",
+    "El Museo de Historia Natural da entrada gratis del 1 al 8 de noviembre mostrando la medalla.",
+    "Victory Lap, la fiesta oficial: Terminal 5, de 19:00 a 23:00, USD 35 más cargo, solo mayores de 21.",
+    "Grabado de la medalla: en 2025 fue el lunes en un pabellón junto a la llegada, por USD 28. El programa 2026 todavía no salió."
+   ],
+   "source": "https://www.nyrr.org/tcsnycmarathon/2026-tcs-new-york-city-marathon-beyond-the-finish-line"
+  }
+ ]
 }

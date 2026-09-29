@@ -1,0 +1,1392 @@
+{
+  "places": [
+    {
+      "id": "frick-collection",
+      "name": "The Frick Collection",
+      "category": "museo",
+      "neighborhood": "Upper East Side (Lenox Hill), Manhattan",
+      "address": "1 East 70th Street, New York, NY 10021",
+      "lat": 40.7712589,
+      "lng": -73.9671675,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Frick+Collection%2C+1+East+70th+Street%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: 10:30–17:30 (última entrada a salas 17:00; martes cerrado)",
+      "hours_source": "https://www.frick.org/visit",
+      "price": "Entrada USD 30 (adultos); incluye las exposiciones temporales",
+      "duration_min": 105,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.frick.org/tickets",
+        "lead": "Sacá la franja de 10:30 unos días antes; What2Book sugiere una semana para tener buenos horarios",
+        "notes": "El museo recomienda entradas con horario. No se puede cambiar la fecha una vez comprada. Solo entran mayores de 10 años."
+      },
+      "transit": {
+        "station": "68 St–Hunter College",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 7,
+        "notes": "Desde The Lexington: línea 6 en 51 St, 3 paradas al norte. También sirven los buses M1–M4 por Madison y Fifth."
+      },
+      "why": "Mansión de Henry Clay Frick sobre Fifth Avenue, construida en 1912–1914 por Carrère and Hastings. Guarda pintura europea del Renacimiento al siglo XIX colgada como en una casa, casi sin vitrinas ni carteles. Reabrió el 17 de abril de 2025 después de una renovación de cuatro años que abrió al público 10 salas del primer piso, donde vivía la familia. Es un museo que se recorre entero en menos de 2 horas.",
+      "what": [
+        "Los tres Vermeer: Officer and Laughing Girl, Girl Interrupted at Her Music y Mistress and Maid.",
+        "Los dos Holbein (Thomas More y Thomas Cromwell) enfrentados a ambos lados de una chimenea.",
+        "La sala Fragonard con los 14 paneles de The Progress of Love.",
+        "West Gallery: The Polish Rider de Rembrandt y obras de Velázquez, El Greco, Goya y Veronese.",
+        "El San Francisco en el desierto de Bellini.",
+        "Subir por la escalera principal a las salas nuevas del primer piso (Boucher Room, Breakfast Room) y, si hay tiempo, la muestra Siena: The Art of Bronze, 1450–1500 (15 de octubre de 2026 al 18 de enero de 2027)."
+      ],
+      "tip": "Bajá la guía gratuita de Bloomberg Connects antes de ir: en las salas no hay carteles y la guía de audio explica cada obra por número. Las fotos solo se permiten en el Garden Court.",
+      "warnings": [
+        "Fotos prohibidas en las galerías; solo en el Garden Court y áreas públicas.",
+        "Mochilas se dejan en el guardarropa gratuito o se llevan adelante; los abrigos no se pueden llevar en la mano.",
+        "No admiten menores de 10 años.",
+        "El café Westmoreland del primer piso pide reserva."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.7,
+            "scale": 5,
+            "count": 8749,
+            "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d107466-Reviews-Frick_Collection-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Destacan la escala: se ve todo sin agotarse, a diferencia del Met.",
+          "Elogian ver la pintura en ambientes de casa, con muebles y porcelanas originales.",
+          "Algunos se quejan de la falta de carteles y de la prohibición de fotos.",
+          "Recomiendan evitar fines de semana, que se llenan."
+        ],
+        "press": [
+          {
+            "outlet": "Washington Square News",
+            "quote": "The second floor includes 10 new permanent collection gallery spaces that first served as the Frick family's private living area.",
+            "url": "https://nyunews.com/arts/visual/2025/04/29/frick-reopening/"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.frick.org/visit",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.frick.org/tickets",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Frick_Collection"
+      },
+      "commons_files": [
+        "File:The Frick Collection (49958273187).jpg",
+        "File:Henry Clay Frick House (Manhattan, New York) 001.jpg",
+        "File:Frick Collection New York cour.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "pastrami-queen-ues",
+      "name": "Pastrami Queen",
+      "category": "comida",
+      "neighborhood": "Upper East Side, Manhattan",
+      "address": "1125 Lexington Ave #2 (esquina E 78th St), New York, NY 10075",
+      "lat": 40.7743516,
+      "lng": -73.9591659,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Pastrami+Queen%2C+1125+Lexington+Avenue%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: 10:00–21:00",
+      "hours_source": "https://www.pastramiqueen.com/locations",
+      "price": "Sándwich de pastrami USD 29.95 en el menú online; sopa de matzo ball desde USD 11.95; knish USD 9.95 (en el local puede variar)",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Sin reservas: se pide en el mostrador."
+      },
+      "transit": {
+        "station": "77 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 1,
+        "notes": "Desde la Frick son 13 min a pie (1 km)."
+      },
+      "why": "Deli kosher fundado en 1956 como Pastrami King en Williamsburg, Brooklyn; hoy su local del Upper East Side queda a 11 minutos a pie del Met. The Infatuation le da 8.0/10 y compara su pastrami con el de Katz's: algo más magro. Anthony Bourdain lo ponía a la par de Katz's.",
+      "what": [
+        "Sándwich de pastrami en pan de centeno con mostaza marrón; alcanza para compartir si queremos llegar livianos al Met.",
+        "Sopa de matzo ball.",
+        "Un knish de papa para completar (USD 9.95)."
+      ],
+      "tip": "Si las mesas están ocupadas, pedimos para llevar y comemos en un banco de Central Park camino al Met (Fifth Ave está a 3 avenidas).",
+      "warnings": [
+        "Es chico: pocas mesas de metal, poco cómodas.",
+        "No confundir con la sucursal de 138 W 72nd St, cerrada por renovación.",
+        "Los precios online pueden estar inflados respecto del mostrador."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.1,
+            "scale": 5,
+            "count": 501,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d492998-Reviews-Pastrami_Queen-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          },
+          {
+            "source": "Infatuation",
+            "rating": 8.0,
+            "scale": 10,
+            "count": null,
+            "url": "https://www.theinfatuation.com/new-york/reviews/pastrami-queen",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "El pastrami se lleva los elogios: tierno, bien especiado y en porción grande.",
+          "Coinciden en que el local es chico y espartano, más para llevar que para quedarse.",
+          "La atención es amable y rápida.",
+          "Varios lo prefieren a Katz's por no tener fila."
+        ],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "The sandwich you order will be simple: fatty pastrami on half-inch thick rye with a swipe of brown mustard in between.",
+            "url": "https://www.theinfatuation.com/new-york/reviews/pastrami-queen"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.pastramiqueen.com/",
+        "menu": "https://menupages.com/pastrami-queen/1125-lexington-ave-new-york",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "https://www.instagram.com/therealpastramiqueen/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pastrami_Queen"
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "met-fifth-avenue",
+      "name": "The Metropolitan Museum of Art (The Met Fifth Avenue)",
+      "category": "museo",
+      "neighborhood": "Upper East Side, Manhattan",
+      "address": "1000 Fifth Avenue (a la altura de E 82nd St), New York, NY 10028",
+      "lat": 40.7794396,
+      "lng": -73.9633825,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Metropolitan+Museum+of+Art%2C+1000+5th+Avenue%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: 10:00–21:00 (viernes y sábados abre hasta tarde; miércoles cerrado)",
+      "hours_source": "https://www.metmuseum.org/plan-your-visit/met-fifth-avenue",
+      "price": "Entrada USD 30 (adultos no residentes en Nueva York); incluye exposiciones y el Met Cloisters el mismo día",
+      "duration_min": 180,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://engage.metmuseum.org/admission",
+        "lead": "Sin horario fijo: la entrada vale para el día elegido; comprala online cuando quieras",
+        "notes": "El pago voluntario es solo para residentes del estado de Nueva York."
+      },
+      "transit": {
+        "station": "86 St",
+        "lines": [
+          "4",
+          "5",
+          "6"
+        ],
+        "walk_min": 11,
+        "notes": "77 St (6) queda a 12 min. Desde Pastrami Queen son 11 min a pie."
+      },
+      "why": "Uno de los museos más grandes del mundo: 5,000 años de arte en un solo edificio sobre Central Park. En 3 horas no se ve todo, así que vamos con una ruta de 6 paradas. El viernes cierra a las 21:00, así que no hay apuro por el horario del museo.",
+      "what": [
+        "Great Hall: la entrada principal, 5 minutos para orientarse y agarrar el mapa.",
+        "Templo de Dendur (galería 131, planta baja): templo egipcio entero bajo una pared de vidrio que da al parque; 20 min.",
+        "Pintura europea del primer piso: los Vermeer del Met (Young Woman with a Water Pitcher, entre otros) y Rembrandt; 45 min.",
+        "Ala americana: Washington Crossing the Delaware de Leutze (galería 760); 15 min.",
+        "Krasner and Pollock: Past Continuous (galería 899, 4 de octubre de 2026 al 31 de enero de 2027): más de 120 obras, la primera muestra de ambos en el Met; 40 min.",
+        "Si sobra energía: el ala Michael C. Rockefeller (África, Oceanía y las Américas), reabierta el 31 de mayo de 2025."
+      ],
+      "tip": "Entramos por Fifth Ave con la entrada ya comprada en el celular y vamos primero a Dendur, que está a pocos pasos del Great Hall. Tomamos los ascensores entre plantas: dos días antes de la maratón, cada escalera cuenta.",
+      "warnings": [
+        "La terraza de la azotea (Cantor Roof Garden) está cerrada desde el 19 de octubre de 2025 hasta 2030 por obras.",
+        "Miércoles cerrado.",
+        "Calculamos 3–4 km de caminata adentro en 3 horas."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.8,
+            "scale": 5,
+            "count": 55574,
+            "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d105125-Reviews-The_Metropolitan_Museum_of_Art-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Coinciden en que es imposible verlo en un día: conviene llevar una lista corta.",
+          "El Templo de Dendur, los impresionistas y el ala americana son lo más mencionado.",
+          "Recomiendan calzado cómodo y pausas; las distancias internas son largas.",
+          "Algunos se quejan de la cantidad de gente en las salas más famosas."
+        ],
+        "press": [
+          {
+            "outlet": "NBC New York",
+            "quote": "This weekend is your final chance to pay a visit to the Iris and B. Gerald Cantor Roof Garden that sits atop The Metropolitan Museum of Art until 2030.",
+            "url": "https://www.nbcnewyork.com/news/local/met-roof-garden-closes-sunday/6406777/"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.metmuseum.org/plan-your-visit/met-fifth-avenue",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://engage.metmuseum.org/admission",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Met_Fifth_Avenue"
+      },
+      "commons_files": [
+        "File:Metropolitan Museum of Art (The Met) - Central Park, NYC.jpg",
+        "File:The Temple of Dendur MET DT563.jpg",
+        "File:Emanuel Leutze Washington Crossing the Delaware The Metropolitan Museum of Art.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "the-lexington-hotel",
+      "name": "The Lexington Hotel, Autograph Collection",
+      "category": "hotel",
+      "neighborhood": "Midtown East (Turtle Bay), Manhattan",
+      "address": "511 Lexington Ave (esquina E 48th St), New York, NY 10017",
+      "lat": 40.7549063,
+      "lng": -73.9730357,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=The+Lexington+Hotel%2C+511+Lexington+Avenue%2C+New+York&format=json&limit=3",
+      "hours": "Base del jueves 29 de octubre al lunes 2 de noviembre",
+      "hours_source": "",
+      "price": "",
+      "duration_min": 0,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Ya reservado."
+      },
+      "transit": {
+        "station": "51 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 4,
+        "notes": "Lexington Av/53 St (E, M) queda a 7 min."
+      },
+      "why": "Hotel de 1929 de Schultze & Weaver, 27 pisos y 725 habitaciones, declarado monumento de la ciudad en 2016. Joe DiMaggio y Marilyn Monroe vivieron acá durante su matrimonio. Hoy lo opera MCR dentro de Autograph Collection de Marriott.",
+      "what": [
+        "Base del día: pausa de 16:40 a 18:10 para ducha y piernas en alto antes del teatro."
+      ],
+      "tip": "Desde acá al teatro son 17 minutos a pie en línea recta por la calle 48.",
+      "warnings": [],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lexington_Hotel_(New_York_City)"
+      },
+      "commons_files": [
+        "File:The Lexington Hotel in New York City.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "hadestown-walter-kerr",
+      "name": "Hadestown (Walter Kerr Theatre)",
+      "category": "show",
+      "neighborhood": "Theater District, Manhattan",
+      "address": "219 W 48th St (entre Broadway y 8th Ave), New York, NY 10036",
+      "lat": 40.760681,
+      "lng": -73.9855847,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Walter+Kerr+Theatre%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: función 19:00; dura 2 h 30 min con intervalo de 15 min (termina cerca de las 21:30). Boletería mar–sáb 10:00–20:00",
+      "hours_source": "https://www.broadway.com/shows/hadestown/event/21759296/10-30-2026/1900/",
+      "price": "30-oct en Broadway.com: platea USD 75.52–276.11, pullman (mezzanine) USD 123.49–248.36. Standing room USD 39 solo si se agota",
+      "duration_min": 150,
+      "booking": {
+        "needed": "sí",
+        "url": "https://us.atgtickets.com/events/hadestown/walter-kerr-theatre/",
+        "lead": "Ya a la venta; comprar ahora. Con el código FALLSALE hay hasta 20% en funciones seleccionadas hasta el 4 de octubre (ATG)",
+        "notes": "Venta oficial por ATG Tickets; las entradas llegan por email. La lotería digital es solo para residentes de EE.UU."
+      },
+      "transit": {
+        "station": "49 St",
+        "lines": [
+          "N",
+          "R",
+          "W"
+        ],
+        "walk_min": 2,
+        "notes": "50 St (C, E) queda a 4 min. Desde The Lexington, 17 min a pie por la calle 48."
+      },
+      "why": "Musical de Anaïs Mitchell (música, letra y libro) dirigido por Rachel Chavkin que cuenta el mito de Orfeo y Eurídice con la banda en el escenario. Ganó 8 premios Tony en 2019, incluidos mejor musical y mejor escenografía, y es la producción que más tiempo lleva en el Walter Kerr. Desde el 1 de septiembre de 2026 tiene elenco nuevo.",
+      "what": [
+        "La banda en vivo sobre el escenario, parte de la escenografía.",
+        "El escenario giratorio y las plataformas que cambian el espacio durante la función.",
+        "El número de las lámparas colgantes que se balancean, coreografía de David Neumann.",
+        "Elenco desde septiembre de 2026: Kayko (Orfeo), Jasmin Savoy Brown (Eurídice), Norbert Leo Butz (Hermes) y Amber Iman (Perséfone)."
+      ],
+      "tip": "La sala es chica y las butacas angostas: el pullman delantero ve todo el escenario y suele costar menos que la platea central. Vamos al baño antes de entrar, porque en el intervalo hay filas largas.",
+      "warnings": [
+        "Butacas angostas y con poco espacio para las piernas.",
+        "Efectos de luz tipo estroboscópico durante toda la función.",
+        "La lotería de Lucky Seat (USD 47.50 + USD 5 de cargo) exige ser residente de EE.UU.",
+        "El actor anunciado para Hades (Geno Segers) se bajó el 2 de agosto; el reemplazo no figuraba en la fuente consultada."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.0,
+            "scale": 5,
+            "count": 129,
+            "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d17720288-Reviews-Hadestown-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Elogian la puesta íntima, la banda en escena y las voces, en especial la de Hades.",
+          "A algunos el primer acto les resulta lento y la partitura repetitiva.",
+          "El teatro recibe críticas por la incomodidad de las butacas y las filas del baño.",
+          "La calidad se sostiene a pesar de los cambios de elenco."
+        ],
+        "press": [
+          {
+            "outlet": "New York Theatre Guide",
+            "quote": "visually stunning dance number choreographed by David Neumann done with headlamps and swinging lights",
+            "url": "https://www.newyorktheatreguide.com/reviews/review-of-hadestown-on-broadway"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://hadestown.com/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://us.atgtickets.com/events/hadestown/walter-kerr-theatre/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hadestown"
+      },
+      "commons_files": [
+        "File:Walter Kerr Theatre - Hadestown (48295952136).jpg",
+        "File:Stage of the Walter Kerr Theatre with the set of Hadestown.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "joe-allen",
+      "name": "Joe Allen",
+      "category": "comida",
+      "neighborhood": "Theater District / Hell's Kitchen, Manhattan",
+      "address": "326 W 46th St, New York, NY 10036",
+      "lat": 40.7601328,
+      "lng": -73.9890604,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Joe+Allen%2C+326+West+46th+Street%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: 12:00–23:30",
+      "hours_source": "https://joeallenrestaurant.com/hours-location/",
+      "price": "Principales USD 26–44 (hamburguesa USD 26, meatloaf USD 30, pappardelle USD 29, steak frites USD 44); banana cream pie USD 14",
+      "duration_min": 75,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.opentable.com/joe-allen-reservations-new-york?restref=107137",
+        "lead": "Toman reservas desde una semana antes, a partir de las 11:00 de Nueva York: el 23 de octubre para el 30",
+        "notes": "Grupos de más de 5, por teléfono: (212) 581-6464."
+      },
+      "transit": {
+        "station": "50 St",
+        "lines": [
+          "C",
+          "E"
+        ],
+        "walk_min": 6,
+        "notes": "Desde el Walter Kerr, 5 min a pie (0.4 km)."
+      },
+      "why": "Bistró del Theater District abierto desde 1965, con afiches de musicales que fracasaron en Broadway en las paredes de ladrillo. Sirve hasta las 23:30, así que es la opción más holgada para cenar después de una función que termina a las 21:30. The Infatuation le da 7.8/10.",
+      "what": [
+        "Hamburguesa Joe Allen con papas finas (USD 26).",
+        "Meatloaf con puré (USD 30), plato de la casa.",
+        "Pappardelle (USD 29) si queremos sumar carbohidratos para el domingo.",
+        "Banana cream pie de postre (USD 14)."
+      ],
+      "tip": "Reservá para las 21:45: la función termina cerca de las 21:30 y son 5 minutos a pie. Mirá los afiches: cada uno es un musical que cerró rápido.",
+      "warnings": [
+        "Lunes cerrado.",
+        "Ruidoso cuando se llena a la salida de los teatros.",
+        "Quien llega sin reserva a veces queda en mesas peores."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.2,
+            "scale": 5,
+            "count": 1121,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d478775-Reviews-Joe_Allen-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          },
+          {
+            "source": "Infatuation",
+            "rating": 7.8,
+            "scale": 10,
+            "count": null,
+            "url": "https://www.theinfatuation.com/new-york/reviews/joe-allen",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Lo eligen por el clima de Broadway y la puntualidad del servicio antes y después de las funciones.",
+          "Steak frites, pato y banana cream pie son lo más elogiado.",
+          "Se queja gente por el ruido y por algún plato despareja en noches llenas.",
+          "La relación precio-calidad se considera razonable para la zona."
+        ],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "Their servers are ridiculously efficient, and you'll be out of there with at least 30 minutes to spare",
+            "url": "https://www.theinfatuation.com/new-york/reviews/joe-allen"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://joeallenrestaurant.com/",
+        "menu": "https://joeallenrestaurant.com/menus/",
+        "reserve": "https://www.opentable.com/joe-allen-reservations-new-york?restref=107137",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Joe_Allen_(restaurant)"
+      },
+      "commons_files": [
+        "File:Joe Allen 326 W46 jeh.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "becco",
+      "name": "Becco",
+      "category": "comida",
+      "neighborhood": "Restaurant Row (Theater District), Manhattan",
+      "address": "355 W 46th St, New York, NY 10036",
+      "lat": 40.7605173,
+      "lng": -73.9900277,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Becco%2C+355+West+46th+Street%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: cena 16:30–23:00",
+      "hours_source": "https://www.becco-nyc.com/location/becco/",
+      "price": "Sinfonia di Paste USD 36.95: ensalada César o antipasto y tres pastas del día servidas en la mesa sin límite",
+      "duration_min": 75,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.becco-nyc.com/location/becco/",
+        "lead": "Reservá online; los viernes se llena a la salida de los teatros",
+        "notes": "Teléfono (212) 397-7597."
+      },
+      "transit": {
+        "station": "50 St",
+        "lines": [
+          "C",
+          "E"
+        ],
+        "walk_min": 7,
+        "notes": "Desde el Walter Kerr, 6 min a pie (0.5 km)."
+      },
+      "why": "Italiano de Lidia Bastianich y su hijo Joe, en Restaurant Row desde 1992. Su fórmula de pasta sin límite a USD 36.95 es la carga de carbohidratos más directa del barrio para dos maratonistas a 48 horas de la largada. Cierra la cocina a las 23:00 los viernes.",
+      "what": [
+        "Sinfonia di Paste: las tres pastas del día, repetimos las que más nos gusten.",
+        "Ensalada César de entrada (incluida)."
+      ],
+      "tip": "Llegamos antes de las 22:15 para no correr contra el cierre de las 23:00. Si el sábado queremos comer liviano, acá hacemos la carga fuerte.",
+      "warnings": [
+        "Cierra a las 23:00 el viernes: el margen después de la función es de cerca de 1 hora.",
+        "Mesas chicas y apretadas; ruidoso.",
+        "Varias reseñas recientes marcan calidad despareja."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.0,
+            "scale": 5,
+            "count": 4546,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d424429-Reviews-Becco-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "La pasta sin límite es el motivo principal para ir y la mayoría la recomienda.",
+          "El servicio aparece como cálido y atento, incluso con el salón lleno.",
+          "Hay quejas por mesas apretadas, ruido y platos a la carta desparejos.",
+          "Algunos notan menos variedad de pastas que en años anteriores."
+        ],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "Becco has fully unlimited pasta. There's three pastas coming around on hot pans and you can just take as much as you want.",
+            "url": "https://www.theinfatuation.com/new-york/reviews/becco"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://www.becco-nyc.com/",
+        "menu": "https://www.becco-nyc.com/menu/sinfonia-di-paste/",
+        "reserve": "https://www.becco-nyc.com/location/becco/",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "marseille",
+      "name": "Marseille",
+      "category": "comida",
+      "neighborhood": "Hell's Kitchen, Manhattan",
+      "address": "630 9th Ave (esquina W 44th St), New York, NY 10036",
+      "lat": 40.7597501,
+      "lng": -73.991404,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Marseille%2C+630+9th+Avenue%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: cena 16:00–23:00",
+      "hours_source": "https://www.marseillenyc.com/location/marseille/",
+      "price": "Principales USD 28–52 (moules frites USD 32, confit de pato USD 36, bouillabaisse USD 46, steak frites USD 52); menú de tres pasos USD 52",
+      "duration_min": 75,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.marseillenyc.com/location/marseille/",
+        "lead": "Reserva online",
+        "notes": "Teléfono (212) 333-2323."
+      },
+      "transit": {
+        "station": "42 St–Port Authority",
+        "lines": [
+          "A",
+          "C",
+          "E"
+        ],
+        "walk_min": 5,
+        "notes": "Desde el Walter Kerr, 9 min a pie (0.7 km)."
+      },
+      "why": "Brasserie francesa con toque mediterráneo en la esquina de 9th Ave y 44th, desde hace casi dos décadas parte del circuito de Broadway. Sirve hasta las 23:00 los viernes y tiene pastas como principal (USD 28–32) para quien quiera sumar carbohidratos.",
+      "what": [
+        "Moules frites (USD 32).",
+        "Bouillabaisse (USD 46).",
+        "Espagueti o cavatelli como principal (USD 30–32).",
+        "Sopa de cebolla o escargots de entrada."
+      ],
+      "tip": "Es la opción más tranquila si Joe Allen está lleno: queda 4 cuadras más al oeste, fuera del tumulto de 8th Ave.",
+      "warnings": [
+        "Cierra a las 23:00 el viernes.",
+        "El salón principal es ruidoso."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.1,
+            "scale": 5,
+            "count": 1285,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d424482-Reviews-Marseille-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Destacan el clima de bistró parisino y platos clásicos como steak frites, confit y sopa de cebolla.",
+          "El servicio es rápido para quien va antes o después del teatro.",
+          "Las quejas apuntan al ruido y a alguna demora para sentarse."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.marseillenyc.com/",
+        "menu": "https://www.marseillenyc.com/menus/",
+        "reserve": "https://www.marseillenyc.com/location/marseille/",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "guggenheim",
+      "name": "Solomon R. Guggenheim Museum",
+      "category": "museo",
+      "neighborhood": "Carnegie Hill (Upper East Side), Manhattan",
+      "address": "1071 Fifth Avenue (a la altura de E 88th St), New York, NY 10128",
+      "lat": 40.7829932,
+      "lng": -73.958925,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Solomon+R.+Guggenheim+Museum%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: 10:30–17:30 (últimas entradas unos 15 min antes del cierre)",
+      "hours_source": "https://www.guggenheim.org/plan-your-visit",
+      "price": "Entrada USD 30",
+      "duration_min": 90,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.guggenheim.org/plan-your-visit",
+        "lead": "Online, el mismo día o antes",
+        "notes": ""
+      },
+      "transit": {
+        "station": "86 St",
+        "lines": [
+          "4",
+          "5",
+          "6"
+        ],
+        "walk_min": 8,
+        "notes": "Queda a 8 min a pie del Met por Fifth Ave."
+      },
+      "why": "El edificio de Frank Lloyd Wright, una rampa en espiral alrededor de un atrio con claraboya, es la obra principal. El 30 de octubre están Guggenheim Pop: 1960 to Now (Warhol a Cattelan) y la instalación de Taryn Simon, más la colección Thannhauser con Van Gogh, Degas y Manet. Se ve en 90 minutos.",
+      "what": [
+        "Subir en ascensor hasta arriba y bajar la rampa caminando: se recorre en bajada.",
+        "Guggenheim Pop: 1960 to Now (5 de junio de 2026 al 10 de enero de 2027).",
+        "Collection in Focus: Modern European Currents, con Kandinsky, Franz Marc y Goncharova.",
+        "Colección Thannhauser: Van Gogh, Degas, Manet.",
+        "Taryn Simon: Father Country I Do Love You (18 de septiembre de 2026 al 14 de marzo de 2027)."
+      ],
+      "tip": "Si la Frick no tiene franja libre, este es el reemplazo. Queda en la misma Fifth Ave, a 8 minutos del Met y a 16 de Pastrami Queen.",
+      "warnings": [
+        "El Café Rebay cierra a las 16:00.",
+        "La colección permanente a la vista es chica: el peso lo ponen las muestras temporales."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 3.7,
+            "scale": 5,
+            "count": 5613,
+            "url": "https://www.tripadvisor.com/Attraction_Review-g60763-d108687-Reviews-Solomon_R_Guggenheim_Museum-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "La mayoría va por el edificio de Wright y lo valora más que la colección.",
+          "La experiencia depende de la muestra de turno, que ocupa casi toda la rampa.",
+          "Varios consideran cara la entrada para la cantidad de obra.",
+          "Se recorre en 1 h 30 min sin apuro."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.guggenheim.org/plan-your-visit",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.guggenheim.org/plan-your-visit",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
+      },
+      "commons_files": [
+        "File:Solomon R. Guggenheim Museum (48059131351).jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "cafe-sabarsky",
+      "name": "Café Sabarsky (Neue Galerie)",
+      "category": "comida",
+      "neighborhood": "Upper East Side, Manhattan",
+      "address": "1048 Fifth Avenue (esquina E 86th St), New York, NY 10028",
+      "lat": 40.7812237,
+      "lng": -73.9602374,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Neue+Galerie%2C+1048+5th+Avenue%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: 9:00–21:00 (almuerzo sin reserva, por orden de llegada)",
+      "hours_source": "https://www.neuegalerie.org/cafesabarsky",
+      "price": "Rango $$–$$$ en Tripadvisor; precios del salón no verificados",
+      "duration_min": 60,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.neuegalerie.org/cafesabarsky",
+        "lead": "",
+        "notes": "Desayuno y almuerzo sin reserva. Desde las 16:00 prioriza la cena con reserva por Resy."
+      },
+      "transit": {
+        "station": "86 St",
+        "lines": [
+          "4",
+          "5",
+          "6"
+        ],
+        "walk_min": 6,
+        "notes": "A 5 min a pie del Met."
+      },
+      "why": "Café vienés dentro de la Neue Galerie, con lámparas de Josef Hoffmann, muebles de Adolf Loos y tapizados de Otto Wagner. Reabrió el 1 de octubre de 2026; las salas del museo siguen cerradas hasta el 12 de noviembre. Sirve para almorzar sentados y cómodos a 5 minutos del Met.",
+      "what": [
+        "Sachertorte.",
+        "Apfelstrudel.",
+        "Wiener Schnitzel o goulash si es almuerzo.",
+        "Linzer torte."
+      ],
+      "tip": "Llegamos antes de las 12:30 para esquivar la fila del almuerzo.",
+      "warnings": [
+        "Las galerías de la Neue Galerie están cerradas por obras hasta el 12 de noviembre de 2026: no se ve el retrato de Adele Bloch-Bauer.",
+        "Filas de 30–40 minutos al mediodía según reseñas.",
+        "Martes cerrado."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.1,
+            "scale": 5,
+            "count": 734,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d423706-Reviews-Cafe_Sabarsky-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Las tortas (Sachertorte, Linzer) y el ambiente vienés son lo más elogiado.",
+          "Las esperas al mediodía son la queja principal.",
+          "Varios lo consideran caro para el tamaño de las porciones."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.neuegalerie.org/cafesabarsky",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Neue_Galerie_New_York"
+      },
+      "commons_files": [
+        "File:Cafe Sabarsky 1057.JPG",
+        "File:Neue Galerie New York (51333722560).jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "2nd-ave-deli-ues",
+      "name": "2nd Ave Deli (Upper East Side)",
+      "category": "comida",
+      "neighborhood": "Lenox Hill (Upper East Side), Manhattan",
+      "address": "1442 1st Ave (esquina sudeste de E 75th St), New York, NY 10021",
+      "lat": 40.7695617,
+      "lng": -73.9544914,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=2nd+Ave+Deli%2C+1442+1st+Avenue%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: 11:00–21:00 (bar 2nd Floor Bar & Essen arriba: 17:00–02:00)",
+      "hours_source": "https://2ndavedeli.com/locations/",
+      "price": "Sándwich de pastrami caliente USD 28.95; corned beef USD 27.95; sopa de matzo ball USD 13.95",
+      "duration_min": 50,
+      "booking": {
+        "needed": "no",
+        "url": "",
+        "lead": "",
+        "notes": "Teléfono (212) 737-1700."
+      },
+      "transit": {
+        "station": "72 St",
+        "lines": [
+          "Q"
+        ],
+        "walk_min": 6,
+        "notes": "Desde la Frick son 17 min a pie; al Met, 22 min."
+      },
+      "why": "Sucursal del Upper East Side del deli judío neoyorquino, con salón más amplio que Pastrami Queen. Sirve pastrami y corned beef en sándwiches grandes y tiene un bar de cócteles en el primer piso.",
+      "what": [
+        "Sándwich de pastrami caliente (USD 28.95).",
+        "Sándwich de corned beef (USD 27.95).",
+        "Sopa de matzo ball (USD 13.95)."
+      ],
+      "tip": "Lo elegimos si queremos comer sentados y sin apuro: queda más lejos del Met, así que después conviene un taxi o el bus M79 hasta Fifth Ave.",
+      "warnings": [
+        "Queda en 1st Ave: suma unos 10 minutos de caminata respecto de Pastrami Queen.",
+        "Sándwiches caros según varias reseñas."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.1,
+            "scale": 5,
+            "count": 156,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d3341977-Reviews-2nd_Avenue_Deli_and_2nd_Floor_Bar_Essen-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Pastrami y corned beef reciben los mejores comentarios.",
+          "Las porciones son grandes y los precios altos.",
+          "El bar del primer piso, estilo speakeasy, suma puntos."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://2ndavedeli.com/",
+        "menu": "https://2ndavedeli.com/menus/dine-in-take-out/",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/2nd_Avenue_Deli"
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "nycm-opening-ceremony",
+      "name": "TCS New York City Marathon Opening Ceremony (Parade of Nations)",
+      "category": "maraton",
+      "neighborhood": "Central Park (lado oeste), Manhattan",
+      "address": "Línea de llegada frente a Tavern on the Green, Central Park West y W 67th St, New York, NY 10023",
+      "lat": 40.7721961,
+      "lng": -73.9775964,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Tavern+on+the+Green%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: tribunas desde 16:00; presentación desde 16:30; cierre cerca de las 18:30",
+      "hours_source": "https://www.nyrr.org/tcsnycmarathon/opening-ceremony",
+      "price": "Gratis; tribuna por orden de llegada",
+      "duration_min": 90,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.nyrr.org/tcsnycmarathon/opening-ceremony",
+        "lead": "",
+        "notes": "Para desfilar con la bandera había que postularse: la inscripción 2026 cerró y hay lista de espera en el panel de NYRR (los seleccionados se avisaron el 19 de septiembre). Como público no hace falta nada."
+      },
+      "transit": {
+        "station": "72 St",
+        "lines": [
+          "B",
+          "C"
+        ],
+        "walk_min": 6,
+        "notes": "Desde el Met, 24 min a pie cruzando el parque; desde acá al Walter Kerr, 18 min."
+      },
+      "why": "Abre oficialmente el fin de semana de la maratón con el Desfile de las Naciones: corredores de más de 130 países con sus banderas sobre la misma línea de llegada del domingo. Es la ocasión de ver la meta antes de cruzarla.",
+      "what": [
+        "El desfile de países; buscamos la bandera argentina.",
+        "Reconocer la llegada: la tribuna y los últimos metros del domingo.",
+        "El cierre cerca de las 18:30."
+      ],
+      "tip": "Si vamos, nos sentamos en la tribuna: son 90 minutos parados que no nos conviene sumar. Salimos a las 18:00 para llegar al teatro con margen.",
+      "warnings": [
+        "Choca con la tarde del Met y deja poco margen para la función de las 19:00.",
+        "Fin de octubre al atardecer en el parque: llevar abrigo."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyrr.org/tcsnycmarathon/opening-ceremony",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:New York Marathon 2010, Finish line, Central Park.JPG",
+        "File:Tavern on the Green cloudy jeh.JPG"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "the-lion-king-minskoff",
+      "name": "The Lion King (Minskoff Theatre)",
+      "category": "show",
+      "neighborhood": "Times Square, Manhattan",
+      "address": "200 W 45th St (entre 7th y 8th Ave), New York, NY 10036",
+      "lat": 40.758063,
+      "lng": -73.9862053,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Minskoff+Theatre%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: función 19:00; dura 2 h 30 min con intervalo",
+      "hours_source": "https://www.broadway.com/shows/the-lion-king/schedule/",
+      "price": "Desde USD 175 en Broadway.com para el 30-oct; lotería digital USD 35 en Broadway Direct",
+      "duration_min": 150,
+      "booking": {
+        "needed": "sí",
+        "url": "https://www.broadway.com/shows/the-lion-king/schedule/",
+        "lead": "Comprar con anticipación; es de los más vendidos",
+        "notes": "La lotería abre a las 9:00 del día anterior y cierra a las 15:00 (límite 2 entradas); revisar si pide residencia en EE.UU."
+      },
+      "transit": {
+        "station": "49 St",
+        "lines": [
+          "N",
+          "R",
+          "W"
+        ],
+        "walk_min": 4,
+        "notes": "Times Sq–42 St a 4 min. A 5 min a pie del Walter Kerr y de Joe Allen."
+      },
+      "why": "La puesta de Julie Taymor, que dirigió y diseñó el vestuario, con máscaras y títeres de tamaño real, en cartel desde 1997. Ganó 6 premios Tony, incluido mejor musical, y es la producción más taquillera de la historia de Broadway (más de USD 2,000 millones). Es la opción segura para música y puesta si Hadestown no se da.",
+      "what": [
+        "La apertura con los animales entrando por los pasillos de la platea.",
+        "Los títeres y máscaras de Taymor: se ve al actor y al animal a la vez."
+      ],
+      "tip": "Es la más cara de las alternativas: si el presupuesto manda, Buena Vista Social Club o Maybe Happy Ending cuestan menos de la mitad.",
+      "warnings": [
+        "Precio de entrada alto (desde USD 175 el 30-oct).",
+        "Mucho público familiar."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://lionking.com/tickets/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.broadway.com/shows/the-lion-king/schedule/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Lion_King_(musical)"
+      },
+      "commons_files": [
+        "File:Minskoff Theatre NYC 2007.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "buena-vista-social-club-schoenfeld",
+      "name": "Buena Vista Social Club (Gerald Schoenfeld Theatre)",
+      "category": "show",
+      "neighborhood": "Times Square, Manhattan",
+      "address": "236 W 45th St (entre Broadway y 8th Ave), New York, NY 10036",
+      "lat": 40.7584859,
+      "lng": -73.9874377,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Gerald+Schoenfeld+Theatre%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: función 19:00; dura 2 h 10 min con intervalo",
+      "hours_source": "https://www.broadway.com/shows/buena-vista-social-club/schedule/",
+      "price": "Desde USD 64.29 en Broadway.com para el 30-oct; rush USD 45 en boletería; lotería digital USD 49 (Telecharge)",
+      "duration_min": 130,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://buenavistamusical.com/tickets/",
+        "lead": "Hay lugar a la venta para el 30-oct",
+        "notes": "Rush en boletería el día de la función, 2 por persona, por orden de llegada. Lotería en rush.telecharge.com desde la medianoche del día anterior."
+      },
+      "transit": {
+        "station": "49 St",
+        "lines": [
+          "N",
+          "R",
+          "W"
+        ],
+        "walk_min": 5,
+        "notes": "A 4 min a pie del Walter Kerr y de Joe Allen."
+      },
+      "why": "Musical con libro de Marco Ramirez sobre las canciones del disco Buena Vista Social Club: son, danzón y bolero cantados en español con la banda en escena. En 2025 ganó los Tony a coreografía, orquestaciones, diseño de sonido y actriz de reparto, más un Tony especial para sus músicos. Es la alternativa con más música en vivo y en nuestro idioma.",
+      "what": [
+        "La banda cubana en escena, premiada con un Tony especial.",
+        "Las coreografías de baile de salón, premiadas en 2025.",
+        "Las canciones en español, con el repertorio del grupo cubano llevado a escena."
+      ],
+      "tip": "Termina cerca de las 21:10: nos deja más margen para cenar que Hadestown.",
+      "warnings": [
+        "Rush y lotería implican hacer fila o estar atentos al celular."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://buenavistamusical.com/tickets/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.broadway.com/shows/buena-vista-social-club/schedule/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Buena_Vista_Social_Club_(musical)"
+      },
+      "commons_files": [
+        "File:Schoenfeld Theater - Come From Away (48193460457).jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "maybe-happy-ending-belasco",
+      "name": "Maybe Happy Ending (Belasco Theatre)",
+      "category": "show",
+      "neighborhood": "Times Square, Manhattan",
+      "address": "111 W 44th St (entre 6th y 7th Ave), New York, NY 10036",
+      "lat": 40.756644,
+      "lng": -73.9838007,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=Belasco+Theatre%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: función 19:00; dura 1 h 40 min sin intervalo (termina cerca de las 20:40)",
+      "hours_source": "https://www.broadway.com/shows/maybe-happy-ending/schedule/",
+      "price": "Desde USD 61.03 en Broadway.com para el 30-oct; rush USD 49 en boletería desde las 10:00; lotería Club 2064 USD 20.64; standing room USD 42 si se agota",
+      "duration_min": 100,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.broadway.com/shows/maybe-happy-ending/schedule/",
+        "lead": "Hay lugar a la venta para el 30-oct",
+        "notes": "Boletería lun–sáb 12:00–20:00."
+      },
+      "transit": {
+        "station": "Times Sq–42 St",
+        "lines": [
+          "1",
+          "2",
+          "3",
+          "7",
+          "N",
+          "Q",
+          "R",
+          "W",
+          "S"
+        ],
+        "walk_min": 6,
+        "notes": "A 9 min a pie de Joe Allen."
+      },
+      "why": "Musical coreano de Will Aronson y Hue Park sobre dos robots domésticos abandonados en una Seúl futura que se enamoran. Ganó 6 premios Tony en 2025, incluidos mejor musical, mejor dirección (Michael Arden) y mejor escenografía. Es la opción más corta: 1 h 40 min sentados y cena a las 21:00.",
+      "what": [
+        "La escenografía, premiada con el Tony 2025.",
+        "Darren Criss ganó el Tony a mejor actor en 2025 con este papel (revisar el elenco vigente).",
+        "El tono: comedia romántica con final agridulce."
+      ],
+      "tip": "Si llegamos con las piernas cargadas, esta es la que mejor les sienta: termina una hora antes que Hadestown y no tiene intervalo.",
+      "warnings": [
+        "Sin intervalo: ir al baño antes de entrar."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.maybehappyending.com/faqs/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.broadway.com/shows/maybe-happy-ending/schedule/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Maybe_Happy_Ending"
+      },
+      "commons_files": [
+        "File:Belasco Theatre (52302749285).jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "tkts-times-square",
+      "name": "TKTS Times Square",
+      "category": "show",
+      "neighborhood": "Times Square (Duffy Square), Manhattan",
+      "address": "Duffy Square, Broadway y W 47th St (debajo de las escalinatas rojas), New York, NY 10036",
+      "lat": 40.7591435,
+      "lng": -73.9849357,
+      "coords_source": "https://nominatim.openstreetmap.org/search?q=TKTS%2C+Times+Square%2C+New+York&format=json&limit=3",
+      "hours": "vie 30-oct: 15:00–20:00 (funciones del mismo día)",
+      "hours_source": "https://www.tdf.org/discount-ticket-programs/tkts-by-tdf/tkts-live/",
+      "price": "Hasta 50% de descuento más USD 8 de cargo por entrada",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.tdf.org/discount-ticket-programs/tkts-by-tdf/tkts-live/",
+        "lead": "Mismo día",
+        "notes": "Acepta Visa, Mastercard, Amex, Discover y efectivo."
+      },
+      "transit": {
+        "station": "49 St",
+        "lines": [
+          "N",
+          "R",
+          "W"
+        ],
+        "walk_min": 2,
+        "notes": "A 3 min a pie del Walter Kerr."
+      },
+      "why": "La boletería de descuentos de TDF vende entradas para funciones del mismo día hasta 50% más baratas. Según TDF, Hadestown aparece seguido en el tablero. La app y la web TKTS Live muestran en tiempo real qué hay disponible.",
+      "what": [
+        "Mirar TKTS Live en el celular antes de ir, para no hacer la fila en vano.",
+        "Buscar Hadestown, Buena Vista Social Club o Maybe Happy Ending en el tablero."
+      ],
+      "tip": "Solo como plan B: el viernes abre a las 15:00 y la fila de apertura implica estar parados. Dos días antes de la maratón conviene comprar las entradas con anticipación.",
+      "warnings": [
+        "Fila al abrir; estar parados es lo que queremos evitar.",
+        "Disponibilidad variable: no garantiza el show elegido."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.tdf.org/discount-ticket-programs/tkts-by-tdf/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "https://www.tdf.org/discount-ticket-programs/tkts-by-tdf/tkts-live/",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/TKTS"
+      },
+      "commons_files": [
+        "File:Time Square - TKTS Stand (48193461362).jpg"
+      ],
+      "checked": "2026-09-28"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-10-30",
+      "blocks": [
+        {
+          "time": "10:20",
+          "place": "frick-collection",
+          "title": "Frick Collection",
+          "note": "Entrada con horario de 10:30. Recorremos la planta baja (Holbein, Vermeer, sala Fragonard), subimos a las salas nuevas y, si hay energía, la muestra de bronces de Siena. Salimos a las 12:15.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "Desde The Lexington, 4 min a pie hasta 51 St. Línea 6 hacia el norte (uptown), 3 paradas hasta 68 St–Hunter College. Después, 7 min a pie hasta Fifth Ave y la 70.",
+            "minutes": 25
+          },
+          "alternatives": [
+            {
+              "place": "guggenheim",
+              "reason": "sin-entradas",
+              "note": "Si no conseguimos franja en la Frick. Abre 10:30–17:30 y queda a 8 min del Met, así que la tarde se acorta en caminata."
+            }
+          ]
+        },
+        {
+          "time": "12:30",
+          "place": "pastrami-queen-ues",
+          "title": "Pastrami en Pastrami Queen",
+          "note": "Un sándwich de pastrami para los dos, sopa de matzo ball y un knish. Si no hay mesa, pedimos para llevar y comemos en un banco del parque camino al Met.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la calle 70 hacia el este hasta Lexington y 8 cuadras al norte hasta la 78 (1 km).",
+            "minutes": 13
+          },
+          "alternatives": [
+            {
+              "place": "2nd-ave-deli-ues",
+              "reason": "otra-opción",
+              "note": "Si Pastrami Queen está lleno y queremos comer sentados con más espacio: 17 min a pie desde la Frick, abre 11:00–21:00."
+            },
+            {
+              "place": "cafe-sabarsky",
+              "reason": "piernas",
+              "note": "Almuerzo sentado en un café vienés a 5 min del Met; conviene llegar antes de las 12:30 por la fila."
+            }
+          ]
+        },
+        {
+          "time": "13:20",
+          "place": "met-fifth-avenue",
+          "title": "Tarde en el Met",
+          "note": "Ruta de 6 paradas: Great Hall, Templo de Dendur, Vermeer y pintura europea, Washington Crossing the Delaware, Krasner y Pollock. Usamos ascensores y cortamos a las 16:15 aunque falte algo.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por Lexington hasta la 82 y hacia el oeste hasta Fifth Ave (0.9 km).",
+            "minutes": 11
+          },
+          "alternatives": [
+            {
+              "place": "guggenheim",
+              "reason": "cansados",
+              "note": "Si las piernas piden algo más corto: 90 min en bajada por la rampa, a 8 min del Met."
+            }
+          ]
+        },
+        {
+          "time": "16:40",
+          "place": "the-lexington-hotel",
+          "title": "Descanso en el hotel",
+          "note": "Ducha, piernas en alto y algo liviano para comer antes del teatro. Salimos a las 18:10.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "12 min a pie hasta 77 St (Lexington); línea 6 hacia el sur (downtown), 3 paradas hasta 51 St; 4 min a pie al hotel.",
+            "minutes": 25
+          },
+          "alternatives": [
+            {
+              "place": "nycm-opening-ceremony",
+              "reason": "otra-opción",
+              "note": "Si queremos ver el Desfile de las Naciones, salimos del Met a las 16:00 y cruzamos el parque hasta la llegada (24 min). Miramos desde la tribuna hasta las 18:00 y vamos a pie al teatro (18 min). Suma unos 3.5 km y se pierde el descanso."
+            }
+          ]
+        },
+        {
+          "time": "18:30",
+          "place": "hadestown-walter-kerr",
+          "title": "Hadestown en Broadway",
+          "note": "Función de las 19:00, 2 h 30 min con intervalo; termina cerca de las 21:30. Llegamos 30 min antes para entrar sin apuro y pasar por el baño.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la calle 48 hacia el oeste, de Lexington hasta entre Broadway y 8th Ave (1.3 km). Con piernas cansadas, taxi: 10–15 min con el tránsito del viernes.",
+            "minutes": 17
+          },
+          "alternatives": [
+            {
+              "place": "maybe-happy-ending-belasco",
+              "reason": "piernas",
+              "note": "1 h 40 min sin intervalo y 6 Tony 2025; desde USD 61.03 el 30-oct. Terminamos a las 20:40 y cenamos antes."
+            },
+            {
+              "place": "buena-vista-social-club-schoenfeld",
+              "reason": "sin-entradas",
+              "note": "Música cubana en vivo cantada en español; 19:00, 2 h 10 min, desde USD 64.29. A 4 min de Joe Allen."
+            },
+            {
+              "place": "the-lion-king-minskoff",
+              "reason": "sin-entradas",
+              "note": "Títeres y máscaras de Julie Taymor, 6 premios Tony; 19:00, 2 h 30 min, desde USD 175."
+            },
+            {
+              "place": "tkts-times-square",
+              "reason": "sin-entradas",
+              "note": "Si todo está caro o agotado: el viernes abre 15:00–20:00 con hasta 50% de descuento; mirar TKTS Live antes para no hacer fila en vano."
+            }
+          ]
+        },
+        {
+          "time": "21:45",
+          "place": "joe-allen",
+          "title": "Cena en Joe Allen",
+          "note": "Reserva a las 21:45. Abre hasta las 23:30, así que no corremos. Pedimos algo con carbohidratos (pappardelle o meatloaf con puré) y banana cream pie.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por 8th Ave dos cuadras al sur hasta la 46 y media cuadra al oeste (0.4 km).",
+            "minutes": 5
+          },
+          "alternatives": [
+            {
+              "place": "becco",
+              "reason": "otra-opción",
+              "note": "Carga de pasta sin límite a USD 36.95; cierra a las 23:00, hay que llegar antes de las 22:15."
+            },
+            {
+              "place": "marseille",
+              "reason": "otra-opción",
+              "note": "Brasserie francesa en 9th Ave y 44th, abierta hasta las 23:00; más tranquila si Joe Allen está lleno."
+            }
+          ]
+        },
+        {
+          "time": "23:10",
+          "place": "the-lexington-hotel",
+          "title": "Vuelta al hotel",
+          "note": "Nada de caminar de más: subte E o taxi y a dormir. El sábado es día de piernas quietas.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "6 min a pie hasta 50 St (8th Ave); línea E hacia Queens, 3 paradas hasta Lexington Av/53 St; 7 min a pie hasta la 48. En taxi son unos 10 min.",
+            "minutes": 20
+          },
+          "alternatives": []
+        }
+      ],
+      "tips": [
+        "Caminata estimada del plan completo: unos 7 km en la calle más 3–4 km dentro de los museos, con 5 horas de pie. Dos días antes de la maratón es mucho.",
+        "Variante liviana: subte o taxi en todos los tramos, Frick en 90 min, Met en 90 min (solo Dendur, Vermeer y Washington), y Maybe Happy Ending en lugar de Hadestown. Queda en unos 5 km en total.",
+        "Si hay que elegir un solo museo, nos quedamos con la Frick: se recorre entera en menos de 2 horas.",
+        "La lotería de Hadestown (Lucky Seat) es solo para residentes de EE.UU.: la única vía segura es comprar ya.",
+        "Cenar a las 22:00 atrasa el sueño. Si preferimos dormir temprano, comemos en Becco o Joe Allen a las 17:30 y después del teatro solo postre.",
+        "La terraza del Met está cerrada hasta 2030: no la busquemos.",
+        "Si el retiro del dorsal no se hizo el jueves, la Expo en el Javits abre el viernes 10:00–20:00 con turno elegido en el panel de NYRR; eso reemplaza la mañana de la Frick."
+      ],
+      "reservations": [
+        {
+          "what": "Entradas para Hadestown, viernes 30 a las 19:00",
+          "place": "hadestown-walter-kerr",
+          "deadline": "2026-10-04",
+          "url": "https://us.atgtickets.com/events/hadestown/walter-kerr-theatre/",
+          "note": "Hasta el 4 de octubre, código FALLSALE con hasta 20% en funciones seleccionadas. Después, comprar igual cuanto antes."
+        },
+        {
+          "what": "Entrada con horario para la Frick, 10:30",
+          "place": "frick-collection",
+          "deadline": "2026-10-23",
+          "url": "https://www.frick.org/tickets",
+          "note": "USD 30 por persona. No permite cambiar la fecha."
+        },
+        {
+          "what": "Mesa en Joe Allen, 21:45 para 2",
+          "place": "joe-allen",
+          "deadline": "2026-10-23",
+          "url": "https://www.opentable.com/joe-allen-reservations-new-york?restref=107137",
+          "note": "Las reservas abren una semana antes a las 11:00 de Nueva York (12:00 en Buenos Aires)."
+        },
+        {
+          "what": "Entradas del Met para el 30 de octubre",
+          "place": "met-fifth-avenue",
+          "deadline": "2026-10-30",
+          "url": "https://engage.metmuseum.org/admission",
+          "note": "USD 30 por persona, sin horario; comprarlas antes evita la fila de boletería."
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "topic": "Hadestown en cartel el viernes 30 de octubre",
+      "status": "ok",
+      "detail": "Sigue en el Walter Kerr Theatre (219 W 48th St) sin fecha de cierre y con funciones a la venta hasta marzo de 2027. El viernes 30 hay función a las 19:00; dura 2 h 30 min con intervalo de 15 min. Precios en Broadway.com para esa función: platea USD 75.52–276.11, pullman USD 123.49–248.36. Elenco nuevo desde el 1 de septiembre de 2026.",
+      "source": "https://www.broadway.com/shows/hadestown/event/21759296/10-30-2026/1900/"
+    },
+    {
+      "topic": "Hadestown: vías de descuento",
+      "status": "riesgo",
+      "detail": "La lotería digital de Lucky Seat (USD 47.50 más USD 5 de cargo, máximo 2) es solo para residentes de EE.UU. y mayores de 18. El standing room cuesta USD 39 solo si la función se agota, y son 2 h 30 min de pie. TKTS lo tiene seguido, pero el viernes abre 15:00–20:00 con fila y USD 8 de cargo por entrada. Recomendación: comprar ya por ATG; hasta el 4 de octubre el código FALLSALE da hasta 20% en funciones seleccionadas.",
+      "source": "https://terms.luckyseat.com/hadestown-newyork.pdf"
+    },
+    {
+      "topic": "Frick Collection después de la reapertura",
+      "status": "ok",
+      "detail": "Abre el viernes 10:30–17:30 (martes cerrado); última entrada a salas 17:00. Adultos USD 30; entradas con horario recomendadas y sin cambio de fecha. Solo mayores de 10 años; fotos solo en el Garden Court. Los cierres parciales de East Gallery y Oval Room terminan el 12 de octubre. Desde el 15 de octubre está la muestra Siena: The Art of Bronze, 1450–1500.",
+      "source": "https://www.frick.org/visit"
+    },
+    {
+      "topic": "Met: horario del viernes y entrada",
+      "status": "ok",
+      "detail": "Viernes y sábados abre 10:00–21:00; miércoles cerrado. Adultos no residentes USD 30, compra online en engage.metmuseum.org para el día elegido, sin horario fijo; incluye exposiciones y el Met Cloisters ese mismo día. Del 4 de octubre al 31 de enero está Krasner and Pollock: Past Continuous (galería 899).",
+      "source": "https://engage.metmuseum.org/admission"
+    },
+    {
+      "topic": "Met: terraza de la azotea",
+      "status": "cambia-plan",
+      "detail": "El Cantor Roof Garden cerró el 19 de octubre de 2025 y no reabre hasta 2030 por la obra del ala Tang. Sacamos la terraza de la ruta; el resto de la visita sigue igual.",
+      "source": "https://www.nbcnewyork.com/news/local/met-roof-garden-closes-sunday/6406777/"
+    },
+    {
+      "topic": "Pastrami Queen",
+      "status": "ok",
+      "detail": "1125 Lexington Ave #2, en la esquina de la 78 (frente a la estación 77 St de la línea 6). Abre todos los días 10:00–21:00, viernes incluido. Es chico: pocas mesas de metal, mejor para llevar si está lleno. Sándwich de pastrami USD 29.95 en el menú online; sopa de matzo ball desde USD 11.95. La sucursal de W 72nd St está cerrada por renovación.",
+      "source": "https://www.pastramiqueen.com/locations"
+    },
+    {
+      "topic": "Neue Galerie como alternativa a la Frick",
+      "status": "cambia-plan",
+      "detail": "Las galerías de la Neue Galerie están cerradas por obras y reabren el 12 de noviembre de 2026, así que el 30 de octubre no sirve como museo. Solo funciona el Café Sabarsky (9:00–21:00), que queda como opción de almuerzo sentado. La alternativa de museo es el Guggenheim: 10:30–17:30, USD 30.",
+      "source": "https://www.neuegalerie.org/visit"
+    },
+    {
+      "topic": "Otros musicales el viernes 30 de octubre",
+      "status": "ok",
+      "detail": "Tres musicales tienen función a las 19:00 ese día. The Lion King: Minskoff, 2 h 30 min, desde USD 175. Buena Vista Social Club: Schoenfeld, 2 h 10 min, desde USD 64.29. Maybe Happy Ending: Belasco, 1 h 40 min sin intervalo, desde USD 61.03. Ninguno tiene cierre anunciado antes de 2027. Moulin Rouge! no figura en la lista de Playbill de musicales en cartel al 25 de septiembre.",
+      "source": "https://playbill.com/article/whats-currently-playing-on-broadway"
+    },
+    {
+      "topic": "Cenas después del teatro",
+      "status": "ok",
+      "detail": "Con la función terminando cerca de las 21:30: Joe Allen sirve hasta las 23:30 los viernes (5 min a pie); Becco hasta las 23:00 (6 min); Marseille hasta las 23:00 (9 min). Joe Allen toma reservas desde una semana antes, a las 11:00 de Nueva York.",
+      "source": "https://joeallenrestaurant.com/hours-location/"
+    },
+    {
+      "topic": "Tramos a pie y en transporte",
+      "status": "ok",
+      "detail": "Hotel a Frick: línea 6 de 51 St a 68 St y 7 min a pie (25 min en total). Frick a Pastrami Queen: 1 km a pie (13 min). Pastrami Queen al Met: 0.9 km (11 min). Met al hotel: 12 min a pie a 77 St y línea 6 hasta 51 St (25 min). Hotel al Walter Kerr: 1.3 km por la calle 48 (17 min) o taxi. Joe Allen al hotel: línea E de 50 St a Lexington Av/53 St (20 min) o taxi de 10 min. Distancias medidas sobre coordenadas de OpenStreetMap.",
+      "source": "https://www.frick.org/visit"
+    },
+    {
+      "topic": "Ceremonia de apertura el mismo viernes",
+      "status": "riesgo",
+      "detail": "La Opening Ceremony, con el Desfile de las Naciones, es el viernes 30 en la línea de llegada de Central Park, frente a Tavern on the Green. Tribunas desde las 16:00, show desde las 16:30 y cierre cerca de las 18:30. Choca con la tarde del Met y deja poco margen para la función de las 19:00. Para desfilar había que postularse (cerrado, con lista de espera). Como público es gratis y por orden de llegada. La Expo del Javits abre ese día 10:00–20:00.",
+      "source": "https://www.nyrr.org/tcsnycmarathon/opening-ceremony"
+    },
+    {
+      "topic": "Piernas dos días antes de la maratón",
+      "status": "riesgo",
+      "detail": "El plan completo suma unos 7 km de calle y 3–4 km dentro de museos, con unas 5 horas de pie (cálculo propio sobre coordenadas de OpenStreetMap). Como referencia, la guía de semana de carrera de CEP considera que en un día de descanso una caminata de 20 minutos alcanza. Variante liviana: transporte en todos los tramos y Frick y Met de 90 min cada uno. Suma descanso largo en el hotel y Maybe Happy Ending (1 h 40 min sentados). Queda en unos 5 km.",
+      "source": "https://ceprunning.com/blogs/news/marathon-taper-week-guide"
+    }
+  ],
+  "practical": []
+}

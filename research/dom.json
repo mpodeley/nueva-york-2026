@@ -1,0 +1,1211 @@
+{
+  "places": [
+    {
+      "id": "the-lexington-hotel",
+      "name": "The Lexington Hotel, Autograph Collection",
+      "category": "hotel",
+      "neighborhood": "Midtown East (Turtle Bay), Manhattan",
+      "address": "511 Lexington Avenue (esq. E 48th St), New York, NY 10017",
+      "lat": 40.7549063,
+      "lng": -73.9730357,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=The+Lexington+Hotel,+511+Lexington+Avenue",
+      "hours": "dom 1-nov: base del día (salida de madrugada, ducha entre la llegada y la cena).",
+      "hours_source": "https://www.marriott.com/en-us/hotels/nyclx-the-lexington-hotel-autograph-collection/overview/",
+      "price": "Ya reservado (noches jue 29-oct a lun 2-nov).",
+      "duration_min": 90,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.marriott.com/en-us/hotels/nyclx-the-lexington-hotel-autograph-collection/overview/",
+        "lead": "",
+        "notes": "Ya reservado."
+      },
+      "transit": {
+        "station": "51 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 2,
+        "notes": "Lexington Av/53 St (E, M) a 5 min; Grand Central–42 St (4, 5, 6, 7, S) a 7 min."
+      },
+      "why": "Hotel sobre Lexington y la 48th, a seis cuadras de Grand Central. El domingo es la base: salimos de madrugada hacia la largada y volvemos a ducharnos entre la llegada y la cena. Queda a 13 min a pie de los micros de la Biblioteca y a unos 40 min en subte del ferry.",
+      "what": [
+        "Dejar listos el sábado a la noche el dorsal, la bolsa transparente oficial y la ropa descartable.",
+        "Comprar el desayuno el sábado: a las 4:30 no conviene depender de nada abierto.",
+        "Masaje en la habitación con Soothe: turnos de 8:00 a 22:00 todos los días (confirmar antes que el hotel permita masajistas externos).",
+        "Ducha larga y piernas en alto entre la llegada y la cena."
+      ],
+      "tip": "Poner las alarmas en el celular, que ajusta solo el cambio de hora de esa madrugada. No usar el reloj de la habitación.",
+      "warnings": [
+        "Reseñas de Tripadvisor mencionan duchas con poca agua caliente y ruido de cañerías: si pasa, pedir cambio de habitación el viernes o el sábado, antes de la carrera."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.0,
+            "scale": 5,
+            "count": 6782,
+            "url": "https://www.tripadvisor.com/Hotel_Review-g60763-d93526-Reviews-The_Lexington_Hotel_Autograph_Collection-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Destacan la ubicación, a pasos de Grand Central.",
+          "Las habitaciones son chicas y varias muestran desgaste.",
+          "Hay quejas por baños con mantenimiento pendiente y ruido de cañerías.",
+          "El trato del personal divide opiniones: hay elogios puntuales y críticas a la recepción."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.marriott.com/en-us/hotels/nyclx-the-lexington-hotel-autograph-collection/overview/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:The Lexington Hotel in New York City.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "nypl-marathon-buses",
+      "name": "Micros oficiales a la largada (New York Public Library, Fifth Ave y 40th St)",
+      "category": "transporte",
+      "neighborhood": "Midtown, Manhattan",
+      "address": "Stephen A. Schwarzman Building, 476 Fifth Avenue (Fifth Ave entre W 40th y W 42nd St), New York, NY 10018",
+      "lat": 40.7533445,
+      "lng": -73.9821524,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=Stephen+A.+Schwarzman+Building,+New+York",
+      "hours": "dom 1-nov: salida asignada por NYRR según el ritmo de cada corredor (impresa en el dorsal); llegar 15 min antes.",
+      "hours_source": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+      "price": "Gratis para inscriptos que eligieron este modo antes del 8-sep-2026.",
+      "duration_min": 90,
+      "booking": {
+        "needed": "sí",
+        "url": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+        "lead": "La elección de transporte cerró el 8 de septiembre de 2026 a las 23:59 ET.",
+        "notes": "Desde 2026 el corredor elige el modo y NYRR asigna el horario según su ritmo; los detalles finales llegan en octubre."
+      },
+      "transit": {
+        "station": "5 Av",
+        "lines": [
+          "7"
+        ],
+        "walk_min": 2,
+        "notes": "También 42 St–Bryant Park (B, D, F, M). Desde el hotel, 13 min a pie."
+      },
+      "why": "Punto de carga de los micros oficiales que van directo a Fort Wadsworth. NYRR estima 90 min de viaje total en 2026 y pide llegar 15 min antes del horario asignado. Es la opción más cercana al hotel.",
+      "what": [
+        "Mostrar el dorsal con la asignación de transporte para subir.",
+        "Usar los baños de la zona de carga: en 2025 los micros no tenían.",
+        "Llevar solo la bolsa transparente oficial de la largada, la única permitida en el transporte."
+      ],
+      "tip": "Salir del hotel 30 min antes del horario impreso: 13 min de caminata más los 15 min de anticipación que pide NYRR.",
+      "warnings": [
+        "Hay que usar el modo y el horario asignados: cambiar congestiona y NYRR puede sancionar (Transportation Non-Compliance Policy).",
+        "Para quien espera terminar en 4 h o más NYRR recomienda el ferry, que deja más cerca de la hora de largada."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:New York Public Library May 2011.JPG"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "whitehall-ferry-terminal",
+      "name": "Staten Island Ferry Whitehall Terminal",
+      "category": "transporte",
+      "neighborhood": "Lower Manhattan",
+      "address": "4 South Street, New York, NY 10004",
+      "lat": 40.7009643,
+      "lng": -74.0130554,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=Whitehall+Terminal,+New+York",
+      "hours": "dom 1-nov: salida del ferry de corredores asignada por NYRR (impresa en el dorsal).",
+      "hours_source": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+      "price": "Gratis (ferry hasta St. George y micro oficial hasta Fort Wadsworth).",
+      "duration_min": 90,
+      "booking": {
+        "needed": "sí",
+        "url": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+        "lead": "La elección de transporte cerró el 8 de septiembre de 2026 a las 23:59 ET.",
+        "notes": "NYRR asigna el horario según el ritmo; los detalles finales llegan en octubre."
+      },
+      "transit": {
+        "station": "Whitehall St–South Ferry",
+        "lines": [
+          "R",
+          "W"
+        ],
+        "walk_min": 2,
+        "notes": "South Ferry (1) al lado; Bowling Green (4, 5) a 5 min. Desde el hotel: Grand Central–42 St, línea 4 o 5 hasta Bowling Green, unos 40 min puerta a puerta."
+      },
+      "why": "Terminal del ferry gratuito a St. George, en Staten Island, desde donde micros oficiales llevan a Fort Wadsworth. NYRR recomienda esta opción a quien espera terminar en 4 h o más, porque llega más cerca de su hora de largada. El viaje total estimado es de 90 min.",
+      "what": [
+        "La bahía y la Estatua de la Libertad desde el ferry, con el sol recién salido (amanece a las 06:25).",
+        "Baños en el ferry y en la zona de micros de St. George (guía 2025).",
+        "Tener el dorsal a mano para subir a los micros de corredores en St. George."
+      ],
+      "tip": "Calcular 40 min desde el hotel y llegar 15 min antes del horario asignado. Un domingo temprano el subte pasa más espaciado; si se complica, taxi.",
+      "warnings": [
+        "Revisar cambios de servicio del subte en mta.info la noche anterior.",
+        "Tomar el horario asignado: subir a otro ferry congestiona y puede traer sanción."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:Staten Island Ferry Whitehall Terminal.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "fort-wadsworth-start-village",
+      "name": "Villas de largada en Fort Wadsworth (Staten Island)",
+      "category": "maraton",
+      "neighborhood": "Fort Wadsworth, Staten Island",
+      "address": "Fort Wadsworth, Staten Island, NY 10305 (al pie del Verrazzano-Narrows Bridge)",
+      "lat": 40.6008725,
+      "lng": -74.0576716,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=Fort+Wadsworth,+Staten+Island",
+      "hours": "dom 1-nov: corrales ola 1 08:10–08:45, ola 2 09:05–09:25, ola 3 09:45–10:00, ola 4 10:25–10:40, ola 5 11:00–11:15.",
+      "hours_source": "https://www.nyrr.org/tcsnycmarathon/the-start",
+      "price": "Solo corredores con dorsal; no hay acceso para público.",
+      "duration_min": 120,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.nyrr.org/tcsnycmarathon/the-start",
+        "lead": "",
+        "notes": "Entrada con dorsal visible, revisión de bolsas y detector de metales."
+      },
+      "transit": {
+        "station": "St. George (ferry) + micro oficial",
+        "lines": [],
+        "walk_min": 0,
+        "notes": "Autos particulares: bajada en McClean Ave y Ocean Ave antes de las 07:00, cuando cierra el puente; desde ahí, media milla a pie."
+      },
+      "why": "Tres villas según el color del dorsal (azul, naranja y rosa), con más de 1,600 baños, café Dunkin', té, chocolate, bagels y Gatorade. Cada ola tiene seis corrales (A–F) y cada corral cierra 25 min antes de su largada. En 2026 se cumplen 50 años del recorrido por los cinco distritos.",
+      "what": [
+        "Ir directo a la villa del color del dorsal y ubicar el corral antes de sentarse.",
+        "Dejar la ropa de abrigo en los contenedores de donación (va a All of Us).",
+        "Zen Zone y Sensory Space para esperar tranquilos.",
+        "Estaciones de recarga de agua Culligan para llenar la botella propia."
+      ],
+      "tip": "Llevar algo para sentarse (almohadilla o lona transparente chica, permitidas) y una manta térmica: la espera junto al agua es la parte más fría del día.",
+      "warnings": [
+        "La única bolsa permitida es la transparente oficial de la Expo. No hay guardarropa en la largada ni traslado de bolsas a la llegada.",
+        "Prohibidas (lista 2025): bolsas de residuos opacas usadas como poncho, mochilas, bolsas de dormir y frazadas grandes.",
+        "Solo se permite pasar a una ola o corral más tardío; largar en uno anterior es causal de descalificación."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyrr.org/tcsnycmarathon/the-start",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:Runners waiting at the starting village of the 2017 New York City Marathon.jpg",
+        "File:Verrazano Narrows Bridge from Staten Island to Brooklyn, New York (2896539552).jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "marathon-finish-line",
+      "name": "Llegada del TCS New York City Marathon (West Drive y W 67th St)",
+      "category": "maraton",
+      "neighborhood": "Central Park, Upper West Side",
+      "address": "West Drive a la altura de W 67th St, junto a Tavern on the Green, Central Park, New York, NY 10023",
+      "lat": 40.7721961,
+      "lng": -73.9775964,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=Tavern+on+the+Green,+New+York",
+      "hours": "dom 1-nov: la llegada queda abierta hasta las 22:00 (cierre oficial).",
+      "hours_source": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+      "price": "Incluido en la inscripción. Tribunas para público con entrada (precio 2026 sin publicar al 28-sep).",
+      "duration_min": 30,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "59 St–Columbus Circle",
+        "lines": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "1"
+        ],
+        "walk_min": 10,
+        "notes": "Solo para público. Los corredores salen del parque por W 77th St."
+      },
+      "why": "La meta está sobre West Drive, frente a Tavern on the Green. Pasada la línea hay medalla, poncho para todos y la bolsa de recuperación de HSS con Gatorade, agua Culligan, manzana McIntosh, pretzels, parches TYLENOL y un Maurten Solid. MarathonFoto registra foto y video en la línea.",
+      "what": [
+        "Mirar arriba al cruzar: MarathonFoto saca foto y video.",
+        "Medalla y poncho apenas pasada la meta.",
+        "Carpas médicas en toda la zona de post-llegada."
+      ],
+      "tip": "Después de la meta se camina hacia el norte por dentro del parque hasta W 77th St; en 2025 NYRR calculaba 20–30 min hasta la salida.",
+      "warnings": [
+        "NYRR advierte saturación de la red celular en la zona de llegada: el teléfono puede no servir para coordinar."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [
+        "File:New York Marathon 2010, Finish line, Central Park.JPG",
+        "File:Tavern on the Green cloudy jeh.JPG"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "post-finish-exit-w77",
+      "name": "Salida de corredores (Central Park West y W 77th St) y retiro de bolsas pre-chequeadas",
+      "category": "maraton",
+      "neighborhood": "Upper West Side",
+      "address": "Central Park West y W 77th St, New York, NY 10024; bolsas en Central Park West entre W 73rd y W 75th St",
+      "lat": 40.7792489,
+      "lng": -73.9743038,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=New-York+Historical+Society,+170+Central+Park+West (edificio frente a la salida de W 77th St)",
+      "hours": "dom 1-nov: bolsas pre-chequeadas hasta ~19:00; después pasan al NYRR RUNCENTER para el lun 2-nov.",
+      "hours_source": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+      "price": "Incluido.",
+      "duration_min": 30,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.nyrr.org/tcsnycmarathon/bag-check",
+        "lead": "",
+        "notes": "La pre-entrega de bolsa se eligió hasta el 8-sep; la bolsa se deja el vie 30 o sáb 31-oct de 9:00 a 17:00 en el mismo lugar."
+      },
+      "transit": {
+        "station": "72 St",
+        "lines": [
+          "1",
+          "2",
+          "3"
+        ],
+        "walk_min": 8,
+        "notes": "Desde la salida de W 74th St hasta Broadway y W 72nd St. También 81 St–Museum of Natural History (B, C)."
+      },
+      "why": "En 2026 todos los corredores reciben poncho y salen del parque por W 77th St, con o sin bolsa. Sobre Central Park West se puede dejar la zona exclusiva por W 76th, 75th o 74th St, o seguir al sur hasta Family Reunion. Quien pre-chequeó bolsa la retira en Central Park West entre W 73rd y W 75th St.",
+      "what": [
+        "Fotos y video de MarathonFoto sobre Central Park West.",
+        "Última alfombra de control al salir: avisa en la app que el corredor ya dejó el parque (guía 2025).",
+        "Salidas hacia Columbus Ave por W 76th, 75th y 74th St."
+      ],
+      "tip": "Daniela sale por W 74th St, la más cercana a la estación 72 St (1, 2, 3) de Broadway.",
+      "warnings": [
+        "Una vez fuera de la zona exclusiva no se vuelve a entrar.",
+        "Llevar el dorsal visible, fuera de la bolsa, para que la última alfombra lo registre."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "family-reunion",
+      "name": "Family Reunion (W 69th–71st St, entre Central Park West y Columbus Ave)",
+      "category": "maraton",
+      "neighborhood": "Upper West Side (Lincoln Square)",
+      "address": "W 69th, W 70th y W 71st St entre Central Park West y Columbus Ave, New York, NY 10023",
+      "lat": 40.774413,
+      "lng": -73.977459,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=1+West+69th+Street,+New+York",
+      "hours": "dom 1-nov: 11:00–18:00",
+      "hours_source": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+      "price": "Gratis.",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "72 St",
+        "lines": [
+          "1",
+          "2",
+          "3"
+        ],
+        "walk_min": 6,
+        "notes": "66 St–Lincoln Center (1) a 6 min."
+      },
+      "why": "Zona de encuentro con carteles por inicial del apellido: A–F en W 71st, G–N en W 70th y O–Z en W 69th St. Podeley y Tkach van los dos al cartel O–Z, sobre W 69th St. Para entrar hay revisión de bolsas y control en Columbus Ave.",
+      "what": [
+        "Cartel O–Z sobre W 69th St.",
+        "Llegar 20–30 min después de la llegada estimada del corredor, como aconseja NYRR.",
+        "Revisar la ubicación del corredor en la app NYRR antes de entrar, donde todavía hay señal."
+      ],
+      "tip": "Daniela vuelve con ropa seca y abrigo para Matías: con poncho y el sol que se pone a las 16:53, el frío llega rápido al terminar.",
+      "warnings": [
+        "La zona se congestiona y satura la señal celular: acordar punto y hora antes de la carrera.",
+        "No traer bolsas grandes: todo pasa por control en Columbus Ave.",
+        "Cierra a las 18:00. Si Matías larga en la ola 5 el margen se achica."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "nyrr-runcenter",
+      "name": "NYRR RUNCENTER featuring the New Balance Run Hub",
+      "category": "maraton",
+      "neighborhood": "Midtown West (Columbus Circle)",
+      "address": "320 West 57th Street, New York, NY 10019",
+      "lat": 40.767023,
+      "lng": -73.983828,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=320+West+57th+Street,+New+York",
+      "hours": "lun 2-nov: bolsas no retiradas el domingo, 09:00–20:00 según la página de llegada (10:00–20:00 según la de bag pre-check).",
+      "hours_source": "https://www.nyrr.org/tcsnycmarathon/the-finish",
+      "price": "Retiro de bolsa sin costo. Grabado de medalla 2025: USD 28 (guía del corredor 2025); tarifa 2026 sin publicar.",
+      "duration_min": 45,
+      "booking": {
+        "needed": "no",
+        "url": "https://www.nyrr.org/tcsnycmarathon/bag-check",
+        "lead": "",
+        "notes": ""
+      },
+      "transit": {
+        "station": "57 St–7 Av",
+        "lines": [
+          "N",
+          "Q",
+          "R",
+          "W"
+        ],
+        "walk_min": 8,
+        "notes": "59 St–Columbus Circle (A, B, C, D, 1) a 6 min."
+      },
+      "why": "Sede de NYRR a dos cuadras de Columbus Circle. Recibe las bolsas pre-chequeadas que no se retiraron el domingo. En 2025 grabó medallas el martes y el miércoles posteriores a la carrera, de 8:00 a 17:00.",
+      "what": [
+        "Retiro de la bolsa no reclamada el lunes 2 de noviembre.",
+        "Tienda del New Balance Run Hub.",
+        "Grabado de medalla fuera del lunes (formato 2025)."
+      ],
+      "tip": "Si NYRR repite el formato 2025, el grabado del lunes se hace en el Marathon Pavilion junto a la llegada; el martes volamos a las 15:00, así que el lunes es el único día posible.",
+      "warnings": [
+        "Horarios y precios de grabado 2026 sin publicar al 28 de septiembre."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.nyrr.org/",
+        "menu": "",
+        "reserve": "",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "rosa-mexicano-second-avenue",
+      "name": "Rosa Mexicano (Second Avenue)",
+      "category": "comida",
+      "neighborhood": "Midtown East (Turtle Bay)",
+      "address": "251 East 52nd Street (esq. Second Ave), New York, NY 10022",
+      "lat": 40.7563383,
+      "lng": -73.9678566,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=251+East+52nd+Street,+New+York",
+      "hours": "dom 1-nov: 11:00–22:00",
+      "hours_source": "https://rosamexicano.com/location/second-avenue/",
+      "price": "Guacamole en molcajete USD 19; tacos USD 17–25; enchiladas USD 24–36; medio pollo con mole USD 31.",
+      "duration_min": 90,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://www.opentable.com/r/rosa-mexicano-second-avenue-new-york",
+        "lead": "Reservar apenas definamos la hora: la noche de la maratón Midtown se llena de corredores.",
+        "notes": "Teléfono 212-753-7407."
+      },
+      "transit": {
+        "station": "51 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 5,
+        "notes": "Desde el hotel, 8 min a pie hacia Second Ave."
+      },
+      "why": "Restaurante mexicano que abrió su primer local en este barrio en 1984; el de Second Avenue tiene barra y varios salones. El 1 de noviembre, al mostrar la medalla, invita una Frozen Pomegranate Margarita o un Cucumber Mint Refresco con la compra de un plato principal. Queda a 8 min a pie del hotel.",
+      "what": [
+        "Guacamole preparado en la mesa (USD 19).",
+        "Frozen Pomegranate Margarita de regalo con medalla y plato principal.",
+        "Medio pollo con mole poblano (USD 31) o parrillada para compartir.",
+        "Churros o tres leches de postre."
+      ],
+      "tip": "Ir con las medallas puestas: la promo vale solo el 1 de noviembre y requiere plato principal.",
+      "warnings": [
+        "El domingo cierra a las 22:00: reservar a las 19:30 como tarde."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.4,
+            "scale": 5,
+            "count": 11,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d23681870-Reviews-Rosa_Mexicano-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Elogian el guacamole hecho en la mesa y las margaritas.",
+          "La atención suele recibir buenos comentarios, con alguna queja por demoras.",
+          "Con 11 reseñas en Tripadvisor para este local, el puntaje es orientativo."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://rosamexicano.com/location/second-avenue/",
+        "menu": "https://rosamexicano.com/menus/?menu=second-avenue",
+        "reserve": "https://www.opentable.com/r/rosa-mexicano-second-avenue-new-york",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "the-smith-midtown",
+      "name": "The Smith (Midtown)",
+      "category": "comida",
+      "neighborhood": "Midtown East (Turtle Bay)",
+      "address": "956 Second Avenue (esq. E 51st St), New York, NY 10022",
+      "lat": 40.7552632,
+      "lng": -73.968022,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=956+2nd+Avenue,+New+York",
+      "hours": "dom 1-nov: 09:00–23:00 (menú de cena desde las 17:00)",
+      "hours_source": "https://thesmithrestaurant.com/location/midtown/",
+      "price": "Pastas USD 22–28; hamburguesas USD 26–28; carnes USD 39–55; chicken parm del domingo USD 29.",
+      "duration_min": 90,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://thesmithrestaurant.com/location/midtown/",
+        "lead": "Reserva por OpenTable desde la web. The Infatuation cuenta esperas de una hora o más sin reserva.",
+        "notes": "Teléfono 212.644.2700."
+      },
+      "transit": {
+        "station": "51 St",
+        "lines": [
+          "6"
+        ],
+        "walk_min": 5,
+        "notes": "La web indica 6 y E a 51st Street. Desde el hotel, 7 min a pie."
+      },
+      "why": "Brasserie americana grande y ruidosa, con raw bar, pastas y carnes. Abre hasta las 23:00 y cada día tiene un plato especial: el domingo es chicken parm (USD 29). Sirve para festejar sin formalidad a 7 min del hotel.",
+      "what": [
+        "Ricotta gnocchi con crema de trufa (USD 24).",
+        "Smith Bar Steak con papas (USD 39).",
+        "Ostras del día (USD 4 c/u) o sampler con dos de cada variedad (USD 31).",
+        "Mac + cheese en sartén (USD 21)."
+      ],
+      "tip": "Al reservar, pedir mesa en un rincón: el ruido del salón es la queja más repetida.",
+      "warnings": [
+        "Sin reserva la espera puede pasar una hora."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.2,
+            "scale": 5,
+            "count": 1247,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d2489698-Reviews-The_Smith-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Destacan las hamburguesas, las porciones y la atención.",
+          "La queja más repetida es el ruido del salón.",
+          "Algunos lo encuentran caro para lo que sirve."
+        ],
+        "press": [
+          {
+            "outlet": "The Infatuation",
+            "quote": "This is one of the best options for dinner you'll have at your disposal if you find yourself in this area.",
+            "url": "https://www.theinfatuation.com/new-york/reviews/the-smith-midtown"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://thesmithrestaurant.com/location/midtown/",
+        "menu": "https://thesmithrestaurant.com/location/midtown/",
+        "reserve": "https://thesmithrestaurant.com/location/midtown/",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "pj-clarkes-third-avenue",
+      "name": "P.J. Clarke's (Third Avenue)",
+      "category": "comida",
+      "neighborhood": "Midtown East",
+      "address": "915 Third Avenue (esq. E 55th St), New York, NY 10022",
+      "lat": 40.7589826,
+      "lng": -73.9682301,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=915+3rd+Avenue,+New+York",
+      "hours": "dom 1-nov: 11:30–23:00",
+      "hours_source": "https://pjclarkes.com/location/third-avenue/",
+      "price": "Hamburguesas con papas USD 24–27; steak frites USD 39; fish & chips USD 29; pot pie de pollo USD 27.",
+      "duration_min": 75,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://resy.com/cities/ny/p-j-clarkes-third-avenue",
+        "lead": "Reserva por Resy.",
+        "notes": "Teléfono 212-317-1616."
+      },
+      "transit": {
+        "station": "Lexington Av/53 St",
+        "lines": [
+          "E",
+          "M"
+        ],
+        "walk_min": 5,
+        "notes": "También 51 St (6). Desde el hotel, 10 min a pie."
+      },
+      "why": "Saloon abierto en 1884, uno de los restaurantes en funcionamiento más antiguos de Nueva York. Se lo conoce por la hamburguesa Cadillac (USD 27, con panceta ahumada). Es la opción más informal de las tres y cierra a las 23:00.",
+      "what": [
+        "Hamburguesa The Cadillac (USD 27).",
+        "Trío de mini hamburguesas (USD 25) para probar tres.",
+        "Fish & chips con rebozado de cerveza (USD 29).",
+        "La barra del saloon para un brindis antes de sentarse."
+      ],
+      "tip": "Si llegamos sin energía para una cena larga, es el lugar para una hamburguesa y a dormir temprano.",
+      "warnings": [
+        "Reseñas recientes señalan esperas largas aun con mesas libres y calidad despareja."
+      ],
+      "reviews": {
+        "ratings": [
+          {
+            "source": "Tripadvisor",
+            "rating": 4.2,
+            "scale": 5,
+            "count": 1787,
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d481032-Reviews-P_J_Clarke_s-New_York_City_New_York.html",
+            "checked": "2026-09-28"
+          }
+        ],
+        "consensus": [
+          "Elogian la hamburguesa Cadillac y el ambiente de bar histórico.",
+          "Se repiten quejas por atención irregular y esperas largas.",
+          "Varios opinan que vive de su fama y que los precios son altos."
+        ],
+        "press": []
+      },
+      "links": {
+        "official": "https://pjclarkes.com/location/third-avenue/",
+        "menu": "https://pjclarkes.com/menu/third-avenue/",
+        "reserve": "https://resy.com/cities/ny/p-j-clarkes-third-avenue",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/P._J._Clarke%27s"
+      },
+      "commons_files": [
+        "File:P.J. Clarke's Pub. Est. 1884 (2724407477).jpg",
+        "File:P.J. Clarke's Exterior.jpg"
+      ],
+      "checked": "2026-09-28"
+    },
+    {
+      "id": "elite-healers-sports-massage",
+      "name": "Elite Healers Sports Massage",
+      "category": "maraton",
+      "neighborhood": "Midtown East",
+      "address": "120 East 56th Street, Suite 420, New York, NY 10022",
+      "lat": 40.7604267,
+      "lng": -73.970652,
+      "coords_source": "https://nominatim.openstreetmap.org/search?format=json&limit=3&q=120+East+56th+Street,+New+York",
+      "hours": "dom 1-nov: 09:00–17:00; lun 2-nov: 10:00–20:30",
+      "hours_source": "https://www.elitehealerssportsmassage.com/pages/service-areas/massage-therapy-midtown-east-nyc",
+      "price": "Sesiones desde USD 169.",
+      "duration_min": 60,
+      "booking": {
+        "needed": "recomendado",
+        "url": "https://elitehealerssportsmassage.clinicsense.com/book/",
+        "lead": "Según el sitio suele haber turnos en la misma semana; reservar online.",
+        "notes": ""
+      },
+      "transit": {
+        "station": "Lexington Av/59 St",
+        "lines": [
+          "4",
+          "5",
+          "6",
+          "N",
+          "R",
+          "W"
+        ],
+        "walk_min": 4,
+        "notes": "Desde el hotel, 11 min a pie."
+      },
+      "why": "Consultorio de masaje deportivo a 11 min a pie del hotel que trabaja con corredores de la maratón. Ofrece masaje deportivo y de tejido profundo en sesiones de 60, 90 y 120 min, y estiramientos asistidos de 25 min. El domingo cierra a las 17:00, así que encaja mejor el lunes a la mañana antes del check-out.",
+      "what": [
+        "Masaje deportivo suave de 60 min el lunes 2.",
+        "Estiramiento asistido de 25 min.",
+        "Evaluación del terapeuta antes de empezar cada sesión."
+      ],
+      "tip": "Pedir trabajo suave: al día siguiente de una maratón conviene evitar el tejido profundo.",
+      "warnings": [
+        "El domingo cierra a las 17:00: solo sirve ese día si Daniela termina temprano y le sobra tiempo antes de buscar a Matías."
+      ],
+      "reviews": {
+        "ratings": [],
+        "consensus": [],
+        "press": []
+      },
+      "links": {
+        "official": "https://www.elitehealerssportsmassage.com/",
+        "menu": "",
+        "reserve": "https://elitehealerssportsmassage.clinicsense.com/book/",
+        "tickets": "",
+        "instagram": "",
+        "wikipedia": ""
+      },
+      "commons_files": [],
+      "checked": "2026-09-28"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-11-01",
+      "blocks": [
+        {
+          "time": "04:30",
+          "place": "the-lexington-hotel",
+          "title": "Despertador de Daniela (hora nueva)",
+          "note": "A las 2:00 los relojes volvieron a la 1:00, así que dormimos una hora más. Desayuno liviano comprado el sábado, dorsal en el pecho y ropa descartable encima. Horarios de ejemplo con micro a las 06:00: ajustar al horario impreso en su dorsal.",
+          "from_prev": null,
+          "alternatives": []
+        },
+        {
+          "time": "05:30",
+          "place": "nypl-marathon-buses",
+          "title": "Daniela: micro oficial en la Biblioteca",
+          "note": "NYRR pide llegar 15 min antes de la salida asignada. Hay baños en la zona de carga y no en los micros. Todavía es de noche: amanece a las 06:25.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la 48th al oeste hasta Fifth Ave y al sur hasta la 41st.",
+            "minutes": 13
+          },
+          "alternatives": [
+            {
+              "place": "whitehall-ferry-terminal",
+              "reason": "otra-opción",
+              "note": "Si su asignación es ferry: salir del hotel 55 min antes del horario del dorsal, línea 4 o 5 desde Grand Central hasta Bowling Green."
+            }
+          ]
+        },
+        {
+          "time": "06:30",
+          "place": "the-lexington-hotel",
+          "title": "Despertador de Matías",
+          "note": "Ejemplo con ferry a las 08:15 para la ola 4: salir del hotel a las 07:20. Mismo ritual: desayuno, dorsal, bolsa transparente oficial y abrigo descartable. Seguir a Daniela en la app NYRR desde que larga.",
+          "from_prev": null,
+          "alternatives": []
+        },
+        {
+          "time": "07:30",
+          "place": "fort-wadsworth-start-village",
+          "title": "Daniela llega a la villa de largada",
+          "note": "Control con detector de metales, baño y café. La ola 1 abre corrales a las 08:10 y los cierra a las 08:45. Dejar el abrigo en los contenedores de donación justo antes de entrar al corral.",
+          "from_prev": {
+            "mode": "bus",
+            "detail": "Daniela: micro oficial desde la Biblioteca directo a Fort Wadsworth (NYRR estima 90 min con esperas).",
+            "minutes": 90
+          },
+          "alternatives": []
+        },
+        {
+          "time": "08:00",
+          "place": "whitehall-ferry-terminal",
+          "title": "Matías: ferry de corredores a Staten Island",
+          "note": "Llegar 15 min antes del horario asignado. El ferry cruza a St. George y ahí siguen micros oficiales a Fort Wadsworth; NYRR calcula 90 min en total.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "A pie a Grand Central–42 St (7 min), línea 4 o 5 downtown hasta Bowling Green y 5 min a pie hasta la terminal.",
+            "minutes": 40
+          },
+          "alternatives": [
+            {
+              "place": "nypl-marathon-buses",
+              "reason": "otra-opción",
+              "note": "Si le asignaron micro de la Biblioteca: sale más temprano y espera más en la villa, así que conviene más abrigo y algo para sentarse."
+            }
+          ]
+        },
+        {
+          "time": "09:10",
+          "place": "fort-wadsworth-start-village",
+          "title": "Largada ola 1: Daniela cruza el Verrazzano",
+          "note": "Si le tocó la ola 2, larga a las 09:45 (corral 09:05–09:25). Pasar la línea puede llevar unos minutos según el corral; el tiempo oficial es neto. Hora argentina: 11:10.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Del corral a la línea de largada al pie del puente.",
+            "minutes": 10
+          },
+          "alternatives": []
+        },
+        {
+          "time": "09:45",
+          "place": "fort-wadsworth-start-village",
+          "title": "Matías llega a la villa de largada",
+          "note": "Con ola 4 el corral abre a las 10:25 y cierra a las 10:40. Hay tiempo para baño, café y mirar en la app por dónde va Daniela.",
+          "from_prev": {
+            "mode": "ferry",
+            "detail": "Matías: ferry a St. George y micro oficial a Fort Wadsworth.",
+            "minutes": 90
+          },
+          "alternatives": []
+        },
+        {
+          "time": "10:55",
+          "place": "fort-wadsworth-start-village",
+          "title": "Largada ola 4: Matías",
+          "note": "Con ola 3 larga a las 10:20; con ola 5, a las 11:30 (corral 11:00–11:15). Los relojes del recorrido marcan el tiempo de la ola 1: para el ritmo, usar el reloj propio.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Del corral a la línea de largada.",
+            "minutes": 10
+          },
+          "alternatives": []
+        },
+        {
+          "time": "12:45",
+          "place": "marathon-finish-line",
+          "title": "Llegada estimada de Daniela",
+          "note": "Con ola 1 (09:10) y 3:30–4:00 de carrera, cruza entre 12:40 y 13:25 según cuánto tarde en pasar la largada. Con ola 2 (09:45), entre 13:15 y 14:00. Medalla, poncho y bolsa de recuperación.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Daniela: los 42.195 km por Staten Island, Brooklyn, Queens, el Bronx y Manhattan.",
+            "minutes": 225
+          },
+          "alternatives": []
+        },
+        {
+          "time": "13:15",
+          "place": "post-finish-exit-w77",
+          "title": "Daniela sale del parque por W 77th St",
+          "note": "Seguir por Central Park West y dejar la zona exclusiva por W 74th St. Mandar un mensaje apenas haya señal: adentro de la zona suele no haber.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Caminata por dentro del parque desde la meta hasta la salida de W 77th St.",
+            "minutes": 25
+          },
+          "alternatives": [
+            {
+              "place": "family-reunion",
+              "reason": "cansados",
+              "note": "Si no quiere ir y volver al hotel: esperar a Matías en Family Reunion (abre a las 11:00), bien abrigada; son casi tres horas."
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "place": "the-lexington-hotel",
+          "title": "Daniela: ducha, comida y abrigo para Matías",
+          "note": "Queda cerca de una hora y media en el hotel. Seguir a Matías en la app NYRR: su tiempo estimado de llegada marca cuándo salir. Preparar una bolsa chica con buzo, campera y zapatillas secas para él.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "A pie a 72 St (Broadway), línea 2 o 3 una parada hasta Times Sq–42 St, shuttle S a Grand Central y 5 cuadras por Lexington.",
+            "minutes": 35
+          },
+          "alternatives": [
+            {
+              "place": "elite-healers-sports-massage",
+              "reason": "piernas",
+              "note": "Si Matías largó en la ola 5 y hay margen: masaje suave de 60 min antes de las 17:00, a 11 min del hotel."
+            }
+          ]
+        },
+        {
+          "time": "15:45",
+          "place": "marathon-finish-line",
+          "title": "Llegada estimada de Matías",
+          "note": "Con ola 4 (10:55) y 4:30–5:00 de carrera, cruza entre 15:25 y 16:10. Con ola 3, entre 14:50 y 15:35; con ola 5, entre 16:00 y 16:45. El sol se pone a las 16:53.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Matías: los 42.195 km por los cinco distritos.",
+            "minutes": 285
+          },
+          "alternatives": []
+        },
+        {
+          "time": "16:15",
+          "place": "family-reunion",
+          "title": "Encuentro en el cartel O–Z (W 69th St)",
+          "note": "Plan A: los dos en el cartel O–Z sobre W 69th St. Daniela llega 20–30 min después de la llegada de Matías que marque la app; él sale por W 77th St y baja por Central Park West. Ropa seca para Matías ahí mismo.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "Daniela: el mismo camino al revés (Grand Central, shuttle S, línea 2 o 3 a 72 St). Matías: a pie desde la meta, unos 30 min.",
+            "minutes": 35
+          },
+          "alternatives": [
+            {
+              "place": "the-lexington-hotel",
+              "reason": "otra-opción",
+              "note": "Plan B sin teléfonos: si a las 17:30 no nos encontramos, cada uno vuelve al hotel por su cuenta (Family Reunion cierra a las 18:00)."
+            },
+            {
+              "place": "post-finish-exit-w77",
+              "reason": "otra-opción",
+              "note": "Si Family Reunion está desbordada: esquina de Columbus Ave y W 74th St, frente a la salida de corredores de esa calle."
+            }
+          ]
+        },
+        {
+          "time": "17:15",
+          "place": "the-lexington-hotel",
+          "title": "Vuelta al hotel y ducha de Matías",
+          "note": "Con las piernas duras conviene ir despacio en las escaleras y pasillos de Times Sq. Si pasa un taxi libre por Broadway y el tránsito fluye, es opción.",
+          "from_prev": {
+            "mode": "subte",
+            "detail": "A pie a 72 St (Broadway), línea 2 o 3 a Times Sq–42 St, shuttle S a Grand Central y a pie por Lexington.",
+            "minutes": 40
+          },
+          "alternatives": []
+        },
+        {
+          "time": "19:30",
+          "place": "rosa-mexicano-second-avenue",
+          "title": "Cena de festejo con medalla",
+          "note": "Medallas puestas: margarita de regalo con plato principal, solo el 1 de noviembre. Guacamole en la mesa para empezar. Cierra a las 22:00.",
+          "from_prev": {
+            "mode": "a pie",
+            "detail": "Por la 49th al este hasta Second Ave y tres cuadras al norte.",
+            "minutes": 8
+          },
+          "alternatives": [
+            {
+              "place": "the-smith-midtown",
+              "reason": "otra-opción",
+              "note": "Más grande y abierto hasta las 23:00; el plato del domingo es chicken parm (USD 29)."
+            },
+            {
+              "place": "pj-clarkes-third-avenue",
+              "reason": "cansados",
+              "note": "Hamburguesa Cadillac y a dormir temprano; cierra a las 23:00."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Revisar ya en el dashboard de NYRR qué modo de transporte quedó cargado para cada uno. El horario asignado llega en octubre y viene impreso en el dorsal.",
+        "Cambio de hora: esa madrugada los relojes vuelven de 2:00 a 1:00. Las alarmas del celular suenan en la hora nueva; poner dos alarmas y no usar el reloj de la habitación.",
+        "Para Argentina: ese domingo Nueva York queda 2 h atrás. La ola 1 larga a las 11:10 hora argentina. Amigos y familia siguen por la app New York Road Runners o por ESPN Internacional (10:00–13:30 hora argentina).",
+        "Seguirnos mutuamente en la app NYRR (función Follow) antes del domingo, con nombre o número de dorsal.",
+        "Ropa descartable: buzo, pantalón, guantes y gorro que no nos importe perder; se donan en la villa. Manta térmica y lona transparente chica, permitidas. Bolsas de residuos opacas, prohibidas.",
+        "Si quieren largar juntos, Daniela puede pasar a la ola y corral de Matías (solo se permite ir a uno más tardío), pero cada uno viaja en el transporte y horario que tiene asignado.",
+        "Victory Lap, la fiesta oficial, es en Terminal 5 (610 W 56th St) de 19:00 a 23:00: USD 35 por persona para no socios más cargo, solo mayores de 21. Queda como plan si sobra energía después de cenar."
+      ],
+      "reservations": [
+        {
+          "what": "Cena de festejo para 2 a las 19:30",
+          "place": "rosa-mexicano-second-avenue",
+          "deadline": "2026-10-15",
+          "url": "https://www.opentable.com/r/rosa-mexicano-second-avenue-new-york",
+          "note": "Fecha sugerida: la noche de la maratón los restaurantes de Midtown se llenan de corredores."
+        },
+        {
+          "what": "Masaje suave del lunes a las 10:00 (opcional)",
+          "place": "elite-healers-sports-massage",
+          "deadline": "2026-10-30",
+          "url": "https://elitehealerssportsmassage.clinicsense.com/book/",
+          "note": "Antes del check-out del lunes 2."
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "topic": "Fecha y horarios de largada 2026",
+      "status": "ok",
+      "detail": "NYRR confirma la carrera el domingo 1 de noviembre de 2026. Hay cinco olas: 09:10, 09:45, 10:20, 10:55 y 11:30. Los corrales cierran 25 min antes de cada una (08:45, 09:25, 10:00, 10:40 y 11:15). Hay tres colores de largada (azul, naranja y rosa) y seis corrales por ola. NYRR aclara que los horarios pueden cambiar y todavía no publicó el cronograma de profesionales.",
+      "source": "https://www.nyrr.org/tcsnycmarathon/the-start"
+    },
+    {
+      "topic": "Transporte a la largada: cómo se asigna",
+      "status": "riesgo",
+      "detail": "Desde 2026 cada corredor elige el modo y NYRR asigna el horario según su ritmo. Los modos son ferry desde Whitehall, micro desde la Biblioteca (Fifth Ave y 40th St) y micro desde MetLife, en Nueva Jersey. La elección cerró el 8 de septiembre a las 23:59 ET. Quien no eligió recibe asignación en la Expo, con opciones limitadas y sin cambios. Hay que usar el modo y el horario asignados. NYRR recomienda el ferry a quien espera terminar en 4 h o más: Matías debería ir en ferry. Revisar ya en el dashboard qué quedó cargado para cada uno; los detalles finales llegan en octubre y el horario viene impreso en el dorsal.",
+      "source": "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start"
+    },
+    {
+      "topic": "Fin del horario de verano el día de la carrera",
+      "status": "ok",
+      "detail": "NYC311 confirma que el horario de verano termina el domingo 1 de noviembre de 2026 a las 2:00: los relojes vuelven a la 1:00 y dormimos una hora más. Celulares y relojes GPS sincronizados se ajustan solos y sus alarmas suenan en la hora nueva; un reloj de mesa puede quedar desfasado. Ese día amanece a las 06:25 y el sol se pone a las 16:53. Argentina (UTC−3) pasa a estar 2 h adelante de Nueva York: la ola 1 larga a las 11:10 hora argentina.",
+      "source": "https://portal.311.nyc.gov/article/?kanumber=KA-02673"
+    },
+    {
+      "topic": "Salida con poncho o con bolsa y punto de encuentro",
+      "status": "cambia-plan",
+      "detail": "En 2026 todos los corredores reciben poncho y salen del parque por W 77th St, con o sin bolsa. Después se deja la zona exclusiva por W 76th, 75th o 74th St, o se sigue al sur hasta Family Reunion. La única bolsa posible es la pre-entregada el viernes 30 o el sábado 31 en Central Park West, entre W 73rd y W 75th St. Esa opción se eligió hasta el 8 de septiembre y la bolsa se retira ahí hasta las 19:00. No hay guardarropa en la largada. Para dos corredores, lo más simple es Family Reunion (11:00–18:00): Podeley y Tkach van al cartel O–Z sobre W 69th St. Si Daniela no pre-chequeó bolsa, conviene que vuelva al hotel a ducharse y traiga abrigo para Matías.",
+      "source": "https://www.nyrr.org/tcsnycmarathon/the-finish"
+    },
+    {
+      "topic": "App oficial y seguimiento desde Argentina",
+      "status": "ok",
+      "detail": "La app es New York Road Runners (NYRR App, desarrollada por TCS), gratis en App Store y Google Play. Ofrece seguimiento en vivo, una guía interactiva para espectadores con itinerario, cámaras en la largada, la llegada y puntos del recorrido, y la función Follow. También hay seguimiento web en liveresults.nyrr.org (el enlace de la página todavía apunta a la edición 2025). La guía para espectadores está en nyrr.org/tcsnycmarathon/watch-the-race. En Sudamérica transmite ESPN Internacional de 08:00 a 11:30 ET (10:00–13:30 en Argentina).",
+      "source": "https://www.nyrr.org/tcsnycmarathon/mobile-app"
+    },
+    {
+      "topic": "Clima normal y ropa para la largada",
+      "status": "ok",
+      "detail": "Normales 1991–2020 de Central Park para el 1 de noviembre: máxima 59 °F (15 °C) y mínima 46 °F (8 °C). Entre las 9 y las 14 cabe esperar 8–15 °C, con más frío en la espera junto al agua en Staten Island. NYRR aconseja capas extra que se dejan en contenedores de donación para All of Us. La lista 2025 permite mantas térmicas, frazadas chicas sin enrollar y lonas transparentes chicas, y prohíbe bolsas de residuos opacas, mochilas y bolsas de dormir. El pronóstico real se publica recién en la semana de la carrera.",
+      "source": "https://www.weather.gov/media/okx/Climate/CentralPark/DailyMaxTNormals.pdf"
+    },
+    {
+      "topic": "Grabado de medalla y actividades del lunes",
+      "status": "riesgo",
+      "detail": "NYRR todavía no publicó el Marathon Monday 2026. En 2025 fue el lunes siguiente en el TCS New York City Marathon Pavilion, junto a la llegada. Abrió hasta las 18:00, desde las 07:00 según el comunicado o las 09:00 según la guía del corredor. Hubo grabado de medalla con nombre y tiempo por Fond Memories (USD 28 según la guía 2025) y tienda de finisher de New Balance. También se vendía la sección especial de resultados del New York Times y había una zona de recuperación de HSS con botas Normatec. Martes y miércoles se grababa en el NYRR RUNCENTER. Nosotros dejamos el hotel el lunes 2 y volamos el martes a las 15:00: si NYRR repite el formato, pasar el lunes a la mañana.",
+      "source": "https://webassets.nyrr.org/nyrrwebsiteassets/TCSNYCM25_RunnerGuide_Mobile_M.pdf"
+    },
+    {
+      "topic": "Cambio de recorrido en el Bronx",
+      "status": "ok",
+      "detail": "Es el primer cambio en 15 años: después del Willis Avenue Bridge se dobla por E 135th St y Alexander Ave hasta E 141st St, Third Ave y E 138th St antes del Madison Avenue Bridge. En 2026 se celebran 50 años del recorrido por los cinco distritos. Hay agua y Gatorade en cada milla de la 3 a la 25 salvo la 5, 7 y 9, geles Maurten en las millas 12 y 18 y bananas en la 21.",
+      "source": "https://www.nyrr.org/tcsnycmarathon/the-course"
+    },
+    {
+      "topic": "Señal celular en la llegada",
+      "status": "riesgo",
+      "detail": "NYRR advierte que la saturación puede dejar sin teléfono en la zona de post-llegada y en Family Reunion, y aconseja acordar un punto de encuentro fuera de la zona exclusiva. Plan B sin celulares: cartel O–Z de W 69th St hasta las 17:30; si no hay encuentro, cada uno vuelve al hotel.",
+      "source": "https://www.nyrr.org/tcsnycmarathon/the-finish"
+    },
+    {
+      "topic": "Beneficios y fiesta del domingo",
+      "status": "ok",
+      "detail": "Rosa Mexicano invita una Frozen Pomegranate Margarita o un Cucumber Mint Refresco con la compra de un plato principal al mostrar la medalla, solo el 1 de noviembre, en sus locales de Nueva York; el de Second Avenue queda a 8 min del hotel. Victory Lap, la fiesta oficial, es en Terminal 5 de 19:00 a 23:00: USD 30 para socios y USD 35 para no socios, más cargo, solo mayores de 21. El AMNH da entrada gratis del 1 al 8 de noviembre mostrando la medalla.",
+      "source": "https://www.nyrr.org/tcsnycmarathon/2026-tcs-new-york-city-marathon-beyond-the-finish-line"
+    }
+  ],
+  "practical": [],
+  "marathon": {
+    "waves": [
+      {
+        "wave": "1",
+        "start": "09:10",
+        "corrals_open": "08:10",
+        "corrals_close": "08:45",
+        "note": "Escenario de ejemplo para Daniela (3:30–4:00); la ola la define NYRR por best pace. Antes largan sillas de ruedas y élite (cronograma 2026 sin publicar; en 2025 desde las 08:00)."
+      },
+      {
+        "wave": "2",
+        "start": "09:45",
+        "corrals_open": "09:05",
+        "corrals_close": "09:25",
+        "note": "Si Daniela cae en la ola 2, llega entre 13:15 y 14:00."
+      },
+      {
+        "wave": "3",
+        "start": "10:20",
+        "corrals_open": "09:45",
+        "corrals_close": "10:00",
+        "note": "Si Matías cae en la ola 3, llega entre 14:50 y 15:35."
+      },
+      {
+        "wave": "4",
+        "start": "10:55",
+        "corrals_open": "10:25",
+        "corrals_close": "10:40",
+        "note": "Escenario de ejemplo para Matías (4:30–5:00): llega entre 15:25 y 16:10."
+      },
+      {
+        "wave": "5",
+        "start": "11:30",
+        "corrals_open": "11:00",
+        "corrals_close": "11:15",
+        "note": "Si Matías cae en la ola 5, llega entre 16:00 y 16:45; Family Reunion cierra a las 18:00."
+      }
+    ],
+    "finish_estimates": [
+      {
+        "runner": "Daniela",
+        "target": "3:30–4:00",
+        "wave": "1",
+        "finish": "12:40–13:25",
+        "exit_w77": "13:05–13:55",
+        "note": "Estimación propia: hora de ola más tiempo objetivo más 0–15 min para cruzar la largada. Salida de W 77th St 20–30 min después de la meta (guía 2025)."
+      },
+      {
+        "runner": "Daniela",
+        "target": "3:30–4:00",
+        "wave": "2",
+        "finish": "13:15–14:00",
+        "exit_w77": "13:40–14:30",
+        "note": "Misma estimación con ola 2."
+      },
+      {
+        "runner": "Matías",
+        "target": "4:30–5:00",
+        "wave": "4",
+        "finish": "15:25–16:10",
+        "exit_w77": "15:50–16:40",
+        "note": "Misma estimación con ola 4."
+      },
+      {
+        "runner": "Matías",
+        "target": "4:30–5:00",
+        "wave": "5",
+        "finish": "16:00–16:45",
+        "exit_w77": "16:25–17:15",
+        "note": "Misma estimación con ola 5."
+      }
+    ],
+    "course_notes": [
+      {
+        "km": 0,
+        "name": "Verrazzano-Narrows Bridge",
+        "note": "Largada al pie del puente y 1.6 km de subida, unos 45 m, hasta el punto más alto de la carrera. No hay público y suele soplar viento de la bahía. Marathon Handbook aconseja ir 30–45 s por milla más lento que el ritmo objetivo (unos 20–30 s por km). La bajada a Brooklyn invita a acelerar: conviene contenerse."
+      },
+      {
+        "km": 5,
+        "name": "Fourth Avenue, Bay Ridge",
+        "note": "Primer público grande del día, desde la milla 3. Son unos 8 km casi planos y rectos por Fourth Avenue, con carteles caseros y bandas. El ruido empuja a correr más rápido de lo planeado: fijar el ritmo y correr las tangentes."
+      },
+      {
+        "km": 13,
+        "name": "Atlantic Avenue y Lafayette Avenue",
+        "note": "En la milla 8, a la altura del Barclays Center, se juntan los recorridos de los tres colores. Lafayette Avenue, en Fort Greene y Clinton Hill, sube suave unos 15 m en 800 m. En Clinton Hill hay una zona de aliento de socios de NYRR."
+      },
+      {
+        "km": 17,
+        "name": "Williamsburg, zona jasídica (Bedford Avenue)",
+        "note": "Entre las millas 10 y 11 la comunidad jasídica casi no sale a alentar. Es el tramo más silencioso de Brooklyn: buen momento para revisar sensaciones, tomar agua y comer. El primer puesto de geles Maurten está en la milla 12 (km 19.3)."
+      },
+      {
+        "km": 21.1,
+        "name": "Pulaski Bridge (media maratón)",
+        "note": "Subida corta y empinada, unos 15 m en 400 m, que cruza de Brooklyn a Queens. La alfombra de mitad de carrera está sobre el puente; el público espera del lado de Queens."
+      },
+      {
+        "km": 24.1,
+        "name": "Queensboro Bridge",
+        "note": "Entre las millas 15 y 16 (km 24–25.7) se corre por el tablero inferior: 31 m de subida y ningún espectador. Después de 20 km de Brooklyn ruidoso solo se oyen pasos y respiraciones. Subir por esfuerzo, sin mirar el ritmo."
+      },
+      {
+        "km": 26,
+        "name": "First Avenue",
+        "note": "Al bajar del puente aparece el muro de sonido: público de varias filas en una avenida ancha y levemente en bajada durante unos 5 km hasta el Bronx. Es donde más corredores se pasan de ritmo. Segundo puesto de geles en la milla 18 (km 29)."
+      },
+      {
+        "km": 32.2,
+        "name": "Willis Avenue Bridge, entrada al Bronx",
+        "note": "Milla 20: puente corto, unos 15 m, y la zona donde suele aparecer el muro. En 2026 cambia el recorrido del Bronx por primera vez en 15 años (E 135th St, Alexander Ave, E 141st St, Third Ave y E 138th St). Hay más giros: correr las esquinas por dentro."
+      },
+      {
+        "km": 33.8,
+        "name": "Madison Avenue Bridge",
+        "note": "Milla 21: último puente y vuelta a Manhattan por Harlem, con bananas en el puesto de esta milla. Quedan 8.4 km."
+      },
+      {
+        "km": 37,
+        "name": "Fifth Avenue, la subida",
+        "note": "Desde la calle 110 hacia el sur hasta la 90, entre las millas 23 y 24, hay un ascenso casi continuo de 20–30 m según la fuente, con Central Park a la derecha. A esta altura pesa mucho: acortar el paso y pensar solo en la entrada al parque."
+      },
+      {
+        "km": 38.6,
+        "name": "Entrada a Central Park (E 90th St)",
+        "note": "Milla 24. Se entra por la East Drive, con lomas cortas y el público otra vez en masa. Quedan 3.6 km."
+      },
+      {
+        "km": 41,
+        "name": "Central Park South",
+        "note": "Se sale del parque en la calle 59 y se corre al oeste por Central Park South unos 800 m, plano, con público de varias filas."
+      },
+      {
+        "km": 41.8,
+        "name": "Columbus Circle",
+        "note": "Milla 26: se vuelve a entrar al parque con una subida corta. Quedan unos 400 m."
+      },
+      {
+        "km": 42.195,
+        "name": "Llegada frente a Tavern on the Green",
+        "note": "Meta sobre West Drive a la altura de W 67th St, con tribunas a los costados. Después vienen medalla, poncho y 20–30 min de caminata hasta la salida de W 77th St."
+      }
+    ],
+    "sources": [
+      "https://www.nyrr.org/tcsnycmarathon/the-start",
+      "https://www.nyrr.org/tcsnycmarathon/the-course",
+      "https://cms.prod.nyrr.org/api/document-files/file/TCSNYCM26_Map_Course_090226_RD3.pdf?prefix=documents",
+      "https://www.nyrr.org/tcsnycmarathon/the-finish",
+      "https://cms.prod.nyrr.org/api/document-files/file/TCSNYCM26_Map_Finish_090826_RD19.pdf?prefix=documents",
+      "https://www.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+      "https://webassets.nyrr.org/nyrrwebsiteassets/TCSNYCM25_RunnerGuide_Mobile_M.pdf",
+      "https://en.wikipedia.org/wiki/New_York_City_Marathon",
+      "https://marathonhandbook.com/new-york-city-marathon-course-breakdown/"
+    ]
+  }
+}
